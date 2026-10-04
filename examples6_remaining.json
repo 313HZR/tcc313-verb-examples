@@ -1,0 +1,1994 @@
+{
+ "examples": {
+  "plätschen": {
+   "present": {
+    "1s": {
+     "lb": "Ech plätschen d'Wonn mat engem Wattebausch.",
+     "fr": "Je tamponne la plaie avec un coton.",
+     "de": "Ich betupfe die Wunde mit einem Wattebausch.",
+     "en": "I swab the wound with a cotton ball.",
+     "fa": "من دارو را با پنبه روی زخم می‌مالم."
+    },
+    "2s": {
+     "lb": "Du plätschs d'Wonn mat engem Wattebausch.",
+     "fr": "Tu tamponnes la plaie avec un coton.",
+     "de": "Du betupfst die Wunde mit einem Wattebausch.",
+     "en": "You swab the wound with a cotton ball.",
+     "fa": "تو دارو را با پنبه روی زخم می‌مالی."
+    },
+    "3s": {
+     "lb": "Hie plätscht d'Wonn mat engem Wattebausch.",
+     "fr": "Il tamponne la plaie avec un coton.",
+     "de": "Er betupft die Wunde mit einem Wattebausch.",
+     "en": "He swabs the wound with a cotton ball.",
+     "fa": "او دارو را با پنبه روی زخم می‌مالد."
+    },
+    "1p": {
+     "lb": "Mir plätschen d'Wonn mat engem Wattebausch.",
+     "fr": "Nous tamponnons la plaie avec un coton.",
+     "de": "Wir betupfen die Wunde mit einem Wattebausch.",
+     "en": "We swab the wound with a cotton ball.",
+     "fa": "ما دارو را با پنبه روی زخم می‌مالیم."
+    },
+    "2p": {
+     "lb": "Dir plätscht d'Wonn mat engem Wattebausch.",
+     "fr": "Vous tamponnez la plaie avec un coton.",
+     "de": "Ihr betupft die Wunde mit einem Wattebausch.",
+     "en": "You swab the wound with a cotton ball.",
+     "fa": "شما دارو را با پنبه روی زخم می‌مالید."
+    },
+    "3p": {
+     "lb": "Si plätschen d'Wonn mat engem Wattebausch.",
+     "fr": "Ils tamponnent la plaie avec un coton.",
+     "de": "Sie betupfen die Wunde mit einem Wattebausch.",
+     "en": "They swab the wound with a cotton ball.",
+     "fa": "آنها دارو را با پنبه روی زخم می‌مالند."
+    }
+   },
+   "perfect": {
+    "1s": {
+     "lb": "Ech hunn d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "J'ai tamponné la plaie avec un coton.",
+     "de": "Ich habe die Wunde mit einem Wattebausch betupft.",
+     "en": "I have swabbed the wound with a cotton ball.",
+     "fa": "من دارو را با پنبه روی زخم مالیده‌ام."
+    },
+    "2s": {
+     "lb": "Du hues d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Tu as tamponné la plaie avec un coton.",
+     "de": "Du hast die Wunde mit einem Wattebausch betupft.",
+     "en": "You have swabbed the wound with a cotton ball.",
+     "fa": "تو دارو را با پنبه روی زخم مالیده‌ای."
+    },
+    "3s": {
+     "lb": "Hien huet d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Il a tamponné la plaie avec un coton.",
+     "de": "Er hat die Wunde mit einem Wattebausch betupft.",
+     "en": "He has swabbed the wound with a cotton ball.",
+     "fa": "او دارو را با پنبه روی زخم مالیده است."
+    },
+    "1p": {
+     "lb": "Mir hunn d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Nous avons tamponné la plaie avec un coton.",
+     "de": "Wir haben die Wunde mit einem Wattebausch betupft.",
+     "en": "We have swabbed the wound with a cotton ball.",
+     "fa": "ما دارو را با پنبه روی زخم مالیده‌ایم."
+    },
+    "2p": {
+     "lb": "Dir hutt d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Vous avez tamponné la plaie avec un coton.",
+     "de": "Ihr habt die Wunde mit einem Wattebausch betupft.",
+     "en": "You have swabbed the wound with a cotton ball.",
+     "fa": "شما دارو را با پنبه روی زخم مالیده‌اید."
+    },
+    "3p": {
+     "lb": "Si hunn d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Ils ont tamponné la plaie avec un coton.",
+     "de": "Sie haben die Wunde mit einem Wattebausch betupft.",
+     "en": "They have swabbed the wound with a cotton ball.",
+     "fa": "آنها دارو را با پنبه روی زخم مالیده‌اند."
+    }
+   },
+   "past": {
+    "1s": {
+     "lb": "Ech hunn d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Je tamponnai la plaie avec un coton.",
+     "de": "Ich betupfte die Wunde mit einem Wattebausch.",
+     "en": "I swabbed the wound with a cotton ball.",
+     "fa": "من دارو را با پنبه روی زخم مالیدم."
+    },
+    "2s": {
+     "lb": "Du hues d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Tu tamponnas la plaie avec un coton.",
+     "de": "Du betupftest die Wunde mit einem Wattebausch.",
+     "en": "You swabbed the wound with a cotton ball.",
+     "fa": "تو دارو را با پنبه روی زخم مالیدی."
+    },
+    "3s": {
+     "lb": "Hien huet d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Il tamponna la plaie avec un coton.",
+     "de": "Er betupfte die Wunde mit einem Wattebausch.",
+     "en": "He swabbed the wound with a cotton ball.",
+     "fa": "او دارو را با پنبه روی زخم مالید."
+    },
+    "1p": {
+     "lb": "Mir hunn d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Nous tamponnâmes la plaie avec un coton.",
+     "de": "Wir betupften die Wunde mit einem Wattebausch.",
+     "en": "We swabbed the wound with a cotton ball.",
+     "fa": "ما دارو را با پنبه روی زخم مالیدیم."
+    },
+    "2p": {
+     "lb": "Dir hutt d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Vous tamponnâtes la plaie avec un coton.",
+     "de": "Ihr betupftet die Wunde mit einem Wattebausch.",
+     "en": "You swabbed the wound with a cotton ball.",
+     "fa": "شما دارو را با پنبه روی زخم مالیدید."
+    },
+    "3p": {
+     "lb": "Si hunn d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Ils tamponnèrent la plaie avec un coton.",
+     "de": "Sie betupften die Wunde mit einem Wattebausch.",
+     "en": "They swabbed the wound with a cotton ball.",
+     "fa": "آنها دارو را با پنبه روی زخم مالیدند."
+    }
+   },
+   "imperfect": {
+    "1s": {
+     "lb": "Ech hunn d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Je tamponnais la plaie avec un coton.",
+     "de": "Ich betupfte die Wunde mit einem Wattebausch.",
+     "en": "I was swabbing the wound with a cotton ball.",
+     "fa": "من دارو را با پنبه روی زخم می‌مالیدم."
+    },
+    "2s": {
+     "lb": "Du hues d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Tu tamponnais la plaie avec un coton.",
+     "de": "Du betupftest die Wunde mit einem Wattebausch.",
+     "en": "You were swabbing the wound with a cotton ball.",
+     "fa": "تو دارو را با پنبه روی زخم می‌مالیدی."
+    },
+    "3s": {
+     "lb": "Hien huet d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Il tamponnait la plaie avec un coton.",
+     "de": "Er betupfte die Wunde mit einem Wattebausch.",
+     "en": "He was swabbing the wound with a cotton ball.",
+     "fa": "او دارو را با پنبه روی زخم می‌مالید."
+    },
+    "1p": {
+     "lb": "Mir hunn d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Nous tamponnions la plaie avec un coton.",
+     "de": "Wir betupften die Wunde mit einem Wattebausch.",
+     "en": "We were swabbing the wound with a cotton ball.",
+     "fa": "ما دارو را با پنبه روی زخم می‌مالیدیم."
+    },
+    "2p": {
+     "lb": "Dir hutt d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Vous tamponniez la plaie avec un coton.",
+     "de": "Ihr betupftet die Wunde mit einem Wattebausch.",
+     "en": "You were swabbing the wound with a cotton ball.",
+     "fa": "شما دارو را با پنبه روی زخم می‌مالیدید."
+    },
+    "3p": {
+     "lb": "Si hunn d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Ils tamponnaient la plaie avec un coton.",
+     "de": "Sie betupften die Wunde mit einem Wattebausch.",
+     "en": "They were swabbing the wound with a cotton ball.",
+     "fa": "آنها دارو را با پنبه روی زخم می‌مالیدند."
+    }
+   },
+   "pluperfect": {
+    "1s": {
+     "lb": "Ech hat d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "J'avais tamponné la plaie avec un coton.",
+     "de": "Ich hatte die Wunde mit einem Wattebausch betupft.",
+     "en": "I had swabbed the wound with a cotton ball.",
+     "fa": "من دارو را با پنبه روی زخم مالیده بودم."
+    },
+    "2s": {
+     "lb": "Du has d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Tu avais tamponné la plaie avec un coton.",
+     "de": "Du hattest die Wunde mit einem Wattebausch betupft.",
+     "en": "You had swabbed the wound with a cotton ball.",
+     "fa": "تو دارو را با پنبه روی زخم مالیده بودی."
+    },
+    "3s": {
+     "lb": "Hien hat d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Il avait tamponné la plaie avec un coton.",
+     "de": "Er hatte die Wunde mit einem Wattebausch betupft.",
+     "en": "He had swabbed the wound with a cotton ball.",
+     "fa": "او دارو را با پنبه روی زخم مالیده بود."
+    },
+    "1p": {
+     "lb": "Mir haten d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Nous avions tamponné la plaie avec un coton.",
+     "de": "Wir hatten die Wunde mit einem Wattebausch betupft.",
+     "en": "We had swabbed the wound with a cotton ball.",
+     "fa": "ما دارو را با پنبه روی زخم مالیده بودیم."
+    },
+    "2p": {
+     "lb": "Dir hat d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Vous aviez tamponné la plaie avec un coton.",
+     "de": "Ihr hattet die Wunde mit einem Wattebausch betupft.",
+     "en": "You had swabbed the wound with a cotton ball.",
+     "fa": "شما دارو را با پنبه روی زخم مالیده بودید."
+    },
+    "3p": {
+     "lb": "Si haten d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Ils avaient tamponné la plaie avec un coton.",
+     "de": "Sie hatten die Wunde mit einem Wattebausch betupft.",
+     "en": "They had swabbed the wound with a cotton ball.",
+     "fa": "آنها دارو را با پنبه روی زخم مالیده بودند."
+    }
+   },
+   "future": {
+    "1s": {
+     "lb": "Ech wäert d'Wonn mat engem Wattebausch plätschen.",
+     "fr": "Je tamponnerai la plaie avec un coton.",
+     "de": "Ich werde die Wunde mit einem Wattebausch betupfen.",
+     "en": "I will swab the wound with a cotton ball.",
+     "fa": "من دارو را با پنبه روی زخم خواهم مالید."
+    },
+    "2s": {
+     "lb": "Du wäerts d'Wonn mat engem Wattebausch plätschen.",
+     "fr": "Tu tamponneras la plaie avec un coton.",
+     "de": "Du wirst die Wunde mit einem Wattebausch betupfen.",
+     "en": "You will swab the wound with a cotton ball.",
+     "fa": "تو دارو را با پنبه روی زخم خواهی مالید."
+    },
+    "3s": {
+     "lb": "Hie wäert d'Wonn mat engem Wattebausch plätschen.",
+     "fr": "Il tamponnera la plaie avec un coton.",
+     "de": "Er wird die Wunde mit einem Wattebausch betupfen.",
+     "en": "He will swab the wound with a cotton ball.",
+     "fa": "او دارو را با پنبه روی زخم خواهد مالید."
+    },
+    "1p": {
+     "lb": "Mir wäerten d'Wonn mat engem Wattebausch plätschen.",
+     "fr": "Nous tamponnerons la plaie avec un coton.",
+     "de": "Wir werden die Wunde mit einem Wattebausch betupfen.",
+     "en": "We will swab the wound with a cotton ball.",
+     "fa": "ما دارو را با پنبه روی زخم خواهیم مالید."
+    },
+    "2p": {
+     "lb": "Dir wäert d'Wonn mat engem Wattebausch plätschen.",
+     "fr": "Vous tamponnerez la plaie avec un coton.",
+     "de": "Ihr werdet die Wunde mit einem Wattebausch betupfen.",
+     "en": "You will swab the wound with a cotton ball.",
+     "fa": "شما دارو را با پنبه روی زخم خواهید مالید."
+    },
+    "3p": {
+     "lb": "Si wäerten d'Wonn mat engem Wattebausch plätschen.",
+     "fr": "Ils tamponneront la plaie avec un coton.",
+     "de": "Sie werden die Wunde mit einem Wattebausch betupfen.",
+     "en": "They will swab the wound with a cotton ball.",
+     "fa": "آنها دارو را با پنبه روی زخم خواهند مالید."
+    }
+   },
+   "conditional": {
+    "1s": {
+     "lb": "Ech géif d'Wonn mat engem Wattebausch plätschen.",
+     "fr": "Je tamponnerais la plaie avec un coton.",
+     "de": "Ich würde die Wunde mit einem Wattebausch betupfen.",
+     "en": "I would swab the wound with a cotton ball.",
+     "fa": "من دارو را با پنبه روی زخم می‌مالیدم."
+    },
+    "2s": {
+     "lb": "Du géifs d'Wonn mat engem Wattebausch plätschen.",
+     "fr": "Tu tamponnerais la plaie avec un coton.",
+     "de": "Du würdest die Wunde mit einem Wattebausch betupfen.",
+     "en": "You would swab the wound with a cotton ball.",
+     "fa": "تو دارو را با پنبه روی زخم می‌مالیدی."
+    },
+    "3s": {
+     "lb": "Hie géif d'Wonn mat engem Wattebausch plätschen.",
+     "fr": "Il tamponnerait la plaie avec un coton.",
+     "de": "Er würde die Wunde mit einem Wattebausch betupfen.",
+     "en": "He would swab the wound with a cotton ball.",
+     "fa": "او دارو را با پنبه روی زخم می‌مالید."
+    },
+    "1p": {
+     "lb": "Mir géifen d'Wonn mat engem Wattebausch plätschen.",
+     "fr": "Nous tamponnerions la plaie avec un coton.",
+     "de": "Wir würden die Wunde mit einem Wattebausch betupfen.",
+     "en": "We would swab the wound with a cotton ball.",
+     "fa": "ما دارو را با پنبه روی زخم می‌مالیدیم."
+    },
+    "2p": {
+     "lb": "Dir géift d'Wonn mat engem Wattebausch plätschen.",
+     "fr": "Vous tamponneriez la plaie avec un coton.",
+     "de": "Ihr würdet die Wunde mit einem Wattebausch betupfen.",
+     "en": "You would swab the wound with a cotton ball.",
+     "fa": "شما دارو را با پنبه روی زخم می‌مالیدید."
+    },
+    "3p": {
+     "lb": "Si géifen d'Wonn mat engem Wattebausch plätschen.",
+     "fr": "Ils tamponneraient la plaie avec un coton.",
+     "de": "Sie würden die Wunde mit einem Wattebausch betupfen.",
+     "en": "They would swab the wound with a cotton ball.",
+     "fa": "آنها دارو را با پنبه روی زخم می‌مالیدند."
+    }
+   },
+   "conditional_perfect": {
+    "1s": {
+     "lb": "Ech hätt d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "J'aurais tamponné la plaie avec un coton.",
+     "de": "Ich hätte die Wunde mit einem Wattebausch betupft.",
+     "en": "I would have swabbed the wound with a cotton ball.",
+     "fa": "من دارو را با پنبه روی زخم مالیده بودم."
+    },
+    "2s": {
+     "lb": "Du häss d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Tu aurais tamponné la plaie avec un coton.",
+     "de": "Du hättest die Wunde mit einem Wattebausch betupft.",
+     "en": "You would have swabbed the wound with a cotton ball.",
+     "fa": "تو دارو را با پنبه روی زخم مالیده بودی."
+    },
+    "3s": {
+     "lb": "Hien hätt d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Il aurait tamponné la plaie avec un coton.",
+     "de": "Er hätte die Wunde mit einem Wattebausch betupft.",
+     "en": "He would have swabbed the wound with a cotton ball.",
+     "fa": "او دارو را با پنبه روی زخم مالیده بود."
+    },
+    "1p": {
+     "lb": "Mir hätten d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Nous aurions tamponné la plaie avec un coton.",
+     "de": "Wir hätten die Wunde mit einem Wattebausch betupft.",
+     "en": "We would have swabbed the wound with a cotton ball.",
+     "fa": "ما دارو را با پنبه روی زخم مالیده بودیم."
+    },
+    "2p": {
+     "lb": "Dir hätt d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Vous auriez tamponné la plaie avec un coton.",
+     "de": "Ihr hättet die Wunde mit einem Wattebausch betupft.",
+     "en": "You would have swabbed the wound with a cotton ball.",
+     "fa": "شما دارو را با پنبه روی زخم مالیده بودید."
+    },
+    "3p": {
+     "lb": "Si hätten d'Wonn mat engem Wattebausch geplätscht.",
+     "fr": "Ils auraient tamponné la plaie avec un coton.",
+     "de": "Sie hätten die Wunde mit einem Wattebausch betupft.",
+     "en": "They would have swabbed the wound with a cotton ball.",
+     "fa": "آنها دارو را با پنبه روی زخم مالیده بودند."
+    }
+   },
+   "subjunctive": {
+    "1s": {
+     "lb": "Et ass wichteg, datt ech d'Wonn mat engem Wattebausch plätschen.",
+     "fr": "Il est important que je tamponne la plaie avec un coton.",
+     "de": "Es ist wichtig, dass ich die Wunde mit einem Wattebausch betupfe.",
+     "en": "It is important that I swab the wound with a cotton ball.",
+     "fa": "مهم است که من دارو را با پنبه روی زخم بمالم."
+    },
+    "2s": {
+     "lb": "Et ass wichteg, datt s du d'Wonn mat engem Wattebausch plätschs.",
+     "fr": "Il est important que tu tamponnes la plaie avec un coton.",
+     "de": "Es ist wichtig, dass du die Wunde mit einem Wattebausch betupfst.",
+     "en": "It is important that you swab the wound with a cotton ball.",
+     "fa": "مهم است که تو دارو را با پنبه روی زخم بمالی."
+    },
+    "3s": {
+     "lb": "Et ass wichteg, datt hien d'Wonn mat engem Wattebausch plätscht.",
+     "fr": "Il est important qu'il tamponne la plaie avec un coton.",
+     "de": "Es ist wichtig, dass er die Wunde mit einem Wattebausch betupft.",
+     "en": "It is important that he swab the wound with a cotton ball.",
+     "fa": "مهم است که او دارو را با پنبه روی زخم بمالد."
+    },
+    "1p": {
+     "lb": "Et ass wichteg, datt mir d'Wonn mat engem Wattebausch plätschen.",
+     "fr": "Il est important que nous tamponnions la plaie avec un coton.",
+     "de": "Es ist wichtig, dass wir die Wunde mit einem Wattebausch betupfen.",
+     "en": "It is important that we swab the wound with a cotton ball.",
+     "fa": "مهم است که ما دارو را با پنبه روی زخم بمالیم."
+    },
+    "2p": {
+     "lb": "Et ass wichteg, datt dir d'Wonn mat engem Wattebausch plätscht.",
+     "fr": "Il est important que vous tamponniez la plaie avec un coton.",
+     "de": "Es ist wichtig, dass ihr die Wunde mit einem Wattebausch betupft.",
+     "en": "It is important that you swab the wound with a cotton ball.",
+     "fa": "مهم است که شما دارو را با پنبه روی زخم بمالید."
+    },
+    "3p": {
+     "lb": "Et ass wichteg, datt si d'Wonn mat engem Wattebausch plätschen.",
+     "fr": "Il est important qu'ils tamponnent la plaie avec un coton.",
+     "de": "Es ist wichtig, dass sie die Wunde mit einem Wattebausch betupfen.",
+     "en": "It is important that they swab the wound with a cotton ball.",
+     "fa": "مهم است که آنها دارو را با پنبه روی زخم بمالند."
+    }
+   }
+  },
+  "plattdrécken": {
+   "present": {
+    "1s": {
+     "lb": "Ech drécken de Karton platt.",
+     "fr": "J'écrase le carton.",
+     "de": "Ich drücke den Karton platt.",
+     "en": "I flatten the cardboard box.",
+     "fa": "من جعبهٔ مقوایی را صاف می‌کنم."
+    },
+    "2s": {
+     "lb": "Du drécks de Karton platt.",
+     "fr": "Tu écrases le carton.",
+     "de": "Du drückst den Karton platt.",
+     "en": "You flatten the cardboard box.",
+     "fa": "تو جعبهٔ مقوایی را صاف می‌کنی."
+    },
+    "3s": {
+     "lb": "Hien dréckt de Karton platt.",
+     "fr": "Il écrase le carton.",
+     "de": "Er drückt den Karton platt.",
+     "en": "He flattens the cardboard box.",
+     "fa": "او جعبهٔ مقوایی را صاف می‌کند."
+    },
+    "1p": {
+     "lb": "Mir drécken de Karton platt.",
+     "fr": "Nous écrasons le carton.",
+     "de": "Wir drücken den Karton platt.",
+     "en": "We flatten the cardboard box.",
+     "fa": "ما جعبهٔ مقوایی را صاف می‌کنیم."
+    },
+    "2p": {
+     "lb": "Dir dréckt de Karton platt.",
+     "fr": "Vous écrasez le carton.",
+     "de": "Ihr drückt den Karton platt.",
+     "en": "You flatten the cardboard box.",
+     "fa": "شما جعبهٔ مقوایی را صاف می‌کنید."
+    },
+    "3p": {
+     "lb": "Si drécken de Karton platt.",
+     "fr": "Ils écrasent le carton.",
+     "de": "Sie drücken den Karton platt.",
+     "en": "They flatten the cardboard box.",
+     "fa": "آنها جعبهٔ مقوایی را صاف می‌کنند."
+    }
+   },
+   "perfect": {
+    "1s": {
+     "lb": "Ech hunn de Karton plattgedréckt.",
+     "fr": "J'ai écrasé le carton.",
+     "de": "Ich habe den Karton plattgedrückt.",
+     "en": "I have flattened the cardboard box.",
+     "fa": "من جعبهٔ مقوایی را صاف کرده‌ام."
+    },
+    "2s": {
+     "lb": "Du hues de Karton plattgedréckt.",
+     "fr": "Tu as écrasé le carton.",
+     "de": "Du hast den Karton plattgedrückt.",
+     "en": "You have flattened the cardboard box.",
+     "fa": "تو جعبهٔ مقوایی را صاف کرده‌ای."
+    },
+    "3s": {
+     "lb": "Hien huet de Karton plattgedréckt.",
+     "fr": "Il a écrasé le carton.",
+     "de": "Er hat den Karton plattgedrückt.",
+     "en": "He has flattened the cardboard box.",
+     "fa": "او جعبهٔ مقوایی را صاف کرده است."
+    },
+    "1p": {
+     "lb": "Mir hunn de Karton plattgedréckt.",
+     "fr": "Nous avons écrasé le carton.",
+     "de": "Wir haben den Karton plattgedrückt.",
+     "en": "We have flattened the cardboard box.",
+     "fa": "ما جعبهٔ مقوایی را صاف کرده‌ایم."
+    },
+    "2p": {
+     "lb": "Dir hutt de Karton plattgedréckt.",
+     "fr": "Vous avez écrasé le carton.",
+     "de": "Ihr habt den Karton plattgedrückt.",
+     "en": "You have flattened the cardboard box.",
+     "fa": "شما جعبهٔ مقوایی را صاف کرده‌اید."
+    },
+    "3p": {
+     "lb": "Si hunn de Karton plattgedréckt.",
+     "fr": "Ils ont écrasé le carton.",
+     "de": "Sie haben den Karton plattgedrückt.",
+     "en": "They have flattened the cardboard box.",
+     "fa": "آنها جعبهٔ مقوایی را صاف کرده‌اند."
+    }
+   },
+   "past": {
+    "1s": {
+     "lb": "Ech hunn de Karton plattgedréckt.",
+     "fr": "J'écrasai le carton.",
+     "de": "Ich drückte den Karton platt.",
+     "en": "I flattened the cardboard box.",
+     "fa": "من جعبهٔ مقوایی را صاف کردم."
+    },
+    "2s": {
+     "lb": "Du hues de Karton plattgedréckt.",
+     "fr": "Tu écrasas le carton.",
+     "de": "Du drücktest den Karton platt.",
+     "en": "You flattened the cardboard box.",
+     "fa": "تو جعبهٔ مقوایی را صاف کردی."
+    },
+    "3s": {
+     "lb": "Hien huet de Karton plattgedréckt.",
+     "fr": "Il écrasa le carton.",
+     "de": "Er drückte den Karton platt.",
+     "en": "He flattened the cardboard box.",
+     "fa": "او جعبهٔ مقوایی را صاف کرد."
+    },
+    "1p": {
+     "lb": "Mir hunn de Karton plattgedréckt.",
+     "fr": "Nous écrasâmes le carton.",
+     "de": "Wir drückten den Karton platt.",
+     "en": "We flattened the cardboard box.",
+     "fa": "ما جعبهٔ مقوایی را صاف کردیم."
+    },
+    "2p": {
+     "lb": "Dir hutt de Karton plattgedréckt.",
+     "fr": "Vous écrasâtes le carton.",
+     "de": "Ihr drücktet den Karton platt.",
+     "en": "You flattened the cardboard box.",
+     "fa": "شما جعبهٔ مقوایی را صاف کردید."
+    },
+    "3p": {
+     "lb": "Si hunn de Karton plattgedréckt.",
+     "fr": "Ils écrasèrent le carton.",
+     "de": "Sie drückten den Karton platt.",
+     "en": "They flattened the cardboard box.",
+     "fa": "آنها جعبهٔ مقوایی را صاف کردند."
+    }
+   },
+   "imperfect": {
+    "1s": {
+     "lb": "Ech hunn de Karton plattgedréckt.",
+     "fr": "J'écrasais le carton.",
+     "de": "Ich drückte den Karton platt.",
+     "en": "I was flattening the cardboard box.",
+     "fa": "من جعبهٔ مقوایی را صاف می‌کردم."
+    },
+    "2s": {
+     "lb": "Du hues de Karton plattgedréckt.",
+     "fr": "Tu écrasais le carton.",
+     "de": "Du drücktest den Karton platt.",
+     "en": "You were flattening the cardboard box.",
+     "fa": "تو جعبهٔ مقوایی را صاف می‌کردی."
+    },
+    "3s": {
+     "lb": "Hien huet de Karton plattgedréckt.",
+     "fr": "Il écrasait le carton.",
+     "de": "Er drückte den Karton platt.",
+     "en": "He was flattening the cardboard box.",
+     "fa": "او جعبهٔ مقوایی را صاف می‌کرد."
+    },
+    "1p": {
+     "lb": "Mir hunn de Karton plattgedréckt.",
+     "fr": "Nous écrasions le carton.",
+     "de": "Wir drückten den Karton platt.",
+     "en": "We were flattening the cardboard box.",
+     "fa": "ما جعبهٔ مقوایی را صاف می‌کردیم."
+    },
+    "2p": {
+     "lb": "Dir hutt de Karton plattgedréckt.",
+     "fr": "Vous écrasiez le carton.",
+     "de": "Ihr drücktet den Karton platt.",
+     "en": "You were flattening the cardboard box.",
+     "fa": "شما جعبهٔ مقوایی را صاف می‌کردید."
+    },
+    "3p": {
+     "lb": "Si hunn de Karton plattgedréckt.",
+     "fr": "Ils écrasaient le carton.",
+     "de": "Sie drückten den Karton platt.",
+     "en": "They were flattening the cardboard box.",
+     "fa": "آنها جعبهٔ مقوایی را صاف می‌کردند."
+    }
+   },
+   "pluperfect": {
+    "1s": {
+     "lb": "Ech hat de Karton plattgedréckt.",
+     "fr": "J'avais écrasé le carton.",
+     "de": "Ich hatte den Karton plattgedrückt.",
+     "en": "I had flattened the cardboard box.",
+     "fa": "من جعبهٔ مقوایی را صاف کرده بودم."
+    },
+    "2s": {
+     "lb": "Du has de Karton plattgedréckt.",
+     "fr": "Tu avais écrasé le carton.",
+     "de": "Du hattest den Karton plattgedrückt.",
+     "en": "You had flattened the cardboard box.",
+     "fa": "تو جعبهٔ مقوایی را صاف کرده بودی."
+    },
+    "3s": {
+     "lb": "Hien hat de Karton plattgedréckt.",
+     "fr": "Il avait écrasé le carton.",
+     "de": "Er hatte den Karton plattgedrückt.",
+     "en": "He had flattened the cardboard box.",
+     "fa": "او جعبهٔ مقوایی را صاف کرده بود."
+    },
+    "1p": {
+     "lb": "Mir haten de Karton plattgedréckt.",
+     "fr": "Nous avions écrasé le carton.",
+     "de": "Wir hatten den Karton plattgedrückt.",
+     "en": "We had flattened the cardboard box.",
+     "fa": "ما جعبهٔ مقوایی را صاف کرده بودیم."
+    },
+    "2p": {
+     "lb": "Dir hat de Karton plattgedréckt.",
+     "fr": "Vous aviez écrasé le carton.",
+     "de": "Ihr hattet den Karton plattgedrückt.",
+     "en": "You had flattened the cardboard box.",
+     "fa": "شما جعبهٔ مقوایی را صاف کرده بودید."
+    },
+    "3p": {
+     "lb": "Si haten de Karton plattgedréckt.",
+     "fr": "Ils avaient écrasé le carton.",
+     "de": "Sie hatten den Karton plattgedrückt.",
+     "en": "They had flattened the cardboard box.",
+     "fa": "آنها جعبهٔ مقوایی را صاف کرده بودند."
+    }
+   },
+   "future": {
+    "1s": {
+     "lb": "Ech wäert de Karton plattdrécken.",
+     "fr": "J'écraserai le carton.",
+     "de": "Ich werde den Karton plattdrücken.",
+     "en": "I will flatten the cardboard box.",
+     "fa": "من جعبهٔ مقوایی را صاف خواهم کرد."
+    },
+    "2s": {
+     "lb": "Du wäerts de Karton plattdrécken.",
+     "fr": "Tu écraseras le carton.",
+     "de": "Du wirst den Karton plattdrücken.",
+     "en": "You will flatten the cardboard box.",
+     "fa": "تو جعبهٔ مقوایی را صاف خواهی کرد."
+    },
+    "3s": {
+     "lb": "Hie wäert de Karton plattdrécken.",
+     "fr": "Il écrasera le carton.",
+     "de": "Er wird den Karton plattdrücken.",
+     "en": "He will flatten the cardboard box.",
+     "fa": "او جعبهٔ مقوایی را صاف خواهد کرد."
+    },
+    "1p": {
+     "lb": "Mir wäerten de Karton plattdrécken.",
+     "fr": "Nous écraserons le carton.",
+     "de": "Wir werden den Karton plattdrücken.",
+     "en": "We will flatten the cardboard box.",
+     "fa": "ما جعبهٔ مقوایی را صاف خواهیم کرد."
+    },
+    "2p": {
+     "lb": "Dir wäert de Karton plattdrécken.",
+     "fr": "Vous écraserez le carton.",
+     "de": "Ihr werdet den Karton plattdrücken.",
+     "en": "You will flatten the cardboard box.",
+     "fa": "شما جعبهٔ مقوایی را صاف خواهید کرد."
+    },
+    "3p": {
+     "lb": "Si wäerten de Karton plattdrécken.",
+     "fr": "Ils écraseront le carton.",
+     "de": "Sie werden den Karton plattdrücken.",
+     "en": "They will flatten the cardboard box.",
+     "fa": "آنها جعبهٔ مقوایی را صاف خواهند کرد."
+    }
+   },
+   "conditional": {
+    "1s": {
+     "lb": "Ech géif de Karton plattdrécken.",
+     "fr": "J'écraserais le carton.",
+     "de": "Ich würde den Karton plattdrücken.",
+     "en": "I would flatten the cardboard box.",
+     "fa": "من جعبهٔ مقوایی را صاف می‌کردم."
+    },
+    "2s": {
+     "lb": "Du géifs de Karton plattdrécken.",
+     "fr": "Tu écraserais le carton.",
+     "de": "Du würdest den Karton plattdrücken.",
+     "en": "You would flatten the cardboard box.",
+     "fa": "تو جعبهٔ مقوایی را صاف می‌کردی."
+    },
+    "3s": {
+     "lb": "Hie géif de Karton plattdrécken.",
+     "fr": "Il écraserait le carton.",
+     "de": "Er würde den Karton plattdrücken.",
+     "en": "He would flatten the cardboard box.",
+     "fa": "او جعبهٔ مقوایی را صاف می‌کرد."
+    },
+    "1p": {
+     "lb": "Mir géifen de Karton plattdrécken.",
+     "fr": "Nous écraserions le carton.",
+     "de": "Wir würden den Karton plattdrücken.",
+     "en": "We would flatten the cardboard box.",
+     "fa": "ما جعبهٔ مقوایی را صاف می‌کردیم."
+    },
+    "2p": {
+     "lb": "Dir géift de Karton plattdrécken.",
+     "fr": "Vous écraseriez le carton.",
+     "de": "Ihr würdet den Karton plattdrücken.",
+     "en": "You would flatten the cardboard box.",
+     "fa": "شما جعبهٔ مقوایی را صاف می‌کردید."
+    },
+    "3p": {
+     "lb": "Si géifen de Karton plattdrécken.",
+     "fr": "Ils écraseraient le carton.",
+     "de": "Sie würden den Karton plattdrücken.",
+     "en": "They would flatten the cardboard box.",
+     "fa": "آنها جعبهٔ مقوایی را صاف می‌کردند."
+    }
+   },
+   "conditional_perfect": {
+    "1s": {
+     "lb": "Ech hätt de Karton plattgedréckt.",
+     "fr": "J'aurais écrasé le carton.",
+     "de": "Ich hätte den Karton plattgedrückt.",
+     "en": "I would have flattened the cardboard box.",
+     "fa": "من جعبهٔ مقوایی را صاف کرده بودم."
+    },
+    "2s": {
+     "lb": "Du häss de Karton plattgedréckt.",
+     "fr": "Tu aurais écrasé le carton.",
+     "de": "Du hättest den Karton plattgedrückt.",
+     "en": "You would have flattened the cardboard box.",
+     "fa": "تو جعبهٔ مقوایی را صاف کرده بودی."
+    },
+    "3s": {
+     "lb": "Hien hätt de Karton plattgedréckt.",
+     "fr": "Il aurait écrasé le carton.",
+     "de": "Er hätte den Karton plattgedrückt.",
+     "en": "He would have flattened the cardboard box.",
+     "fa": "او جعبهٔ مقوایی را صاف کرده بود."
+    },
+    "1p": {
+     "lb": "Mir hätten de Karton plattgedréckt.",
+     "fr": "Nous aurions écrasé le carton.",
+     "de": "Wir hätten den Karton plattgedrückt.",
+     "en": "We would have flattened the cardboard box.",
+     "fa": "ما جعبهٔ مقوایی را صاف کرده بودیم."
+    },
+    "2p": {
+     "lb": "Dir hätt de Karton plattgedréckt.",
+     "fr": "Vous auriez écrasé le carton.",
+     "de": "Ihr hättet den Karton plattgedrückt.",
+     "en": "You would have flattened the cardboard box.",
+     "fa": "شما جعبهٔ مقوایی را صاف کرده بودید."
+    },
+    "3p": {
+     "lb": "Si hätten de Karton plattgedréckt.",
+     "fr": "Ils auraient écrasé le carton.",
+     "de": "Sie hätten den Karton plattgedrückt.",
+     "en": "They would have flattened the cardboard box.",
+     "fa": "آنها جعبهٔ مقوایی را صاف کرده بودند."
+    }
+   },
+   "subjunctive": {
+    "1s": {
+     "lb": "Et ass wichteg, datt ech de Karton plattdrécken.",
+     "fr": "Il est important que j'écrase le carton.",
+     "de": "Es ist wichtig, dass ich den Karton plattdrücke.",
+     "en": "It is important that I flatten the cardboard box.",
+     "fa": "مهم است که من جعبهٔ مقوایی را صاف کنم."
+    },
+    "2s": {
+     "lb": "Et ass wichteg, datt s du de Karton plattdrécks.",
+     "fr": "Il est important que tu écrases le carton.",
+     "de": "Es ist wichtig, dass du den Karton plattdrückst.",
+     "en": "It is important that you flatten the cardboard box.",
+     "fa": "مهم است که تو جعبهٔ مقوایی را صاف کنی."
+    },
+    "3s": {
+     "lb": "Et ass wichteg, datt hien de Karton plattdréckt.",
+     "fr": "Il est important qu'il écrase le carton.",
+     "de": "Es ist wichtig, dass er den Karton plattdrückt.",
+     "en": "It is important that he flatten the cardboard box.",
+     "fa": "مهم است که او جعبهٔ مقوایی را صاف کند."
+    },
+    "1p": {
+     "lb": "Et ass wichteg, datt mir de Karton plattdrécken.",
+     "fr": "Il est important que nous écrasions le carton.",
+     "de": "Es ist wichtig, dass wir den Karton plattdrücken.",
+     "en": "It is important that we flatten the cardboard box.",
+     "fa": "مهم است که ما جعبهٔ مقوایی را صاف کنیم."
+    },
+    "2p": {
+     "lb": "Et ass wichteg, datt dir de Karton plattdréckt.",
+     "fr": "Il est important que vous écrasiez le carton.",
+     "de": "Es ist wichtig, dass ihr den Karton plattdrückt.",
+     "en": "It is important that you flatten the cardboard box.",
+     "fa": "مهم است که شما جعبهٔ مقوایی را صاف کنید."
+    },
+    "3p": {
+     "lb": "Et ass wichteg, datt si de Karton plattdrécken.",
+     "fr": "Il est important qu'ils écrasent le carton.",
+     "de": "Es ist wichtig, dass sie den Karton plattdrücken.",
+     "en": "It is important that they flatten the cardboard box.",
+     "fa": "مهم است که آنها جعبهٔ مقوایی را صاف کنند."
+    }
+   }
+  },
+  "platzen": {
+   "present": {
+    "1s": {
+     "lb": "Ech platze viru Laachen iwwer de Witz.",
+     "fr": "J'éclate de rire en entendant la blague.",
+     "de": "Ich platze vor Lachen über den Witz.",
+     "en": "I burst out laughing at the joke.",
+     "fa": "من با شنیدن آن لطیفه از خنده می‌ترکم."
+    },
+    "2s": {
+     "lb": "Du platz viru Laachen iwwer de Witz.",
+     "fr": "Tu éclates de rire en entendant la blague.",
+     "de": "Du platzt vor Lachen über den Witz.",
+     "en": "You burst out laughing at the joke.",
+     "fa": "تو با شنیدن آن لطیفه از خنده می‌ترکی."
+    },
+    "3s": {
+     "lb": "Hie platzt viru Laachen iwwer de Witz.",
+     "fr": "Il éclate de rire en entendant la blague.",
+     "de": "Er platzt vor Lachen über den Witz.",
+     "en": "He bursts out laughing at the joke.",
+     "fa": "او با شنیدن آن لطیفه از خنده می‌ترکد."
+    },
+    "1p": {
+     "lb": "Mir platze viru Laachen iwwer de Witz.",
+     "fr": "Nous éclatons de rire en entendant la blague.",
+     "de": "Wir platzen vor Lachen über den Witz.",
+     "en": "We burst out laughing at the joke.",
+     "fa": "ما با شنیدن آن لطیفه از خنده می‌ترکیم."
+    },
+    "2p": {
+     "lb": "Dir platzt viru Laachen iwwer de Witz.",
+     "fr": "Vous éclatez de rire en entendant la blague.",
+     "de": "Ihr platzt vor Lachen über den Witz.",
+     "en": "You burst out laughing at the joke.",
+     "fa": "شما با شنیدن آن لطیفه از خنده می‌ترکید."
+    },
+    "3p": {
+     "lb": "Si platze viru Laachen iwwer de Witz.",
+     "fr": "Ils éclatent de rire en entendant la blague.",
+     "de": "Sie platzen vor Lachen über den Witz.",
+     "en": "They burst out laughing at the joke.",
+     "fa": "آنها با شنیدن آن لطیفه از خنده می‌ترکند."
+    }
+   },
+   "perfect": {
+    "1s": {
+     "lb": "Ech si viru Laachen iwwer de Witz geplatzt.",
+     "fr": "J'ai éclaté de rire en entendant la blague.",
+     "de": "Ich bin vor Lachen über den Witz geplatzt.",
+     "en": "I have burst out laughing at the joke.",
+     "fa": "من با شنیدن آن لطیفه از خنده ترکیده‌ام."
+    },
+    "2s": {
+     "lb": "Du bass viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Tu as éclaté de rire en entendant la blague.",
+     "de": "Du bist vor Lachen über den Witz geplatzt.",
+     "en": "You have burst out laughing at the joke.",
+     "fa": "تو با شنیدن آن لطیفه از خنده ترکیده‌ای."
+    },
+    "3s": {
+     "lb": "Hien ass viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Il a éclaté de rire en entendant la blague.",
+     "de": "Er ist vor Lachen über den Witz geplatzt.",
+     "en": "He has burst out laughing at the joke.",
+     "fa": "او با شنیدن آن لطیفه از خنده ترکیده است."
+    },
+    "1p": {
+     "lb": "Mir si viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Nous avons éclaté de rire en entendant la blague.",
+     "de": "Wir sind vor Lachen über den Witz geplatzt.",
+     "en": "We have burst out laughing at the joke.",
+     "fa": "ما با شنیدن آن لطیفه از خنده ترکیده‌ایم."
+    },
+    "2p": {
+     "lb": "Dir sidd viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Vous avez éclaté de rire en entendant la blague.",
+     "de": "Ihr seid vor Lachen über den Witz geplatzt.",
+     "en": "You have burst out laughing at the joke.",
+     "fa": "شما با شنیدن آن لطیفه از خنده ترکیده‌اید."
+    },
+    "3p": {
+     "lb": "Si si viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Ils ont éclaté de rire en entendant la blague.",
+     "de": "Sie sind vor Lachen über den Witz geplatzt.",
+     "en": "They have burst out laughing at the joke.",
+     "fa": "آنها با شنیدن آن لطیفه از خنده ترکیده‌اند."
+    }
+   },
+   "past": {
+    "1s": {
+     "lb": "Ech si viru Laachen iwwer de Witz geplatzt.",
+     "fr": "J'éclatai de rire en entendant la blague.",
+     "de": "Ich platzte vor Lachen über den Witz.",
+     "en": "I burst out laughing at the joke.",
+     "fa": "من با شنیدن آن لطیفه از خنده ترکیدم."
+    },
+    "2s": {
+     "lb": "Du bass viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Tu éclatas de rire en entendant la blague.",
+     "de": "Du platztest vor Lachen über den Witz.",
+     "en": "You burst out laughing at the joke.",
+     "fa": "تو با شنیدن آن لطیفه از خنده ترکیدی."
+    },
+    "3s": {
+     "lb": "Hien ass viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Il éclata de rire en entendant la blague.",
+     "de": "Er platzte vor Lachen über den Witz.",
+     "en": "He burst out laughing at the joke.",
+     "fa": "او با شنیدن آن لطیفه از خنده ترکید."
+    },
+    "1p": {
+     "lb": "Mir si viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Nous éclatâmes de rire en entendant la blague.",
+     "de": "Wir platzten vor Lachen über den Witz.",
+     "en": "We burst out laughing at the joke.",
+     "fa": "ما با شنیدن آن لطیفه از خنده ترکیدیم."
+    },
+    "2p": {
+     "lb": "Dir sidd viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Vous éclatâtes de rire en entendant la blague.",
+     "de": "Ihr platztet vor Lachen über den Witz.",
+     "en": "You burst out laughing at the joke.",
+     "fa": "شما با شنیدن آن لطیفه از خنده ترکیدید."
+    },
+    "3p": {
+     "lb": "Si si viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Ils éclatèrent de rire en entendant la blague.",
+     "de": "Sie platzten vor Lachen über den Witz.",
+     "en": "They burst out laughing at the joke.",
+     "fa": "آنها با شنیدن آن لطیفه از خنده ترکیدند."
+    }
+   },
+   "imperfect": {
+    "1s": {
+     "lb": "Ech si viru Laachen iwwer de Witz geplatzt.",
+     "fr": "J'éclatais de rire en entendant la blague.",
+     "de": "Ich platzte vor Lachen über den Witz.",
+     "en": "I was bursting out laughing at the joke.",
+     "fa": "من با شنیدن آن لطیفه از خنده می‌ترکیدم."
+    },
+    "2s": {
+     "lb": "Du bass viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Tu éclatais de rire en entendant la blague.",
+     "de": "Du platztest vor Lachen über den Witz.",
+     "en": "You were bursting out laughing at the joke.",
+     "fa": "تو با شنیدن آن لطیفه از خنده می‌ترکیدی."
+    },
+    "3s": {
+     "lb": "Hien ass viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Il éclatait de rire en entendant la blague.",
+     "de": "Er platzte vor Lachen über den Witz.",
+     "en": "He was bursting out laughing at the joke.",
+     "fa": "او با شنیدن آن لطیفه از خنده می‌ترکید."
+    },
+    "1p": {
+     "lb": "Mir si viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Nous éclations de rire en entendant la blague.",
+     "de": "Wir platzten vor Lachen über den Witz.",
+     "en": "We were bursting out laughing at the joke.",
+     "fa": "ما با شنیدن آن لطیفه از خنده می‌ترکیدیم."
+    },
+    "2p": {
+     "lb": "Dir sidd viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Vous éclatiez de rire en entendant la blague.",
+     "de": "Ihr platztet vor Lachen über den Witz.",
+     "en": "You were bursting out laughing at the joke.",
+     "fa": "شما با شنیدن آن لطیفه از خنده می‌ترکیدید."
+    },
+    "3p": {
+     "lb": "Si si viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Ils éclataient de rire en entendant la blague.",
+     "de": "Sie platzten vor Lachen über den Witz.",
+     "en": "They were bursting out laughing at the joke.",
+     "fa": "آنها با شنیدن آن لطیفه از خنده می‌ترکیدند."
+    }
+   },
+   "pluperfect": {
+    "1s": {
+     "lb": "Ech war viru Laachen iwwer de Witz geplatzt.",
+     "fr": "J'avais éclaté de rire en entendant la blague.",
+     "de": "Ich war vor Lachen über den Witz geplatzt.",
+     "en": "I had burst out laughing at the joke.",
+     "fa": "من با شنیدن آن لطیفه از خنده ترکیده بودم."
+    },
+    "2s": {
+     "lb": "Du waars viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Tu avais éclaté de rire en entendant la blague.",
+     "de": "Du warst vor Lachen über den Witz geplatzt.",
+     "en": "You had burst out laughing at the joke.",
+     "fa": "تو با شنیدن آن لطیفه از خنده ترکیده بودی."
+    },
+    "3s": {
+     "lb": "Hie war viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Il avait éclaté de rire en entendant la blague.",
+     "de": "Er war vor Lachen über den Witz geplatzt.",
+     "en": "He had burst out laughing at the joke.",
+     "fa": "او با شنیدن آن لطیفه از خنده ترکیده بود."
+    },
+    "1p": {
+     "lb": "Mir ware viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Nous avions éclaté de rire en entendant la blague.",
+     "de": "Wir waren vor Lachen über den Witz geplatzt.",
+     "en": "We had burst out laughing at the joke.",
+     "fa": "ما با شنیدن آن لطیفه از خنده ترکیده بودیم."
+    },
+    "2p": {
+     "lb": "Dir waart viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Vous aviez éclaté de rire en entendant la blague.",
+     "de": "Ihr wart vor Lachen über den Witz geplatzt.",
+     "en": "You had burst out laughing at the joke.",
+     "fa": "شما با شنیدن آن لطیفه از خنده ترکیده بودید."
+    },
+    "3p": {
+     "lb": "Si ware viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Ils avaient éclaté de rire en entendant la blague.",
+     "de": "Sie waren vor Lachen über den Witz geplatzt.",
+     "en": "They had burst out laughing at the joke.",
+     "fa": "آنها با شنیدن آن لطیفه از خنده ترکیده بودند."
+    }
+   },
+   "future": {
+    "1s": {
+     "lb": "Ech wäert viru Laachen iwwer de Witz platzen.",
+     "fr": "J'éclaterai de rire en entendant la blague.",
+     "de": "Ich werde vor Lachen über den Witz platzen.",
+     "en": "I will burst out laughing at the joke.",
+     "fa": "من با شنیدن آن لطیفه از خنده خواهم ترکید."
+    },
+    "2s": {
+     "lb": "Du wäerts viru Laachen iwwer de Witz platzen.",
+     "fr": "Tu éclateras de rire en entendant la blague.",
+     "de": "Du wirst vor Lachen über den Witz platzen.",
+     "en": "You will burst out laughing at the joke.",
+     "fa": "تو با شنیدن آن لطیفه از خنده خواهی ترکید."
+    },
+    "3s": {
+     "lb": "Hie wäert viru Laachen iwwer de Witz platzen.",
+     "fr": "Il éclatera de rire en entendant la blague.",
+     "de": "Er wird vor Lachen über den Witz platzen.",
+     "en": "He will burst out laughing at the joke.",
+     "fa": "او با شنیدن آن لطیفه از خنده خواهد ترکید."
+    },
+    "1p": {
+     "lb": "Mir wäerte viru Laachen iwwer de Witz platzen.",
+     "fr": "Nous éclaterons de rire en entendant la blague.",
+     "de": "Wir werden vor Lachen über den Witz platzen.",
+     "en": "We will burst out laughing at the joke.",
+     "fa": "ما با شنیدن آن لطیفه از خنده خواهیم ترکید."
+    },
+    "2p": {
+     "lb": "Dir wäert viru Laachen iwwer de Witz platzen.",
+     "fr": "Vous éclaterez de rire en entendant la blague.",
+     "de": "Ihr werdet vor Lachen über den Witz platzen.",
+     "en": "You will burst out laughing at the joke.",
+     "fa": "شما با شنیدن آن لطیفه از خنده خواهید ترکید."
+    },
+    "3p": {
+     "lb": "Si wäerte viru Laachen iwwer de Witz platzen.",
+     "fr": "Ils éclateront de rire en entendant la blague.",
+     "de": "Sie werden vor Lachen über den Witz platzen.",
+     "en": "They will burst out laughing at the joke.",
+     "fa": "آنها با شنیدن آن لطیفه از خنده خواهند ترکید."
+    }
+   },
+   "conditional": {
+    "1s": {
+     "lb": "Ech géif viru Laachen iwwer de Witz platzen.",
+     "fr": "J'éclaterais de rire en entendant la blague.",
+     "de": "Ich würde vor Lachen über den Witz platzen.",
+     "en": "I would burst out laughing at the joke.",
+     "fa": "من با شنیدن آن لطیفه از خنده می‌ترکیدم."
+    },
+    "2s": {
+     "lb": "Du géifs viru Laachen iwwer de Witz platzen.",
+     "fr": "Tu éclaterais de rire en entendant la blague.",
+     "de": "Du würdest vor Lachen über den Witz platzen.",
+     "en": "You would burst out laughing at the joke.",
+     "fa": "تو با شنیدن آن لطیفه از خنده می‌ترکیدی."
+    },
+    "3s": {
+     "lb": "Hie géif viru Laachen iwwer de Witz platzen.",
+     "fr": "Il éclaterait de rire en entendant la blague.",
+     "de": "Er würde vor Lachen über den Witz platzen.",
+     "en": "He would burst out laughing at the joke.",
+     "fa": "او با شنیدن آن لطیفه از خنده می‌ترکید."
+    },
+    "1p": {
+     "lb": "Mir géife viru Laachen iwwer de Witz platzen.",
+     "fr": "Nous éclaterions de rire en entendant la blague.",
+     "de": "Wir würden vor Lachen über den Witz platzen.",
+     "en": "We would burst out laughing at the joke.",
+     "fa": "ما با شنیدن آن لطیفه از خنده می‌ترکیدیم."
+    },
+    "2p": {
+     "lb": "Dir géift viru Laachen iwwer de Witz platzen.",
+     "fr": "Vous éclateriez de rire en entendant la blague.",
+     "de": "Ihr würdet vor Lachen über den Witz platzen.",
+     "en": "You would burst out laughing at the joke.",
+     "fa": "شما با شنیدن آن لطیفه از خنده می‌ترکیدید."
+    },
+    "3p": {
+     "lb": "Si géife viru Laachen iwwer de Witz platzen.",
+     "fr": "Ils éclateraient de rire en entendant la blague.",
+     "de": "Sie würden vor Lachen über den Witz platzen.",
+     "en": "They would burst out laughing at the joke.",
+     "fa": "آنها با شنیدن آن لطیفه از خنده می‌ترکیدند."
+    }
+   },
+   "conditional_perfect": {
+    "1s": {
+     "lb": "Ech wier viru Laachen iwwer de Witz geplatzt.",
+     "fr": "J'aurais éclaté de rire en entendant la blague.",
+     "de": "Ich wäre vor Lachen über den Witz geplatzt.",
+     "en": "I would have burst out laughing at the joke.",
+     "fa": "من با شنیدن آن لطیفه از خنده ترکیده بودم."
+    },
+    "2s": {
+     "lb": "Du wiers viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Tu aurais éclaté de rire en entendant la blague.",
+     "de": "Du wärst vor Lachen über den Witz geplatzt.",
+     "en": "You would have burst out laughing at the joke.",
+     "fa": "تو با شنیدن آن لطیفه از خنده ترکیده بودی."
+    },
+    "3s": {
+     "lb": "Hie wier viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Il aurait éclaté de rire en entendant la blague.",
+     "de": "Er wäre vor Lachen über den Witz geplatzt.",
+     "en": "He would have burst out laughing at the joke.",
+     "fa": "او با شنیدن آن لطیفه از خنده ترکیده بود."
+    },
+    "1p": {
+     "lb": "Mir wiere viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Nous aurions éclaté de rire en entendant la blague.",
+     "de": "Wir wären vor Lachen über den Witz geplatzt.",
+     "en": "We would have burst out laughing at the joke.",
+     "fa": "ما با شنیدن آن لطیفه از خنده ترکیده بودیم."
+    },
+    "2p": {
+     "lb": "Dir wiert viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Vous auriez éclaté de rire en entendant la blague.",
+     "de": "Ihr wärt vor Lachen über den Witz geplatzt.",
+     "en": "You would have burst out laughing at the joke.",
+     "fa": "شما با شنیدن آن لطیفه از خنده ترکیده بودید."
+    },
+    "3p": {
+     "lb": "Si wiere viru Laachen iwwer de Witz geplatzt.",
+     "fr": "Ils auraient éclaté de rire en entendant la blague.",
+     "de": "Sie wären vor Lachen über den Witz geplatzt.",
+     "en": "They would have burst out laughing at the joke.",
+     "fa": "آنها با شنیدن آن لطیفه از خنده ترکیده بودند."
+    }
+   },
+   "subjunctive": {
+    "1s": {
+     "lb": "Et ass wichteg, datt ech viru Laachen iwwer de Witz platzen.",
+     "fr": "Il est important que j'éclate de rire en entendant la blague.",
+     "de": "Es ist wichtig, dass ich vor Lachen über den Witz platze.",
+     "en": "It is important that I burst out laughing at the joke.",
+     "fa": "مهم است که من با شنیدن آن لطیفه از خنده بترکم."
+    },
+    "2s": {
+     "lb": "Et ass wichteg, datt s du viru Laachen iwwer de Witz platz.",
+     "fr": "Il est important que tu éclates de rire en entendant la blague.",
+     "de": "Es ist wichtig, dass du vor Lachen über den Witz platzt.",
+     "en": "It is important that you burst out laughing at the joke.",
+     "fa": "مهم است که تو با شنیدن آن لطیفه از خنده بترکی."
+    },
+    "3s": {
+     "lb": "Et ass wichteg, datt hie viru Laachen iwwer de Witz platzt.",
+     "fr": "Il est important qu'il éclate de rire en entendant la blague.",
+     "de": "Es ist wichtig, dass er vor Lachen über den Witz platzt.",
+     "en": "It is important that he burst out laughing at the joke.",
+     "fa": "مهم است که او با شنیدن آن لطیفه از خنده بترکد."
+    },
+    "1p": {
+     "lb": "Et ass wichteg, datt mir viru Laachen iwwer de Witz platzen.",
+     "fr": "Il est important que nous éclations de rire en entendant la blague.",
+     "de": "Es ist wichtig, dass wir vor Lachen über den Witz platzen.",
+     "en": "It is important that we burst out laughing at the joke.",
+     "fa": "مهم است که ما با شنیدن آن لطیفه از خنده بترکیم."
+    },
+    "2p": {
+     "lb": "Et ass wichteg, datt dir viru Laachen iwwer de Witz platzt.",
+     "fr": "Il est important que vous éclatiez de rire en entendant la blague.",
+     "de": "Es ist wichtig, dass ihr vor Lachen über den Witz platzt.",
+     "en": "It is important that you burst out laughing at the joke.",
+     "fa": "مهم است که شما با شنیدن آن لطیفه از خنده بترکید."
+    },
+    "3p": {
+     "lb": "Et ass wichteg, datt si viru Laachen iwwer de Witz platzen.",
+     "fr": "Il est important qu'ils éclatent de rire en entendant la blague.",
+     "de": "Es ist wichtig, dass sie vor Lachen über den Witz platzen.",
+     "en": "It is important that they burst out laughing at the joke.",
+     "fa": "مهم است که آنها با شنیدن آن لطیفه از خنده بترکند."
+    }
+   }
+  },
+  "plécken": {
+   "present": {
+    "1s": {
+     "lb": "Ech plécken d'Äppel am Gaart.",
+     "fr": "Je cueille les pommes dans le jardin.",
+     "de": "Ich pflücke die Äpfel im Garten.",
+     "en": "I pick the apples in the garden.",
+     "fa": "من سیب‌ها را در باغ می‌چینم."
+    },
+    "2s": {
+     "lb": "Du plécks d'Äppel am Gaart.",
+     "fr": "Tu cueilles les pommes dans le jardin.",
+     "de": "Du pflückst die Äpfel im Garten.",
+     "en": "You pick the apples in the garden.",
+     "fa": "تو سیب‌ها را در باغ می‌چینی."
+    },
+    "3s": {
+     "lb": "Hie pléckt d'Äppel am Gaart.",
+     "fr": "Il cueille les pommes dans le jardin.",
+     "de": "Er pflückt die Äpfel im Garten.",
+     "en": "He picks the apples in the garden.",
+     "fa": "او سیب‌ها را در باغ می‌چیند."
+    },
+    "1p": {
+     "lb": "Mir plécken d'Äppel am Gaart.",
+     "fr": "Nous cueillons les pommes dans le jardin.",
+     "de": "Wir pflücken die Äpfel im Garten.",
+     "en": "We pick the apples in the garden.",
+     "fa": "ما سیب‌ها را در باغ می‌چینیم."
+    },
+    "2p": {
+     "lb": "Dir pléckt d'Äppel am Gaart.",
+     "fr": "Vous cueillez les pommes dans le jardin.",
+     "de": "Ihr pflückt die Äpfel im Garten.",
+     "en": "You pick the apples in the garden.",
+     "fa": "شما سیب‌ها را در باغ می‌چینید."
+    },
+    "3p": {
+     "lb": "Si plécken d'Äppel am Gaart.",
+     "fr": "Ils cueillent les pommes dans le jardin.",
+     "de": "Sie pflücken die Äpfel im Garten.",
+     "en": "They pick the apples in the garden.",
+     "fa": "آنها سیب‌ها را در باغ می‌چینند."
+    }
+   },
+   "perfect": {
+    "1s": {
+     "lb": "Ech hunn d'Äppel am Gaart gepléckt.",
+     "fr": "J'ai cueilli les pommes dans le jardin.",
+     "de": "Ich habe die Äpfel im Garten gepflückt.",
+     "en": "I have picked the apples in the garden.",
+     "fa": "من سیب‌ها را در باغ چیده‌ام."
+    },
+    "2s": {
+     "lb": "Du hues d'Äppel am Gaart gepléckt.",
+     "fr": "Tu as cueilli les pommes dans le jardin.",
+     "de": "Du hast die Äpfel im Garten gepflückt.",
+     "en": "You have picked the apples in the garden.",
+     "fa": "تو سیب‌ها را در باغ چیده‌ای."
+    },
+    "3s": {
+     "lb": "Hien huet d'Äppel am Gaart gepléckt.",
+     "fr": "Il a cueilli les pommes dans le jardin.",
+     "de": "Er hat die Äpfel im Garten gepflückt.",
+     "en": "He has picked the apples in the garden.",
+     "fa": "او سیب‌ها را در باغ چیده است."
+    },
+    "1p": {
+     "lb": "Mir hunn d'Äppel am Gaart gepléckt.",
+     "fr": "Nous avons cueilli les pommes dans le jardin.",
+     "de": "Wir haben die Äpfel im Garten gepflückt.",
+     "en": "We have picked the apples in the garden.",
+     "fa": "ما سیب‌ها را در باغ چیده‌ایم."
+    },
+    "2p": {
+     "lb": "Dir hutt d'Äppel am Gaart gepléckt.",
+     "fr": "Vous avez cueilli les pommes dans le jardin.",
+     "de": "Ihr habt die Äpfel im Garten gepflückt.",
+     "en": "You have picked the apples in the garden.",
+     "fa": "شما سیب‌ها را در باغ چیده‌اید."
+    },
+    "3p": {
+     "lb": "Si hunn d'Äppel am Gaart gepléckt.",
+     "fr": "Ils ont cueilli les pommes dans le jardin.",
+     "de": "Sie haben die Äpfel im Garten gepflückt.",
+     "en": "They have picked the apples in the garden.",
+     "fa": "آنها سیب‌ها را در باغ چیده‌اند."
+    }
+   },
+   "past": {
+    "1s": {
+     "lb": "Ech hunn d'Äppel am Gaart gepléckt.",
+     "fr": "Je cueillis les pommes dans le jardin.",
+     "de": "Ich pflückte die Äpfel im Garten.",
+     "en": "I picked the apples in the garden.",
+     "fa": "من سیب‌ها را در باغ چیدم."
+    },
+    "2s": {
+     "lb": "Du hues d'Äppel am Gaart gepléckt.",
+     "fr": "Tu cueillis les pommes dans le jardin.",
+     "de": "Du pflücktest die Äpfel im Garten.",
+     "en": "You picked the apples in the garden.",
+     "fa": "تو سیب‌ها را در باغ چیدی."
+    },
+    "3s": {
+     "lb": "Hien huet d'Äppel am Gaart gepléckt.",
+     "fr": "Il cueillit les pommes dans le jardin.",
+     "de": "Er pflückte die Äpfel im Garten.",
+     "en": "He picked the apples in the garden.",
+     "fa": "او سیب‌ها را در باغ چید."
+    },
+    "1p": {
+     "lb": "Mir hunn d'Äppel am Gaart gepléckt.",
+     "fr": "Nous cueillîmes les pommes dans le jardin.",
+     "de": "Wir pflückten die Äpfel im Garten.",
+     "en": "We picked the apples in the garden.",
+     "fa": "ما سیب‌ها را در باغ چیدیم."
+    },
+    "2p": {
+     "lb": "Dir hutt d'Äppel am Gaart gepléckt.",
+     "fr": "Vous cueillîtes les pommes dans le jardin.",
+     "de": "Ihr pflücktet die Äpfel im Garten.",
+     "en": "You picked the apples in the garden.",
+     "fa": "شما سیب‌ها را در باغ چیدید."
+    },
+    "3p": {
+     "lb": "Si hunn d'Äppel am Gaart gepléckt.",
+     "fr": "Ils cueillirent les pommes dans le jardin.",
+     "de": "Sie pflückten die Äpfel im Garten.",
+     "en": "They picked the apples in the garden.",
+     "fa": "آنها سیب‌ها را در باغ چیدند."
+    }
+   },
+   "imperfect": {
+    "1s": {
+     "lb": "Ech hunn d'Äppel am Gaart gepléckt.",
+     "fr": "Je cueillais les pommes dans le jardin.",
+     "de": "Ich pflückte die Äpfel im Garten.",
+     "en": "I was picking the apples in the garden.",
+     "fa": "من سیب‌ها را در باغ می‌چیدم."
+    },
+    "2s": {
+     "lb": "Du hues d'Äppel am Gaart gepléckt.",
+     "fr": "Tu cueillais les pommes dans le jardin.",
+     "de": "Du pflücktest die Äpfel im Garten.",
+     "en": "You were picking the apples in the garden.",
+     "fa": "تو سیب‌ها را در باغ می‌چیدی."
+    },
+    "3s": {
+     "lb": "Hien huet d'Äppel am Gaart gepléckt.",
+     "fr": "Il cueillait les pommes dans le jardin.",
+     "de": "Er pflückte die Äpfel im Garten.",
+     "en": "He was picking the apples in the garden.",
+     "fa": "او سیب‌ها را در باغ می‌چید."
+    },
+    "1p": {
+     "lb": "Mir hunn d'Äppel am Gaart gepléckt.",
+     "fr": "Nous cueillions les pommes dans le jardin.",
+     "de": "Wir pflückten die Äpfel im Garten.",
+     "en": "We were picking the apples in the garden.",
+     "fa": "ما سیب‌ها را در باغ می‌چیدیم."
+    },
+    "2p": {
+     "lb": "Dir hutt d'Äppel am Gaart gepléckt.",
+     "fr": "Vous cueilliez les pommes dans le jardin.",
+     "de": "Ihr pflücktet die Äpfel im Garten.",
+     "en": "You were picking the apples in the garden.",
+     "fa": "شما سیب‌ها را در باغ می‌چیدید."
+    },
+    "3p": {
+     "lb": "Si hunn d'Äppel am Gaart gepléckt.",
+     "fr": "Ils cueillaient les pommes dans le jardin.",
+     "de": "Sie pflückten die Äpfel im Garten.",
+     "en": "They were picking the apples in the garden.",
+     "fa": "آنها سیب‌ها را در باغ می‌چیدند."
+    }
+   },
+   "pluperfect": {
+    "1s": {
+     "lb": "Ech hat d'Äppel am Gaart gepléckt.",
+     "fr": "J'avais cueilli les pommes dans le jardin.",
+     "de": "Ich hatte die Äpfel im Garten gepflückt.",
+     "en": "I had picked the apples in the garden.",
+     "fa": "من سیب‌ها را در باغ چیده بودم."
+    },
+    "2s": {
+     "lb": "Du has d'Äppel am Gaart gepléckt.",
+     "fr": "Tu avais cueilli les pommes dans le jardin.",
+     "de": "Du hattest die Äpfel im Garten gepflückt.",
+     "en": "You had picked the apples in the garden.",
+     "fa": "تو سیب‌ها را در باغ چیده بودی."
+    },
+    "3s": {
+     "lb": "Hien hat d'Äppel am Gaart gepléckt.",
+     "fr": "Il avait cueilli les pommes dans le jardin.",
+     "de": "Er hatte die Äpfel im Garten gepflückt.",
+     "en": "He had picked the apples in the garden.",
+     "fa": "او سیب‌ها را در باغ چیده بود."
+    },
+    "1p": {
+     "lb": "Mir haten d'Äppel am Gaart gepléckt.",
+     "fr": "Nous avions cueilli les pommes dans le jardin.",
+     "de": "Wir hatten die Äpfel im Garten gepflückt.",
+     "en": "We had picked the apples in the garden.",
+     "fa": "ما سیب‌ها را در باغ چیده بودیم."
+    },
+    "2p": {
+     "lb": "Dir hat d'Äppel am Gaart gepléckt.",
+     "fr": "Vous aviez cueilli les pommes dans le jardin.",
+     "de": "Ihr hattet die Äpfel im Garten gepflückt.",
+     "en": "You had picked the apples in the garden.",
+     "fa": "شما سیب‌ها را در باغ چیده بودید."
+    },
+    "3p": {
+     "lb": "Si haten d'Äppel am Gaart gepléckt.",
+     "fr": "Ils avaient cueilli les pommes dans le jardin.",
+     "de": "Sie hatten die Äpfel im Garten gepflückt.",
+     "en": "They had picked the apples in the garden.",
+     "fa": "آنها سیب‌ها را در باغ چیده بودند."
+    }
+   },
+   "future": {
+    "1s": {
+     "lb": "Ech wäert d'Äppel am Gaart plécken.",
+     "fr": "Je cueillerai les pommes dans le jardin.",
+     "de": "Ich werde die Äpfel im Garten pflücken.",
+     "en": "I will pick the apples in the garden.",
+     "fa": "من سیب‌ها را در باغ خواهم چید."
+    },
+    "2s": {
+     "lb": "Du wäerts d'Äppel am Gaart plécken.",
+     "fr": "Tu cueilleras les pommes dans le jardin.",
+     "de": "Du wirst die Äpfel im Garten pflücken.",
+     "en": "You will pick the apples in the garden.",
+     "fa": "تو سیب‌ها را در باغ خواهی چید."
+    },
+    "3s": {
+     "lb": "Hie wäert d'Äppel am Gaart plécken.",
+     "fr": "Il cueillera les pommes dans le jardin.",
+     "de": "Er wird die Äpfel im Garten pflücken.",
+     "en": "He will pick the apples in the garden.",
+     "fa": "او سیب‌ها را در باغ خواهد چید."
+    },
+    "1p": {
+     "lb": "Mir wäerten d'Äppel am Gaart plécken.",
+     "fr": "Nous cueillerons les pommes dans le jardin.",
+     "de": "Wir werden die Äpfel im Garten pflücken.",
+     "en": "We will pick the apples in the garden.",
+     "fa": "ما سیب‌ها را در باغ خواهیم چید."
+    },
+    "2p": {
+     "lb": "Dir wäert d'Äppel am Gaart plécken.",
+     "fr": "Vous cueillerez les pommes dans le jardin.",
+     "de": "Ihr werdet die Äpfel im Garten pflücken.",
+     "en": "You will pick the apples in the garden.",
+     "fa": "شما سیب‌ها را در باغ خواهید چید."
+    },
+    "3p": {
+     "lb": "Si wäerten d'Äppel am Gaart plécken.",
+     "fr": "Ils cueilleront les pommes dans le jardin.",
+     "de": "Sie werden die Äpfel im Garten pflücken.",
+     "en": "They will pick the apples in the garden.",
+     "fa": "آنها سیب‌ها را در باغ خواهند چید."
+    }
+   },
+   "conditional": {
+    "1s": {
+     "lb": "Ech géif d'Äppel am Gaart plécken.",
+     "fr": "Je cueillerais les pommes dans le jardin.",
+     "de": "Ich würde die Äpfel im Garten pflücken.",
+     "en": "I would pick the apples in the garden.",
+     "fa": "من سیب‌ها را در باغ می‌چیدم."
+    },
+    "2s": {
+     "lb": "Du géifs d'Äppel am Gaart plécken.",
+     "fr": "Tu cueillerais les pommes dans le jardin.",
+     "de": "Du würdest die Äpfel im Garten pflücken.",
+     "en": "You would pick the apples in the garden.",
+     "fa": "تو سیب‌ها را در باغ می‌چیدی."
+    },
+    "3s": {
+     "lb": "Hie géif d'Äppel am Gaart plécken.",
+     "fr": "Il cueillerait les pommes dans le jardin.",
+     "de": "Er würde die Äpfel im Garten pflücken.",
+     "en": "He would pick the apples in the garden.",
+     "fa": "او سیب‌ها را در باغ می‌چید."
+    },
+    "1p": {
+     "lb": "Mir géifen d'Äppel am Gaart plécken.",
+     "fr": "Nous cueillerions les pommes dans le jardin.",
+     "de": "Wir würden die Äpfel im Garten pflücken.",
+     "en": "We would pick the apples in the garden.",
+     "fa": "ما سیب‌ها را در باغ می‌چیدیم."
+    },
+    "2p": {
+     "lb": "Dir géift d'Äppel am Gaart plécken.",
+     "fr": "Vous cueilleriez les pommes dans le jardin.",
+     "de": "Ihr würdet die Äpfel im Garten pflücken.",
+     "en": "You would pick the apples in the garden.",
+     "fa": "شما سیب‌ها را در باغ می‌چیدید."
+    },
+    "3p": {
+     "lb": "Si géifen d'Äppel am Gaart plécken.",
+     "fr": "Ils cueilleraient les pommes dans le jardin.",
+     "de": "Sie würden die Äpfel im Garten pflücken.",
+     "en": "They would pick the apples in the garden.",
+     "fa": "آنها سیب‌ها را در باغ می‌چیدند."
+    }
+   },
+   "conditional_perfect": {
+    "1s": {
+     "lb": "Ech hätt d'Äppel am Gaart gepléckt.",
+     "fr": "J'aurais cueilli les pommes dans le jardin.",
+     "de": "Ich hätte die Äpfel im Garten gepflückt.",
+     "en": "I would have picked the apples in the garden.",
+     "fa": "من سیب‌ها را در باغ چیده بودم."
+    },
+    "2s": {
+     "lb": "Du häss d'Äppel am Gaart gepléckt.",
+     "fr": "Tu aurais cueilli les pommes dans le jardin.",
+     "de": "Du hättest die Äpfel im Garten gepflückt.",
+     "en": "You would have picked the apples in the garden.",
+     "fa": "تو سیب‌ها را در باغ چیده بودی."
+    },
+    "3s": {
+     "lb": "Hien hätt d'Äppel am Gaart gepléckt.",
+     "fr": "Il aurait cueilli les pommes dans le jardin.",
+     "de": "Er hätte die Äpfel im Garten gepflückt.",
+     "en": "He would have picked the apples in the garden.",
+     "fa": "او سیب‌ها را در باغ چیده بود."
+    },
+    "1p": {
+     "lb": "Mir hätten d'Äppel am Gaart gepléckt.",
+     "fr": "Nous aurions cueilli les pommes dans le jardin.",
+     "de": "Wir hätten die Äpfel im Garten gepflückt.",
+     "en": "We would have picked the apples in the garden.",
+     "fa": "ما سیب‌ها را در باغ چیده بودیم."
+    },
+    "2p": {
+     "lb": "Dir hätt d'Äppel am Gaart gepléckt.",
+     "fr": "Vous auriez cueilli les pommes dans le jardin.",
+     "de": "Ihr hättet die Äpfel im Garten gepflückt.",
+     "en": "You would have picked the apples in the garden.",
+     "fa": "شما سیب‌ها را در باغ چیده بودید."
+    },
+    "3p": {
+     "lb": "Si hätten d'Äppel am Gaart gepléckt.",
+     "fr": "Ils auraient cueilli les pommes dans le jardin.",
+     "de": "Sie hätten die Äpfel im Garten gepflückt.",
+     "en": "They would have picked the apples in the garden.",
+     "fa": "آنها سیب‌ها را در باغ چیده بودند."
+    }
+   },
+   "subjunctive": {
+    "1s": {
+     "lb": "Et ass wichteg, datt ech d'Äppel am Gaart plécken.",
+     "fr": "Il est important que je cueille les pommes dans le jardin.",
+     "de": "Es ist wichtig, dass ich die Äpfel im Garten pflücke.",
+     "en": "It is important that I pick the apples in the garden.",
+     "fa": "مهم است که من سیب‌ها را در باغ بچینم."
+    },
+    "2s": {
+     "lb": "Et ass wichteg, datt s du d'Äppel am Gaart plécks.",
+     "fr": "Il est important que tu cueilles les pommes dans le jardin.",
+     "de": "Es ist wichtig, dass du die Äpfel im Garten pflückst.",
+     "en": "It is important that you pick the apples in the garden.",
+     "fa": "مهم است که تو سیب‌ها را در باغ بچینی."
+    },
+    "3s": {
+     "lb": "Et ass wichteg, datt hien d'Äppel am Gaart pléckt.",
+     "fr": "Il est important qu'il cueille les pommes dans le jardin.",
+     "de": "Es ist wichtig, dass er die Äpfel im Garten pflückt.",
+     "en": "It is important that he pick the apples in the garden.",
+     "fa": "مهم است که او سیب‌ها را در باغ بچیند."
+    },
+    "1p": {
+     "lb": "Et ass wichteg, datt mir d'Äppel am Gaart plécken.",
+     "fr": "Il est important que nous cueillions les pommes dans le jardin.",
+     "de": "Es ist wichtig, dass wir die Äpfel im Garten pflücken.",
+     "en": "It is important that we pick the apples in the garden.",
+     "fa": "مهم است که ما سیب‌ها را در باغ بچینیم."
+    },
+    "2p": {
+     "lb": "Et ass wichteg, datt dir d'Äppel am Gaart pléckt.",
+     "fr": "Il est important que vous cueilliez les pommes dans le jardin.",
+     "de": "Es ist wichtig, dass ihr die Äpfel im Garten pflückt.",
+     "en": "It is important that you pick the apples in the garden.",
+     "fa": "مهم است که شما سیب‌ها را در باغ بچینید."
+    },
+    "3p": {
+     "lb": "Et ass wichteg, datt si d'Äppel am Gaart plécken.",
+     "fr": "Il est important qu'ils cueillent les pommes dans le jardin.",
+     "de": "Es ist wichtig, dass sie die Äpfel im Garten pflücken.",
+     "en": "It is important that they pick the apples in the garden.",
+     "fa": "مهم است که آنها سیب‌ها را در باغ بچینند."
+    }
+   }
+  },
+  "pléischteren": {
+   "present": {
+    "1s": {
+     "lb": "Ech pléischteren de blesséierte Vull.",
+     "fr": "Je soigne l'oiseau blessé.",
+     "de": "Ich behandle den verletzten Vogel.",
+     "en": "I look after the injured bird.",
+     "fa": "من پرندهٔ زخمی را مداوا می‌کنم."
+    },
+    "2s": {
+     "lb": "Du pléischters de blesséierte Vull.",
+     "fr": "Tu soignes l'oiseau blessé.",
+     "de": "Du behandelst den verletzten Vogel.",
+     "en": "You look after the injured bird.",
+     "fa": "تو پرندهٔ زخمی را مداوا می‌کنی."
+    },
+    "3s": {
+     "lb": "Hie pléischtert de blesséierte Vull.",
+     "fr": "Il soigne l'oiseau blessé.",
+     "de": "Er behandelt den verletzten Vogel.",
+     "en": "He looks after the injured bird.",
+     "fa": "او پرندهٔ زخمی را مداوا می‌کند."
+    },
+    "1p": {
+     "lb": "Mir pléischteren de blesséierte Vull.",
+     "fr": "Nous soignons l'oiseau blessé.",
+     "de": "Wir behandeln den verletzten Vogel.",
+     "en": "We look after the injured bird.",
+     "fa": "ما پرندهٔ زخمی را مداوا می‌کنیم."
+    },
+    "2p": {
+     "lb": "Dir pléischtert de blesséierte Vull.",
+     "fr": "Vous soignez l'oiseau blessé.",
+     "de": "Ihr behandelt den verletzten Vogel.",
+     "en": "You look after the injured bird.",
+     "fa": "شما پرندهٔ زخمی را مداوا می‌کنید."
+    },
+    "3p": {
+     "lb": "Si pléischteren de blesséierte Vull.",
+     "fr": "Ils soignent l'oiseau blessé.",
+     "de": "Sie behandeln den verletzten Vogel.",
+     "en": "They look after the injured bird.",
+     "fa": "آنها پرندهٔ زخمی را مداوا می‌کنند."
+    }
+   },
+   "perfect": {
+    "1s": {
+     "lb": "Ech hunn de blesséierte Vull gepléischtert.",
+     "fr": "J'ai soigné l'oiseau blessé.",
+     "de": "Ich habe den verletzten Vogel behandelt.",
+     "en": "I have looked after the injured bird.",
+     "fa": "من پرندهٔ زخمی را مداوا کرده‌ام."
+    },
+    "2s": {
+     "lb": "Du hues de blesséierte Vull gepléischtert.",
+     "fr": "Tu as soigné l'oiseau blessé.",
+     "de": "Du hast den verletzten Vogel behandelt.",
+     "en": "You have looked after the injured bird.",
+     "fa": "تو پرندهٔ زخمی را مداوا کرده‌ای."
+    },
+    "3s": {
+     "lb": "Hien huet de blesséierte Vull gepléischtert.",
+     "fr": "Il a soigné l'oiseau blessé.",
+     "de": "Er hat den verletzten Vogel behandelt.",
+     "en": "He has looked after the injured bird.",
+     "fa": "او پرندهٔ زخمی را مداوا کرده است."
+    },
+    "1p": {
+     "lb": "Mir hunn de blesséierte Vull gepléischtert.",
+     "fr": "Nous avons soigné l'oiseau blessé.",
+     "de": "Wir haben den verletzten Vogel behandelt.",
+     "en": "We have looked after the injured bird.",
+     "fa": "ما پرندهٔ زخمی را مداوا کرده‌ایم."
+    },
+    "2p": {
+     "lb": "Dir hutt de blesséierte Vull gepléischtert.",
+     "fr": "Vous avez soigné l'oiseau blessé.",
+     "de": "Ihr habt den verletzten Vogel behandelt.",
+     "en": "You have looked after the injured bird.",
+     "fa": "شما پرندهٔ زخمی را مداوا کرده‌اید."
+    },
+    "3p": {
+     "lb": "Si hunn de blesséierte Vull gepléischtert.",
+     "fr": "Ils ont soigné l'oiseau blessé.",
+     "de": "Sie haben den verletzten Vogel behandelt.",
+     "en": "They have looked after the injured bird.",
+     "fa": "آنها پرندهٔ زخمی را مداوا کرده‌اند."
+    }
+   },
+   "past": {
+    "1s": {
+     "lb": "Ech hunn de blesséierte Vull gepléischtert.",
+     "fr": "Je soignai l'oiseau blessé.",
+     "de": "Ich behandelte den verletzten Vogel.",
+     "en": "I looked after the injured bird.",
+     "fa": "من پرندهٔ زخمی را مداوا کردم."
+    },
+    "2s": {
+     "lb": "Du hues de blesséierte Vull gepléischtert.",
+     "fr": "Tu soignas l'oiseau blessé.",
+     "de": "Du behandeltest den verletzten Vogel.",
+     "en": "You looked after the injured bird.",
+     "fa": "تو پرندهٔ زخمی را مداوا کردی."
+    },
+    "3s": {
+     "lb": "Hien huet de blesséierte Vull gepléischtert.",
+     "fr": "Il soigna l'oiseau blessé.",
+     "de": "Er behandelte den verletzten Vogel.",
+     "en": "He looked after the injured bird.",
+     "fa": "او پرندهٔ زخمی را مداوا کرد."
+    },
+    "1p": {
+     "lb": "Mir hunn de blesséierte Vull gepléischtert.",
+     "fr": "Nous soignâmes l'oiseau blessé.",
+     "de": "Wir behandelten den verletzten Vogel.",
+     "en": "We looked after the injured bird.",
+     "fa": "ما پرندهٔ زخمی را مداوا کردیم."
+    },
+    "2p": {
+     "lb": "Dir hutt de blesséierte Vull gepléischtert.",
+     "fr": "Vous soignâtes l'oiseau blessé.",
+     "de": "Ihr behandeltet den verletzten Vogel.",
+     "en": "You looked after the injured bird.",
+     "fa": "شما پرندهٔ زخمی را مداوا کردید."
+    },
+    "3p": {
+     "lb": "Si hunn de blesséierte Vull gepléischtert.",
+     "fr": "Ils soignèrent l'oiseau blessé.",
+     "de": "Sie behandelten den verletzten Vogel.",
+     "en": "They looked after the injured bird.",
+     "fa": "آنها پرندهٔ زخمی را مداوا کردند."
+    }
+   },
+   "imperfect": {
+    "1s": {
+     "lb": "Ech hunn de blesséierte Vull gepléischtert.",
+     "fr": "Je soignais l'oiseau blessé.",
+     "de": "Ich behandelte den verletzten Vogel.",
+     "en": "I was looking after the injured bird.",
+     "fa": "من پرندهٔ زخمی را مداوا می‌کردم."
+    },
+    "2s": {
+     "lb": "Du hues de blesséierte Vull gepléischtert.",
+     "fr": "Tu soignais l'oiseau blessé.",
+     "de": "Du behandeltest den verletzten Vogel.",
+     "en": "You were looking after the injured bird.",
+     "fa": "تو پرندهٔ زخمی را مداوا می‌کردی."
+    },
+    "3s": {
+     "lb": "Hien huet de blesséierte Vull gepléischtert.",
+     "fr": "Il soignait l'oiseau blessé.",
+     "de": "Er behandelte den verletzten Vogel.",
+     "en": "He was looking after the injured bird.",
+     "fa": "او پرندهٔ زخمی را مداوا می‌کرد."
+    },
+    "1p": {
+     "lb": "Mir hunn de blesséierte Vull gepléischtert.",
+     "fr": "Nous soignions l'oiseau blessé.",
+     "de": "Wir behandelten den verletzten Vogel.",
+     "en": "We were looking after the injured bird.",
+     "fa": "ما پرندهٔ زخمی را مداوا می‌کردیم."
+    },
+    "2p": {
+     "lb": "Dir hutt de blesséierte Vull gepléischtert.",
+     "fr": "Vous soigniez l'oiseau blessé.",
+     "de": "Ihr behandeltet den verletzten Vogel.",
+     "en": "You were looking after the injured bird.",
+     "fa": "شما پرندهٔ زخمی را مداوا می‌کردید."
+    },
+    "3p": {
+     "lb": "Si hunn de blesséierte Vull gepléischtert.",
+     "fr": "Ils soignaient l'oiseau blessé.",
+     "de": "Sie behandelten den verletzten Vogel.",
+     "en": "They were looking after the injured bird.",
+     "fa": "آنها پرندهٔ زخمی را مداوا می‌کردند."
+    }
+   },
+   "pluperfect": {
+    "1s": {
+     "lb": "Ech hat de blesséierte Vull gepléischtert.",
+     "fr": "J'avais soigné l'oiseau blessé.",
+     "de": "Ich hatte den verletzten Vogel behandelt.",
+     "en": "I had looked after the injured bird.",
+     "fa": "من پرندهٔ زخمی را مداوا کرده بودم."
+    },
+    "2s": {
+     "lb": "Du has de blesséierte Vull gepléischtert.",
+     "fr": "Tu avais soigné l'oiseau blessé.",
+     "de": "Du hattest den verletzten Vogel behandelt.",
+     "en": "You had looked after the injured bird.",
+     "fa": "تو پرندهٔ زخمی را مداوا کرده بودی."
+    },
+    "3s": {
+     "lb": "Hien hat de blesséierte Vull gepléischtert.",
+     "fr": "Il avait soigné l'oiseau blessé.",
+     "de": "Er hatte den verletzten Vogel behandelt.",
+     "en": "He had looked after the injured bird.",
+     "fa": "او پرندهٔ زخمی را مداوا کرده بود."
+    },
+    "1p": {
+     "lb": "Mir haten de blesséierte Vull gepléischtert.",
+     "fr": "Nous avions soigné l'oiseau blessé.",
+     "de": "Wir hatten den verletzten Vogel behandelt.",
+     "en": "We had looked after the injured bird.",
+     "fa": "ما پرندهٔ زخمی را مداوا کرده بودیم."
+    },
+    "2p": {
+     "lb": "Dir hat de blesséierte Vull gepléischtert.",
+     "fr": "Vous aviez soigné l'oiseau blessé.",
+     "de": "Ihr hattet den verletzten Vogel behandelt.",
+     "en": "You had looked after the injured bird.",
+     "fa": "شما پرندهٔ زخمی را مداوا کرده بودید."
+    },
+    "3p": {
+     "lb": "Si haten de blesséierte Vull gepléischtert.",
+     "fr": "Ils avaient soigné l'oiseau blessé.",
+     "de": "Sie hatten den verletzten Vogel behandelt.",
+     "en": "They had looked after the injured bird.",
+     "fa": "آنها پرندهٔ زخمی را مداوا کرده بودند."
+    }
+   },
+   "future": {
+    "1s": {
+     "lb": "Ech wäert de blesséierte Vull pléischteren.",
+     "fr": "Je soignerai l'oiseau blessé.",
+     "de": "Ich werde den verletzten Vogel behandeln.",
+     "en": "I will look after the injured bird.",
+     "fa": "من پرندهٔ زخمی را مداوا خواهم کرد."
+    },
+    "2s": {
+     "lb": "Du wäerts de blesséierte Vull pléischteren.",
+     "fr": "Tu soigneras l'oiseau blessé.",
+     "de": "Du wirst den verletzten Vogel behandeln.",
+     "en": "You will look after the injured bird.",
+     "fa": "تو پرندهٔ زخمی را مداوا خواهی کرد."
+    },
+    "3s": {
+     "lb": "Hie wäert de blesséierte Vull pléischteren.",
+     "fr": "Il soignera l'oiseau blessé.",
+     "de": "Er wird den verletzten Vogel behandeln.",
+     "en": "He will look after the injured bird.",
+     "fa": "او پرندهٔ زخمی را مداوا خواهد کرد."
+    },
+    "1p": {
+     "lb": "Mir wäerten de blesséierte Vull pléischteren.",
+     "fr": "Nous soignerons l'oiseau blessé.",
+     "de": "Wir werden den verletzten Vogel behandeln.",
+     "en": "We will look after the injured bird.",
+     "fa": "ما پرندهٔ زخمی را مداوا خواهیم کرد."
+    },
+    "2p": {
+     "lb": "Dir wäert de blesséierte Vull pléischteren.",
+     "fr": "Vous soignerez l'oiseau blessé.",
+     "de": "Ihr werdet den verletzten Vogel behandeln.",
+     "en": "You will look after the injured bird.",
+     "fa": "شما پرندهٔ زخمی را مداوا خواهید کرد."
+    },
+    "3p": {
+     "lb": "Si wäerten de blesséierte Vull pléischteren.",
+     "fr": "Ils soigneront l'oiseau blessé.",
+     "de": "Sie werden den verletzten Vogel behandeln.",
+     "en": "They will look after the injured bird.",
+     "fa": "آنها پرندهٔ زخمی را مداوا خواهند کرد."
+    }
+   },
+   "conditional": {
+    "1s": {
+     "lb": "Ech géif de blesséierte Vull pléischteren.",
+     "fr": "Je soignerais l'oiseau blessé.",
+     "de": "Ich würde den verletzten Vogel behandeln.",
+     "en": "I would look after the injured bird.",
+     "fa": "من پرندهٔ زخمی را مداوا می‌کردم."
+    },
+    "2s": {
+     "lb": "Du géifs de blesséierte Vull pléischteren.",
+     "fr": "Tu soignerais l'oiseau blessé.",
+     "de": "Du würdest den verletzten Vogel behandeln.",
+     "en": "You would look after the injured bird.",
+     "fa": "تو پرندهٔ زخمی را مداوا می‌کردی."
+    },
+    "3s": {
+     "lb": "Hie géif de blesséierte Vull pléischteren.",
+     "fr": "Il soignerait l'oiseau blessé.",
+     "de": "Er würde den verletzten Vogel behandeln.",
+     "en": "He would look after the injured bird.",
+     "fa": "او پرندهٔ زخمی را مداوا می‌کرد."
+    },
+    "1p": {
+     "lb": "Mir géifen de blesséierte Vull pléischteren.",
+     "fr": "Nous soignerions l'oiseau blessé.",
+     "de": "Wir würden den verletzten Vogel behandeln.",
+     "en": "We would look after the injured bird.",
+     "fa": "ما پرندهٔ زخمی را مداوا می‌کردیم."
+    },
+    "2p": {
+     "lb": "Dir géift de blesséierte Vull pléischteren.",
+     "fr": "Vous soigneriez l'oiseau blessé.",
+     "de": "Ihr würdet den verletzten Vogel behandeln.",
+     "en": "You would look after the injured bird.",
+     "fa": "شما پرندهٔ زخمی را مداوا می‌کردید."
+    },
+    "3p": {
+     "lb": "Si géifen de blesséierte Vull pléischteren.",
+     "fr": "Ils soigneraient l'oiseau blessé.",
+     "de": "Sie würden den verletzten Vogel behandeln.",
+     "en": "They would look after the injured bird.",
+     "fa": "آنها پرندهٔ زخمی را مداوا می‌کردند."
+    }
+   },
+   "conditional_perfect": {
+    "1s": {
+     "lb": "Ech hätt de blesséierte Vull gepléischtert.",
+     "fr": "J'aurais soigné l'oiseau blessé.",
+     "de": "Ich hätte den verletzten Vogel behandelt.",
+     "en": "I would have looked after the injured bird.",
+     "fa": "من پرندهٔ زخمی را مداوا کرده بودم."
+    },
+    "2s": {
+     "lb": "Du häss de blesséierte Vull gepléischtert.",
+     "fr": "Tu aurais soigné l'oiseau blessé.",
+     "de": "Du hättest den verletzten Vogel behandelt.",
+     "en": "You would have looked after the injured bird.",
+     "fa": "تو پرندهٔ زخمی را مداوا کرده بودی."
+    },
+    "3s": {
+     "lb": "Hien hätt de blesséierte Vull gepléischtert.",
+     "fr": "Il aurait soigné l'oiseau blessé.",
+     "de": "Er hätte den verletzten Vogel behandelt.",
+     "en": "He would have looked after the injured bird.",
+     "fa": "او پرندهٔ زخمی را مداوا کرده بود."
+    },
+    "1p": {
+     "lb": "Mir hätten de blesséierte Vull gepléischtert.",
+     "fr": "Nous aurions soigné l'oiseau blessé.",
+     "de": "Wir hätten den verletzten Vogel behandelt.",
+     "en": "We would have looked after the injured bird.",
+     "fa": "ما پرندهٔ زخمی را مداوا کرده بودیم."
+    },
+    "2p": {
+     "lb": "Dir hätt de blesséierte Vull gepléischtert.",
+     "fr": "Vous auriez soigné l'oiseau blessé.",
+     "de": "Ihr hättet den verletzten Vogel behandelt.",
+     "en": "You would have looked after the injured bird.",
+     "fa": "شما پرندهٔ زخمی را مداوا کرده بودید."
+    },
+    "3p": {
+     "lb": "Si hätten de blesséierte Vull gepléischtert.",
+     "fr": "Ils auraient soigné l'oiseau blessé.",
+     "de": "Sie hätten den verletzten Vogel behandelt.",
+     "en": "They would have looked after the injured bird.",
+     "fa": "آنها پرندهٔ زخمی را مداوا کرده بودند."
+    }
+   },
+   "subjunctive": {
+    "1s": {
+     "lb": "Et ass wichteg, datt ech de blesséierte Vull pléischteren.",
+     "fr": "Il est important que je soigne l'oiseau blessé.",
+     "de": "Es ist wichtig, dass ich den verletzten Vogel behandle.",
+     "en": "It is important that I look after the injured bird.",
+     "fa": "مهم است که من پرندهٔ زخمی را مداوا کنم."
+    },
+    "2s": {
+     "lb": "Et ass wichteg, datt s du de blesséierte Vull pléischters.",
+     "fr": "Il est important que tu soignes l'oiseau blessé.",
+     "de": "Es ist wichtig, dass du den verletzten Vogel behandelst.",
+     "en": "It is important that you look after the injured bird.",
+     "fa": "مهم است که تو پرندهٔ زخمی را مداوا کنی."
+    },
+    "3s": {
+     "lb": "Et ass wichteg, datt hien de blesséierte Vull pléischtert.",
+     "fr": "Il est important qu'il soigne l'oiseau blessé.",
+     "de": "Es ist wichtig, dass er den verletzten Vogel behandelt.",
+     "en": "It is important that he look after the injured bird.",
+     "fa": "مهم است که او پرندهٔ زخمی را مداوا کند."
+    },
+    "1p": {
+     "lb": "Et ass wichteg, datt mir de blesséierte Vull pléischteren.",
+     "fr": "Il est important que nous soignions l'oiseau blessé.",
+     "de": "Es ist wichtig, dass wir den verletzten Vogel behandeln.",
+     "en": "It is important that we look after the injured bird.",
+     "fa": "مهم است که ما پرندهٔ زخمی را مداوا کنیم."
+    },
+    "2p": {
+     "lb": "Et ass wichteg, datt dir de blesséierte Vull pléischtert.",
+     "fr": "Il est important que vous soigniez l'oiseau blessé.",
+     "de": "Es ist wichtig, dass ihr den verletzten Vogel behandelt.",
+     "en": "It is important that you look after the injured bird.",
+     "fa": "مهم است که شما پرندهٔ زخمی را مداوا کنید."
+    },
+    "3p": {
+     "lb": "Et ass wichteg, datt si de blesséierte Vull pléischteren.",
+     "fr": "Il est important qu'ils soignent l'oiseau blessé.",
+     "de": "Es ist wichtig, dass sie den verletzten Vogel behandeln.",
+     "en": "It is important that they look after the injured bird.",
+     "fa": "مهم است که آنها پرندهٔ زخمی را مداوا کنند."
+    }
+   }
+  }
+ }
+}
