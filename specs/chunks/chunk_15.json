@@ -1,0 +1,452 @@
+[
+ {
+  "id": "verschmieren",
+  "lb": "verschmieren",
+  "fr": "étaler",
+  "de": "verschmieren",
+  "en": "spread",
+  "meaning_fa": "مالیدن، پخش کردن، محو کردن",
+  "meaning_en": "to spread"
+ },
+ {
+  "id": "verschmotzen",
+  "lb": "verschmotzen",
+  "fr": "polluer",
+  "de": "verschmutzen",
+  "en": "pollute",
+  "meaning_fa": "آلوده کردن (محیط زیست)",
+  "meaning_en": "to pollute"
+ },
+ {
+  "id": "verschnauwen",
+  "lb": "verschnauwen",
+  "fr": "reprendre son souffle",
+  "de": "verschnaufen",
+  "en": "take a breather",
+  "meaning_fa": "نفس تازه کردن، لحظه‌ای استراحت کردن",
+  "meaning_en": "to take a breather"
+ },
+ {
+  "id": "verschneiden",
+  "lb": "verschneiden",
+  "fr": "dépecer",
+  "de": "zerschneiden",
+  "en": "cut up",
+  "meaning_fa": "تکه‌تکه کردن، قطعه‌قطعه کردن",
+  "meaning_en": "to cut up"
+ },
+ {
+  "id": "verschounen",
+  "lb": "verschounen",
+  "fr": "ménager",
+  "de": "verschonen",
+  "en": "spare",
+  "meaning_fa": "در امان گذاشتن، بخشیدن، رحم کردن به",
+  "meaning_en": "to spare"
+ },
+ {
+  "id": "verschreiwen",
+  "lb": "verschreiwen",
+  "fr": "user",
+  "de": "verschreiben",
+  "en": "prescribe",
+  "meaning_fa": "تجویز کردن (درمان)",
+  "meaning_en": "to prescribe"
+ },
+ {
+  "id": "verschwannen",
+  "lb": "verschwannen",
+  "fr": "disparaître",
+  "de": "verschwinden",
+  "en": "disappear",
+  "meaning_fa": "ناپدید شدن (از دیده پنهان شدن)",
+  "meaning_en": "to disappear"
+ },
+ {
+  "id": "verschweessen",
+  "lb": "verschweessen",
+  "fr": "zapper",
+  "de": "verschwitzen",
+  "en": "weld together",
+  "meaning_fa": "فراموش کردن (کاملاً از یاد بردن)",
+  "meaning_en": "to forget all about"
+ },
+ {
+  "id": "verschwenden",
+  "lb": "verschwenden",
+  "fr": "gaspiller",
+  "de": "verschwenden",
+  "en": "waste",
+  "meaning_fa": "هدر دادن، تلف کردن",
+  "meaning_en": "to waste"
+ },
+ {
+  "id": "verschwéngsen",
+  "lb": "verschwéngsen",
+  "fr": "gaspiller",
+  "de": "verhunzen",
+  "en": "waste",
+  "meaning_fa": "هدر دادن (بی‌مبالاتانه مصرف کردن)",
+  "meaning_en": "to waste"
+ },
+ {
+  "id": "versécheren",
+  "lb": "versécheren",
+  "fr": "assurer",
+  "de": "versichern",
+  "en": "assure",
+  "meaning_fa": "اطمینان دادن، تضمین کردن",
+  "meaning_en": "to assure"
+ },
+ {
+  "id": "verséissen",
+  "lb": "verséissen",
+  "fr": "adoucir",
+  "de": "versüßen",
+  "en": "sweeten",
+  "meaning_fa": "شیرین کردن (دلپذیرتر کردن)",
+  "meaning_en": "to sweeten"
+ },
+ {
+  "id": "versëlweren",
+  "lb": "versëlweren",
+  "fr": "argenter",
+  "de": "versilbern",
+  "en": "silver-plate",
+  "meaning_fa": "نقره‌اندود کردن",
+  "meaning_en": "to silver-plate"
+ },
+ {
+  "id": "versengen",
+  "lb": "versengen",
+  "fr": "roussir",
+  "de": "versengen",
+  "en": "singe",
+  "meaning_fa": "سوزاندن (سطحی)، کباب کردن (با حرارت یا آتش)",
+  "meaning_en": "to singe"
+ },
+ {
+  "id": "versenken",
+  "lb": "versenken",
+  "fr": "couler",
+  "de": "versenken",
+  "en": "sink",
+  "meaning_fa": "غرق کردن (در آب)",
+  "meaning_en": "to sink"
+ },
+ {
+  "id": "versetzen",
+  "lb": "versetzen",
+  "fr": "déplacer",
+  "de": "versetzen",
+  "en": "transfer",
+  "meaning_fa": "منتقل کردن، جابه‌جا کردن (به محل یا بخش دیگر)",
+  "meaning_en": "to transfer"
+ },
+ {
+  "id": "verseuchen",
+  "lb": "verseuchen",
+  "fr": "contaminer",
+  "de": "verseuchen",
+  "en": "contaminate",
+  "meaning_fa": "آلوده کردن، مسموم کردن",
+  "meaning_en": "to contaminate"
+ },
+ {
+  "id": "versielen",
+  "lb": "versielen",
+  "fr": "tabasser",
+  "de": "versohlen",
+  "en": "smack",
+  "meaning_fa": "کتک زدن، لت‌وپار کردن",
+  "meaning_en": "to smack"
+ },
+ {
+  "id": "versigelen",
+  "lb": "versigelen",
+  "fr": "cacheter",
+  "de": "versiegeln",
+  "en": "seal",
+  "meaning_fa": "مهر کردن، لاک و مهر کردن (با مهر رسمی)",
+  "meaning_en": "to seal"
+ },
+ {
+  "id": "versinn",
+  "lb": "versinn",
+  "fr": "administrer",
+  "de": "versehen",
+  "en": "misread",
+  "meaning_fa": "آخرین مراسم دینی را برای محتضر برگزار کردن، تدهین مریض را انجام دادن",
+  "meaning_en": "to give the last rites"
+ },
+ {
+  "id": "versoen",
+  "lb": "versoen",
+  "fr": "lâcher",
+  "de": "versagen",
+  "en": "fail",
+  "meaning_fa": "از کار افتادن، شکست خوردن، ناکام شدن",
+  "meaning_en": "to fail"
+ },
+ {
+  "id": "versönen",
+  "lb": "versönen",
+  "fr": "réconcilier",
+  "de": "versöhnen",
+  "en": "reconcile",
+  "meaning_fa": "آشتی دادن (با)",
+  "meaning_en": "to reconcile (with)"
+ },
+ {
+  "id": "verspären",
+  "lb": "verspären",
+  "fr": "barrer",
+  "de": "versperren",
+  "en": "block",
+  "meaning_fa": "مسدود کردن، سد کردن",
+  "meaning_en": "to block"
+ },
+ {
+  "id": "verspillen",
+  "lb": "verspillen",
+  "fr": "perdre",
+  "de": "verspielen",
+  "en": "squander",
+  "meaning_fa": "عقب ماندن از سال تحصیلی (به دلیل تاریخ تولد)",
+  "meaning_en": "to be held back (a school year)"
+ },
+ {
+  "id": "verspreeden",
+  "lb": "verspreeden",
+  "fr": "éparpiller",
+  "de": "verstreuen",
+  "en": "spread out",
+  "meaning_fa": "پراکندن، پخش کردن",
+  "meaning_en": "to spread out"
+ },
+ {
+  "id": "verspriechen",
+  "lb": "verspriechen",
+  "fr": "promettre",
+  "de": "versprechen",
+  "en": "promise",
+  "meaning_fa": "وعده دادن، قول دادن",
+  "meaning_en": "to promise"
+ },
+ {
+  "id": "verstaatlechen",
+  "lb": "verstaatlechen",
+  "fr": "nationaliser",
+  "de": "verstaatlichen",
+  "en": "nationalize",
+  "meaning_fa": "ملی کردن، دولتی کردن",
+  "meaning_en": "to nationalize"
+ },
+ {
+  "id": "verstäerken",
+  "lb": "verstäerken",
+  "fr": "consolider",
+  "de": "verstärken",
+  "en": "reinforce",
+  "meaning_fa": "تحکیم کردن، مستحکم کردن (پایدار کردن)",
+  "meaning_en": "to reinforce"
+ },
+ {
+  "id": "verstëbsen",
+  "lb": "verstëbsen",
+  "fr": "prendre la poussière",
+  "de": "verstauben",
+  "en": "gather dust",
+  "meaning_fa": "گرد گرفتن، خاک گرفتن",
+  "meaning_en": "to get dusty"
+ },
+ {
+  "id": "verstellen",
+  "lb": "verstellen",
+  "fr": "régler",
+  "de": "verstellen",
+  "en": "adjust",
+  "meaning_fa": "تنظیم کردن، میزان کردن (تغییر تنظیم)",
+  "meaning_en": "to adjust"
+ },
+ {
+  "id": "verstëmmen",
+  "lb": "verstëmmen",
+  "fr": "désaccorder",
+  "de": "verstimmen",
+  "en": "detune",
+  "meaning_fa": "کوک کردن (ساز موسیقی را از کوک درآوردن)",
+  "meaning_en": "to detune"
+ },
+ {
+  "id": "verstoen",
+  "lb": "verstoen",
+  "fr": "comprendre",
+  "de": "verstehen",
+  "en": "understand",
+  "meaning_fa": "فهمیدن (معنی چیزی را رمزگشایی کردن)",
+  "meaning_en": "to understand"
+ },
+ {
+  "id": "verstoppen",
+  "lb": "verstoppen",
+  "fr": "cacher",
+  "de": "verstecken",
+  "en": "hide",
+  "meaning_fa": "پنهان کردن، مخفی کردن (از دید پوشاندن)",
+  "meaning_en": "to hide"
+ },
+ {
+  "id": "verstoussen",
+  "lb": "verstoussen",
+  "fr": "rejeter",
+  "de": "verstoßen",
+  "en": "shun",
+  "meaning_fa": "طرد کردن، رد کردن، کنار گذاشتن",
+  "meaning_en": "to shun"
+ },
+ {
+  "id": "verstreeën",
+  "lb": "verstreeën",
+  "fr": "disperser",
+  "de": "verstreuen",
+  "en": "scatter",
+  "meaning_fa": "پراکنده کردن، پاشیدن (چیزی را)",
+  "meaning_en": "to scatter"
+ },
+ {
+  "id": "verstriewen",
+  "lb": "verstriewen",
+  "fr": "moiser",
+  "de": "verstreben",
+  "en": "strut",
+  "meaning_fa": "مهار کردن با مهاربند، تقویت کردن (با ستون یا تیر نگه‌دارنده)",
+  "meaning_en": "to strut"
+ },
+ {
+  "id": "verstümmelen",
+  "lb": "verstümmelen",
+  "fr": "mutiler",
+  "de": "verstümmeln",
+  "en": "mutilate",
+  "meaning_fa": "مثله کردن، ناقص‌الاعضا کردن",
+  "meaning_en": "to mutilate"
+ },
+ {
+  "id": "versuergen",
+  "lb": "versuergen",
+  "fr": "garder",
+  "de": "aufbewahren",
+  "en": "keep",
+  "meaning_fa": "نگه داشتن، ذخیره کردن (در جای امن)",
+  "meaning_en": "to keep"
+ },
+ {
+  "id": "vertässelen",
+  "lb": "vertässelen",
+  "fr": "égarer",
+  "de": "verlegen",
+  "en": "mislay",
+  "meaning_fa": "گم کردن (جابه‌جا گذاشتن و پیدا نکردن)",
+  "meaning_en": "to mislay"
+ },
+ {
+  "id": "vertauschen",
+  "lb": "vertauschen",
+  "fr": "échanger",
+  "de": "vertauschen",
+  "en": "mix up",
+  "meaning_fa": "اشتباه گرفتن، با هم خلط کردن (سهواً)",
+  "meaning_en": "to mix up"
+ },
+ {
+  "id": "verteidegen",
+  "lb": "verteidegen",
+  "fr": "défendre",
+  "de": "verteidigen",
+  "en": "defend",
+  "meaning_fa": "دفاع کردن (در برابر حمله)",
+  "meaning_en": "to defend"
+ },
+ {
+  "id": "vertounen",
+  "lb": "vertounen",
+  "fr": "mettre en musique",
+  "de": "vertonen",
+  "en": "set to music",
+  "meaning_fa": "آهنگ‌سازی برای (متن)، تنظیم موسیقی (برای متن)",
+  "meaning_en": "to set to music"
+ },
+ {
+  "id": "verträntelen",
+  "lb": "verträntelen",
+  "fr": "gaspiller",
+  "de": "vertrödeln",
+  "en": "waste",
+  "meaning_fa": "تلف کردن، هدر دادن (وقت)",
+  "meaning_en": "to idle away"
+ },
+ {
+  "id": "vertrauen",
+  "lb": "vertrauen",
+  "fr": "faire confiance",
+  "de": "vertrauen",
+  "en": "trust",
+  "meaning_fa": "اعتماد کردن (به)",
+  "meaning_en": "to trust"
+ },
+ {
+  "id": "vertrieden",
+  "lb": "vertrieden",
+  "fr": "représenter",
+  "de": "vertreten",
+  "en": "represent",
+  "meaning_fa": "نمایندگی کردن (از طرف کسی عمل کردن)",
+  "meaning_en": "to represent"
+ },
+ {
+  "id": "vertuschen",
+  "lb": "vertuschen",
+  "fr": "étouffer",
+  "de": "vertuschen",
+  "en": "cover up",
+  "meaning_fa": "پنهان کردن، لاپوشانی کردن",
+  "meaning_en": "to cover up"
+ },
+ {
+  "id": "veruechten",
+  "lb": "veruechten",
+  "fr": "mépriser",
+  "de": "verachten",
+  "en": "despise",
+  "meaning_fa": "تحقیر کردن، خوار شمردن",
+  "meaning_en": "to despise"
+ },
+ {
+  "id": "verursaachen",
+  "lb": "verursaachen",
+  "fr": "causer",
+  "de": "verursachen",
+  "en": "cause",
+  "meaning_fa": "سبب شدن، ایجاد کردن",
+  "meaning_en": "to cause"
+ },
+ {
+  "id": "verurteelen",
+  "lb": "verurteelen",
+  "fr": "condamner",
+  "de": "verurteilen",
+  "en": "sentence",
+  "meaning_fa": "محکوم کردن (به مجازات)",
+  "meaning_en": "to sentence"
+ },
+ {
+  "id": "vervollstännegen",
+  "lb": "vervollstännegen",
+  "fr": "compléter",
+  "de": "vervollständigen",
+  "en": "complete",
+  "meaning_fa": "کامل کردن، تکمیل کردن",
+  "meaning_en": "to complete"
+ }
+]

@@ -1,0 +1,164 @@
+[
+ {
+  "id": "zousetzen",
+  "lb": "zousetzen",
+  "fr": "bloquer",
+  "de": "versperren",
+  "en": "block",
+  "meaning_fa": "مسدود کردن، بستن (راه)",
+  "meaning_en": "to block"
+ },
+ {
+  "id": "zousoen",
+  "lb": "zousoen",
+  "fr": "confirmer",
+  "de": "zusagen",
+  "en": "accept",
+  "meaning_fa": "قبول کردن، تأیید کردن (دعوت)",
+  "meaning_en": "to accept"
+ },
+ {
+  "id": "zouspären",
+  "lb": "zouspären",
+  "fr": "fermer à clé",
+  "de": "zuschließen",
+  "en": "lock",
+  "meaning_fa": "قفل کردن، بستن (با کلید)",
+  "meaning_en": "to lock"
+ },
+ {
+  "id": "zoustellen",
+  "lb": "zoustellen",
+  "fr": "bloquer",
+  "de": "zustellen",
+  "en": "block",
+  "meaning_fa": "مسدود کردن، راه را بستن",
+  "meaning_en": "to block"
+ },
+ {
+  "id": "zoustoppen",
+  "lb": "zoustoppen",
+  "fr": "boucher",
+  "de": "zustopfen",
+  "en": "plug",
+  "meaning_fa": "درزگیری کردن، گرفتن (سوراخ یا شکاف)",
+  "meaning_en": "to plug"
+ },
+ {
+  "id": "zoustrécken",
+  "lb": "zoustrécken",
+  "fr": "fermer",
+  "de": "zubinden",
+  "en": "tie",
+  "meaning_fa": "بستن (با نخ یا طناب)",
+  "meaning_en": "to tie (up)"
+ },
+ {
+  "id": "zoutippen",
+  "lb": "zoutippen",
+  "fr": "combler",
+  "de": "zuschütten",
+  "en": "fill in",
+  "meaning_fa": "پر کردن، خاک‌ریزی کردن",
+  "meaning_en": "to fill in"
+ },
+ {
+  "id": "zoutreffen",
+  "lb": "zoutreffen",
+  "fr": "correspondre",
+  "de": "zutreffen",
+  "en": "apply",
+  "meaning_fa": "درست بودن، تأیید شدن",
+  "meaning_en": "to be correct"
+ },
+ {
+  "id": "zouuerdnen",
+  "lb": "zouuerdnen",
+  "fr": "classer",
+  "de": "zuordnen",
+  "en": "categorize",
+  "meaning_fa": "تخصیص دادن به، دسته‌بندی کردن",
+  "meaning_en": "to assign to"
+ },
+ {
+  "id": "zouzéien",
+  "lb": "zouzéien",
+  "fr": "fermer",
+  "de": "zuziehen",
+  "en": "catch",
+  "meaning_fa": "بستن (با کشیدن)",
+  "meaning_en": "to pull shut"
+ },
+ {
+  "id": "zucken",
+  "lb": "zucken",
+  "fr": "tressaillir",
+  "de": "zucken",
+  "en": "twitch",
+  "meaning_fa": "پریدن، تکان خوردن ناگهانی",
+  "meaning_en": "to twitch"
+ },
+ {
+  "id": "zupfen",
+  "lb": "zupfen",
+  "fr": "pincer",
+  "de": "zupfen",
+  "en": "pluck",
+  "meaning_fa": "نواختن با انگشت، زخمه زدن (سازهای زهی)",
+  "meaning_en": "to pluck"
+ },
+ {
+  "id": "zurechtbéien",
+  "lb": "zurechtbéien",
+  "fr": "arranger",
+  "de": "zurechtbiegen",
+  "en": "bend",
+  "meaning_fa": "تحریف کردن، وارونه نشان دادن",
+  "meaning_en": "to bend"
+ },
+ {
+  "id": "zurechtweisen",
+  "lb": "zurechtweisen",
+  "fr": "blâmer",
+  "de": "zurechtweisen",
+  "en": "reprimand",
+  "meaning_fa": "توبیخ کردن، سرزنش کردن",
+  "meaning_en": "to reprimand"
+ },
+ {
+  "id": "zwaffen",
+  "lb": "zwaffen",
+  "fr": "bidouiller",
+  "de": "zusammenschustern",
+  "en": "cobble together",
+  "meaning_fa": "سرهم‌بندی کردن، وصله‌پینه کردن",
+  "meaning_en": "to cobble together"
+ },
+ {
+  "id": "zweiwelen",
+  "lb": "zweiwelen",
+  "fr": "douter",
+  "de": "zweifeln",
+  "en": "doubt",
+  "meaning_fa": "شک کردن (در چیزی)، تردید داشتن",
+  "meaning_en": "to doubt"
+ },
+ {
+  "id": "zwéngen",
+  "lb": "zwéngen",
+  "fr": "forcer",
+  "de": "zwingen",
+  "en": "force",
+  "meaning_fa": "مجبور کردن (به)",
+  "meaning_en": "to force (to)"
+ },
+ {
+  "id": "zwitscheren",
+  "lb": "zwitscheren",
+  "fr": "gazouiller",
+  "de": "zwitschern",
+  "en": "twitter",
+  "meaning_fa": "جیک‌جیک کردن، آواز خواندن (پرنده)",
+  "meaning_en": "to twitter"
+ }
+]

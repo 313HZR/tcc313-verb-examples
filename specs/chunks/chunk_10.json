@@ -1,0 +1,452 @@
+[
+ {
+  "id": "suppriméieren",
+  "lb": "suppriméieren",
+  "fr": "supprimer",
+  "de": "streichen",
+  "en": "remove",
+  "meaning_fa": "حذف کردن، لغو کردن",
+  "meaning_en": "to remove"
+ },
+ {
+  "id": "surfen",
+  "lb": "surfen",
+  "fr": "surfer",
+  "de": "surfen",
+  "en": "surf",
+  "meaning_fa": "موج‌سواری کردن",
+  "meaning_en": "to surf"
+ },
+ {
+  "id": "surveilléieren",
+  "lb": "surveilléieren",
+  "fr": "surveiller",
+  "de": "überwachen",
+  "en": "supervise",
+  "meaning_fa": "نظارت کردن، مراقبت کردن، پایش کردن",
+  "meaning_en": "to supervise"
+ },
+ {
+  "id": "suspendéieren",
+  "lb": "suspendéieren",
+  "fr": "suspendre",
+  "de": "suspendieren",
+  "en": "suspend",
+  "meaning_fa": "معلق کردن، تعلیق کردن (از خدمت)",
+  "meaning_en": "to suspend"
+ },
+ {
+  "id": "symboliséieren",
+  "lb": "symboliséieren",
+  "fr": "symboliser",
+  "de": "symbolisieren",
+  "en": "symbolize",
+  "meaning_fa": "نماد چیزی بودن، نمادین کردن",
+  "meaning_en": "to symbolize"
+ },
+ {
+  "id": "sympathiséieren",
+  "lb": "sympathiséieren",
+  "fr": "sympathiser",
+  "de": "sympathisieren",
+  "en": "get on",
+  "meaning_fa": "کنار آمدن (با)، همدلی کردن (با)",
+  "meaning_en": "to get on (with)"
+ },
+ {
+  "id": "synchroniséieren",
+  "lb": "synchroniséieren",
+  "fr": "synchroniser",
+  "de": "synchronisieren",
+  "en": "synchronize",
+  "meaning_fa": "همگام‌سازی کردن (هماهنگ کردن)",
+  "meaning_en": "to synchronize"
+ },
+ {
+  "id": "systematiséieren",
+  "lb": "systematiséieren",
+  "fr": "systématiser",
+  "de": "systematisieren",
+  "en": "systematize",
+  "meaning_fa": "سیستماتیک کردن، منظم کردن",
+  "meaning_en": "to systematize"
+ },
+ {
+  "id": "taaschten",
+  "lb": "taaschten",
+  "fr": "tâtonner",
+  "de": "tasten",
+  "en": "grope",
+  "meaning_fa": "لمس کردن، دست مالیدن",
+  "meaning_en": "to grope"
+ },
+ {
+  "id": "tabuiséieren",
+  "lb": "tabuiséieren",
+  "fr": "tabouiser",
+  "de": "tabuisieren",
+  "en": "taboo",
+  "meaning_fa": "تابو کردن",
+  "meaning_en": "to taboo"
+ },
+ {
+  "id": "tackelen",
+  "lb": "tackelen",
+  "fr": "tacler",
+  "de": "angreifen",
+  "en": "tackle",
+  "meaning_fa": "تکل زدن (به بازیکن دیگر)",
+  "meaning_en": "to tackle"
+ },
+ {
+  "id": "taggen",
+  "lb": "taggen",
+  "fr": "baliser",
+  "de": "taggen",
+  "en": "tag",
+  "meaning_fa": "برچسب زدن (به داده‌های دیجیتال)",
+  "meaning_en": "to tag"
+ },
+ {
+  "id": "tangéieren",
+  "lb": "tangéieren",
+  "fr": "toucher",
+  "de": "tangieren",
+  "en": "affect",
+  "meaning_fa": "مربوط بودن به، تأثیر گذاشتن بر",
+  "meaning_en": "to affect"
+ },
+ {
+  "id": "tanken",
+  "lb": "tanken",
+  "fr": "prendre",
+  "de": "tanken",
+  "en": "fill up",
+  "meaning_fa": "سوخت‌رسانی کردن به، پر کردن (چیزی) از سوخت",
+  "meaning_en": "to fill up with"
+ },
+ {
+  "id": "tapezéieren",
+  "lb": "tapezéieren",
+  "fr": "tapisser",
+  "de": "tapezieren",
+  "en": "paper",
+  "meaning_fa": "کاغذدیواری چسباندن، دیوار را با کاغذدیواری پوشاندن",
+  "meaning_en": "to (wall)paper"
+ },
+ {
+  "id": "tarnen",
+  "lb": "tarnen",
+  "fr": "camoufler",
+  "de": "tarnen",
+  "en": "camouflage",
+  "meaning_fa": "استتار کردن، پوشاندن",
+  "meaning_en": "to camouflage"
+ },
+ {
+  "id": "tässelen",
+  "lb": "tässelen",
+  "fr": "empiler",
+  "de": "stapeln",
+  "en": "stack",
+  "meaning_fa": "انباشتن، روی هم چیدن",
+  "meaning_en": "to stack"
+ },
+ {
+  "id": "tätowéieren",
+  "lb": "tätowéieren",
+  "fr": "tatouer",
+  "de": "tätowieren",
+  "en": "tattoo",
+  "meaning_fa": "خالکوبی کردن (یک طرح)",
+  "meaning_en": "to tattoo"
+ },
+ {
+  "id": "tauchen",
+  "lb": "tauchen",
+  "fr": "plonger",
+  "de": "tauchen",
+  "en": "dive",
+  "meaning_fa": "غواصی کردن، زیر آب رفتن",
+  "meaning_en": "to dive"
+ },
+ {
+  "id": "täuschen",
+  "lb": "täuschen",
+  "fr": "tromper",
+  "de": "täuschen",
+  "en": "trick",
+  "meaning_fa": "فریب دادن، گول زدن",
+  "meaning_en": "to trick"
+ },
+ {
+  "id": "tauschen",
+  "lb": "tauschen",
+  "fr": "échanger",
+  "de": "tauschen",
+  "en": "swap",
+  "meaning_fa": "معاوضه کردن، عوض کردن",
+  "meaning_en": "to swap"
+ },
+ {
+  "id": "taxéieren",
+  "lb": "taxéieren",
+  "fr": "taxer",
+  "de": "besteuern",
+  "en": "tax",
+  "meaning_fa": "مالیات بستن بر، مشمول مالیات کردن",
+  "meaning_en": "to tax"
+ },
+ {
+  "id": "técken",
+  "lb": "técken",
+  "fr": "endommager",
+  "de": "beschädigen",
+  "en": "tap",
+  "meaning_fa": "ضربه سبک زدن به (چیزی)، آرام کوبیدن به",
+  "meaning_en": "to tap"
+ },
+ {
+  "id": "téinen",
+  "lb": "téinen",
+  "fr": "teinter",
+  "de": "tönen",
+  "en": "tint",
+  "meaning_fa": "رنگ دادن، رنگ کردن",
+  "meaning_en": "to tint"
+ },
+ {
+  "id": "téitschen",
+  "lb": "téitschen",
+  "fr": "cabosser",
+  "de": "einbeulen",
+  "en": "dent",
+  "meaning_fa": "فرو بردن، کوفتن (سطح سخت یا میوه را)",
+  "meaning_en": "to dent"
+ },
+ {
+  "id": "telefonéieren",
+  "lb": "telefonéieren",
+  "fr": "téléphoner",
+  "de": "telefonieren",
+  "en": "phone",
+  "meaning_fa": "تلفن زدن (با کسی)، صحبت کردن (با کسی) از طریق تلفن",
+  "meaning_en": "to be on the phone (with)"
+ },
+ {
+  "id": "telegraféieren",
+  "lb": "telegraféieren",
+  "fr": "télégraphier",
+  "de": "telegrafieren",
+  "en": "telegraph",
+  "meaning_fa": "تلگراف کردن، مخابره کردن",
+  "meaning_en": "to telegraph"
+ },
+ {
+  "id": "tëlteren",
+  "lb": "tëlteren",
+  "fr": "tripoter",
+  "de": "betasten",
+  "en": "finger",
+  "meaning_fa": "دست زدن به (میوه یا سبزی)، لمس کردن",
+  "meaning_en": "to finger"
+ },
+ {
+  "id": "tentéieren",
+  "lb": "tentéieren",
+  "fr": "tenter",
+  "de": "reizen",
+  "en": "tempt",
+  "meaning_fa": "وسوسه کردن، به وسوسه انداختن",
+  "meaning_en": "to tempt"
+ },
+ {
+  "id": "terroriséieren",
+  "lb": "terroriséieren",
+  "fr": "terroriser",
+  "de": "terrorisieren",
+  "en": "terrorize",
+  "meaning_fa": "ترور کردن، به وحشت انداختن",
+  "meaning_en": "to terrorize"
+ },
+ {
+  "id": "tëschelageren",
+  "lb": "tëschelageren",
+  "fr": "entreposer",
+  "de": "zwischenlagern",
+  "en": "warehouse",
+  "meaning_fa": "در انبار موقت نگهداری کردن",
+  "meaning_en": "to warehouse"
+ },
+ {
+  "id": "testen",
+  "lb": "testen",
+  "fr": "tester",
+  "de": "testen",
+  "en": "test",
+  "meaning_fa": "آزمودن، آزمایش کردن، امتحان کردن (بررسی و سنجش)",
+  "meaning_en": "to test"
+ },
+ {
+  "id": "thematiséieren",
+  "lb": "thematiséieren",
+  "fr": "aborder",
+  "de": "thematisieren",
+  "en": "address",
+  "meaning_fa": "موضوع قرار دادن، به بحث گذاشتن",
+  "meaning_en": "to address"
+ },
+ {
+  "id": "theoretiséieren",
+  "lb": "theoretiséieren",
+  "fr": "théoriser",
+  "de": "theoretisieren",
+  "en": "theorize",
+  "meaning_fa": "نظریه‌پردازی کردن",
+  "meaning_en": "to theorize"
+ },
+ {
+  "id": "therapéieren",
+  "lb": "therapéieren",
+  "fr": "traiter",
+  "de": "therapieren",
+  "en": "therapize",
+  "meaning_fa": "روان‌درمانی کردن، تحت درمان روان‌پزشکی قرار دادن",
+  "meaning_en": "to treat psychotherapeutically"
+ },
+ {
+  "id": "tierkelen",
+  "lb": "tierkelen",
+  "fr": "tituber",
+  "de": "torkeln",
+  "en": "stagger",
+  "meaning_fa": "تلو تلو خوردن، لرزان راه رفتن",
+  "meaning_en": "to stagger"
+ },
+ {
+  "id": "tiermen",
+  "lb": "tiermen",
+  "fr": "ruminer",
+  "de": "brüten",
+  "en": "brood",
+  "meaning_fa": "نشخوار کردن (مشکلات را در ذهن مرور کردن)",
+  "meaning_en": "to brood"
+ },
+ {
+  "id": "timen",
+  "lb": "timen",
+  "fr": "organiser",
+  "de": "timen",
+  "en": "plan",
+  "meaning_fa": "برنامه‌ریزی زمانی کردن",
+  "meaning_en": "to plan"
+ },
+ {
+  "id": "tippen",
+  "lb": "tippen",
+  "fr": "taper",
+  "de": "tippen",
+  "en": "type",
+  "meaning_fa": "تایپ کردن (با صفحه‌کلید)",
+  "meaning_en": "to type"
+ },
+ {
+  "id": "toasten",
+  "lb": "toasten",
+  "fr": "griller",
+  "de": "toasten",
+  "en": "toast",
+  "meaning_fa": "تست کردن، برشته کردن (نان)",
+  "meaning_en": "to toast"
+ },
+ {
+  "id": "tocken",
+  "lb": "tocken",
+  "fr": "frapper",
+  "de": "anklopfen",
+  "en": "knock",
+  "meaning_fa": "در زدن، کوبیدن (به در برای ورود)",
+  "meaning_en": "to knock"
+ },
+ {
+  "id": "toleréieren",
+  "lb": "toleréieren",
+  "fr": "tolérer",
+  "de": "tolerieren",
+  "en": "tolerate",
+  "meaning_fa": "تحمل کردن، تسامح داشتن",
+  "meaning_en": "to tolerate"
+ },
+ {
+  "id": "tompen",
+  "lb": "tompen",
+  "fr": "sommeiller",
+  "de": "schlummern",
+  "en": "nap",
+  "meaning_fa": "چرت زدن، درنگ خوابیدن",
+  "meaning_en": "to nap"
+ },
+ {
+  "id": "toppen",
+  "lb": "toppen",
+  "fr": "battre",
+  "de": "toppen",
+  "en": "beat",
+  "meaning_fa": "برتری یافتن بر، پیشی گرفتن از",
+  "meaning_en": "to beat"
+ },
+ {
+  "id": "vegetéieren",
+  "lb": "vegetéieren",
+  "fr": "végéter",
+  "de": "vegetieren",
+  "en": "vegetate",
+  "meaning_fa": "به‌سختی زیستن، نباتی زندگی کردن (دربارهٔ انسان)",
+  "meaning_en": "to vegetate"
+ },
+ {
+  "id": "ventiléieren",
+  "lb": "ventiléieren",
+  "fr": "ventiler",
+  "de": "ventilieren",
+  "en": "ventilate",
+  "meaning_fa": "تهویه کردن، هوا دادن (با تجهیزات)",
+  "meaning_en": "to ventilate"
+ },
+ {
+  "id": "veraarbechten",
+  "lb": "veraarbechten",
+  "fr": "traiter",
+  "de": "verarbeiten",
+  "en": "process",
+  "meaning_fa": "پردازش کردن (داده‌های دیجیتال)",
+  "meaning_en": "to process"
+ },
+ {
+  "id": "verallgemengeren",
+  "lb": "verallgemengeren",
+  "fr": "généraliser",
+  "de": "verallgemeinern",
+  "en": "generalize",
+  "meaning_fa": "تعمیم دادن",
+  "meaning_en": "to generalize"
+ },
+ {
+  "id": "verankeren",
+  "lb": "verankeren",
+  "fr": "ancrer",
+  "de": "verankern",
+  "en": "anchor",
+  "meaning_fa": "لنگر انداختن (محکم بستن)",
+  "meaning_en": "to anchor"
+ },
+ {
+  "id": "veränneren",
+  "lb": "veränneren",
+  "fr": "changer",
+  "de": "verändern",
+  "en": "change",
+  "meaning_fa": "تغییر دادن، دگرگون کردن",
+  "meaning_en": "to change"
+ }
+]

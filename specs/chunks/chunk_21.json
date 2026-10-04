@@ -1,0 +1,452 @@
+[
+ {
+  "id": "zersplitteren",
+  "lb": "zersplitteren",
+  "fr": "voler en éclats",
+  "de": "zersplittern",
+  "en": "shatter",
+  "meaning_fa": "ریز ریز شدن، خرد شدن، تکه‌تکه شدن",
+  "meaning_en": "to shatter"
+ },
+ {
+  "id": "zersprangen",
+  "lb": "zersprangen",
+  "fr": "voler en éclats",
+  "de": "zerspringen",
+  "en": "shatter",
+  "meaning_fa": "منفجر شدن، ترکیدن، خرد شدن",
+  "meaning_en": "to shatter"
+ },
+ {
+  "id": "zerstéckelen",
+  "lb": "zerstéckelen",
+  "fr": "découper",
+  "de": "zerstückeln",
+  "en": "cut up",
+  "meaning_fa": "تکه‌تکه کردن، قطعه‌قطعه کردن",
+  "meaning_en": "to cut up"
+ },
+ {
+  "id": "zerstéieren",
+  "lb": "zerstéieren",
+  "fr": "détruire",
+  "de": "zerstören",
+  "en": "destroy",
+  "meaning_fa": "ویران کردن، نابود کردن، منهدم کردن",
+  "meaning_en": "to destroy"
+ },
+ {
+  "id": "zerstiechen",
+  "lb": "zerstiechen",
+  "fr": "crever",
+  "de": "zerstechen",
+  "en": "puncture",
+  "meaning_fa": "سوراخ کردن، پنچر کردن (با آسیب رساندن)",
+  "meaning_en": "to puncture"
+ },
+ {
+  "id": "zerstoussen",
+  "lb": "zerstoussen",
+  "fr": "piler",
+  "de": "zerstoßen",
+  "en": "crush",
+  "meaning_fa": "کوبیدن، خرد کردن (به قطعات ریز)",
+  "meaning_en": "to crush"
+ },
+ {
+  "id": "zertéitschen",
+  "lb": "zertéitschen",
+  "fr": "cabosser",
+  "de": "zerbeulen",
+  "en": "dent",
+  "meaning_fa": "فرو رفتگی ایجاد کردن، له کردن (بر اثر ضربه)",
+  "meaning_en": "to dent"
+ },
+ {
+  "id": "zerwéieren",
+  "lb": "zerwéieren",
+  "fr": "servir",
+  "de": "bedienen",
+  "en": "serve",
+  "meaning_fa": "خدمت کردن (به مهمان، به مشتری)",
+  "meaning_en": "to serve"
+ },
+ {
+  "id": "zerwullen",
+  "lb": "zerwullen",
+  "fr": "fouiller",
+  "de": "zerwühlen",
+  "en": "tousle",
+  "meaning_fa": "به هم ریختن، درهم کردن (موها یا رختخواب)",
+  "meaning_en": "to tousle"
+ },
+ {
+  "id": "zerzauselen",
+  "lb": "zerzauselen",
+  "fr": "ébouriffer",
+  "de": "zerzausen",
+  "en": "tousle",
+  "meaning_fa": "ژولیده کردن، آشفته کردن (موها)",
+  "meaning_en": "to tousle"
+ },
+ {
+  "id": "zëssen",
+  "lb": "zëssen",
+  "fr": "calmer",
+  "de": "beschwichtigen",
+  "en": "calm down",
+  "meaning_fa": "آرام کردن، دلجویی کردن",
+  "meaning_en": "to calm down"
+ },
+ {
+  "id": "zesummebannen",
+  "lb": "zesummebannen",
+  "fr": "attacher",
+  "de": "zusammenbinden",
+  "en": "hold together",
+  "meaning_fa": "با هم بستن، دسته‌بندی کردن",
+  "meaning_en": "to hold together"
+ },
+ {
+  "id": "zesummebauen",
+  "lb": "zesummebauen",
+  "fr": "monter",
+  "de": "zusammenbauen",
+  "en": "assemble",
+  "meaning_fa": "سوار کردن، مونتاژ کردن",
+  "meaning_en": "to assemble"
+ },
+ {
+  "id": "zesummebrauen",
+  "lb": "zesummebrauen",
+  "fr": "concocter",
+  "de": "zusammenbrauen",
+  "en": "concoct",
+  "meaning_fa": "درست کردن، دم کردن (آماده کردن)",
+  "meaning_en": "to concoct"
+ },
+ {
+  "id": "zesummebriechen",
+  "lb": "zesummebriechen",
+  "fr": "défaillir",
+  "de": "zusammenbrechen",
+  "en": "collapse",
+  "meaning_fa": "فرو ریختن، خراب شدن (ساختمان، شیء)",
+  "meaning_en": "to collapse"
+ },
+ {
+  "id": "zesummefaassen",
+  "lb": "zesummefaassen",
+  "fr": "résumer",
+  "de": "zusammenfassen",
+  "en": "summarize",
+  "meaning_fa": "خلاصه کردن، جمع‌بندی کردن",
+  "meaning_en": "to summarize"
+ },
+ {
+  "id": "zesummefalen",
+  "lb": "zesummefalen",
+  "fr": "tomber",
+  "de": "zusammenfallen",
+  "en": "cave in",
+  "meaning_fa": "فرو ریختن، خراب شدن (ساختمان)",
+  "meaning_en": "to cave in"
+ },
+ {
+  "id": "zesummefannen",
+  "lb": "zesummefannen",
+  "fr": "se trouver",
+  "de": "zueinanderfinden",
+  "en": "get together",
+  "meaning_fa": "به هم رسیدن، آشتی کردن",
+  "meaning_en": "to find each other"
+ },
+ {
+  "id": "zesummeféieren",
+  "lb": "zesummeféieren",
+  "fr": "fusionner",
+  "de": "zusammenführen",
+  "en": "bring together",
+  "meaning_fa": "با هم آوردن، ادغام کردن",
+  "meaning_en": "to bring together"
+ },
+ {
+  "id": "zesummeflécken",
+  "lb": "zesummeflécken",
+  "fr": "rafistoler",
+  "de": "zusammenflicken",
+  "en": "patch up",
+  "meaning_fa": "وصله‌پینه کردن، موقتاً تعمیر کردن",
+  "meaning_en": "to patch up"
+ },
+ {
+  "id": "zesummefléissen",
+  "lb": "zesummefléissen",
+  "fr": "se réunir",
+  "de": "zusammenfließen",
+  "en": "come together",
+  "meaning_fa": "در هم آمیختن، به هم پیوستن (در قالب یک کل)",
+  "meaning_en": "to come together"
+ },
+ {
+  "id": "zesummefueren",
+  "lb": "zesummefueren",
+  "fr": "sursauter",
+  "de": "zusammenfahren",
+  "en": "start",
+  "meaning_fa": "یکه خوردن، از جا پریدن",
+  "meaning_en": "to start"
+ },
+ {
+  "id": "zesummekieren",
+  "lb": "zesummekieren",
+  "fr": "balayer",
+  "de": "zusammenkehren",
+  "en": "sweep up",
+  "meaning_fa": "جمع کردن (با جارو)",
+  "meaning_en": "to sweep together"
+ },
+ {
+  "id": "zesummeklappen",
+  "lb": "zesummeklappen",
+  "fr": "plier",
+  "de": "zusammenklappen",
+  "en": "collapse",
+  "meaning_fa": "تا شدن، فرو ریختن",
+  "meaning_en": "to collapse"
+ },
+ {
+  "id": "zesummekommen",
+  "lb": "zesummekommen",
+  "fr": "se réunir",
+  "de": "zusammenkommen",
+  "en": "come together",
+  "meaning_fa": "گرد آمدن، جمع شدن (اشخاص)",
+  "meaning_en": "to come together"
+ },
+ {
+  "id": "zesummeleeën",
+  "lb": "zesummeleeën",
+  "fr": "regrouper",
+  "de": "zusammenlegen",
+  "en": "combine",
+  "meaning_fa": "ادغام کردن، یکی کردن",
+  "meaning_en": "to combine"
+ },
+ {
+  "id": "zesummeliewen",
+  "lb": "zesummeliewen",
+  "fr": "cohabiter",
+  "de": "zusammenleben",
+  "en": "live together",
+  "meaning_fa": "با هم زندگی کردن (در یک خانه)",
+  "meaning_en": "to live together"
+ },
+ {
+  "id": "zesummendrécken",
+  "lb": "zesummendrécken",
+  "fr": "comprimer",
+  "de": "zusammendrücken",
+  "en": "push together",
+  "meaning_fa": "فشردن، با هم فشار دادن",
+  "meaning_en": "to squeeze together"
+ },
+ {
+  "id": "zesummendroen",
+  "lb": "zesummendroen",
+  "fr": "rassembler",
+  "de": "zusammentragen",
+  "en": "collect",
+  "meaning_fa": "گردآوری کردن، جمع‌آوری کردن",
+  "meaning_en": "to collect"
+ },
+ {
+  "id": "zesummendruddelen",
+  "lb": "zesummendruddelen",
+  "fr": "mettre en boule",
+  "de": "zusammenknüllen",
+  "en": "crumple up",
+  "meaning_fa": "مچاله کردن، کروموله کردن",
+  "meaning_en": "to crumple up"
+ },
+ {
+  "id": "zesummenhalen",
+  "lb": "zesummenhalen",
+  "fr": "solidariser",
+  "de": "zusammenhalten",
+  "en": "hold together",
+  "meaning_fa": "با هم نگه داشتن، محکم کردن (به هم وصل کردن)",
+  "meaning_en": "to hold together"
+ },
+ {
+  "id": "zesummentrommelen",
+  "lb": "zesummentrommelen",
+  "fr": "rameuter",
+  "de": "zusammentrommeln",
+  "en": "round up",
+  "meaning_fa": "جمع کردن، بسیج کردن (افراد)",
+  "meaning_en": "to round up"
+ },
+ {
+  "id": "zesummenzielen",
+  "lb": "zesummenzielen",
+  "fr": "additionner",
+  "de": "zusammenzählen",
+  "en": "add up",
+  "meaning_fa": "جمع زدن، با هم افزودن",
+  "meaning_en": "to add up"
+ },
+ {
+  "id": "zesummepaken",
+  "lb": "zesummepaken",
+  "fr": "ranger",
+  "de": "zusammenpacken",
+  "en": "pack up",
+  "meaning_fa": "جمع‌وجور کردن، بار و بنه بستن",
+  "meaning_en": "to pack up"
+ },
+ {
+  "id": "zesummeperchen",
+  "lb": "zesummeperchen",
+  "fr": "entasser",
+  "de": "zusammenpferchen",
+  "en": "pack in",
+  "meaning_fa": "چپاندن، تنگ هم جا دادن (افراد، حیوانات)",
+  "meaning_en": "to pack in"
+ },
+ {
+  "id": "zesummerafen",
+  "lb": "zesummerafen",
+  "fr": "ramasser",
+  "de": "zusammenraffen",
+  "en": "gather up",
+  "meaning_fa": "جمع کردن، گردآوری کردن (اشیاء پراکنده)",
+  "meaning_en": "to gather up"
+ },
+ {
+  "id": "zesummerechnen",
+  "lb": "zesummerechnen",
+  "fr": "additionner",
+  "de": "zusammenrechnen",
+  "en": "add up",
+  "meaning_fa": "جمع زدن، با هم حساب کردن",
+  "meaning_en": "to add up"
+ },
+ {
+  "id": "zesummeruffen",
+  "lb": "zesummeruffen",
+  "fr": "réunir",
+  "de": "zusammenrufen",
+  "en": "assemble",
+  "meaning_fa": "فراخواندن، تشکیل جلسه دادن",
+  "meaning_en": "to assemble"
+ },
+ {
+  "id": "zesummerullen",
+  "lb": "zesummerullen",
+  "fr": "enrouler",
+  "de": "zusammenrollen",
+  "en": "roll up",
+  "meaning_fa": "پیچیدن، لوله کردن",
+  "meaning_en": "to roll up"
+ },
+ {
+  "id": "zesummeschaffen",
+  "lb": "zesummeschaffen",
+  "fr": "collaborer",
+  "de": "zusammenarbeiten",
+  "en": "collaborate",
+  "meaning_fa": "همکاری کردن، با هم کار کردن",
+  "meaning_en": "to collaborate"
+ },
+ {
+  "id": "zesummeschären",
+  "lb": "zesummeschären",
+  "fr": "amasser",
+  "de": "zusammenscharren",
+  "en": "rake up",
+  "meaning_fa": "جمع کردن (با چنگک یا جارو)",
+  "meaning_en": "to rake up"
+ },
+ {
+  "id": "zesummeschloen",
+  "lb": "zesummeschloen",
+  "fr": "rouer de coups",
+  "de": "zusammenschlagen",
+  "en": "beat up",
+  "meaning_fa": "کتک زدن، لت و پار کردن (تا از پا درآمدن)",
+  "meaning_en": "to beat up"
+ },
+ {
+  "id": "zesummeschweessen",
+  "lb": "zesummeschweessen",
+  "fr": "souder",
+  "de": "zusammenschweißen",
+  "en": "weld together",
+  "meaning_fa": "با هم جوش دادن، جوشکاری کردن",
+  "meaning_en": "to weld together"
+ },
+ {
+  "id": "zesummesetzen",
+  "lb": "zesummesetzen",
+  "fr": "monter",
+  "de": "zusammensetzen",
+  "en": "put together",
+  "meaning_fa": "سوار کردن، مونتاژ کردن، تشکیل دادن",
+  "meaning_en": "to put together"
+ },
+ {
+  "id": "zesummesichen",
+  "lb": "zesummesichen",
+  "fr": "rassembler",
+  "de": "zusammensuchen",
+  "en": "find",
+  "meaning_fa": "جستجو و گردآوری کردن، انتخاب و کنار هم گذاشتن",
+  "meaning_en": "to find"
+ },
+ {
+  "id": "zesummespueren",
+  "lb": "zesummespueren",
+  "fr": "économiser",
+  "de": "zusammensparen",
+  "en": "save up",
+  "meaning_fa": "پس‌انداز کردن (با زحمت و به قصد هدفی مشخص)",
+  "meaning_en": "to save up"
+ },
+ {
+  "id": "zesummestellen",
+  "lb": "zesummestellen",
+  "fr": "établir",
+  "de": "zusammenstellen",
+  "en": "compile",
+  "meaning_fa": "تدوین کردن، تنظیم کردن، فراهم آوردن",
+  "meaning_en": "to compile"
+ },
+ {
+  "id": "zesummestrécken",
+  "lb": "zesummestrécken",
+  "fr": "attacher",
+  "de": "zusammenbinden",
+  "en": "knot",
+  "meaning_fa": "با هم بستن، گره زدن",
+  "meaning_en": "to tie together"
+ },
+ {
+  "id": "zevirkommen",
+  "lb": "zevirkommen",
+  "fr": "devancer",
+  "de": "zuvorkommen",
+  "en": "beat to",
+  "meaning_fa": "پیشی گرفتن (در انجام کاری)",
+  "meaning_en": "to beat to"
+ },
+ {
+  "id": "zidderen",
+  "lb": "zidderen",
+  "fr": "trembler",
+  "de": "zittern",
+  "en": "shake",
+  "meaning_fa": "لرزیدن",
+  "meaning_en": "to shake"
+ }
+]

@@ -1,0 +1,452 @@
+[
+ {
+  "id": "verherrlechen",
+  "lb": "verherrlechen",
+  "fr": "prôner",
+  "de": "verherrlichen",
+  "en": "glorify",
+  "meaning_fa": "ستودن، تمجید کردن",
+  "meaning_en": "to glorify"
+ },
+ {
+  "id": "verhexen",
+  "lb": "verhexen",
+  "fr": "ensorceler",
+  "de": "verhexen",
+  "en": "bewitch",
+  "meaning_fa": "افسون کردن، جادو کردن",
+  "meaning_en": "to cast a spell over"
+ },
+ {
+  "id": "verhonzen",
+  "lb": "verhonzen",
+  "fr": "bousiller",
+  "de": "verschandeln",
+  "en": "blight",
+  "meaning_fa": "خراب کردن، لوس کردن (زشت کردن یا تباه ساختن)",
+  "meaning_en": "to blight"
+ },
+ {
+  "id": "verjoen",
+  "lb": "verjoen",
+  "fr": "chasser",
+  "de": "verjagen",
+  "en": "drive away",
+  "meaning_fa": "راندن، فراری دادن، دور کردن",
+  "meaning_en": "to drive away"
+ },
+ {
+  "id": "verjuppen",
+  "lb": "verjuppen",
+  "fr": "claquer",
+  "de": "verjubeln",
+  "en": "squander",
+  "meaning_fa": "ولخرجی کردن، هدر دادن (پول)",
+  "meaning_en": "to squander"
+ },
+ {
+  "id": "verkabelen",
+  "lb": "verkabelen",
+  "fr": "câbler",
+  "de": "verkabeln",
+  "en": "wire",
+  "meaning_fa": "کابل‌کشی کردن، متصل کردن (با کابل)",
+  "meaning_en": "to wire"
+ },
+ {
+  "id": "verkacken",
+  "lb": "verkacken",
+  "fr": "foirer",
+  "de": "verkacken",
+  "en": "mess up",
+  "meaning_fa": "خراب کردن، به گند کشیدن",
+  "meaning_en": "to mess up"
+ },
+ {
+  "id": "verkafen",
+  "lb": "verkafen",
+  "fr": "vendre",
+  "de": "verkaufen",
+  "en": "sell",
+  "meaning_fa": "فروختن",
+  "meaning_en": "to sell"
+ },
+ {
+  "id": "verkasematuckelen",
+  "lb": "verkasematuckelen",
+  "fr": "traiter",
+  "de": "zurichten",
+  "en": "botch",
+  "meaning_fa": "خراب کردن، کتک زدن، بدترکیب کردن",
+  "meaning_en": "to botch"
+ },
+ {
+  "id": "verkënnegen",
+  "lb": "verkënnegen",
+  "fr": "proclamer",
+  "de": "verkünden",
+  "en": "announce",
+  "meaning_fa": "اعلام کردن، اعلان کردن (عمومی)",
+  "meaning_en": "to announce"
+ },
+ {
+  "id": "verkennen",
+  "lb": "verkennen",
+  "fr": "méconnaître",
+  "de": "verkennen",
+  "en": "underrate",
+  "meaning_fa": "دست کم گرفتن، ارزش واقعی را نشناختن",
+  "meaning_en": "to underrate"
+ },
+ {
+  "id": "verkierperen",
+  "lb": "verkierperen",
+  "fr": "représenter",
+  "de": "verkörpern",
+  "en": "embody",
+  "meaning_fa": "تجسم بخشیدن، شخصیت‌پردازی کردن",
+  "meaning_en": "to embody"
+ },
+ {
+  "id": "verkierzen",
+  "lb": "verkierzen",
+  "fr": "raccourcir",
+  "de": "verkürzen",
+  "en": "shorten",
+  "meaning_fa": "کوتاه کردن، کاهش دادن",
+  "meaning_en": "to shorten"
+ },
+ {
+  "id": "verklappen",
+  "lb": "verklappen",
+  "fr": "bazarder",
+  "de": "verkloppen",
+  "en": "flog",
+  "meaning_fa": "قالب کردن، فروختن (با حیله)",
+  "meaning_en": "to flog"
+ },
+ {
+  "id": "verkleeden",
+  "lb": "verkleeden",
+  "fr": "déguiser",
+  "de": "verkleiden",
+  "en": "dress up",
+  "meaning_fa": "لباس مبدل پوشاندن، ناشناس کردن",
+  "meaning_en": "to dress up"
+ },
+ {
+  "id": "verkléngen",
+  "lb": "verkléngen",
+  "fr": "expirer",
+  "de": "verklingen",
+  "en": "fade away",
+  "meaning_fa": "محو شدن، خاموش شدن (صدا یا نُت موسیقی)",
+  "meaning_en": "to fade away"
+ },
+ {
+  "id": "verklengeren",
+  "lb": "verklengeren",
+  "fr": "réduire",
+  "de": "verkleinern",
+  "en": "reduce",
+  "meaning_fa": "کوچک کردن، کاهش دادن (اندازه)",
+  "meaning_en": "to reduce"
+ },
+ {
+  "id": "verknaschten",
+  "lb": "verknaschten",
+  "fr": "salir",
+  "de": "verschmutzen",
+  "en": "dirty",
+  "meaning_fa": "کثیف کردن، آلوده کردن",
+  "meaning_en": "to dirty"
+ },
+ {
+  "id": "verknauteren",
+  "lb": "verknauteren",
+  "fr": "chiffonner",
+  "de": "verknittern",
+  "en": "crumple",
+  "meaning_fa": "چروک کردن، مچاله کردن",
+  "meaning_en": "to crumple"
+ },
+ {
+  "id": "verknëppen",
+  "lb": "verknëppen",
+  "fr": "mettre en rapport",
+  "de": "verknüpfen",
+  "en": "link",
+  "meaning_fa": "پیوند دادن (به)، مرتبط کردن (با)",
+  "meaning_en": "to link (to)"
+ },
+ {
+  "id": "verkniwwelen",
+  "lb": "verkniwwelen",
+  "fr": "chiffonner",
+  "de": "verknittern",
+  "en": "crumple",
+  "meaning_fa": "چروک کردن، مچاله کردن",
+  "meaning_en": "to crumple"
+ },
+ {
+  "id": "verknujelen",
+  "lb": "verknujelen",
+  "fr": "chiffonner",
+  "de": "verknittern",
+  "en": "crumple",
+  "meaning_fa": "چروک کردن، مچاله کردن",
+  "meaning_en": "to crumple"
+ },
+ {
+  "id": "verkommen",
+  "lb": "verkommen",
+  "fr": "se délabrer",
+  "de": "verkommen",
+  "en": "decay",
+  "meaning_fa": "رو به ویرانی رفتن، متروک شدن، فرسوده شدن",
+  "meaning_en": "to fall into disrepair"
+ },
+ {
+  "id": "verkraften",
+  "lb": "verkraften",
+  "fr": "digérer",
+  "de": "verkraften",
+  "en": "cope with",
+  "meaning_fa": "کنار آمدن با، بهبود یافتن از",
+  "meaning_en": "to cope with"
+ },
+ {
+  "id": "verkuerbelen",
+  "lb": "verkuerbelen",
+  "fr": "décontenancer",
+  "de": "verwirren",
+  "en": "distract",
+  "meaning_fa": "گیج کردن، از خود بیرون آوردن",
+  "meaning_en": "to distract"
+ },
+ {
+  "id": "verlaangen",
+  "lb": "verlaangen",
+  "fr": "exiger",
+  "de": "verlangen",
+  "en": "demand",
+  "meaning_fa": "مطالبه کردن، خواستار شدن (با اصرار)",
+  "meaning_en": "to demand"
+ },
+ {
+  "id": "verlageren",
+  "lb": "verlageren",
+  "fr": "déplacer",
+  "de": "verlagern",
+  "en": "shift",
+  "meaning_fa": "جابه‌جا کردن، انتقال دادن، منتقل کردن",
+  "meaning_en": "to shift"
+ },
+ {
+  "id": "verlängeren",
+  "lb": "verlängeren",
+  "fr": "allonger",
+  "de": "verlängern",
+  "en": "lengthen",
+  "meaning_fa": "دراز کردن، طولانی‌تر کردن (از نظر مکانی)",
+  "meaning_en": "to lengthen"
+ },
+ {
+  "id": "verleeën",
+  "lb": "verleeën",
+  "fr": "poser",
+  "de": "verlegen",
+  "en": "lay",
+  "meaning_fa": "کشیدن، گذاشتن (لوله یا کابل)",
+  "meaning_en": "to lay"
+ },
+ {
+  "id": "verleegnen",
+  "lb": "verleegnen",
+  "fr": "renier",
+  "de": "verleugnen",
+  "en": "deny",
+  "meaning_fa": "انکار کردن، تکذیب کردن، دست کشیدن از (کسی یا چیزی)",
+  "meaning_en": "to deny"
+ },
+ {
+  "id": "verléieren",
+  "lb": "verléieren",
+  "fr": "perdre",
+  "de": "verlieren",
+  "en": "lose",
+  "meaning_fa": "گم کردن (یک شیء)",
+  "meaning_en": "to lose"
+ },
+ {
+  "id": "verléinen",
+  "lb": "verléinen",
+  "fr": "prêter",
+  "de": "ausleihen",
+  "en": "lend",
+  "meaning_fa": "قرض دادن، به امانت دادن، اجاره دادن",
+  "meaning_en": "to lend"
+ },
+ {
+  "id": "verletzen",
+  "lb": "verletzen",
+  "fr": "blesser",
+  "de": "verletzen",
+  "en": "injure",
+  "meaning_fa": "زخمی کردن، مجروح کردن",
+  "meaning_en": "to injure"
+ },
+ {
+  "id": "verloossen",
+  "lb": "verloossen",
+  "fr": "quitter",
+  "de": "verlassen",
+  "en": "leave",
+  "meaning_fa": "ترک کردن (مکانی)، رفتن از (جایی)",
+  "meaning_en": "to leave"
+ },
+ {
+  "id": "verlounen",
+  "lb": "verlounen",
+  "fr": "louer",
+  "de": "vermieten",
+  "en": "let",
+  "meaning_fa": "اجاره دادن (به)",
+  "meaning_en": "to let (to)"
+ },
+ {
+  "id": "verlousen",
+  "lb": "verlousen",
+  "fr": "mettre en jeu",
+  "de": "verlosen",
+  "en": "raffle",
+  "meaning_fa": "قرعه‌کشی کردن، به قرعه گذاشتن",
+  "meaning_en": "to raffle (off)"
+ },
+ {
+  "id": "verlueden",
+  "lb": "verlueden",
+  "fr": "charger",
+  "de": "verladen",
+  "en": "load",
+  "meaning_fa": "بار کردن، حمل کردن (کالا)",
+  "meaning_en": "to load"
+ },
+ {
+  "id": "vermaarten",
+  "lb": "vermaarten",
+  "fr": "commercialiser",
+  "de": "vermarkten",
+  "en": "market",
+  "meaning_fa": "بازاریابی کردن، عرضه کردن (در بازار)",
+  "meaning_en": "to market"
+ },
+ {
+  "id": "vermasselen",
+  "lb": "vermasselen",
+  "fr": "gâcher",
+  "de": "vermasseln",
+  "en": "mess up",
+  "meaning_fa": "خراب کردن، به هم زدن",
+  "meaning_en": "to mess up"
+ },
+ {
+  "id": "vermeiden",
+  "lb": "vermeiden",
+  "fr": "éviter",
+  "de": "vermeiden",
+  "en": "avoid",
+  "meaning_fa": "اجتناب کردن از، جلوگیری کردن از",
+  "meaning_en": "to avoid"
+ },
+ {
+  "id": "vermëschen",
+  "lb": "vermëschen",
+  "fr": "mélanger",
+  "de": "vermischen",
+  "en": "mix",
+  "meaning_fa": "مخلوط کردن، ترکیب کردن",
+  "meaning_en": "to mix"
+ },
+ {
+  "id": "vermëssen",
+  "lb": "vermëssen",
+  "fr": "regretter",
+  "de": "vermissen",
+  "en": "miss",
+  "meaning_fa": "دلتنگ بودن (برای)، آرزو کردن",
+  "meaning_en": "to miss"
+ },
+ {
+  "id": "vermëttelen",
+  "lb": "vermëttelen",
+  "fr": "transmettre",
+  "de": "vermitteln",
+  "en": "pass on",
+  "meaning_fa": "منتقل کردن، آموزش دادن (دانش یا اطلاعات)",
+  "meaning_en": "to pass on"
+ },
+ {
+  "id": "vermierken",
+  "lb": "vermierken",
+  "fr": "noter",
+  "de": "vermerken",
+  "en": "note",
+  "meaning_fa": "یادداشت کردن، ذکر کردن (به صورت کتبی)",
+  "meaning_en": "to note"
+ },
+ {
+  "id": "verminnen",
+  "lb": "verminnen",
+  "fr": "miner",
+  "de": "verminen",
+  "en": "mine",
+  "meaning_fa": "مین‌گذاری کردن",
+  "meaning_en": "to mine"
+ },
+ {
+  "id": "vermiwwelen",
+  "lb": "vermiwwelen",
+  "fr": "tabasser",
+  "de": "vermöbeln",
+  "en": "beat up",
+  "meaning_fa": "کتک زدن، لت و پار کردن",
+  "meaning_en": "to beat up"
+ },
+ {
+  "id": "vermoossen",
+  "lb": "vermoossen",
+  "fr": "mesurer",
+  "de": "vermessen",
+  "en": "measure",
+  "meaning_fa": "اندازه‌گیری کردن، مساحی کردن",
+  "meaning_en": "to measure"
+ },
+ {
+  "id": "vermurksen",
+  "lb": "vermurksen",
+  "fr": "bousiller",
+  "de": "vermurksen",
+  "en": "deform",
+  "meaning_fa": "خراب کردن، از کار انداختن (با فشار یا زور)",
+  "meaning_en": "to deform"
+ },
+ {
+  "id": "vermuten",
+  "lb": "vermuten",
+  "fr": "supposer",
+  "de": "vermuten",
+  "en": "suspect",
+  "meaning_fa": "گمان بردن، حدس زدن، پنداشتن",
+  "meaning_en": "to suspect"
+ },
+ {
+  "id": "vermuuschten",
+  "lb": "vermuuschten",
+  "fr": "pourrir",
+  "de": "vermodern",
+  "en": "moulder",
+  "meaning_fa": "کپک زدن، پوسیدن",
+  "meaning_en": "to go mouldy"
+ }
+]

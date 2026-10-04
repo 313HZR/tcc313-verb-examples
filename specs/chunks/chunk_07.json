@@ -1,0 +1,452 @@
+[
+ {
+  "id": "sécherstellen",
+  "lb": "sécherstellen",
+  "fr": "assurer",
+  "de": "sicherstellen",
+  "en": "ensure",
+  "meaning_fa": "تضمین کردن، اطمینان حاصل کردن",
+  "meaning_en": "to ensure"
+ },
+ {
+  "id": "seechen",
+  "lb": "seechen",
+  "fr": "pisser",
+  "de": "seichen",
+  "en": "piss",
+  "meaning_fa": "شاشیدن، ادرار کردن",
+  "meaning_en": "to piss"
+ },
+ {
+  "id": "seeën",
+  "lb": "seeën",
+  "fr": "scier",
+  "de": "sägen",
+  "en": "saw",
+  "meaning_fa": "اره کردن، بریدن با اره",
+  "meaning_en": "to saw"
+ },
+ {
+  "id": "seegelen",
+  "lb": "seegelen",
+  "fr": "naviguer",
+  "de": "segeln",
+  "en": "sail",
+  "meaning_fa": "بادبانی کردن (به عنوان ورزش)",
+  "meaning_en": "to sail"
+ },
+ {
+  "id": "seemen",
+  "lb": "seemen",
+  "fr": "ourler",
+  "de": "säumen",
+  "en": "hem",
+  "meaning_fa": "لبه‌دوزی کردن، دوردوزی کردن",
+  "meaning_en": "to hem"
+ },
+ {
+  "id": "seenen",
+  "lb": "seenen",
+  "fr": "bénir",
+  "de": "segnen",
+  "en": "bless",
+  "meaning_fa": "برکت دادن، تبرک کردن",
+  "meaning_en": "to bless"
+ },
+ {
+  "id": "sëfferen",
+  "lb": "sëfferen",
+  "fr": "suinter",
+  "de": "nässen",
+  "en": "weep",
+  "meaning_fa": "ترشح کردن، چکیدن (مایع یا چرک)",
+  "meaning_en": "to weep"
+ },
+ {
+  "id": "séien",
+  "lb": "séien",
+  "fr": "semer",
+  "de": "säen",
+  "en": "sow",
+  "meaning_fa": "کاشتن، بذر افشاندن",
+  "meaning_en": "to sow"
+ },
+ {
+  "id": "selektionéieren",
+  "lb": "selektionéieren",
+  "fr": "sélectionner",
+  "de": "auswählen",
+  "en": "select",
+  "meaning_fa": "انتخاب کردن (بر اساس معیارهای مشخص)",
+  "meaning_en": "to select"
+ },
+ {
+  "id": "senden",
+  "lb": "senden",
+  "fr": "diffuser",
+  "de": "senden",
+  "en": "broadcast",
+  "meaning_fa": "پخش کردن، ارسال کردن (از طریق امواج)",
+  "meaning_en": "to broadcast"
+ },
+ {
+  "id": "sënnegen",
+  "lb": "sënnegen",
+  "fr": "pécher",
+  "de": "sündigen",
+  "en": "sin",
+  "meaning_fa": "گناه کردن",
+  "meaning_en": "to sin"
+ },
+ {
+  "id": "sënneren",
+  "lb": "sënneren",
+  "fr": "trier",
+  "de": "sortieren",
+  "en": "sort",
+  "meaning_fa": "مرتب کردن، دسته‌بندی کردن",
+  "meaning_en": "to sort (out)"
+ },
+ {
+  "id": "sensibiliséieren",
+  "lb": "sensibiliséieren",
+  "fr": "sensibiliser",
+  "de": "sensibilisieren",
+  "en": "sensitise",
+  "meaning_fa": "آگاه کردن، حساس کردن (نسبت به موضوعی)",
+  "meaning_en": "to sensitise"
+ },
+ {
+  "id": "separéieren",
+  "lb": "separéieren",
+  "fr": "séparer",
+  "de": "trennen",
+  "en": "separate",
+  "meaning_fa": "جدا کردن، تفکیک کردن",
+  "meaning_en": "to separate"
+ },
+ {
+  "id": "sëtzen",
+  "lb": "sëtzen",
+  "fr": "être",
+  "de": "sitzen",
+  "en": "sit",
+  "meaning_fa": "نشستن، در حالت نشسته بودن",
+  "meaning_en": "to sit"
+ },
+ {
+  "id": "setzen",
+  "lb": "setzen",
+  "fr": "mettre",
+  "de": "setzen",
+  "en": "put",
+  "meaning_fa": "گذاشتن، قرار دادن، جا دادن",
+  "meaning_en": "to put"
+ },
+ {
+  "id": "sezéieren",
+  "lb": "sezéieren",
+  "fr": "disséquer",
+  "de": "sezieren",
+  "en": "dissect",
+  "meaning_fa": "تشریح کردن (جسد)",
+  "meaning_en": "to dissect"
+ },
+ {
+  "id": "sharen",
+  "lb": "sharen",
+  "fr": "partager",
+  "de": "teilen",
+  "en": "share",
+  "meaning_fa": "به اشتراک گذاشتن (پست در شبکه‌های اجتماعی)",
+  "meaning_en": "to share"
+ },
+ {
+  "id": "sichen",
+  "lb": "sichen",
+  "fr": "chercher",
+  "de": "suchen",
+  "en": "look for",
+  "meaning_fa": "جستجو کردن، دنبال چیزی گشتن (تلاش برای یافتن)",
+  "meaning_en": "to look for"
+ },
+ {
+  "id": "sickeren",
+  "lb": "sickeren",
+  "fr": "filtrer",
+  "de": "sickern",
+  "en": "seep",
+  "meaning_fa": "نشت کردن، تراوش کردن، نفوذ کردن (مایع)",
+  "meaning_en": "to seep"
+ },
+ {
+  "id": "siften",
+  "lb": "siften",
+  "fr": "tamiser",
+  "de": "sieben",
+  "en": "sieve",
+  "meaning_fa": "الک کردن، غربال کردن",
+  "meaning_en": "to sieve"
+ },
+ {
+  "id": "signaliséieren",
+  "lb": "signaliséieren",
+  "fr": "signaliser",
+  "de": "ausschildern",
+  "en": "signpost",
+  "meaning_fa": "علامت‌گذاری کردن، تابلو نصب کردن",
+  "meaning_en": "to signpost"
+ },
+ {
+  "id": "signéieren",
+  "lb": "signéieren",
+  "fr": "signer",
+  "de": "signieren",
+  "en": "sign",
+  "meaning_fa": "امضا کردن، اِهدا نوشتن (در کتاب)",
+  "meaning_en": "to sign"
+ },
+ {
+  "id": "simplifiéieren",
+  "lb": "simplifiéieren",
+  "fr": "simplifier",
+  "de": "simplifizieren",
+  "en": "simplify",
+  "meaning_fa": "ساده کردن، ساده‌سازی کردن",
+  "meaning_en": "to simplify"
+ },
+ {
+  "id": "simuléieren",
+  "lb": "simuléieren",
+  "fr": "simuler",
+  "de": "simulieren",
+  "en": "feign",
+  "meaning_fa": "وانمود کردن، تظاهر کردن، جعل کردن",
+  "meaning_en": "to feign"
+ },
+ {
+  "id": "sinn",
+  "lb": "sinn",
+  "fr": "être",
+  "de": "sein",
+  "en": "be",
+  "meaning_fa": "بودن (وجود داشتن)",
+  "meaning_en": "to be"
+ },
+ {
+  "id": "sippen",
+  "lb": "sippen",
+  "fr": "siroter",
+  "de": "süffeln",
+  "en": "sip",
+  "meaning_fa": "جرعه جرعه نوشیدن، مک زدن",
+  "meaning_en": "to sip"
+ },
+ {
+  "id": "skandaliséieren",
+  "lb": "skandaliséieren",
+  "fr": "scandaliser",
+  "de": "schockieren",
+  "en": "scandalize",
+  "meaning_fa": "رسوا کردن، شوکه کردن",
+  "meaning_en": "to scandalize"
+ },
+ {
+  "id": "skizzéieren",
+  "lb": "skizzéieren",
+  "fr": "esquisser",
+  "de": "skizzieren",
+  "en": "sketch",
+  "meaning_fa": "طرح کشیدن، به‌اختصار بیان کردن",
+  "meaning_en": "to sketch"
+ },
+ {
+  "id": "sniffen",
+  "lb": "sniffen",
+  "fr": "snifer",
+  "de": "sniffen",
+  "en": "snort",
+  "meaning_fa": "استنشاق کردن (مواد مخدر)",
+  "meaning_en": "to snort"
+ },
+ {
+  "id": "soen",
+  "lb": "soen",
+  "fr": "dire",
+  "de": "sagen",
+  "en": "say",
+  "meaning_fa": "گفتن (تلفظ کردن، بیان کردن)",
+  "meaning_en": "to say"
+ },
+ {
+  "id": "soldéieren",
+  "lb": "soldéieren",
+  "fr": "solder",
+  "de": "verkaufen",
+  "en": "sell off",
+  "meaning_fa": "به قیمت تخفیف‌خورده فروختن، حراج کردن",
+  "meaning_en": "to sell off"
+ },
+ {
+  "id": "sollen",
+  "lb": "sollen",
+  "fr": "devoir",
+  "de": "sollen",
+  "en": "should",
+  "meaning_fa": "باید، بهتر است (الزام یا توصیه)",
+  "meaning_en": "should"
+ },
+ {
+  "id": "solperen",
+  "lb": "solperen",
+  "fr": "saler",
+  "de": "pökeln",
+  "en": "salt",
+  "meaning_fa": "نمک‌سود کردن، در آب‌نمک خواباندن",
+  "meaning_en": "to salt"
+ },
+ {
+  "id": "sondéieren",
+  "lb": "sondéieren",
+  "fr": "sonder",
+  "de": "sondieren",
+  "en": "sound out",
+  "meaning_fa": "کاوش کردن، سنجیدن (با احتیاط بررسی کردن)",
+  "meaning_en": "to sound out"
+ },
+ {
+  "id": "sortéieren",
+  "lb": "sortéieren",
+  "fr": "trier",
+  "de": "sortieren",
+  "en": "sort",
+  "meaning_fa": "مرتب کردن، دسته‌بندی کردن",
+  "meaning_en": "to sort"
+ },
+ {
+  "id": "soueren",
+  "lb": "soueren",
+  "fr": "gémir",
+  "de": "wimmern",
+  "en": "whimper",
+  "meaning_fa": "ناله کردن، زمزمه‌وار گریستن",
+  "meaning_en": "to whimper"
+ },
+ {
+  "id": "soupçonéieren",
+  "lb": "soupçonéieren",
+  "fr": "soupçonner",
+  "de": "verdächtigen",
+  "en": "suspect",
+  "meaning_fa": "مظنون دانستن، به کسی سوءظن داشتن",
+  "meaning_en": "to suspect"
+ },
+ {
+  "id": "spaassen",
+  "lb": "spaassen",
+  "fr": "plaisanter",
+  "de": "spaßen",
+  "en": "joke",
+  "meaning_fa": "شوخی کردن، مزاح کردن",
+  "meaning_en": "to joke"
+ },
+ {
+  "id": "spachtelen",
+  "lb": "spachtelen",
+  "fr": "colmater",
+  "de": "spachteln",
+  "en": "fill",
+  "meaning_fa": "بتونه کردن، صاف کردن (با کاردک یا بتونه)",
+  "meaning_en": "to fill (in)"
+ },
+ {
+  "id": "spadséieren",
+  "lb": "spadséieren",
+  "fr": "se promener",
+  "de": "spazieren",
+  "en": "walk",
+  "meaning_fa": "پیاده‌روی کردن، گردش پیاده رفتن",
+  "meaning_en": "to go for a walk"
+ },
+ {
+  "id": "späicheren",
+  "lb": "späicheren",
+  "fr": "stocker",
+  "de": "speichern",
+  "en": "store",
+  "meaning_fa": "ذخیره کردن، نگه داشتن",
+  "meaning_en": "to store"
+ },
+ {
+  "id": "späizen",
+  "lb": "späizen",
+  "fr": "cracher",
+  "de": "spucken",
+  "en": "spit",
+  "meaning_fa": "تف کردن، پرتاب کردن (از دهان)",
+  "meaning_en": "to spit (out)"
+ },
+ {
+  "id": "spanen",
+  "lb": "spanen",
+  "fr": "tendre",
+  "de": "spannen",
+  "en": "stretch",
+  "meaning_fa": "کشیدن، سفت کردن (و محکم بستن)",
+  "meaning_en": "to stretch"
+ },
+ {
+  "id": "spannen",
+  "lb": "spannen",
+  "fr": "filer",
+  "de": "spinnen",
+  "en": "spin",
+  "meaning_fa": "ریسیدن (با چرخ ریسندگی)",
+  "meaning_en": "to spin"
+ },
+ {
+  "id": "spären",
+  "lb": "spären",
+  "fr": "fermer",
+  "de": "sperren",
+  "en": "close",
+  "meaning_fa": "بستن، مسدود کردن (جاده، مسیر، گذرگاه)",
+  "meaning_en": "to close"
+ },
+ {
+  "id": "spekuléieren",
+  "lb": "spekuléieren",
+  "fr": "compter sur",
+  "de": "spekulieren",
+  "en": "speculate",
+  "meaning_fa": "گمانه‌زنی کردن، حدس زدن",
+  "meaning_en": "to speculate"
+ },
+ {
+  "id": "spellen",
+  "lb": "spellen",
+  "fr": "écosser",
+  "de": "enthülsen",
+  "en": "pod",
+  "meaning_fa": "غلاف کندن (از حبوبات)، پوست کندن (نخود و لوبیا)",
+  "meaning_en": "to pod"
+ },
+ {
+  "id": "spenden",
+  "lb": "spenden",
+  "fr": "donner",
+  "de": "spenden",
+  "en": "donate",
+  "meaning_fa": "اهدا کردن، بخشیدن",
+  "meaning_en": "to donate"
+ },
+ {
+  "id": "spéngelen",
+  "lb": "spéngelen",
+  "fr": "épingler",
+  "de": "abstecken",
+  "en": "pin",
+  "meaning_fa": "سنجاق زدن، با سنجاق محکم کردن",
+  "meaning_en": "to pin"
+ }
+]

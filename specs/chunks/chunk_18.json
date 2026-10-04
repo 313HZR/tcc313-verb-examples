@@ -1,0 +1,452 @@
+[
+ {
+  "id": "weiderbréngen",
+  "lb": "weiderbréngen",
+  "fr": "avancer",
+  "de": "weiterbringen",
+  "en": "help along",
+  "meaning_fa": "کمک کردن به پیشرفت، مفید واقع شدن (برای کسی)",
+  "meaning_en": "to help along"
+ },
+ {
+  "id": "weiderentwéckelen",
+  "lb": "weiderentwéckelen",
+  "fr": "développer",
+  "de": "weiterentwickeln",
+  "en": "develop",
+  "meaning_fa": "توسعه دادن، تکمیل کردن (بیشتر پرورش دادن)",
+  "meaning_en": "to develop further"
+ },
+ {
+  "id": "weidererzielen",
+  "lb": "weidererzielen",
+  "fr": "reprendre",
+  "de": "weitererzählen",
+  "en": "repeat",
+  "meaning_fa": "ادامه دادن به تعریف کردن، دنباله داستان را گفتن",
+  "meaning_en": "to continue telling"
+ },
+ {
+  "id": "weiderfueren",
+  "lb": "weiderfueren",
+  "fr": "continuer",
+  "de": "weiterfahren",
+  "en": "continue",
+  "meaning_fa": "ادامه دادن به رانندگی، به راه خود رفتن (راننده یا وسیله نقلیه)",
+  "meaning_en": "to drive on"
+ },
+ {
+  "id": "weiderginn",
+  "lb": "weiderginn",
+  "fr": "faire passer",
+  "de": "weitergeben",
+  "en": "pass on",
+  "meaning_fa": "منتقل کردن، رساندن (به دیگری)",
+  "meaning_en": "to pass on"
+ },
+ {
+  "id": "weidergoen",
+  "lb": "weidergoen",
+  "fr": "passer",
+  "de": "weitergehen",
+  "en": "go on",
+  "meaning_fa": "به راه خود ادامه دادن، رد شدن (بدون توقف)",
+  "meaning_en": "to go on"
+ },
+ {
+  "id": "weiderhëllefen",
+  "lb": "weiderhëllefen",
+  "fr": "aider",
+  "de": "weiterhelfen",
+  "en": "help",
+  "meaning_fa": "کمک کردن، یاری رساندن (مفید بودن برای کسی)",
+  "meaning_en": "to help (along)"
+ },
+ {
+  "id": "weiderkommen",
+  "lb": "weiderkommen",
+  "fr": "avancer",
+  "de": "weiterkommen",
+  "en": "progress",
+  "meaning_fa": "پیش رفتن، جلو رفتن (حرکت به سمت جلو)",
+  "meaning_en": "to progress"
+ },
+ {
+  "id": "weiderleeden",
+  "lb": "weiderleeden",
+  "fr": "transmettre",
+  "de": "weiterleiten",
+  "en": "pass on",
+  "meaning_fa": "ارسال کردن (به)، انتقال دادن (به)",
+  "meaning_en": "to pass on (to)"
+ },
+ {
+  "id": "weidermaachen",
+  "lb": "weidermaachen",
+  "fr": "continuer",
+  "de": "weitermachen",
+  "en": "continue",
+  "meaning_fa": "ادامه دادن (به فعالیتی)",
+  "meaning_en": "to continue (with)"
+ },
+ {
+  "id": "weiderreechen",
+  "lb": "weiderreechen",
+  "fr": "passer",
+  "de": "weiterreichen",
+  "en": "pass",
+  "meaning_fa": "منتقل کردن، دست به دست رساندن",
+  "meaning_en": "to pass (on)"
+ },
+ {
+  "id": "weiderschécken",
+  "lb": "weiderschécken",
+  "fr": "transmettre",
+  "de": "weiterschicken",
+  "en": "forward",
+  "meaning_fa": "ارسال کردن (به فرد یا بخش دیگر)",
+  "meaning_en": "to forward"
+ },
+ {
+  "id": "weidersoen",
+  "lb": "weidersoen",
+  "fr": "répéter",
+  "de": "weitersagen",
+  "en": "repeat",
+  "meaning_fa": "بازگو کردن، فاش کردن",
+  "meaning_en": "to repeat"
+ },
+ {
+  "id": "weiderverbreeden",
+  "lb": "weiderverbreeden",
+  "fr": "propager",
+  "de": "weiterverbreiten",
+  "en": "spread",
+  "meaning_fa": "منتشر کردن، پراکندن",
+  "meaning_en": "to spread"
+ },
+ {
+  "id": "weiderverfollegen",
+  "lb": "weiderverfollegen",
+  "fr": "poursuivre",
+  "de": "weiterverfolgen",
+  "en": "follow up",
+  "meaning_fa": "پیگیری کردن، دنبال کردن",
+  "meaning_en": "to follow up"
+ },
+ {
+  "id": "weiderverierwen",
+  "lb": "weiderverierwen",
+  "fr": "transmettre",
+  "de": "weitervererben",
+  "en": "pass on",
+  "meaning_fa": "به ارث رساندن، منتقل کردن (از راه ارث)",
+  "meaning_en": "to pass on"
+ },
+ {
+  "id": "weiderverkafen",
+  "lb": "weiderverkafen",
+  "fr": "revendre",
+  "de": "weiterverkaufen",
+  "en": "resell",
+  "meaning_fa": "دوباره فروختن، فروش مجدد کردن",
+  "meaning_en": "to resell"
+ },
+ {
+  "id": "weiderverlounen",
+  "lb": "weiderverlounen",
+  "fr": "sous-louer",
+  "de": "weitervermieten",
+  "en": "sublet",
+  "meaning_fa": "اجاره دادن به دیگری، واگذاری اجاره",
+  "meaning_en": "to sublet"
+ },
+ {
+  "id": "weiderverschaffen",
+  "lb": "weiderverschaffen",
+  "fr": "transformer",
+  "de": "weiterverarbeiten",
+  "en": "process",
+  "meaning_fa": "فرآوری (بیشتر)، تبدیل (به محصول نهایی)",
+  "meaning_en": "to process (further)"
+ },
+ {
+  "id": "weiderverzielen",
+  "lb": "weiderverzielen",
+  "fr": "reprendre",
+  "de": "weitererzählen",
+  "en": "repeat",
+  "meaning_fa": "ادامه دادن به تعریف کردن (داستان)",
+  "meaning_en": "to continue telling"
+ },
+ {
+  "id": "weiderzielen",
+  "lb": "weiderzielen",
+  "fr": "reprendre",
+  "de": "weitererzählen",
+  "en": "repeat",
+  "meaning_fa": "ادامه دادن به تعریف کردن (داستان)",
+  "meaning_en": "to continue telling"
+ },
+ {
+  "id": "wéidoen",
+  "lb": "wéidoen",
+  "fr": "faire mal",
+  "de": "wehtun",
+  "en": "hurt",
+  "meaning_fa": "درد کردن، آزردن (ایجاد درد جسمی)",
+  "meaning_en": "to hurt"
+ },
+ {
+  "id": "weien",
+  "lb": "weien",
+  "fr": "consacrer",
+  "de": "weihen",
+  "en": "consecrate",
+  "meaning_fa": "تقدیس کردن، متبرک ساختن (یک شیء)",
+  "meaning_en": "to consecrate"
+ },
+ {
+  "id": "wéien",
+  "lb": "wéien",
+  "fr": "bercer",
+  "de": "wiegen",
+  "en": "rock",
+  "meaning_fa": "تاب دادن، گهواره کردن (کودک)",
+  "meaning_en": "to rock"
+ },
+ {
+  "id": "wéimeren",
+  "lb": "wéimeren",
+  "fr": "geindre",
+  "de": "wimmern",
+  "en": "whimper",
+  "meaning_fa": "ناله کردن، زاری کردن",
+  "meaning_en": "to whimper"
+ },
+ {
+  "id": "weisen",
+  "lb": "weisen",
+  "fr": "montrer",
+  "de": "zeigen",
+  "en": "show",
+  "meaning_fa": "نشان دادن (برای دیدن)",
+  "meaning_en": "to show"
+ },
+ {
+  "id": "wëllen",
+  "lb": "wëllen",
+  "fr": "vouloir",
+  "de": "wollen",
+  "en": "want",
+  "meaning_fa": "خواستن (درخواست کردن)",
+  "meaning_en": "to want"
+ },
+ {
+  "id": "wénken",
+  "lb": "wénken",
+  "fr": "faire signe",
+  "de": "winken",
+  "en": "wave",
+  "meaning_fa": "دست تکان دادن (به نشانهٔ سلام یا علامت)",
+  "meaning_en": "to wave (to)"
+ },
+ {
+  "id": "wënschen",
+  "lb": "wënschen",
+  "fr": "souhaiter",
+  "de": "wünschen",
+  "en": "wish",
+  "meaning_fa": "آرزو کردن (برای دیگری)",
+  "meaning_en": "to wish"
+ },
+ {
+  "id": "werfen",
+  "lb": "werfen",
+  "fr": "jeter",
+  "de": "werfen",
+  "en": "throw",
+  "meaning_fa": "انداختن، پرتاب کردن",
+  "meaning_en": "to throw"
+ },
+ {
+  "id": "wëschen",
+  "lb": "wëschen",
+  "fr": "enlever",
+  "de": "wegwischen",
+  "en": "wipe",
+  "meaning_fa": "کشیدن (با چیزی) روی (پاک کردن با مالش)",
+  "meaning_en": "to wipe (with)"
+ },
+ {
+  "id": "wëssen",
+  "lb": "wëssen",
+  "fr": "savoir",
+  "de": "wissen",
+  "en": "know",
+  "meaning_fa": "دانستن (اطلاعات داشتن)",
+  "meaning_en": "to know"
+ },
+ {
+  "id": "wetten",
+  "lb": "wetten",
+  "fr": "parier",
+  "de": "wetten",
+  "en": "bet",
+  "meaning_fa": "شرط بستن (در یک شرط‌بندی)",
+  "meaning_en": "to bet"
+ },
+ {
+  "id": "wichsen",
+  "lb": "wichsen",
+  "fr": "cirer",
+  "de": "bohnern",
+  "en": "wax",
+  "meaning_fa": "واکس زدن، جلا دادن",
+  "meaning_en": "to wax"
+ },
+ {
+  "id": "widderhuelen",
+  "lb": "widderhuelen",
+  "fr": "répéter",
+  "de": "wiederholen",
+  "en": "repeat",
+  "meaning_fa": "تکرار کردن (دوباره گفتن یا انجام دادن)",
+  "meaning_en": "to repeat"
+ },
+ {
+  "id": "widderleeën",
+  "lb": "widderleeën",
+  "fr": "réfuter",
+  "de": "widerlegen",
+  "en": "refute",
+  "meaning_fa": "رد کردن، ابطال کردن (با دلیل)",
+  "meaning_en": "to refute"
+ },
+ {
+  "id": "widderruffen",
+  "lb": "widderruffen",
+  "fr": "révoquer",
+  "de": "widerrufen",
+  "en": "withdraw",
+  "meaning_fa": "پس گرفتن، لغو کردن، رجوع کردن (از گفته یا تصمیم)",
+  "meaning_en": "to withdraw"
+ },
+ {
+  "id": "widderspriechen",
+  "lb": "widderspriechen",
+  "fr": "contredire",
+  "de": "widersprechen",
+  "en": "contradict",
+  "meaning_fa": "در تناقض بودن با، مغایرت داشتن با",
+  "meaning_en": "to conflict with"
+ },
+ {
+  "id": "widderstoen",
+  "lb": "widderstoen",
+  "fr": "résister",
+  "de": "widerstehen",
+  "en": "resist",
+  "meaning_fa": "مقاومت کردن در برابر (وسوسه)، تسلیم نشدن",
+  "meaning_en": "to resist"
+ },
+ {
+  "id": "widmen",
+  "lb": "widmen",
+  "fr": "dédier",
+  "de": "widmen",
+  "en": "dedicate",
+  "meaning_fa": "تقدیم کردن، اهدا کردن (به افتخار کسی)",
+  "meaning_en": "to dedicate"
+ },
+ {
+  "id": "wielen",
+  "lb": "wielen",
+  "fr": "indiquer",
+  "de": "wählen",
+  "en": "pick",
+  "meaning_fa": "انتخاب کردن، برگزیدن (یک گزینه)",
+  "meaning_en": "to pick"
+ },
+ {
+  "id": "wieren",
+  "lb": "wieren",
+  "fr": "intervenir",
+  "de": "eingreifen",
+  "en": "intervene",
+  "meaning_fa": "مداخله کردن، دخالت کردن، وارد عمل شدن",
+  "meaning_en": "to intervene"
+ },
+ {
+  "id": "wierfelen",
+  "lb": "wierfelen",
+  "fr": "faire",
+  "de": "würfeln",
+  "en": "throw",
+  "meaning_fa": "آوردن (عدد مشخصی با انداختن تاس)",
+  "meaning_en": "to throw"
+ },
+ {
+  "id": "wierken",
+  "lb": "wierken",
+  "fr": "agir",
+  "de": "wirken",
+  "en": "work",
+  "meaning_fa": "اثر کردن، تأثیر گذاشتن، مؤثر بودن",
+  "meaning_en": "to work"
+ },
+ {
+  "id": "wiermen",
+  "lb": "wiermen",
+  "fr": "chauffer",
+  "de": "wärmen",
+  "en": "warm up",
+  "meaning_fa": "گرم کردن، گرم نمودن",
+  "meaning_en": "to warm up"
+ },
+ {
+  "id": "wierzen",
+  "lb": "wierzen",
+  "fr": "assaisonner",
+  "de": "würzen",
+  "en": "season",
+  "meaning_fa": "ادویه زدن به (غذا)، چاشنی کردن",
+  "meaning_en": "to season"
+ },
+ {
+  "id": "wiesselen",
+  "lb": "wiesselen",
+  "fr": "changer",
+  "de": "wechseln",
+  "en": "change",
+  "meaning_fa": "تغییر دادن (به چیزی رفتن، تغییر کردن به)",
+  "meaning_en": "to change"
+ },
+ {
+  "id": "wiewen",
+  "lb": "wiewen",
+  "fr": "tisser",
+  "de": "weben",
+  "en": "weave",
+  "meaning_fa": "بافتن",
+  "meaning_en": "to weave"
+ },
+ {
+  "id": "wiheren",
+  "lb": "wiheren",
+  "fr": "hennir",
+  "de": "wiehern",
+  "en": "neigh",
+  "meaning_fa": "شیهه کشیدن",
+  "meaning_en": "to neigh"
+ },
+ {
+  "id": "winnen",
+  "lb": "winnen",
+  "fr": "éduquer",
+  "de": "erziehen",
+  "en": "bring up",
+  "meaning_fa": "عادت دادن به، خو دادن به",
+  "meaning_en": "to get used to"
+ }
+]

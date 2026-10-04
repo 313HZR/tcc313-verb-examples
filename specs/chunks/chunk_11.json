@@ -1,0 +1,452 @@
+[
+ {
+  "id": "veranstalten",
+  "lb": "veranstalten",
+  "fr": "organiser",
+  "de": "veranstalten",
+  "en": "organize",
+  "meaning_fa": "برگزار کردن، سازماندهی کردن (آماده کردن)",
+  "meaning_en": "to organize"
+ },
+ {
+  "id": "veräntwerten",
+  "lb": "veräntwerten",
+  "fr": "assumer",
+  "de": "verantworten",
+  "en": "answer",
+  "meaning_fa": "مسئولیت چیزی را پذیرفتن، پاسخگوی چیزی بودن",
+  "meaning_en": "to take responsibility for"
+ },
+ {
+  "id": "veräusseren",
+  "lb": "veräusseren",
+  "fr": "céder",
+  "de": "veräußern",
+  "en": "cede",
+  "meaning_fa": "واگذار کردن، فروختن",
+  "meaning_en": "to cede"
+ },
+ {
+  "id": "verbabbelen",
+  "lb": "verbabbelen",
+  "fr": "se couper",
+  "de": "verquatschen",
+  "en": "blab",
+  "meaning_fa": "راز را لو دادن، زبان درازی کردن",
+  "meaning_en": "to blab"
+ },
+ {
+  "id": "verbannen",
+  "lb": "verbannen",
+  "fr": "bander",
+  "de": "verbinden",
+  "en": "bandage",
+  "meaning_fa": "باند پیچیدن، چشم‌بند زدن",
+  "meaning_en": "to bandage"
+ },
+ {
+  "id": "verbarrikadéieren",
+  "lb": "verbarrikadéieren",
+  "fr": "barricader",
+  "de": "verbarrikadieren",
+  "en": "barricade",
+  "meaning_fa": "سنگربندی کردن",
+  "meaning_en": "to barricade"
+ },
+ {
+  "id": "verbauen",
+  "lb": "verbauen",
+  "fr": "urbaniser",
+  "de": "zubauen",
+  "en": "build up",
+  "meaning_fa": "ساخت‌وساز کردن، شهرک‌سازی کردن",
+  "meaning_en": "to build up"
+ },
+ {
+  "id": "verbéien",
+  "lb": "verbéien",
+  "fr": "tordre",
+  "de": "verbiegen",
+  "en": "bend",
+  "meaning_fa": "خم کردن، کج کردن",
+  "meaning_en": "to bend"
+ },
+ {
+  "id": "verbéissen",
+  "lb": "verbéissen",
+  "fr": "purger",
+  "de": "verbüßen",
+  "en": "serve",
+  "meaning_fa": "تحمل کردن (مجازات)، کشیدن (حبس)",
+  "meaning_en": "to serve"
+ },
+ {
+  "id": "verbesseren",
+  "lb": "verbesseren",
+  "fr": "améliorer",
+  "de": "verbessern",
+  "en": "improve",
+  "meaning_fa": "بهبود بخشیدن، بهتر کردن",
+  "meaning_en": "to improve"
+ },
+ {
+  "id": "verbëtzen",
+  "lb": "verbëtzen",
+  "fr": "gaspiller",
+  "de": "verschwenden",
+  "en": "waste",
+  "meaning_fa": "هدر دادن، تلف کردن",
+  "meaning_en": "to waste"
+ },
+ {
+  "id": "verbidden",
+  "lb": "verbidden",
+  "fr": "interdire",
+  "de": "verbieten",
+  "en": "forbid",
+  "meaning_fa": "منع کردن، ممنوع کردن",
+  "meaning_en": "to forbid"
+ },
+ {
+  "id": "verblatzen",
+  "lb": "verblatzen",
+  "fr": "se décolorer",
+  "de": "verblassen",
+  "en": "fade",
+  "meaning_fa": "محو شدن، کم‌رنگ شدن (رنگ)",
+  "meaning_en": "to fade"
+ },
+ {
+  "id": "verblenden",
+  "lb": "verblenden",
+  "fr": "éblouir",
+  "de": "blenden",
+  "en": "dazzle",
+  "meaning_fa": "خیره کردن، کور کردن (دیدگان)",
+  "meaning_en": "to dazzle"
+ },
+ {
+  "id": "verbocken",
+  "lb": "verbocken",
+  "fr": "foirer",
+  "de": "verbocken",
+  "en": "mess up",
+  "meaning_fa": "خراب کردن، خاک بر سر کاری زدن",
+  "meaning_en": "to mess up"
+ },
+ {
+  "id": "verbotzen",
+  "lb": "verbotzen",
+  "fr": "crépir",
+  "de": "verputzen",
+  "en": "render",
+  "meaning_fa": "اندود کردن، گچ‌کاری کردن",
+  "meaning_en": "to render"
+ },
+ {
+  "id": "verbrauchen",
+  "lb": "verbrauchen",
+  "fr": "consommer",
+  "de": "verbrauchen",
+  "en": "use",
+  "meaning_fa": "مصرف کردن، استفاده کردن",
+  "meaning_en": "to use"
+ },
+ {
+  "id": "verbreeden",
+  "lb": "verbreeden",
+  "fr": "répandre",
+  "de": "verbreiten",
+  "en": "spread",
+  "meaning_fa": "پراکندن، گسترش دادن",
+  "meaning_en": "to spread"
+ },
+ {
+  "id": "verbréngen",
+  "lb": "verbréngen",
+  "fr": "passer",
+  "de": "verbringen",
+  "en": "spend",
+  "meaning_fa": "گذراندن (وقت)",
+  "meaning_en": "to spend"
+ },
+ {
+  "id": "verbrennen",
+  "lb": "verbrennen",
+  "fr": "brûler",
+  "de": "verbrennen",
+  "en": "burn",
+  "meaning_fa": "سوزاندن (نابود کردن با آتش)",
+  "meaning_en": "to burn"
+ },
+ {
+  "id": "verbriechen",
+  "lb": "verbriechen",
+  "fr": "commettre",
+  "de": "verbrechen",
+  "en": "commit",
+  "meaning_fa": "مرتکب شدن، انجام دادن (جنایت)",
+  "meaning_en": "to commit"
+ },
+ {
+  "id": "verbrueden",
+  "lb": "verbrueden",
+  "fr": "fausser",
+  "de": "vermurksen",
+  "en": "deform",
+  "meaning_fa": "خراب کردن، از شکل درآوردن (با فشار)",
+  "meaning_en": "to deform"
+ },
+ {
+  "id": "verdächtegen",
+  "lb": "verdächtegen",
+  "fr": "soupçonner",
+  "de": "verdächtigen",
+  "en": "suspect",
+  "meaning_fa": "مظنون دانستن، به کسی ظن بردن",
+  "meaning_en": "to suspect"
+ },
+ {
+  "id": "verdäitlechen",
+  "lb": "verdäitlechen",
+  "fr": "clarifier",
+  "de": "verdeutlichen",
+  "en": "clarify",
+  "meaning_fa": "روشن کردن، توضیح دادن، تبیین کردن",
+  "meaning_en": "to clarify"
+ },
+ {
+  "id": "verdäiwelen",
+  "lb": "verdäiwelen",
+  "fr": "diaboliser",
+  "de": "verteufeln",
+  "en": "demonize",
+  "meaning_fa": "شیطانی جلوه دادن، دیو خواندن",
+  "meaning_en": "to demonize"
+ },
+ {
+  "id": "verdamen",
+  "lb": "verdamen",
+  "fr": "fustiger",
+  "de": "verdammen",
+  "en": "condemn",
+  "meaning_fa": "محکوم کردن (سرزنش کردن، رد کردن)",
+  "meaning_en": "to condemn"
+ },
+ {
+  "id": "verdämpen",
+  "lb": "verdämpen",
+  "fr": "se consumer",
+  "de": "verdampfen",
+  "en": "evaporate",
+  "meaning_fa": "تبخیر شدن، بخار شدن",
+  "meaning_en": "to evaporate"
+ },
+ {
+  "id": "verdauen",
+  "lb": "verdauen",
+  "fr": "digérer",
+  "de": "verdauen",
+  "en": "digest",
+  "meaning_fa": "هضم کردن (غذا)",
+  "meaning_en": "to digest"
+ },
+ {
+  "id": "verdecken",
+  "lb": "verdecken",
+  "fr": "couvrir",
+  "de": "verdecken",
+  "en": "cover up",
+  "meaning_fa": "پوشاندن، پنهان کردن",
+  "meaning_en": "to cover up"
+ },
+ {
+  "id": "verdeelen",
+  "lb": "verdeelen",
+  "fr": "répartir",
+  "de": "verteilen",
+  "en": "spread out",
+  "meaning_fa": "پخش کردن، گستراندن",
+  "meaning_en": "to spread out"
+ },
+ {
+  "id": "verdéiwen",
+  "lb": "verdéiwen",
+  "fr": "approfondir",
+  "de": "vertiefen",
+  "en": "develop",
+  "meaning_fa": "عمیق‌تر کردن، بسط دادن (پرداختن جدی‌تر به موضوعی)",
+  "meaning_en": "to develop"
+ },
+ {
+  "id": "verdéngen",
+  "lb": "verdéngen",
+  "fr": "gagner",
+  "de": "verdienen",
+  "en": "earn",
+  "meaning_fa": "درآوردن، کسب کردن (پول)",
+  "meaning_en": "to earn"
+ },
+ {
+  "id": "verdënnen",
+  "lb": "verdënnen",
+  "fr": "diluer",
+  "de": "verdünnen",
+  "en": "dilute",
+  "meaning_fa": "رقیق کردن، آب کردن",
+  "meaning_en": "to dilute"
+ },
+ {
+  "id": "verdiebelen",
+  "lb": "verdiebelen",
+  "fr": "plier",
+  "de": "verbiegen",
+  "en": "bend",
+  "meaning_fa": "خم کردن (تغییر شکل دادن)",
+  "meaning_en": "to bend"
+ },
+ {
+  "id": "verdierwen",
+  "lb": "verdierwen",
+  "fr": "gâcher",
+  "de": "verderben",
+  "en": "spoil",
+  "meaning_fa": "خراب کردن، تباه کردن (از بین بردن)",
+  "meaning_en": "to spoil"
+ },
+ {
+  "id": "verdillegen",
+  "lb": "verdillegen",
+  "fr": "détruire",
+  "de": "vertilgen",
+  "en": "destroy",
+  "meaning_fa": "نابود کردن، ریشه‌کن کردن",
+  "meaning_en": "to destroy"
+ },
+ {
+  "id": "verdonkelen",
+  "lb": "verdonkelen",
+  "fr": "obscurcir",
+  "de": "verdunkeln",
+  "en": "black out",
+  "meaning_fa": "تاریک کردن، تیره کردن",
+  "meaning_en": "to black out"
+ },
+ {
+  "id": "verdonneren",
+  "lb": "verdonneren",
+  "fr": "engueuler",
+  "de": "ausschimpfen",
+  "en": "scold",
+  "meaning_fa": "سرزنش کردن، دعوا کردن",
+  "meaning_en": "to give a rollicking"
+ },
+ {
+  "id": "verdrängen",
+  "lb": "verdrängen",
+  "fr": "évincer",
+  "de": "verdrängen",
+  "en": "drive out",
+  "meaning_fa": "بیرون راندن، جایگزین کردن",
+  "meaning_en": "to drive out"
+ },
+ {
+  "id": "verdréchnen",
+  "lb": "verdréchnen",
+  "fr": "se dessécher",
+  "de": "vertrocknen",
+  "en": "dry out",
+  "meaning_fa": "خشک شدن، کاملاً خشک شدن",
+  "meaning_en": "to dry out"
+ },
+ {
+  "id": "verdrécken",
+  "lb": "verdrécken",
+  "fr": "ingurgiter",
+  "de": "verdrücken",
+  "en": "polish off",
+  "meaning_fa": "بلعیدن، با اشتها خوردن",
+  "meaning_en": "to polish off"
+ },
+ {
+  "id": "verdrecksen",
+  "lb": "verdrecksen",
+  "fr": "salir",
+  "de": "verdrecken",
+  "en": "dirty",
+  "meaning_fa": "کثیف کردن، آلوده کردن",
+  "meaning_en": "to dirty"
+ },
+ {
+  "id": "verdréien",
+  "lb": "verdréien",
+  "fr": "tordre",
+  "de": "verdrehen",
+  "en": "twist",
+  "meaning_fa": "پیچاندن (مفصل)، در رفتن (مفصل)",
+  "meaning_en": "to twist"
+ },
+ {
+  "id": "verdréissen",
+  "lb": "verdréissen",
+  "fr": "dépiter",
+  "de": "verdrießen",
+  "en": "put out",
+  "meaning_fa": "آزردن، ناراحت کردن",
+  "meaning_en": "to put out"
+ },
+ {
+  "id": "verdreiwen",
+  "lb": "verdreiwen",
+  "fr": "chasser",
+  "de": "vertreiben",
+  "en": "drive away",
+  "meaning_fa": "راندن، فراری دادن",
+  "meaning_en": "to drive away"
+ },
+ {
+  "id": "verdroen",
+  "lb": "verdroen",
+  "fr": "supporter",
+  "de": "vertragen",
+  "en": "stomach",
+  "meaning_fa": "تحمل کردن، تاب آوردن",
+  "meaning_en": "to stomach"
+ },
+ {
+  "id": "verdruddelen",
+  "lb": "verdruddelen",
+  "fr": "froisser",
+  "de": "verknittern",
+  "en": "crease",
+  "meaning_fa": "چروک کردن، مچاله کردن",
+  "meaning_en": "to crease"
+ },
+ {
+  "id": "verduebelen",
+  "lb": "verduebelen",
+  "fr": "doubler",
+  "de": "verdoppeln",
+  "en": "double",
+  "meaning_fa": "دو برابر کردن (چیزی را)",
+  "meaning_en": "to double"
+ },
+ {
+  "id": "verduften",
+  "lb": "verduften",
+  "fr": "filer",
+  "de": "verduften",
+  "en": "clear off",
+  "meaning_fa": "در رفتن، فرار کردن (مخفیانه)",
+  "meaning_en": "to clear off"
+ },
+ {
+  "id": "vereedegen",
+  "lb": "vereedegen",
+  "fr": "assermenter",
+  "de": "vereidigen",
+  "en": "swear in",
+  "meaning_fa": "سوگند دادن، قسم خوراندن",
+  "meaning_en": "to swear in"
+ }
+]

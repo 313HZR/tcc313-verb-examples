@@ -1,0 +1,452 @@
+[
+ {
+  "id": "regéieren",
+  "lb": "regéieren",
+  "fr": "gouverner",
+  "de": "regieren",
+  "en": "govern",
+  "meaning_fa": "حکومت کردن، اداره کردن",
+  "meaning_en": "to govern"
+ },
+ {
+  "id": "registréieren",
+  "lb": "registréieren",
+  "fr": "enregistrer",
+  "de": "registrieren",
+  "en": "register",
+  "meaning_fa": "ثبت کردن، متوجه شدن",
+  "meaning_en": "to register"
+ },
+ {
+  "id": "regléieren",
+  "lb": "regléieren",
+  "fr": "régler",
+  "de": "einstellen",
+  "en": "adjust",
+  "meaning_fa": "تنظیم کردن، میزان کردن (دستگاه)",
+  "meaning_en": "to adjust"
+ },
+ {
+  "id": "reglementéieren",
+  "lb": "reglementéieren",
+  "fr": "réglementer",
+  "de": "reglementieren",
+  "en": "regulate",
+  "meaning_fa": "تابع مقررات کردن، ضابطه‌مند کردن",
+  "meaning_en": "to regulate"
+ },
+ {
+  "id": "regrettéieren",
+  "lb": "regrettéieren",
+  "fr": "regretter",
+  "de": "bedauern",
+  "en": "regret",
+  "meaning_fa": "تأسف خوردن، افسوس خوردن",
+  "meaning_en": "to regret"
+ },
+ {
+  "id": "rehabilitéieren",
+  "lb": "rehabilitéieren",
+  "fr": "réhabiliter",
+  "de": "rehabilitieren",
+  "en": "rehabilitate",
+  "meaning_fa": "اعاده حیثیت کردن، آبروی (کسی را) بازگرداندن",
+  "meaning_en": "to rehabilitate"
+ },
+ {
+  "id": "reiden",
+  "lb": "reiden",
+  "fr": "monter",
+  "de": "reiten",
+  "en": "ride",
+  "meaning_fa": "اسب‌سواری کردن (ورزش سواری)",
+  "meaning_en": "to ride"
+ },
+ {
+  "id": "réieren",
+  "lb": "réieren",
+  "fr": "émouvoir",
+  "de": "rühren",
+  "en": "move",
+  "meaning_fa": "تکان دادن (از نظر عاطفی)، متأثر کردن",
+  "meaning_en": "to move"
+ },
+ {
+  "id": "reimen",
+  "lb": "reimen",
+  "fr": "rimer",
+  "de": "reimen",
+  "en": "rhyme",
+  "meaning_fa": "قافیه‌بندی کردن، شعر قافیه‌دار سرودن",
+  "meaning_en": "to compose rhyming verses"
+ },
+ {
+  "id": "réischteren",
+  "lb": "réischteren",
+  "fr": "torréfier",
+  "de": "rösten",
+  "en": "roast",
+  "meaning_fa": "برشته کردن، تفت دادن",
+  "meaning_en": "to roast"
+ },
+ {
+  "id": "reiwen",
+  "lb": "reiwen",
+  "fr": "frotter",
+  "de": "reiben",
+  "en": "rub",
+  "meaning_fa": "مالیدن (با دست روی چیزی کشیدن)",
+  "meaning_en": "to rub"
+ },
+ {
+  "id": "reizen",
+  "lb": "reizen",
+  "fr": "tenter",
+  "de": "reizen",
+  "en": "provoke",
+  "meaning_fa": "جلب کردن، جذاب بودن برای",
+  "meaning_en": "to appeal to"
+ },
+ {
+  "id": "rekapituléieren",
+  "lb": "rekapituléieren",
+  "fr": "récapituler",
+  "de": "rekapitulieren",
+  "en": "recapitulate",
+  "meaning_fa": "خلاصه کردن، جمع‌بندی کردن",
+  "meaning_en": "to recapitulate"
+ },
+ {
+  "id": "reklaméieren",
+  "lb": "reklaméieren",
+  "fr": "réclamer",
+  "de": "fordern",
+  "en": "demand",
+  "meaning_fa": "مطالبه کردن، خواستن (با اصرار)",
+  "meaning_en": "to demand"
+ },
+ {
+  "id": "rekonstruéieren",
+  "lb": "rekonstruéieren",
+  "fr": "reconstruire",
+  "de": "rekonstruieren",
+  "en": "reconstruct",
+  "meaning_fa": "بازسازی کردن، از نو ساختن",
+  "meaning_en": "to reconstruct"
+ },
+ {
+  "id": "rekrutéieren",
+  "lb": "rekrutéieren",
+  "fr": "recruter",
+  "de": "rekrutieren",
+  "en": "recruit",
+  "meaning_fa": "جذب کردن، استخدام کردن",
+  "meaning_en": "to recruit"
+ },
+ {
+  "id": "rektifizéieren",
+  "lb": "rektifizéieren",
+  "fr": "rectifier",
+  "de": "richtigstellen",
+  "en": "rectify",
+  "meaning_fa": "تصحیح کردن، اصلاح کردن",
+  "meaning_en": "to rectify"
+ },
+ {
+  "id": "relancéieren",
+  "lb": "relancéieren",
+  "fr": "relancer",
+  "de": "ankurbeln",
+  "en": "boost",
+  "meaning_fa": "تحریک کردن، احیا کردن (رونق بخشیدن)",
+  "meaning_en": "to boost"
+ },
+ {
+  "id": "relativéieren",
+  "lb": "relativéieren",
+  "fr": "relativiser",
+  "de": "relativieren",
+  "en": "qualify",
+  "meaning_fa": "نسبی کردن، در بافت گذاشتن",
+  "meaning_en": "to qualify"
+ },
+ {
+  "id": "relaxen",
+  "lb": "relaxen",
+  "fr": "se relaxer",
+  "de": "relaxen",
+  "en": "relax",
+  "meaning_fa": "آرام گرفتن، ریلکس کردن",
+  "meaning_en": "to relax"
+ },
+ {
+  "id": "rembourséieren",
+  "lb": "rembourséieren",
+  "fr": "rembourser",
+  "de": "erstatten",
+  "en": "reimburse",
+  "meaning_fa": "بازپرداخت کردن، جبران کردن (هزینه)",
+  "meaning_en": "to reimburse"
+ },
+ {
+  "id": "remplacéieren",
+  "lb": "remplacéieren",
+  "fr": "remplacer",
+  "de": "ersetzen",
+  "en": "replace",
+  "meaning_fa": "جایگزین کردن، نیابت کردن (از کسی)",
+  "meaning_en": "to replace"
+ },
+ {
+  "id": "renforcéieren",
+  "lb": "renforcéieren",
+  "fr": "renforcer",
+  "de": "verstärken",
+  "en": "reinforce",
+  "meaning_fa": "تقویت کردن، مستحکم‌تر کردن",
+  "meaning_en": "to reinforce"
+ },
+ {
+  "id": "rengegen",
+  "lb": "rengegen",
+  "fr": "purifier",
+  "de": "reinigen",
+  "en": "purify",
+  "meaning_fa": "تصفیه کردن، پاک‌سازی کردن (از آلودگی‌ها)",
+  "meaning_en": "to purify"
+ },
+ {
+  "id": "réngen",
+  "lb": "réngen",
+  "fr": "lutter",
+  "de": "ringen",
+  "en": "wrestle",
+  "meaning_fa": "کشتی گرفتن (تن‌به‌تن)",
+  "meaning_en": "to wrestle"
+ },
+ {
+  "id": "renkelen",
+  "lb": "renkelen",
+  "fr": "manœuvrer",
+  "de": "lenken",
+  "en": "manoeuvre",
+  "meaning_fa": "هدایت کردن، راندن (وسیلهٔ نقلیهٔ کوچک)",
+  "meaning_en": "to manoeuvre"
+ },
+ {
+  "id": "rennen",
+  "lb": "rennen",
+  "fr": "courir",
+  "de": "rennen",
+  "en": "run",
+  "meaning_fa": "دویدن، شتافتن (با سرعت)",
+  "meaning_en": "to run"
+ },
+ {
+  "id": "rënnen",
+  "lb": "rënnen",
+  "fr": "arrondir",
+  "de": "abrunden",
+  "en": "leak",
+  "meaning_fa": "گرد کردن، پخ کردن (لبه یا گوشه‌ای)",
+  "meaning_en": null
+ },
+ {
+  "id": "renovéieren",
+  "lb": "renovéieren",
+  "fr": "rénover",
+  "de": "renovieren",
+  "en": "renovate",
+  "meaning_fa": "بازسازی کردن، نوسازی کردن",
+  "meaning_en": "to renovate"
+ },
+ {
+  "id": "rëntgen",
+  "lb": "rëntgen",
+  "fr": "radiographier",
+  "de": "röntgen",
+  "en": "X-ray",
+  "meaning_fa": "رادیوگرافی گرفتن از، عکس اشعه ایکس گرفتن از",
+  "meaning_en": "to X-ray"
+ },
+ {
+  "id": "reparéieren",
+  "lb": "reparéieren",
+  "fr": "réparer",
+  "de": "reparieren",
+  "en": "repair",
+  "meaning_fa": "تعمیر کردن، درست کردن",
+  "meaning_en": "to repair"
+ },
+ {
+  "id": "repiquéieren",
+  "lb": "repiquéieren",
+  "fr": "repiquer",
+  "de": "vereinzeln",
+  "en": "prick out",
+  "meaning_fa": "نشاء کردن، پیکور زدن (نقل مکان دادن نهال‌ها)",
+  "meaning_en": "to prick out"
+ },
+ {
+  "id": "representéieren",
+  "lb": "representéieren",
+  "fr": "représenter",
+  "de": "vertreten",
+  "en": "represent",
+  "meaning_fa": "نمایندگی کردن، وکالت کردن (از طرف کسی)",
+  "meaning_en": "to represent"
+ },
+ {
+  "id": "reproduzéieren",
+  "lb": "reproduzéieren",
+  "fr": "reproduire",
+  "de": "reproduzieren",
+  "en": "reproduce",
+  "meaning_fa": "بازتولید کردن، نسخه‌برداری کردن (از اثر اصلی)",
+  "meaning_en": "to reproduce"
+ },
+ {
+  "id": "repsen",
+  "lb": "repsen",
+  "fr": "roter",
+  "de": "rülpsen",
+  "en": "burp",
+  "meaning_fa": "آروغ زدن",
+  "meaning_en": "to burp"
+ },
+ {
+  "id": "rëschten",
+  "lb": "rëschten",
+  "fr": "décorer",
+  "de": "schmücken",
+  "en": "decorate",
+  "meaning_fa": "تزئین کردن، آراستن",
+  "meaning_en": "to decorate"
+ },
+ {
+  "id": "rëselen",
+  "lb": "rëselen",
+  "fr": "secouer",
+  "de": "schütteln",
+  "en": "shake",
+  "meaning_fa": "تکان دادن، لرزاندن",
+  "meaning_en": "to shake"
+ },
+ {
+  "id": "reservéieren",
+  "lb": "reservéieren",
+  "fr": "réserver",
+  "de": "reservieren",
+  "en": "reserve",
+  "meaning_fa": "رزرو کردن، پیش‌خرید کردن",
+  "meaning_en": "to reserve"
+ },
+ {
+  "id": "residéieren",
+  "lb": "residéieren",
+  "fr": "résider",
+  "de": "residieren",
+  "en": "reside",
+  "meaning_fa": "اقامت رسمی داشتن، سکونت کردن (به‌صورت رسمی)",
+  "meaning_en": "to reside"
+ },
+ {
+  "id": "resignéieren",
+  "lb": "resignéieren",
+  "fr": "se résigner",
+  "de": "resignieren",
+  "en": "give up",
+  "meaning_fa": "تسلیم شدن، دست کشیدن، کنار گذاشتن",
+  "meaning_en": "to give up"
+ },
+ {
+  "id": "resistéieren",
+  "lb": "resistéieren",
+  "fr": "résister",
+  "de": "widerstehen",
+  "en": "resist",
+  "meaning_fa": "مقاومت کردن، پایداری کردن (در برابر وسوسه)",
+  "meaning_en": "to resist"
+ },
+ {
+  "id": "respektéieren",
+  "lb": "respektéieren",
+  "fr": "respecter",
+  "de": "achten",
+  "en": "respect",
+  "meaning_fa": "احترام گذاشتن به، ارزش قائل شدن برای",
+  "meaning_en": "to respect"
+ },
+ {
+  "id": "restauréieren",
+  "lb": "restauréieren",
+  "fr": "restaurer",
+  "de": "restaurieren",
+  "en": "restore",
+  "meaning_fa": "مرمت کردن، بازسازی کردن (اثر هنری یا بنا)",
+  "meaning_en": "to restore"
+ },
+ {
+  "id": "restrukturéieren",
+  "lb": "restrukturéieren",
+  "fr": "restructurer",
+  "de": "restrukturieren",
+  "en": "restructure",
+  "meaning_fa": "بازساختاردهی کردن، سازمان‌دهی مجدد کردن",
+  "meaning_en": "to restructure"
+ },
+ {
+  "id": "resüméieren",
+  "lb": "resüméieren",
+  "fr": "résumer",
+  "de": "zusammenfassen",
+  "en": "summarize",
+  "meaning_fa": "خلاصه کردن، چکیده‌نویسی کردن",
+  "meaning_en": "to summarize"
+ },
+ {
+  "id": "rëtschen",
+  "lb": "rëtschen",
+  "fr": "glisser",
+  "de": "rutschen",
+  "en": "slip",
+  "meaning_fa": "لیز خوردن، سُر خوردن",
+  "meaning_en": "to slip"
+ },
+ {
+  "id": "retten",
+  "lb": "retten",
+  "fr": "sauver",
+  "de": "retten",
+  "en": "rescue",
+  "meaning_fa": "نجات دادن، رهانیدن",
+  "meaning_en": "to rescue"
+ },
+ {
+  "id": "retuschéieren",
+  "lb": "retuschéieren",
+  "fr": "retoucher",
+  "de": "umändern",
+  "en": "alter",
+  "meaning_fa": "تغییر دادن، اصلاح کردن (لباس)",
+  "meaning_en": "to alter"
+ },
+ {
+  "id": "rëtzen",
+  "lb": "rëtzen",
+  "fr": "graver",
+  "de": "ritzen",
+  "en": "carve",
+  "meaning_fa": "حک کردن، کندن (نقش یا نوشته روی سطح)",
+  "meaning_en": "to carve"
+ },
+ {
+  "id": "reusséieren",
+  "lb": "reusséieren",
+  "fr": "réussir",
+  "de": "glücken",
+  "en": "succeed",
+  "meaning_fa": "موفق شدن در زندگی",
+  "meaning_en": "to be successful"
+ }
+]

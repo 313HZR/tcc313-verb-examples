@@ -1,0 +1,452 @@
+[
+ {
+  "id": "vereedelen",
+  "lb": "vereedelen",
+  "fr": "épurer",
+  "de": "veredeln",
+  "en": "refine",
+  "meaning_fa": "تصفیه کردن، بهبود بخشیدن",
+  "meaning_en": "to refine"
+ },
+ {
+  "id": "vereenen",
+  "lb": "vereenen",
+  "fr": "unir",
+  "de": "vereinen",
+  "en": "unite",
+  "meaning_fa": "متحد کردن، یکی کردن",
+  "meaning_en": "to unite"
+ },
+ {
+  "id": "vereenheetlechen",
+  "lb": "vereenheetlechen",
+  "fr": "uniformiser",
+  "de": "vereinheitlichen",
+  "en": "standardize",
+  "meaning_fa": "یکسان‌سازی کردن، استانداردسازی کردن",
+  "meaning_en": "to standardize"
+ },
+ {
+  "id": "verëffentlechen",
+  "lb": "verëffentlechen",
+  "fr": "publier",
+  "de": "veröffentlichen",
+  "en": "publish",
+  "meaning_fa": "عمومی کردن، اعلام کردن (به اطلاع عموم رساندن)",
+  "meaning_en": "to make public"
+ },
+ {
+  "id": "veréieren",
+  "lb": "veréieren",
+  "fr": "vénérer",
+  "de": "verehren",
+  "en": "worship",
+  "meaning_fa": "پرستیدن، ستودن، تکریم کردن",
+  "meaning_en": "to worship"
+ },
+ {
+  "id": "vereinfachen",
+  "lb": "vereinfachen",
+  "fr": "simplifier",
+  "de": "vereinfachen",
+  "en": "simplify",
+  "meaning_fa": "ساده کردن، آسان‌تر کردن",
+  "meaning_en": "to simplify"
+ },
+ {
+  "id": "veréiwegen",
+  "lb": "veréiwegen",
+  "fr": "immortaliser",
+  "de": "verewigen",
+  "en": "immortalize",
+  "meaning_fa": "جاودانه کردن، ماندگار کردن",
+  "meaning_en": "to immortalize"
+ },
+ {
+  "id": "verënnerlechen",
+  "lb": "verënnerlechen",
+  "fr": "assimiler",
+  "de": "verinnerlichen",
+  "en": "internalize",
+  "meaning_fa": "درونی‌سازی کردن، همانند‌سازی کردن (با چیزی)",
+  "meaning_en": "to internalize"
+ },
+ {
+  "id": "verfaassen",
+  "lb": "verfaassen",
+  "fr": "rédiger",
+  "de": "verfassen",
+  "en": "draw up",
+  "meaning_fa": "تنظیم کردن، نوشتن، پیش‌نویس کردن",
+  "meaning_en": "to draw up"
+ },
+ {
+  "id": "verfalen",
+  "lb": "verfalen",
+  "fr": "se délabrer",
+  "de": "verfallen",
+  "en": "deteriorate",
+  "meaning_fa": "فرسودن، رو به ویرانی رفتن (بنا)",
+  "meaning_en": "to deteriorate"
+ },
+ {
+  "id": "verfälschen",
+  "lb": "verfälschen",
+  "fr": "fausser",
+  "de": "verfälschen",
+  "en": "distort",
+  "meaning_fa": "تحریف کردن، جعل کردن",
+  "meaning_en": "to distort"
+ },
+ {
+  "id": "verfeelen",
+  "lb": "verfeelen",
+  "fr": "manquer",
+  "de": "verfehlen",
+  "en": "miss",
+  "meaning_fa": "از دست دادن، نرسیدن به هدف، خطا کردن",
+  "meaning_en": "to miss"
+ },
+ {
+  "id": "verféieren",
+  "lb": "verféieren",
+  "fr": "séduire",
+  "de": "verführen",
+  "en": "tempt",
+  "meaning_fa": "وسوسه کردن، ترغیب کردن (به انجام کاری)",
+  "meaning_en": "to tempt (to do)"
+ },
+ {
+  "id": "verfeieren",
+  "lb": "verfeieren",
+  "fr": "brûler",
+  "de": "verfeuern",
+  "en": "burn",
+  "meaning_fa": "سوزاندن (به‌عنوان سوخت)",
+  "meaning_en": "to burn"
+ },
+ {
+  "id": "verfeineren",
+  "lb": "verfeineren",
+  "fr": "affiner",
+  "de": "verfeinern",
+  "en": "refine",
+  "meaning_fa": "تصفیه کردن، بهبود بخشیدن، پرورش دادن (ذوق یا فن)",
+  "meaning_en": "to refine"
+ },
+ {
+  "id": "verflappen",
+  "lb": "verflappen",
+  "fr": "vendre la mèche",
+  "de": "plaudern",
+  "en": "blab",
+  "meaning_fa": "لو دادن (راز)، فاش کردن (سر)",
+  "meaning_en": "to blab"
+ },
+ {
+  "id": "verfleegen",
+  "lb": "verfleegen",
+  "fr": "ravitailler",
+  "de": "verpflegen",
+  "en": "supply",
+  "meaning_fa": "تدارک غذا رساندن به، آذوقه رساندن به",
+  "meaning_en": "to supply"
+ },
+ {
+  "id": "verfléien",
+  "lb": "verfléien",
+  "fr": "se volatiliser",
+  "de": "verfliegen",
+  "en": "evaporate",
+  "meaning_fa": "تبخیر شدن، به هوا رفتن",
+  "meaning_en": "to evaporate"
+ },
+ {
+  "id": "verflichten",
+  "lb": "verflichten",
+  "fr": "engager",
+  "de": "verpflichten",
+  "en": "oblige",
+  "meaning_fa": "ملزم کردن (به)، متعهد ساختن (به)",
+  "meaning_en": "to oblige (to)"
+ },
+ {
+  "id": "verfluchen",
+  "lb": "verfluchen",
+  "fr": "maudire",
+  "de": "verfluchen",
+  "en": "curse",
+  "meaning_fa": "لعنت کردن، نفرین کردن",
+  "meaning_en": "to curse"
+ },
+ {
+  "id": "verfollegen",
+  "lb": "verfollegen",
+  "fr": "poursuivre",
+  "de": "verfolgen",
+  "en": "chase",
+  "meaning_fa": "تعقیب کردن، دنبال کردن (برای گرفتن)",
+  "meaning_en": "to chase"
+ },
+ {
+  "id": "verformen",
+  "lb": "verformen",
+  "fr": "déformer",
+  "de": "verformen",
+  "en": "deform",
+  "meaning_fa": "تغییر شکل دادن، بدشکل کردن",
+  "meaning_en": "to deform"
+ },
+ {
+  "id": "verfouen",
+  "lb": "verfouen",
+  "fr": "jointoyer",
+  "de": "verfugen",
+  "en": "grout",
+  "meaning_fa": "بندکشی کردن، درزگیری کردن",
+  "meaning_en": "to grout"
+ },
+ {
+  "id": "verfrachten",
+  "lb": "verfrachten",
+  "fr": "charger",
+  "de": "verfrachten",
+  "en": "load",
+  "meaning_fa": "بارگیری کردن، جاسازی کردن (محموله)",
+  "meaning_en": "to load"
+ },
+ {
+  "id": "verfriemen",
+  "lb": "verfriemen",
+  "fr": "déformer",
+  "de": "verfremden",
+  "en": "disguise",
+  "meaning_fa": "دگرگون کردن، ناشناس کردن، بیگانه‌سازی کردن (برای ایجاد اثر خاص)",
+  "meaning_en": "to disguise"
+ },
+ {
+  "id": "verfueren",
+  "lb": "verfueren",
+  "fr": "consommer",
+  "de": "verfahren",
+  "en": "use up",
+  "meaning_fa": "مصرف کردن (در رانندگی)، هزینه کردن (با وسیله نقلیه)",
+  "meaning_en": "to use up (by driving)"
+ },
+ {
+  "id": "verfuschen",
+  "lb": "verfuschen",
+  "fr": "bousiller",
+  "de": "verpfuschen",
+  "en": "mess up",
+  "meaning_fa": "خراب کردن، به فنا دادن",
+  "meaning_en": "to mess up"
+ },
+ {
+  "id": "vergasen",
+  "lb": "vergasen",
+  "fr": "gazer",
+  "de": "vergasen",
+  "en": "gas",
+  "meaning_fa": "گاز دادن (کشتن)",
+  "meaning_en": "to gas"
+ },
+ {
+  "id": "vergëften",
+  "lb": "vergëften",
+  "fr": "empoisonner",
+  "de": "vergiften",
+  "en": "poison",
+  "meaning_fa": "مسموم کردن (کشتن)",
+  "meaning_en": "to poison"
+ },
+ {
+  "id": "vergëllen",
+  "lb": "vergëllen",
+  "fr": "dorer",
+  "de": "vergolden",
+  "en": "gold-plate",
+  "meaning_fa": "طلاکاری کردن، طلا اندود کردن",
+  "meaning_en": "to gold-plate"
+ },
+ {
+  "id": "vergëtteren",
+  "lb": "vergëtteren",
+  "fr": "adorer",
+  "de": "vergöttern",
+  "en": "worship",
+  "meaning_fa": "پرستیدن، بت واره پرستیدن",
+  "meaning_en": "to worship"
+ },
+ {
+  "id": "vergewaltegen",
+  "lb": "vergewaltegen",
+  "fr": "violer",
+  "de": "vergewaltigen",
+  "en": "rape",
+  "meaning_fa": "تجاوز جنسی کردن، به زور بی‌عصمت کردن",
+  "meaning_en": "to rape"
+ },
+ {
+  "id": "vergiessen",
+  "lb": "vergiessen",
+  "fr": "oublier",
+  "de": "vergessen",
+  "en": "forget",
+  "meaning_fa": "فراموش کردن (به یاد نیاوردن)",
+  "meaning_en": "to forget"
+ },
+ {
+  "id": "vergläichen",
+  "lb": "vergläichen",
+  "fr": "comparer",
+  "de": "vergleichen",
+  "en": "compare",
+  "meaning_fa": "مقایسه کردن (با)",
+  "meaning_en": "to compare (to)"
+ },
+ {
+  "id": "verglasen",
+  "lb": "verglasen",
+  "fr": "vitrer",
+  "de": "verglasen",
+  "en": "glaze",
+  "meaning_fa": "شیشه نصب کردن، شیشه‌کاری کردن",
+  "meaning_en": "to glaze"
+ },
+ {
+  "id": "verglousen",
+  "lb": "verglousen",
+  "fr": "se désagréger",
+  "de": "verglühen",
+  "en": "burn up",
+  "meaning_fa": "سوختن و از بین رفتن (بر اثر حرارت)، خاکستر شدن",
+  "meaning_en": "to burn up"
+ },
+ {
+  "id": "vergoen",
+  "lb": "vergoen",
+  "fr": "passer",
+  "de": "vergehen",
+  "en": "pass",
+  "meaning_fa": "گذشتن، سپری شدن (زمان)",
+  "meaning_en": "to pass"
+ },
+ {
+  "id": "vergraulen",
+  "lb": "vergraulen",
+  "fr": "chasser",
+  "de": "vergraulen",
+  "en": "alienate",
+  "meaning_fa": "فراری دادن، دلزده کردن (با رفتار ناخوشایند)",
+  "meaning_en": "to alienate"
+ },
+ {
+  "id": "vergréisseren",
+  "lb": "vergréisseren",
+  "fr": "agrandir",
+  "de": "vergrößern",
+  "en": "enlarge",
+  "meaning_fa": "بزرگ‌تر کردن، توسعه دادن (از نظر فضا و مساحت)",
+  "meaning_en": "to enlarge"
+ },
+ {
+  "id": "vergruewen",
+  "lb": "vergruewen",
+  "fr": "enfouir",
+  "de": "vergraben",
+  "en": "bury",
+  "meaning_fa": "زیر خاک دفن کردن، مدفون کردن",
+  "meaning_en": "to bury"
+ },
+ {
+  "id": "verhaften",
+  "lb": "verhaften",
+  "fr": "arrêter",
+  "de": "verhaften",
+  "en": "arrest",
+  "meaning_fa": "دستگیر کردن، بازداشت کردن",
+  "meaning_en": "to arrest"
+ },
+ {
+  "id": "verhalen",
+  "lb": "verhalen",
+  "fr": "retenir",
+  "de": "behalten",
+  "en": "remember",
+  "meaning_fa": "به خاطر سپردن، حفظ کردن (در حافظه)",
+  "meaning_en": "to remember"
+ },
+ {
+  "id": "verhandelen",
+  "lb": "verhandelen",
+  "fr": "négocier",
+  "de": "verhandeln",
+  "en": "negotiate",
+  "meaning_fa": "مذاکره کردن، گفتگو کردن (برای رسیدن به توافق)",
+  "meaning_en": "to negotiate"
+ },
+ {
+  "id": "verhänken",
+  "lb": "verhänken",
+  "fr": "décréter",
+  "de": "verhängen",
+  "en": "impose",
+  "meaning_fa": "اعمال کردن، تحمیل کردن (تحریم یا مجازات، علیه)",
+  "meaning_en": "to impose (on)"
+ },
+ {
+  "id": "verharmlosen",
+  "lb": "verharmlosen",
+  "fr": "minimiser",
+  "de": "verharmlosen",
+  "en": "downplay",
+  "meaning_fa": "کم‌اهمیت جلوه دادن، ساده‌انگاری کردن",
+  "meaning_en": "to downplay"
+ },
+ {
+  "id": "verhätschelen",
+  "lb": "verhätschelen",
+  "fr": "choyer",
+  "de": "verhätscheln",
+  "en": "spoil",
+  "meaning_fa": "لوس کردن، نازپروردن",
+  "meaning_en": "to spoil"
+ },
+ {
+  "id": "verheelen",
+  "lb": "verheelen",
+  "fr": "guérir",
+  "de": "verheilen",
+  "en": "heal",
+  "meaning_fa": "بهبود یافتن، التیام یافتن (زخم یا شکستگی)",
+  "meaning_en": "to heal (up)"
+ },
+ {
+  "id": "verheemlechen",
+  "lb": "verheemlechen",
+  "fr": "cacher",
+  "de": "verheimlichen",
+  "en": "hide",
+  "meaning_fa": "پنهان کردن (از)، مخفی نگه داشتن (از)",
+  "meaning_en": "to keep secret (from)"
+ },
+ {
+  "id": "verhéieren",
+  "lb": "verhéieren",
+  "fr": "entendre",
+  "de": "verhören",
+  "en": "interrogate",
+  "meaning_fa": "بازجویی کردن (از)",
+  "meaning_en": "to interrogate"
+ },
+ {
+  "id": "verhënneren",
+  "lb": "verhënneren",
+  "fr": "empêcher",
+  "de": "verhindern",
+  "en": "avoid",
+  "meaning_fa": "جلوگیری کردن از، پیشگیری کردن از",
+  "meaning_en": "to avoid"
+ }
+]

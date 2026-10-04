@@ -1,0 +1,452 @@
+[
+ {
+  "id": "spëtzen",
+  "lb": "spëtzen",
+  "fr": "tailler",
+  "de": "spitzen",
+  "en": "sharpen",
+  "meaning_fa": "تراشیدن (به شکل نوک‌تیز)، تیز کردن",
+  "meaning_en": "to sharpen"
+ },
+ {
+  "id": "spezifizéieren",
+  "lb": "spezifizéieren",
+  "fr": "spécifier",
+  "de": "spezifizieren",
+  "en": "specify",
+  "meaning_fa": "مشخص کردن، تعیین کردن (جزء به جزء بیان کردن)",
+  "meaning_en": "to specify"
+ },
+ {
+  "id": "spieren",
+  "lb": "spieren",
+  "fr": "sentir",
+  "de": "spüren",
+  "en": "feel",
+  "meaning_fa": "احساس کردن (به‌طور جسمی)",
+  "meaning_en": "to feel"
+ },
+ {
+  "id": "spigelen",
+  "lb": "spigelen",
+  "fr": "miroiter",
+  "de": "spiegeln",
+  "en": "reflect",
+  "meaning_fa": "بازتاب دادن، منعکس کردن، برق زدن",
+  "meaning_en": "to reflect"
+ },
+ {
+  "id": "spillen",
+  "lb": "spillen",
+  "fr": "jouer",
+  "de": "spielen",
+  "en": "play",
+  "meaning_fa": "بازی کردن (یک بازی)",
+  "meaning_en": "to play"
+ },
+ {
+  "id": "splécken",
+  "lb": "splécken",
+  "fr": "fendre",
+  "de": "spalten",
+  "en": "chop",
+  "meaning_fa": "شکافتن، تکه‌تکه کردن (چوب)",
+  "meaning_en": "to chop"
+ },
+ {
+  "id": "sponseren",
+  "lb": "sponseren",
+  "fr": "sponsoriser",
+  "de": "sponsern",
+  "en": "sponsor",
+  "meaning_fa": "حمایت مالی کردن، اسپانسر شدن",
+  "meaning_en": "to sponsor"
+ },
+ {
+  "id": "sprangen",
+  "lb": "sprangen",
+  "fr": "sauter",
+  "de": "springen",
+  "en": "jump",
+  "meaning_fa": "پریدن، جهیدن",
+  "meaning_en": "to jump"
+ },
+ {
+  "id": "sprayen",
+  "lb": "sprayen",
+  "fr": "mettre",
+  "de": "sprayen",
+  "en": "spray",
+  "meaning_fa": "اسپری کردن، پاشیدن (با آئروسل)",
+  "meaning_en": "to spray"
+ },
+ {
+  "id": "spreeden",
+  "lb": "spreeden",
+  "fr": "épandre",
+  "de": "streuen",
+  "en": "spread",
+  "meaning_fa": "پاشیدن، پخش کردن (به صورت پراکنده)",
+  "meaning_en": "to spread"
+ },
+ {
+  "id": "sprengen",
+  "lb": "sprengen",
+  "fr": "démolir",
+  "de": "sprengen",
+  "en": "blow up",
+  "meaning_fa": "منفجر کردن، تخریب کردن (با مواد منفجره)",
+  "meaning_en": "to blow up"
+ },
+ {
+  "id": "sprëtzen",
+  "lb": "sprëtzen",
+  "fr": "traiter",
+  "de": "spritzen",
+  "en": "spray",
+  "meaning_fa": "سمپاشی کردن، اسپری کردن (برای درمان)",
+  "meaning_en": "to spray"
+ },
+ {
+  "id": "spriechen",
+  "lb": "spriechen",
+  "fr": "prononcer",
+  "de": "sprechen",
+  "en": "pronounce",
+  "meaning_fa": "صادر کردن، اعلام کردن (حکم یا رأی)",
+  "meaning_en": "to pronounce"
+ },
+ {
+  "id": "sprinten",
+  "lb": "sprinten",
+  "fr": "sprinter",
+  "de": "sprinten",
+  "en": "sprint",
+  "meaning_fa": "دویدن با سرعت، اسپرینت کردن",
+  "meaning_en": "to sprint"
+ },
+ {
+  "id": "sproochen",
+  "lb": "sproochen",
+  "fr": "papoter",
+  "de": "plaudern",
+  "en": "chat",
+  "meaning_fa": "گپ زدن، صحبت کردن",
+  "meaning_en": "to chat"
+ },
+ {
+  "id": "spruddelen",
+  "lb": "spruddelen",
+  "fr": "pétiller",
+  "de": "sprudeln",
+  "en": "bubble",
+  "meaning_fa": "حباب زدن، ترقیدن",
+  "meaning_en": "to bubble"
+ },
+ {
+  "id": "sprutzen",
+  "lb": "sprutzen",
+  "fr": "éclabousser",
+  "de": "spritzen",
+  "en": "splash",
+  "meaning_fa": "پاشیدن (کثیف کردن با پاشش)",
+  "meaning_en": "to splash"
+ },
+ {
+  "id": "spueren",
+  "lb": "spueren",
+  "fr": "économiser",
+  "de": "sparen",
+  "en": "save",
+  "meaning_fa": "صرفه‌جویی کردن (از هزینه کاستن)",
+  "meaning_en": "to save"
+ },
+ {
+  "id": "spullen",
+  "lb": "spullen",
+  "fr": "laver",
+  "de": "abwaschen",
+  "en": "wash up",
+  "meaning_fa": "ظرف شستن، ظرف‌ها را شستن",
+  "meaning_en": "to wash up"
+ },
+ {
+  "id": "stabiliséieren",
+  "lb": "stabiliséieren",
+  "fr": "stabiliser",
+  "de": "stabilisieren",
+  "en": "stabilize",
+  "meaning_fa": "تثبیت کردن، محکم کردن (یک سازه)",
+  "meaning_en": "to stabilize"
+ },
+ {
+  "id": "stäerken",
+  "lb": "stäerken",
+  "fr": "fortifier",
+  "de": "stärken",
+  "en": "strengthen",
+  "meaning_fa": "تقویت کردن، نیرومند کردن",
+  "meaning_en": "to strengthen"
+ },
+ {
+  "id": "staffelen",
+  "lb": "staffelen",
+  "fr": "échelonner",
+  "de": "staffeln",
+  "en": "scale",
+  "meaning_fa": "درجه‌بندی کردن، تقسیم‌بندی مرحله‌ای کردن",
+  "meaning_en": "to scale"
+ },
+ {
+  "id": "stagnéieren",
+  "lb": "stagnéieren",
+  "fr": "stagner",
+  "de": "stagnieren",
+  "en": "stagnate",
+  "meaning_fa": "راکد ماندن، درجا زدن",
+  "meaning_en": "to stagnate"
+ },
+ {
+  "id": "stäipen",
+  "lb": "stäipen",
+  "fr": "étayer",
+  "de": "abstützen",
+  "en": "shore up",
+  "meaning_fa": "تکیه دادن، مهار کردن، استحکام بخشیدن (با پایه)",
+  "meaning_en": "to shore up"
+ },
+ {
+  "id": "stallhalen",
+  "lb": "stallhalen",
+  "fr": "se laisser faire",
+  "de": "anhalten",
+  "en": "stop",
+  "meaning_fa": "توقف کردن، ایستادن (راننده، وسیله نقلیه)",
+  "meaning_en": "to stop"
+ },
+ {
+  "id": "stamen",
+  "lb": "stamen",
+  "fr": "descendre",
+  "de": "stammen",
+  "en": "come from",
+  "meaning_fa": "اهل بودن، برخاستن از، سرچشمه گرفتن از",
+  "meaning_en": "to come from"
+ },
+ {
+  "id": "standardiséieren",
+  "lb": "standardiséieren",
+  "fr": "standardiser",
+  "de": "standardisieren",
+  "en": "standardize",
+  "meaning_fa": "استانداردسازی کردن، یکنواخت کردن",
+  "meaning_en": "to standardize"
+ },
+ {
+  "id": "stanzen",
+  "lb": "stanzen",
+  "fr": "poinçonner",
+  "de": "stanzen",
+  "en": "punch",
+  "meaning_fa": "سوراخ کردن، پانچ کردن",
+  "meaning_en": "to punch"
+ },
+ {
+  "id": "stapelen",
+  "lb": "stapelen",
+  "fr": "empiler",
+  "de": "stapeln",
+  "en": "stack",
+  "meaning_fa": "روی هم انباشتن، دسته‌بندی کردن",
+  "meaning_en": "to stack"
+ },
+ {
+  "id": "starten",
+  "lb": "starten",
+  "fr": "démarrer",
+  "de": "starten",
+  "en": "start",
+  "meaning_fa": "روشن کردن، استارت زدن (موتور، دستگاه)",
+  "meaning_en": "to start"
+ },
+ {
+  "id": "stationéieren",
+  "lb": "stationéieren",
+  "fr": "stationner",
+  "de": "stationieren",
+  "en": "station",
+  "meaning_fa": "مستقر کردن (نیروها یا تجهیزات نظامی)",
+  "meaning_en": "to station"
+ },
+ {
+  "id": "stattfannen",
+  "lb": "stattfannen",
+  "fr": "avoir lieu",
+  "de": "stattfinden",
+  "en": "take place",
+  "meaning_fa": "برگزار شدن، اتفاق افتادن",
+  "meaning_en": "to take place"
+ },
+ {
+  "id": "stauen",
+  "lb": "stauen",
+  "fr": "retenir",
+  "de": "stauen",
+  "en": "dam",
+  "meaning_fa": "مهار کردن، بند آوردن (جریان آب)",
+  "meaning_en": "to dam"
+ },
+ {
+  "id": "stëbsen",
+  "lb": "stëbsen",
+  "fr": "épousseter",
+  "de": "entstauben",
+  "en": "dust",
+  "meaning_fa": "گردگیری کردن، تمیز کردن از گرد و غبار",
+  "meaning_en": "to dust"
+ },
+ {
+  "id": "stéckelen",
+  "lb": "stéckelen",
+  "fr": "mélanger",
+  "de": "mischen",
+  "en": "shuffle",
+  "meaning_fa": "هم زدن، بر هم زدن (ورق بازی)",
+  "meaning_en": "to shuffle"
+ },
+ {
+  "id": "stécken",
+  "lb": "stécken",
+  "fr": "broder",
+  "de": "sticken",
+  "en": "embroider",
+  "meaning_fa": "گلدوزی کردن (یک نقش)",
+  "meaning_en": "to embroider"
+ },
+ {
+  "id": "stëften",
+  "lb": "stëften",
+  "fr": "offrir",
+  "de": "stiften",
+  "en": "donate",
+  "meaning_fa": "اهدا کردن، بخشیدن",
+  "meaning_en": "to donate"
+ },
+ {
+  "id": "stéieren",
+  "lb": "stéieren",
+  "fr": "déranger",
+  "de": "stören",
+  "en": "disturb",
+  "meaning_fa": "مزاحم شدن، وقفه انداختن",
+  "meaning_en": "to disturb"
+ },
+ {
+  "id": "steieren",
+  "lb": "steieren",
+  "fr": "manœuvrer",
+  "de": "steuern",
+  "en": "steer",
+  "meaning_fa": "راندن، هدایت کردن (وسیله نقلیه)",
+  "meaning_en": "to steer"
+ },
+ {
+  "id": "steigeren",
+  "lb": "steigeren",
+  "fr": "augmenter",
+  "de": "steigern",
+  "en": "increase",
+  "meaning_fa": "افزایش دادن، بهبود بخشیدن",
+  "meaning_en": "to increase"
+ },
+ {
+  "id": "steiwen",
+  "lb": "steiwen",
+  "fr": "empeser",
+  "de": "stärken",
+  "en": "starch",
+  "meaning_fa": "آهار زدن (لباس)",
+  "meaning_en": "to starch"
+ },
+ {
+  "id": "stellen",
+  "lb": "stellen",
+  "fr": "mettre",
+  "de": "stellen",
+  "en": "stand",
+  "meaning_fa": "ایستاندن، عمودی قرار دادن",
+  "meaning_en": "to stand"
+ },
+ {
+  "id": "stëmmen",
+  "lb": "stëmmen",
+  "fr": "voter",
+  "de": "verabschieden",
+  "en": "pass",
+  "meaning_fa": "تصویب کردن (قانون)",
+  "meaning_en": "to pass"
+ },
+ {
+  "id": "stemmen",
+  "lb": "stemmen",
+  "fr": "soulever",
+  "de": "stemmen",
+  "en": "lift",
+  "meaning_fa": "بلند کردن (وزنه)",
+  "meaning_en": "to lift"
+ },
+ {
+  "id": "stempelen",
+  "lb": "stempelen",
+  "fr": "timbrer",
+  "de": "stempeln",
+  "en": "stamp",
+  "meaning_fa": "مُهر زدن، تمبر زدن",
+  "meaning_en": "to stamp"
+ },
+ {
+  "id": "stengegen",
+  "lb": "stengegen",
+  "fr": "lapider",
+  "de": "steinigen",
+  "en": "stone",
+  "meaning_fa": "سنگسار کردن (کشتن)",
+  "meaning_en": "to stone"
+ },
+ {
+  "id": "sténken",
+  "lb": "sténken",
+  "fr": "puer",
+  "de": "stinken",
+  "en": "smell",
+  "meaning_fa": "بد بو دادن، گند زدن (از چیزی)",
+  "meaning_en": "to smell (of)"
+ },
+ {
+  "id": "stëppelen",
+  "lb": "stëppelen",
+  "fr": "taquiner",
+  "de": "sticheln",
+  "en": "wind up",
+  "meaning_fa": "تحریک کردن، کنایه زدن (از روی بدجنسی)",
+  "meaning_en": "to wind up"
+ },
+ {
+  "id": "steppen",
+  "lb": "steppen",
+  "fr": "piquer",
+  "de": "steppen",
+  "en": "stitch",
+  "meaning_fa": "دوختن با چرخ خیاطی",
+  "meaning_en": "to stitch"
+ },
+ {
+  "id": "steriliséieren",
+  "lb": "steriliséieren",
+  "fr": "stériliser",
+  "de": "sterilisieren",
+  "en": "sterilize",
+  "meaning_fa": "استریل کردن، ضدعفونی کردن",
+  "meaning_en": "to sterilize"
+ }
+]
