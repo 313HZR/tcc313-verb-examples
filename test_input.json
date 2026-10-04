@@ -44,6 +44,141 @@
    "en": "look after",
    "meaning_fa": "مداوا کردن، رسیدگی کردن (به زخم یا آسیب جزئی)",
    "meaning_en": "to look after"
+  },
+  {
+   "id": "plëmmen",
+   "lb": "plëmmen",
+   "fr": "plumer",
+   "de": "rupfen",
+   "en": "pluck",
+   "meaning_fa": "پر کندن (از مرغ یا پرنده)",
+   "meaning_en": "to pluck"
+  },
+  {
+   "id": "plënneren",
+   "lb": "plënneren",
+   "fr": "déménager",
+   "de": "spedieren",
+   "en": "move",
+   "meaning_fa": "引اثاث‌کشی کردن، حمل کردن (引اثاثیه و لوازم)",
+   "meaning_en": "to move"
+  },
+  {
+   "id": "plisséieren",
+   "lb": "plisséieren",
+   "fr": "plisser",
+   "de": "plissieren",
+   "en": "pleat",
+   "meaning_fa": "چین زدن (به پارچه)",
+   "meaning_en": "to pleat"
+  },
+  {
+   "id": "ploen",
+   "lb": "ploen",
+   "fr": "embêter",
+   "de": "plagen",
+   "en": "pester",
+   "meaning_fa": "آزار دادن، اذیت کردن، کلافه کردن",
+   "meaning_en": "to pester"
+  },
+  {
+   "id": "plombéieren",
+   "lb": "plombéieren",
+   "fr": "plomber",
+   "de": "plombieren",
+   "en": "fill",
+   "meaning_fa": "پُر کردن (دندان)",
+   "meaning_en": "to fill"
+  },
+  {
+   "id": "plouen",
+   "lb": "plouen",
+   "fr": "labourer",
+   "de": "pflügen",
+   "en": "plough",
+   "meaning_fa": "شخم زدن",
+   "meaning_en": "to plough"
+  },
+  {
+   "id": "pochéieren",
+   "lb": "pochéieren",
+   "fr": "pocher",
+   "de": "pochieren",
+   "en": "poach",
+   "meaning_fa": "آب‌پز کردن (در آب ملایم)",
+   "meaning_en": "to poach"
+  },
+  {
+   "id": "polariséieren",
+   "lb": "polariséieren",
+   "fr": "polariser",
+   "de": "polarisieren",
+   "en": "polarize",
+   "meaning_fa": "قطبی کردن",
+   "meaning_en": "to polarize"
+  },
+  {
+   "id": "poléieren",
+   "lb": "poléieren",
+   "fr": "polir",
+   "de": "polieren",
+   "en": "polish",
+   "meaning_fa": "صیقل دادن، براق کردن",
+   "meaning_en": "to polish"
+  },
+  {
+   "id": "polemiséieren",
+   "lb": "polemiséieren",
+   "fr": "polémiquer",
+   "de": "polemisieren",
+   "en": "polemicize",
+   "meaning_fa": "جدل کردن، پولمیک کردن",
+   "meaning_en": "to polemicize"
+  },
+  {
+   "id": "polen",
+   "lb": "polen",
+   "fr": "polariser",
+   "de": "polen",
+   "en": "connect",
+   "meaning_fa": "به قطب وصل کردن، قطب‌بندی کردن",
+   "meaning_en": "to connect"
+  },
+  {
+   "id": "politiséieren",
+   "lb": "politiséieren",
+   "fr": "politiser",
+   "de": "politisieren",
+   "en": "politicize",
+   "meaning_fa": "سیاسی کردن، سیاسی‌سازی کردن",
+   "meaning_en": "to politicize"
+  },
+  {
+   "id": "polsteren",
+   "lb": "polsteren",
+   "fr": "capitonner",
+   "de": "polstern",
+   "en": "upholster",
+   "meaning_fa": "روکش‌کردن، پارچه‌کوبی کردن",
+   "meaning_en": "to upholster"
+  },
+  {
+   "id": "pompelen",
+   "lb": "pompelen",
+   "fr": "pomper",
+   "de": "pumpen",
+   "en": "pump",
+   "meaning_fa": "پمپ کردن، تلمبه زدن",
+   "meaning_en": "to pump"
+  },
+  {
+   "id": "poséieren",
+   "lb": "poséieren",
+   "fr": "poser",
+   "de": "einsetzen",
+   "en": "fit",
+   "meaning_fa": "نصب کردن، جاگذاری کردن",
+   "meaning_en": "to fit"
   }
  ]
 }
