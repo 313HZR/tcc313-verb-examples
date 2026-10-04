@@ -1,0 +1,49 @@
+{
+ "verbs": [
+  {
+   "id": "plätschen",
+   "lb": "plätschen",
+   "fr": "tamponner",
+   "de": "betupfen",
+   "en": "swab",
+   "meaning_fa": "مالیدن (دارو با پنبه یا گاز)",
+   "meaning_en": "to swab"
+  },
+  {
+   "id": "plattdrécken",
+   "lb": "plattdrécken",
+   "fr": "écraser",
+   "de": "plattdrücken",
+   "en": "flatten",
+   "meaning_fa": "له کردن، صاف کردن، پهن کردن",
+   "meaning_en": "to flatten"
+  },
+  {
+   "id": "platzen",
+   "lb": "platzen",
+   "fr": "éclater",
+   "de": "platzen",
+   "en": "burst",
+   "meaning_fa": "ترکیدن، منفجر شدن",
+   "meaning_en": "to burst"
+  },
+  {
+   "id": "plécken",
+   "lb": "plécken",
+   "fr": "cueillir",
+   "de": "pflücken",
+   "en": "pick",
+   "meaning_fa": "چیدن، کندن (میوه یا گل)",
+   "meaning_en": "to pick"
+  },
+  {
+   "id": "pléischteren",
+   "lb": "pléischteren",
+   "fr": "soigner",
+   "de": "behandeln",
+   "en": "look after",
+   "meaning_fa": "مداوا کردن، رسیدگی کردن (به زخم یا آسیب جزئی)",
+   "meaning_en": "to look after"
+  }
+ ]
+}
