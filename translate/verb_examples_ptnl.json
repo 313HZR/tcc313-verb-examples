@@ -1,0 +1,650 @@
+{
+"abandonéieren\u0001present\u00011s": {
+"pt": "Eu desisto do plano.",
+"nl": "Ik geef het plan op."
+},
+"abandonéieren\u0001present\u00012s": {
+"pt": "Tu desistes do plano.",
+"nl": "Jij geeft het plan op."
+},
+"abandonéieren\u0001present\u00013s": {
+"pt": "Ele desiste do plano.",
+"nl": "Hij geeft het plan op."
+},
+"abandonéieren\u0001present\u00011p": {
+"pt": "Nós desistimos do plano.",
+"nl": "Wij geven het plan op."
+},
+"abandonéieren\u0001present\u00012p": {
+"pt": "Vocês desistem do plano.",
+"nl": "Jullie geven het plan op."
+},
+"abandonéieren\u0001present\u00013p": {
+"pt": "Eles desistem do plano.",
+"nl": "Zij geven het plan op."
+},
+"abandonéieren\u0001perfect\u00011s": {
+"pt": "Eu desisti do plano.",
+"nl": "Ik heb het plan opgegeven."
+},
+"abandonéieren\u0001perfect\u00012s": {
+"pt": "Tu desististe do plano.",
+"nl": "Jij hebt het plan opgegeven."
+},
+"abandonéieren\u0001perfect\u00013s": {
+"pt": "Ele desistiu do plano.",
+"nl": "Hij heeft het plan opgegeven."
+},
+"abandonéieren\u0001perfect\u00011p": {
+"pt": "Nós desistimos do plano.",
+"nl": "Wij hebben het plan opgegeven."
+},
+"abandonéieren\u0001perfect\u00012p": {
+"pt": "Vocês desistiram do plano.",
+"nl": "Jullie hebben het plan opgegeven."
+},
+"abandonéieren\u0001perfect\u00013p": {
+"pt": "Eles desistiram do plano.",
+"nl": "Zij hebben het plan opgegeven."
+},
+"abandonéieren\u0001past\u00011s": {
+"pt": "Eu desisti do plano ontem.",
+"nl": "Ik gaf het plan gisteren op."
+},
+"abandonéieren\u0001past\u00012s": {
+"pt": "Tu desististe do plano ontem.",
+"nl": "Jij gaf het plan gisteren op."
+},
+"abandonéieren\u0001past\u00013s": {
+"pt": "Ele desistiu do plano ontem.",
+"nl": "Hij gaf het plan gisteren op."
+},
+"abandonéieren\u0001past\u00011p": {
+"pt": "Nós desistimos do plano ontem.",
+"nl": "Wij gaven het plan gisteren op."
+},
+"abandonéieren\u0001past\u00012p": {
+"pt": "Vocês desistiram do plano ontem.",
+"nl": "Jullie gaven het plan gisteren op."
+},
+"abandonéieren\u0001past\u00013p": {
+"pt": "Eles desistiram do plano ontem.",
+"nl": "Zij gaven het plan gisteren op."
+},
+"abandonéieren\u0001imperfect\u00011s": {
+"pt": "Eu estava a desistir do plano.",
+"nl": "Ik was bezig het plan op te geven."
+},
+"abandonéieren\u0001imperfect\u00012s": {
+"pt": "Tu estavas a desistir do plano.",
+"nl": "Jij was bezig het plan op te geven."
+},
+"abandonéieren\u0001imperfect\u00013s": {
+"pt": "Ele estava a desistir do plano.",
+"nl": "Hij was bezig het plan op te geven."
+},
+"abandonéieren\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a desistir do plano.",
+"nl": "Wij waren bezig het plan op te geven."
+},
+"abandonéieren\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a desistir do plano.",
+"nl": "Jullie waren bezig het plan op te geven."
+},
+"abandonéieren\u0001imperfect\u00013p": {
+"pt": "Eles estavam a desistir do plano.",
+"nl": "Zij waren bezig het plan op te geven."
+},
+"abandonéieren\u0001pluperfect\u00011s": {
+"pt": "Eu já tinha desistido do plano.",
+"nl": "Ik had het plan al opgegeven."
+},
+"abandonéieren\u0001pluperfect\u00012s": {
+"pt": "Tu já tinhas desistido do plano.",
+"nl": "Jij had het plan al opgegeven."
+},
+"abandonéieren\u0001pluperfect\u00013s": {
+"pt": "Ele já tinha desistido do plano.",
+"nl": "Hij had het plan al opgegeven."
+},
+"abandonéieren\u0001pluperfect\u00011p": {
+"pt": "Nós já tínhamos desistido do plano.",
+"nl": "Wij hadden het plan al opgegeven."
+},
+"abandonéieren\u0001pluperfect\u00012p": {
+"pt": "Vocês já tinham desistido do plano.",
+"nl": "Jullie hadden het plan al opgegeven."
+},
+"abandonéieren\u0001pluperfect\u00013p": {
+"pt": "Eles já tinham desistido do plano.",
+"nl": "Zij hadden het plan al opgegeven."
+},
+"abandonéieren\u0001future\u00011s": {
+"pt": "Eu desistirei do plano.",
+"nl": "Ik zal het plan opgeven."
+},
+"abandonéieren\u0001future\u00012s": {
+"pt": "Tu desistirás do plano.",
+"nl": "Jij zult het plan opgeven."
+},
+"abandonéieren\u0001future\u00013s": {
+"pt": "Ele desistirá do plano.",
+"nl": "Hij zal het plan opgeven."
+},
+"abandonéieren\u0001future\u00011p": {
+"pt": "Nós desistiremos do plano.",
+"nl": "Wij zullen het plan opgeven."
+},
+"abandonéieren\u0001future\u00012p": {
+"pt": "Vocês desistirão do plano.",
+"nl": "Jullie zullen het plan opgeven."
+},
+"abandonéieren\u0001future\u00013p": {
+"pt": "Eles desistirão do plano.",
+"nl": "Zij zullen het plan opgeven."
+},
+"abandonéieren\u0001conditional\u00011s": {
+"pt": "Eu desistiria do plano.",
+"nl": "Ik zou het plan opgeven."
+},
+"abandonéieren\u0001conditional\u00012s": {
+"pt": "Tu desistirias do plano.",
+"nl": "Jij zou het plan opgeven."
+},
+"abandonéieren\u0001conditional\u00013s": {
+"pt": "Ele desistiria do plano.",
+"nl": "Hij zou het plan opgeven."
+},
+"abandonéieren\u0001conditional\u00011p": {
+"pt": "Nós desistiríamos do plano.",
+"nl": "Wij zouden het plan opgeven."
+},
+"abandonéieren\u0001conditional\u00012p": {
+"pt": "Vocês desistiriam do plano.",
+"nl": "Jullie zouden het plan opgeven."
+},
+"abandonéieren\u0001conditional\u00013p": {
+"pt": "Eles desistiriam do plano.",
+"nl": "Zij zouden het plan opgeven."
+},
+"abandonéieren\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria desistido do plano.",
+"nl": "Ik zou het plan hebben opgegeven."
+},
+"abandonéieren\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias desistido do plano.",
+"nl": "Jij zou het plan hebben opgegeven."
+},
+"abandonéieren\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria desistido do plano.",
+"nl": "Hij zou het plan hebben opgegeven."
+},
+"abandonéieren\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos desistido do plano.",
+"nl": "Wij zouden het plan hebben opgegeven."
+},
+"abandonéieren\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam desistido do plano.",
+"nl": "Jullie zouden het plan hebben opgegeven."
+},
+"abandonéieren\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam desistido do plano.",
+"nl": "Zij zouden het plan hebben opgegeven."
+},
+"abandonéieren\u0001subjunctive\u00011s": {
+"pt": "que eu desista do plano",
+"nl": "dat ik het plan opgeef"
+},
+"abandonéieren\u0001subjunctive\u00012s": {
+"pt": "que tu desistas do plano",
+"nl": "dat jij het plan opgeeft"
+},
+"abandonéieren\u0001subjunctive\u00013s": {
+"pt": "que ele desista do plano",
+"nl": "dat hij het plan opgeeft"
+},
+"abandonéieren\u0001subjunctive\u00011p": {
+"pt": "que nós desistamos do plano",
+"nl": "dat wij het plan opgeven"
+},
+"abandonéieren\u0001subjunctive\u00012p": {
+"pt": "que vocês desistam do plano",
+"nl": "dat jullie het plan opgeven"
+},
+"abandonéieren\u0001subjunctive\u00013p": {
+"pt": "que eles desistam do plano",
+"nl": "dat zij het plan opgeven"
+},
+"abalsaméieren\u0001present\u00011s": {
+"pt": "Eu embalsamo o faraó.",
+"nl": "Ik balsem de farao."
+},
+"abalsaméieren\u0001present\u00012s": {
+"pt": "Tu embalsamas o faraó.",
+"nl": "Jij balsemt de farao."
+},
+"abalsaméieren\u0001present\u00013s": {
+"pt": "Ele embalsama o faraó.",
+"nl": "Hij balsemt de farao."
+},
+"abalsaméieren\u0001present\u00011p": {
+"pt": "Nós embalsamamos o faraó.",
+"nl": "Wij balsemen de farao."
+},
+"abalsaméieren\u0001present\u00012p": {
+"pt": "Vocês embalsamam o faraó.",
+"nl": "Jullie balsemen de farao."
+},
+"abalsaméieren\u0001present\u00013p": {
+"pt": "Eles embalsamam o faraó.",
+"nl": "Zij balsemen de farao."
+},
+"abalsaméieren\u0001perfect\u00011s": {
+"pt": "Eu embalsamei o faraó.",
+"nl": "Ik heb de farao gebalsemd."
+},
+"abalsaméieren\u0001perfect\u00012s": {
+"pt": "Tu embalsamaste o faraó.",
+"nl": "Jij hebt de farao gebalsemd."
+},
+"abalsaméieren\u0001perfect\u00013s": {
+"pt": "Ele embalsamou o faraó.",
+"nl": "Hij heeft de farao gebalsemd."
+},
+"abalsaméieren\u0001perfect\u00011p": {
+"pt": "Nós embalsamámos o faraó.",
+"nl": "Wij hebben de farao gebalsemd."
+},
+"abalsaméieren\u0001perfect\u00012p": {
+"pt": "Vocês embalsamaram o faraó.",
+"nl": "Jullie hebben de farao gebalsemd."
+},
+"abalsaméieren\u0001perfect\u00013p": {
+"pt": "Eles embalsamaram o faraó.",
+"nl": "Zij hebben de farao gebalsemd."
+},
+"abalsaméieren\u0001past\u00011s": {
+"pt": "Eu embalsamei o faraó.",
+"nl": "Ik balsemde de farao."
+},
+"abalsaméieren\u0001past\u00012s": {
+"pt": "Tu embalsamaste o faraó.",
+"nl": "Jij balsemde de farao."
+},
+"abalsaméieren\u0001past\u00013s": {
+"pt": "Ele embalsamou o faraó.",
+"nl": "Hij balsemde de farao."
+},
+"abalsaméieren\u0001past\u00011p": {
+"pt": "Nós embalsamámos o faraó.",
+"nl": "Wij balsemden de farao."
+},
+"abalsaméieren\u0001past\u00012p": {
+"pt": "Vocês embalsamaram o faraó.",
+"nl": "Jullie balsemden de farao."
+},
+"abalsaméieren\u0001past\u00013p": {
+"pt": "Eles embalsamaram o faraó.",
+"nl": "Zij balsemden de farao."
+},
+"abalsaméieren\u0001imperfect\u00011s": {
+"pt": "Eu estava a embalsamar o faraó.",
+"nl": "Ik was de farao aan het balsemen."
+},
+"abalsaméieren\u0001imperfect\u00012s": {
+"pt": "Tu estavas a embalsamar o faraó.",
+"nl": "Jij was de farao aan het balsemen."
+},
+"abalsaméieren\u0001imperfect\u00013s": {
+"pt": "Ele estava a embalsamar o faraó.",
+"nl": "Hij was de farao aan het balsemen."
+},
+"abalsaméieren\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a embalsamar o faraó.",
+"nl": "Wij waren de farao aan het balsemen."
+},
+"abalsaméieren\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a embalsamar o faraó.",
+"nl": "Jullie waren de farao aan het balsemen."
+},
+"abalsaméieren\u0001imperfect\u00013p": {
+"pt": "Eles estavam a embalsamar o faraó.",
+"nl": "Zij waren de farao aan het balsemen."
+},
+"abalsaméieren\u0001pluperfect\u00011s": {
+"pt": "Eu tinha embalsamado o faraó.",
+"nl": "Ik had de farao gebalsemd."
+},
+"abalsaméieren\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas embalsamado o faraó.",
+"nl": "Jij had de farao gebalsemd."
+},
+"abalsaméieren\u0001pluperfect\u00013s": {
+"pt": "Ele tinha embalsamado o faraó.",
+"nl": "Hij had de farao gebalsemd."
+},
+"abalsaméieren\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos embalsamado o faraó.",
+"nl": "Wij hadden de farao gebalsemd."
+},
+"abalsaméieren\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham embalsamado o faraó.",
+"nl": "Jullie hadden de farao gebalsemd."
+},
+"abalsaméieren\u0001pluperfect\u00013p": {
+"pt": "Eles tinham embalsamado o faraó.",
+"nl": "Zij hadden de farao gebalsemd."
+},
+"abalsaméieren\u0001future\u00011s": {
+"pt": "Eu embalsamarei o faraó.",
+"nl": "Ik zal de farao balsemen."
+},
+"abalsaméieren\u0001future\u00012s": {
+"pt": "Tu embalsamarás o faraó.",
+"nl": "Jij zult de farao balsemen."
+},
+"abalsaméieren\u0001future\u00013s": {
+"pt": "Ele embalsamará o faraó.",
+"nl": "Hij zal de farao balsemen."
+},
+"abalsaméieren\u0001future\u00011p": {
+"pt": "Nós embalsamaremos o faraó.",
+"nl": "Wij zullen de farao balsemen."
+},
+"abalsaméieren\u0001future\u00012p": {
+"pt": "Vocês embalsamarão o faraó.",
+"nl": "Jullie zullen de farao balsemen."
+},
+"abalsaméieren\u0001future\u00013p": {
+"pt": "Eles embalsamarão o faraó.",
+"nl": "Zij zullen de farao balsemen."
+},
+"abalsaméieren\u0001conditional\u00011s": {
+"pt": "Eu embalsamaria o faraó.",
+"nl": "Ik zou de farao balsemen."
+},
+"abalsaméieren\u0001conditional\u00012s": {
+"pt": "Tu embalsamarias o faraó.",
+"nl": "Jij zou de farao balsemen."
+},
+"abalsaméieren\u0001conditional\u00013s": {
+"pt": "Ele embalsamaria o faraó.",
+"nl": "Hij zou de farao balsemen."
+},
+"abalsaméieren\u0001conditional\u00011p": {
+"pt": "Nós embalsamaríamos o faraó.",
+"nl": "Wij zouden de farao balsemen."
+},
+"abalsaméieren\u0001conditional\u00012p": {
+"pt": "Vocês embalsamariam o faraó.",
+"nl": "Jullie zouden de farao balsemen."
+},
+"abalsaméieren\u0001conditional\u00013p": {
+"pt": "Eles embalsamariam o faraó.",
+"nl": "Zij zouden de farao balsemen."
+},
+"abalsaméieren\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria embalsamado o faraó.",
+"nl": "Ik zou de farao hebben gebalsemd."
+},
+"abalsaméieren\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias embalsamado o faraó.",
+"nl": "Jij zou de farao hebben gebalsemd."
+},
+"abalsaméieren\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria embalsamado o faraó.",
+"nl": "Hij zou de farao hebben gebalsemd."
+},
+"abalsaméieren\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos embalsamado o faraó.",
+"nl": "Wij zouden de farao hebben gebalsemd."
+},
+"abalsaméieren\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam embalsamado o faraó.",
+"nl": "Jullie zouden de farao hebben gebalsemd."
+},
+"abalsaméieren\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam embalsamado o faraó.",
+"nl": "Zij zouden de farao hebben gebalsemd."
+},
+"abalsaméieren\u0001subjunctive\u00011s": {
+"pt": "que eu embalsame o faraó",
+"nl": "dat ik de farao balsem"
+},
+"abalsaméieren\u0001subjunctive\u00012s": {
+"pt": "que tu embalsames o faraó",
+"nl": "dat jij de farao balsemt"
+},
+"abalsaméieren\u0001subjunctive\u00013s": {
+"pt": "que ele embalsame o faraó",
+"nl": "dat hij de farao balsemt"
+},
+"abalsaméieren\u0001subjunctive\u00011p": {
+"pt": "que nós embalsemos o faraó",
+"nl": "dat wij de farao balsemen"
+},
+"abalsaméieren\u0001subjunctive\u00012p": {
+"pt": "que vocês embalsamem o faraó",
+"nl": "dat jullie de farao balsemen"
+},
+"abalsaméieren\u0001subjunctive\u00013p": {
+"pt": "que eles embalsamem o faraó",
+"nl": "dat zij de farao balsemen"
+},
+"abannen\u0001present\u00011s": {
+"pt": "Eu forro o manual escolar com plástico.",
+"nl": "Ik kaft het schoolboek in plastic."
+},
+"abannen\u0001present\u00012s": {
+"pt": "Tu forras o manual escolar com plástico.",
+"nl": "Jij kaft het schoolboek in plastic."
+},
+"abannen\u0001present\u00013s": {
+"pt": "Ele forra o manual escolar com plástico.",
+"nl": "Hij kaft het schoolboek in plastic."
+},
+"abannen\u0001present\u00011p": {
+"pt": "Nós forramos o manual escolar com plástico.",
+"nl": "Wij kaften het schoolboek in plastic."
+},
+"abannen\u0001present\u00012p": {
+"pt": "Vocês forram o manual escolar com plástico.",
+"nl": "Jullie kaften het schoolboek in plastic."
+},
+"abannen\u0001present\u00013p": {
+"pt": "Eles forram o manual escolar com plástico.",
+"nl": "Zij kaften het schoolboek in plastic."
+},
+"abannen\u0001perfect\u00011s": {
+"pt": "Eu forrei o manual escolar com plástico.",
+"nl": "Ik heb het schoolboek in plastic gekaft."
+},
+"abannen\u0001perfect\u00012s": {
+"pt": "Tu forraste o manual escolar com plástico.",
+"nl": "Jij hebt het schoolboek in plastic gekaft."
+},
+"abannen\u0001perfect\u00013s": {
+"pt": "Ele forrou o manual escolar com plástico.",
+"nl": "Hij heeft het schoolboek in plastic gekaft."
+},
+"abannen\u0001perfect\u00011p": {
+"pt": "Nós forrámos o manual escolar com plástico.",
+"nl": "Wij hebben het schoolboek in plastic gekaft."
+},
+"abannen\u0001perfect\u00012p": {
+"pt": "Vocês forraram o manual escolar com plástico.",
+"nl": "Jullie hebben het schoolboek in plastic gekaft."
+},
+"abannen\u0001perfect\u00013p": {
+"pt": "Eles forraram o manual escolar com plástico.",
+"nl": "Zij hebben het schoolboek in plastic gekaft."
+},
+"abannen\u0001past\u00011s": {
+"pt": "Eu forrei o manual escolar com plástico.",
+"nl": "Ik kaftte het schoolboek in plastic."
+},
+"abannen\u0001past\u00012s": {
+"pt": "Tu forraste o manual escolar com plástico.",
+"nl": "Jij kaftte het schoolboek in plastic."
+},
+"abannen\u0001past\u00013s": {
+"pt": "Ele forrou o manual escolar com plástico.",
+"nl": "Hij kaftte het schoolboek in plastic."
+},
+"abannen\u0001past\u00011p": {
+"pt": "Nós forrámos o manual escolar com plástico.",
+"nl": "Wij kaftten het schoolboek in plastic."
+},
+"abannen\u0001past\u00012p": {
+"pt": "Vocês forraram o manual escolar com plástico.",
+"nl": "Jullie kaftten het schoolboek in plastic."
+},
+"abannen\u0001past\u00013p": {
+"pt": "Eles forraram o manual escolar com plástico.",
+"nl": "Zij kaftten het schoolboek in plastic."
+},
+"abannen\u0001imperfect\u00011s": {
+"pt": "Eu estava a forrar o manual escolar com plástico.",
+"nl": "Ik was het schoolboek in plastic aan het kaften."
+},
+"abannen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a forrar o manual escolar com plástico.",
+"nl": "Jij was het schoolboek in plastic aan het kaften."
+},
+"abannen\u0001imperfect\u00013s": {
+"pt": "Ele estava a forrar o manual escolar com plástico.",
+"nl": "Hij was het schoolboek in plastic aan het kaften."
+},
+"abannen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a forrar o manual escolar com plástico.",
+"nl": "Wij waren het schoolboek in plastic aan het kaften."
+},
+"abannen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a forrar o manual escolar com plástico.",
+"nl": "Jullie waren het schoolboek in plastic aan het kaften."
+},
+"abannen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a forrar o manual escolar com plástico.",
+"nl": "Zij waren het schoolboek in plastic aan het kaften."
+},
+"abannen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha forrado o manual escolar com plástico.",
+"nl": "Ik had het schoolboek in plastic gekaft."
+},
+"abannen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas forrado o manual escolar com plástico.",
+"nl": "Jij had het schoolboek in plastic gekaft."
+},
+"abannen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha forrado o manual escolar com plástico.",
+"nl": "Hij had het schoolboek in plastic gekaft."
+},
+"abannen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos forrado o manual escolar com plástico.",
+"nl": "Wij hadden het schoolboek in plastic gekaft."
+},
+"abannen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham forrado o manual escolar com plástico.",
+"nl": "Jullie hadden het schoolboek in plastic gekaft."
+},
+"abannen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham forrado o manual escolar com plástico.",
+"nl": "Zij hadden het schoolboek in plastic gekaft."
+},
+"abannen\u0001future\u00011s": {
+"pt": "Eu forrarei o manual escolar com plástico.",
+"nl": "Ik zal het schoolboek in plastic kaften."
+},
+"abannen\u0001future\u00012s": {
+"pt": "Tu forrarás o manual escolar com plástico.",
+"nl": "Jij zult het schoolboek in plastic kaften."
+},
+"abannen\u0001future\u00013s": {
+"pt": "Ele forrará o manual escolar com plástico.",
+"nl": "Hij zal het schoolboek in plastic kaften."
+},
+"abannen\u0001future\u00011p": {
+"pt": "Nós forraremos o manual escolar com plástico.",
+"nl": "Wij zullen het schoolboek in plastic kaften."
+},
+"abannen\u0001future\u00012p": {
+"pt": "Vocês forrarão o manual escolar com plástico.",
+"nl": "Jullie zullen het schoolboek in plastic kaften."
+},
+"abannen\u0001future\u00013p": {
+"pt": "Eles forrarão o manual escolar com plástico.",
+"nl": "Zij zullen het schoolboek in plastic kaften."
+},
+"abannen\u0001conditional\u00011s": {
+"pt": "Eu forraria o manual escolar com plástico.",
+"nl": "Ik zou het schoolboek in plastic kaften."
+},
+"abannen\u0001conditional\u00012s": {
+"pt": "Tu forrarias o manual escolar com plástico.",
+"nl": "Jij zou het schoolboek in plastic kaften."
+},
+"abannen\u0001conditional\u00013s": {
+"pt": "Ele forraria o manual escolar com plástico.",
+"nl": "Hij zou het schoolboek in plastic kaften."
+},
+"abannen\u0001conditional\u00011p": {
+"pt": "Nós forraríamos o manual escolar com plástico.",
+"nl": "Wij zouden het schoolboek in plastic kaften."
+},
+"abannen\u0001conditional\u00012p": {
+"pt": "Vocês forrariam o manual escolar com plástico.",
+"nl": "Jullie zouden het schoolboek in plastic kaften."
+},
+"abannen\u0001conditional\u00013p": {
+"pt": "Eles forrariam o manual escolar com plástico.",
+"nl": "Zij zouden het schoolboek in plastic kaften."
+},
+"abannen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria forrado o manual escolar com plástico.",
+"nl": "Ik zou het schoolboek in plastic hebben gekaft."
+},
+"abannen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias forrado o manual escolar com plástico.",
+"nl": "Jij zou het schoolboek in plastic hebben gekaft."
+},
+"abannen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria forrado o manual escolar com plástico.",
+"nl": "Hij zou het schoolboek in plastic hebben gekaft."
+},
+"abannen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos forrado o manual escolar com plástico.",
+"nl": "Wij zouden het schoolboek in plastic hebben gekaft."
+},
+"abannen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam forrado o manual escolar com plástico.",
+"nl": "Jullie zouden het schoolboek in plastic hebben gekaft."
+},
+"abannen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam forrado o manual escolar com plástico.",
+"nl": "Zij zouden het schoolboek in plastic hebben gekaft."
+},
+"abannen\u0001subjunctive\u00011s": {
+"pt": "que eu forre o manual escolar com plástico",
+"nl": "dat ik het schoolboek in plastic kaft"
+},
+"abannen\u0001subjunctive\u00012s": {
+"pt": "que tu forres o manual escolar com plástico",
+"nl": "dat jij het schoolboek in plastic kaft"
+},
+"abannen\u0001subjunctive\u00013s": {
+"pt": "que ele forre o manual escolar com plástico",
+"nl": "dat hij het schoolboek in plastic kaft"
+},
+"abannen\u0001subjunctive\u00011p": {
+"pt": "que nós forremos o manual escolar com plástico",
+"nl": "dat wij het schoolboek in plastic kaften"
+},
+"abannen\u0001subjunctive\u00012p": {
+"pt": "que vocês forrem o manual escolar com plástico",
+"nl": "dat jullie het schoolboek in plastic kaften"
+},
+"abannen\u0001subjunctive\u00013p": {
+"pt": "que eles forrem o manual escolar com plástico",
+"nl": "dat zij het schoolboek in plastic kaften"
+}
+}
