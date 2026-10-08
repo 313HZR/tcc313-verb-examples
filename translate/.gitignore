@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+verb_examples_ptnl.json
+dict_examples_ptnl.json
+*.tmp
