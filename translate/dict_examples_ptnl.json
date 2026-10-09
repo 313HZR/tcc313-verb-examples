@@ -93425,19 +93425,19 @@
 },
 "Ielwen\u00010\u00010": {
 "pt": "Moro em Elvange",
-"nl": "Ik woon in Ielwen"
+"nl": "Ik woon in Elvange"
 },
 "Ielwen\u00010\u00011": {
 "pt": "Este autocarro vai para Elvange?",
-"nl": "Rijdt deze bus naar Ielwen?"
+"nl": "Rijdt deze bus naar Elvange?"
 },
 "Iener\u00010\u00010": {
 "pt": "Moro em Ehner",
-"nl": "Ik woon in Iener"
+"nl": "Ik woon in Ehner"
 },
 "Iener\u00010\u00011": {
 "pt": "Este autocarro vai para Ehner?",
-"nl": "Rijdt deze bus naar Iener?"
+"nl": "Rijdt deze bus naar Ehner?"
 },
 "ier\u00010\u00010": {
 "pt": "Tento estar em casa antes de escurecer",
@@ -93598,5 +93598,905 @@
 "iergendengem\u00011\u00010": {
 "pt": "Ele vive numa aldeola qualquer perto da fronteira",
 "nl": "Hij woont in een of ander gat bij de grens"
+},
+"iergendengem\u00012\u00010": {
+"pt": "O cunhado dele está na prisão por causa de algum crime",
+"nl": "Zijn zwager zit wegens een of ander misdrijf in de gevangenis"
+},
+"iergendenger\u00010\u00010": {
+"pt": "Ele vive numa localidade qualquer perto da fronteira",
+"nl": "Hij woont in een of ander dorp bij de grens"
+},
+"iergendeppes\u00010\u00010": {
+"pt": "Algo não está certo, ele olhou-me de forma tão estranha",
+"nl": "Er klopt iets niet, hij keek me zo vreemd aan"
+},
+"iergendeppes\u00011\u00010": {
+"pt": "Aquele tipo tem sempre alguma coisa para contar",
+"nl": "Die vent weet altijd wel iets te vertellen"
+},
+"iergendeppes\u00012\u00010": {
+"pt": "Fala lá de outra coisa para variar!",
+"nl": "Praat nu eens over iets anders!"
+},
+"iergendwann\u00010\u00010": {
+"pt": "Um dia vou ler esse livro",
+"nl": "Dat boek ga ik ooit lezen"
+},
+"iergendwann\u00010\u00011": {
+"pt": "Um dia tens de tomar uma decisão",
+"nl": "Ooit moet je een beslissing nemen"
+},
+"iergendwann\u00010\u00012": {
+"pt": "Esse tesouro foi encontrado nalgum momento do século XIX",
+"nl": "Die schat werd ergens in de 19e eeuw gevonden"
+},
+"iergendwéi\u00010\u00010": {
+"pt": "Percebeste isso mal de alguma maneira",
+"nl": "Je hebt dat op de een of andere manier verkeerd begrepen"
+},
+"iergendwéi\u00010\u00011": {
+"pt": "Vais conseguir arranjar isso de alguma maneira",
+"nl": "Dat krijg je er op de een of andere manier wel uit"
+},
+"iergendwellech\u00010\u00010": {
+"pt": "Parece que algumas pessoas se queixaram de que fazemos demasiado barulho",
+"nl": "Naar het schijnt hebben enkele mensen geklaagd dat wij te veel lawaai maken"
+},
+"iergendwellech\u00010\u00011": {
+"pt": "Pergunta-se se não haverá aqui interesses duvidosos em jogo",
+"nl": "Je vraagt je af of er niet allerlei dubieuze belangen in het spel zijn"
+},
+"iergendwellech\u00011\u00010": {
+"pt": "Se tiverem alguma pergunta, não hesitem em ligar!",
+"nl": "Als jullie vragen hebben, aarzel dan niet om te bellen!"
+},
+"iergendwellech\u00011\u00011": {
+"pt": "Traz simplesmente uns bolinhos para o café!",
+"nl": "Breng gewoon wat koekjes mee voor bij de koffie!"
+},
+"iergendwellechen\u00010\u00010": {
+"pt": "Pode fundamentar as suas declarações com números?",
+"nl": "Kunt u uw uitspraken met cijfers onderbouwen?"
+},
+"iergendwellechen\u00010\u00011": {
+"pt": "Não vais certamente dar ouvidos a pessoas quaisquer que não fazem ideia!",
+"nl": "Je gaat toch niet naar willekeurige mensen luisteren die van niets weten!"
+},
+"iergendwou\u00010\u00010": {
+"pt": "O meu isqueiro está nalgum lado numa gaveta",
+"nl": "Mijn aansteker ligt ergens in een la"
+},
+"iergendwouhier\u00010\u00010": {
+"pt": "De algum sítio ouviam-se música e gargalhadas",
+"nl": "Van ergens waren muziek en gelach te horen"
+},
+"iergendzwousch\u00010\u00010": {
+"pt": "Encontrei aquele atlas antigo nalgum mercado de velharias",
+"nl": "Ik heb dat oude atlas ergens op een rommelmarkt gevonden"
+},
+"iergendzwousch\u00010\u00011": {
+"pt": "Não nos conhecemos de algum lado?",
+"nl": "Kennen wij elkaar niet van ergens?"
+},
+"Ierger\u00010\u00010": {
+"pt": "Descarregou toda a sua irritação na mulher",
+"nl": "Hij heeft zijn ergernis op zijn vrouw afgereageerd"
+},
+"Ierger\u00011\u00010": {
+"pt": "Isso só trouxe aborrecimentos",
+"nl": "Dat heeft alleen maar ergernis opgeleverd"
+},
+"iergeren\u00010\u00010": {
+"pt": "Irrita-me não ter pensado tão longe!",
+"nl": "Het ergert me dat ik niet zo ver heb gedacht!"
+},
+"iergeren\u00011\u00010": {
+"pt": "Não te irrites com isso, não podes mudar nada!",
+"nl": "Erger je er niet aan, je kunt er toch niets aan veranderen!"
+},
+"iergerlech\u00010\u00010": {
+"pt": "É irritante que o elevador não funcione",
+"nl": "Het is ergerlijk dat de lift niet werkt"
+},
+"iergoen\u00010\u00010": {
+"pt": "Se seguires os sinais, não te podes perder",
+"nl": "Als je de bordjes volgt, kun je niet verdwalen"
+},
+"ierleeden\u00010\u00010": {
+"pt": "O jornalista induziu muita gente em erro com o seu artigo",
+"nl": "De journalist heeft met zijn artikel veel mensen op het verkeerde been gezet"
+},
+"ierleeden\u00010\u00011": {
+"pt": "Não se deixaram induzir em erro pela conversa dele",
+"nl": "Ze lieten zich niet misleiden door zijn gepraat"
+},
+"Iermsdref\u00010\u00010": {
+"pt": "Moro em Ermsdorf",
+"nl": "Ik woon in Ermsdorf"
+},
+"Iermsdref\u00010\u00011": {
+"pt": "Este autocarro vai para Ermsdorf?",
+"nl": "Rijdt deze bus naar Ermsdorf?"
+},
+"Iernster\u00010\u00010": {
+"pt": "Moro em Ernster",
+"nl": "Ik woon in Ernster"
+},
+"Iernster\u00010\u00011": {
+"pt": "Este autocarro vai para Ernster?",
+"nl": "Rijdt deze bus naar Ernster?"
+},
+"Iernzen\u00010\u00010": {
+"pt": "Moro em Ernzen",
+"nl": "Ik woon in Ernzen"
+},
+"Iernzen\u00010\u00011": {
+"pt": "Este autocarro vai para Ernzen?",
+"nl": "Rijdt deze bus naar Ernzen?"
+},
+"Ierpeldeng\u00010\u00010": {
+"pt": "Moro em Erpeldange",
+"nl": "Ik woon in Erpeldange"
+},
+"Ierpeldeng\u00010\u00011": {
+"pt": "Este autocarro vai para Erpeldange, perto de Bous?",
+"nl": "Rijdt deze bus naar Erpeldange bij Bous?"
+},
+"Ierpeldeng\u00010\u00010~2": {
+"pt": "Moro em Erpeldange",
+"nl": "Ik woon in Erpeldange"
+},
+"Ierpeldeng\u00010\u00011~2": {
+"pt": "Este autocarro vai para Erpeldange, perto de Wiltz?",
+"nl": "Rijdt deze bus naar Erpeldange bij Wiltz?"
+},
+"Ierpeldeng-Sauer\u00010\u00010": {
+"pt": "Moro em Erpeldange-sur-Sûre",
+"nl": "Ik woon in Erpeldange-sur-Sûre"
+},
+"Ierpeldeng-Sauer\u00010\u00011": {
+"pt": "Este autocarro vai para Erpeldange-sur-Sûre?",
+"nl": "Rijdt deze bus naar Erpeldange-sur-Sûre?"
+},
+"Ierseng\u00010\u00010": {
+"pt": "Moro em Ersange",
+"nl": "Ik woon in Ersange"
+},
+"Ierseng\u00010\u00011": {
+"pt": "Este autocarro vai para Ersange?",
+"nl": "Rijdt deze bus naar Ersange?"
+},
+"iertemlech\u00010\u00010": {
+"pt": "Tinha subido por engano para o autocarro errado",
+"nl": "Ik was per vergissing in de verkeerde bus gestapt"
+},
+"iertemlecherweis\u00010\u00010": {
+"pt": "A estudante inscrevera-se por engano no curso errado",
+"nl": "De studente had zich per vergissing voor de verkeerde cursus ingeschreven"
+},
+"Iertum\u00010\u00010": {
+"pt": "É um lamentável erro o seu filho não estar na lista",
+"nl": "Het is een betreurenswaardige vergissing dat uw zoon niet op de lijst staat"
+},
+"Iertum\u00010\u00011": {
+"pt": "Ele não quer admitir que está enganado",
+"nl": "Hij wil niet inzien dat hij zich vergist"
+},
+"Ierwen\u00010\u00010": {
+"pt": "O meu cunhado é o único herdeiro de uma grande empresa vinícola",
+"nl": "Mijn zwager is de enige erfgenaam van een groot wijnbouwbedrijf"
+},
+"ierwen\u00010\u00010": {
+"pt": "Herdámos dois terrenos para construção",
+"nl": "We hebben twee bouwgronden geërfd"
+},
+"ierwen\u00010\u00011": {
+"pt": "Quando o diretor se reformou, herdámos a sua máquina de café",
+"nl": "Toen de directeur met pensioen ging, erfden wij zijn koffiemachine"
+},
+"ierwen\u00011\u00010": {
+"pt": "Ele herdou o carácter do pai",
+"nl": "Hij heeft het karakter van zijn vader geërfd"
+},
+"Ierwen\u00010\u00010~2": {
+"pt": "A nossa associação empenha-se em que o património cultural da nossa aldeia não se perca",
+"nl": "Onze vereniging zet zich ervoor in dat het cultureel erfgoed van ons dorp niet verloren gaat"
+},
+"Ierwin\u00010\u00010": {
+"pt": "A única herdeira decidiu não aceitar a herança",
+"nl": "De enige erfgename besloot de erfenis niet te aanvaarden"
+},
+"Ierzebulli\u00010\u00010": {
+"pt": "No inverno, a minha avó faz muitas vezes sopa de ervilhas com salsicha Mettwurst",
+"nl": "In de winter maakt mijn oma vaak erwtensoep met metworst"
+},
+"Ierzenzopp\u00010\u00010": {
+"pt": "Depois da caminhada serviram a toda a gente uma sopa de ervilhas com salsicha Mettwurst",
+"nl": "Na de wandeling kreeg iedereen een erwtensoep met metworst voorgezet"
+},
+"Iesel\u00010\u00010": {
+"pt": "O burro reconhece-se pelas orelhas compridas",
+"nl": "Een ezel herken je aan zijn lange oren"
+},
+"Iesel\u00010\u00011": {
+"pt": "Não sou o teu burro!",
+"nl": "Ik ben je ezel niet!"
+},
+"Iesel\u00010\u00012": {
+"pt": "Aquele tipo é teimoso como o burro do Jupp",
+"nl": "Die kerel is koppig als de ezel van Jupp"
+},
+"Iesel\u00010\u00013": {
+"pt": "Quando o burro está bem demais, vai dançar para o gelo",
+"nl": "Als het de ezel te goed gaat, gaat hij op het ijs dansen"
+},
+"Iesel\u00010\u00014": {
+"pt": "Um bom burro só tropeça uma vez",
+"nl": "Een goede ezel stoot zich maar één keer"
+},
+"Iesel\u00010\u00015": {
+"pt": "Podes levar o burro à água, mas beber tem de ser ele!",
+"nl": "Je kunt de ezel naar het water brengen, maar drinken moet hij zelf!"
+},
+"Iesel\u00011\u00010": {
+"pt": "Seu (grande) burro!",
+"nl": "Jij (domme) ezel!"
+},
+"Iesel\u00011\u00011": {
+"pt": "Agora aquele idiota entornou-me o seu vinho quente no casaco!",
+"nl": "Nu heeft die ezel zijn glühwein over mijn jas gegoten!"
+},
+"Ieselsbréck\u00010\u00010": {
+"pt": "Se tens dificuldade com essas fórmulas, usa truques de memória!",
+"nl": "Als je die formules slecht onthoudt, gebruik dan ezelsbruggetjes!"
+},
+"Ieselsfillen\u00010\u00010": {
+"pt": "Os burrinhos são por natureza muito brincalhões",
+"nl": "Ezelsveulens zijn van nature erg speels"
+},
+"Ieselsfouss\u00010\u00010": {
+"pt": "A tussilagem gosta de crescer em solo húmido e argiloso",
+"nl": "Het klein hoefblad groeit graag op vochtige, leemachtige grond"
+},
+"Ieselshengscht\u00010\u00010": {
+"pt": "Os burros garanhões não devem ser mantidos juntamente com ovelhas e póneis",
+"nl": "Ezelhengsten mogen niet samen met schapen en pony's worden gehouden"
+},
+"Ieselsmier\u00010\u00010": {
+"pt": "Uma das nossas duas burras vai ter em breve uma cria",
+"nl": "Een van onze twee ezelinnen krijgt binnenkort een veulen"
+},
+"Ieselsminnech\u00010\u00010": {
+"pt": "Um burro castrado é menos agressivo do que um garanhão",
+"nl": "Een gecastreerde ezel is minder agressief dan een ezelhengst"
+},
+"Ieselsouer\u00010\u00010": {
+"pt": "Não faças orelhas no meu livro novo!",
+"nl": "Maak geen ezelsoren in mijn nieuwe boek!"
+},
+"Ieselsouer\u00010\u00010~2": {
+"pt": "Os frutos maduros do jarro-malhado são vermelhos e muito venenosos",
+"nl": "De rijpe bessen van de gevlekte aronskelk zijn rood en zeer giftig"
+},
+"ieselzeg\u00010\u00010": {
+"pt": "Isso foi uma observação estúpida",
+"nl": "Dat was een stomme opmerking"
+},
+"ieselzeg\u00010\u00011": {
+"pt": "Não te comportes de forma tão estúpida!",
+"nl": "Gedraag je niet zo stom!"
+},
+"Ieselzegkeet\u00010\u00010": {
+"pt": "Com as tuas burrices voltaste a passar um enorme vexame!",
+"nl": "Met je domme streken heb je je weer eens flink belachelijk gemaakt!"
+},
+"iessbar\u00010\u00010": {
+"pt": "Sabes se estes cogumelos são comestíveis?",
+"nl": "Weet je of deze champignons eetbaar zijn?"
+},
+"iessbar\u00010\u00011": {
+"pt": "Estes frutos só são comestíveis depois de cozidos",
+"nl": "Deze vruchten zijn pas eetbaar als ze gekookt zijn"
+},
+"Iessdësch\u00010\u00010": {
+"pt": "Mandámos fazer a nossa mesa de jantar por medida a um carpinteiro",
+"nl": "We hebben onze eettafel door een schrijnwerker op maat laten maken"
+},
+"Iessen\u00010\u00010": {
+"pt": "Podem sentar-se, a comida está na mesa!",
+"nl": "Jullie mogen gaan zitten, het eten staat op tafel!"
+},
+"Iessen\u00010\u00011": {
+"pt": "A criança não gostou da refeição ao almoço",
+"nl": "Het kind vond het eten vanmiddag niet lekker"
+},
+"Iessen\u00010\u00012": {
+"pt": "As três refeições custaram 90 euros no total",
+"nl": "De drie maaltijden kostten samen 90 euro"
+},
+"Iessen\u00011\u00010": {
+"pt": "Depois da refeição fomos dar uma grande caminhada",
+"nl": "Na het eten zijn we een flinke wandeling gaan maken"
+},
+"Iessen\u00011\u00011": {
+"pt": "Durante a refeição não se fala!",
+"nl": "Tijdens het eten praat je niet!"
+},
+"Iessen\u00012\u00010": {
+"pt": "Os meus pais vão esta noite a um grande jantar em casa de amigos",
+"nl": "Mijn ouders gaan vanavond naar een groot diner bij vrienden"
+},
+"Iessen\u00012\u00011": {
+"pt": "Também fui convidado para o jantar",
+"nl": "Ik ben ook voor het diner uitgenodigd"
+},
+"Iessen\u00012\u00012": {
+"pt": "O gestor tem esta semana dois almoços com clientes",
+"nl": "De manager heeft deze week twee zakenlunches met klanten"
+},
+"Iessen\u00013\u00010": {
+"pt": "O governo lança uma campanha por uma alimentação mais saudável",
+"nl": "De regering lanceert een campagne voor gezondere voeding"
+},
+"iessen\u00010\u00010": {
+"pt": "Ao almoço comemos massa",
+"nl": "Vanmiddag eten we pasta"
+},
+"iessen\u00010\u00011": {
+"pt": "Trouxeste alguma coisa para comer?",
+"nl": "Heb je iets te eten meegebracht?"
+},
+"iessen\u00010\u00012": {
+"pt": "Esta sopa não se pode comer!",
+"nl": "Die soep is niet te eten!"
+},
+"iessen\u00011\u00010": {
+"pt": "Dói-me a barriga porque comi depressa demais",
+"nl": "Ik heb buikpijn omdat ik te snel heb gegeten"
+},
+"iessen\u00011\u00011": {
+"pt": "Esta noite vamos jantar fora",
+"nl": "Vanavond gaan we uit eten"
+},
+"iessen\u00011\u00012": {
+"pt": "Comer e beber mantêm o corpo e a alma unidos",
+"nl": "Eten en drinken houdt lijf en ziel bijeen"
+},
+"Iessgewunnecht\u00010\u00010": {
+"pt": "Nas férias tivemos de nos adaptar a hábitos alimentares estranhos",
+"nl": "In de vakantie moesten we ons aanpassen aan onbekende eetgewoonten"
+},
+"Iessläffel\u00010\u00010": {
+"pt": "As colheres de sopa ficam à direita dos pratos",
+"nl": "De soeplepels liggen rechts naast de borden"
+},
+"Iessläffel\u00011\u00010": {
+"pt": "Pouco antes de servir, pode-se refinar o molho com uma colher de sopa de mostarda",
+"nl": "Vlak voor het opdienen kun je de saus met een eetlepel mosterd verfijnen"
+},
+"Iesssall\u00010\u00010": {
+"pt": "O refeitório da nossa cantina está a ficar pequeno",
+"nl": "De eetzaal van onze kantine wordt langzamerhand te klein"
+},
+"Iessstéierung\u00010\u00010": {
+"pt": "Uma perturbação alimentar pode significar que o paciente come demais ou de menos",
+"nl": "Een eetstoornis kan betekenen dat de patiënt te veel of te weinig eet"
+},
+"Iessverhalen\u00010\u00010": {
+"pt": "O desporto e hábitos alimentares saudáveis devem ajudar contra a tensão alta",
+"nl": "Sport en een gezond eetpatroon zouden tegen hoge bloeddruk moeten helpen"
+},
+"Iesswueren\u00010\u00010": {
+"pt": "Na guerra as pessoas fizeram reservas de alimentos",
+"nl": "Tijdens de oorlog hamsterden mensen levensmiddelen"
+},
+"Iesswueren\u00010\u00011": {
+"pt": "Os alimentos embalados a vácuo duram mais tempo",
+"nl": "Levensmiddelen die vacuüm verpakt zijn, blijven langer goed"
+},
+"Iesszëmmer\u00010\u00010": {
+"pt": "Os meus pais gostariam de comprar uma mesa nova para a sala de jantar",
+"nl": "Mijn ouders willen graag een nieuwe tafel voor de eetkamer kopen"
+},
+"Iesszerwiss\u00010\u00010": {
+"pt": "Passados vinte anos, oferecemo-nos um novo serviço de jantar",
+"nl": "Na twintig jaar hebben we ons een nieuw eetservies gegund"
+},
+"Iewerleng\u00010\u00010": {
+"pt": "Moro em Everlange",
+"nl": "Ik woon in Everlange"
+},
+"Iewerleng\u00010\u00011": {
+"pt": "Este autocarro vai para Everlange?",
+"nl": "Rijdt deze bus naar Everlange?"
+},
+"Iewerlenger Millen\u00010\u00010": {
+"pt": "Moro em Everlange-Moulin",
+"nl": "Ik woon in Everlange-Moulin"
+},
+"Iewerlenger Millen\u00010\u00011": {
+"pt": "Este autocarro vai para Everlange-Moulin?",
+"nl": "Rijdt deze bus naar Everlange-Moulin?"
+},
+"iewescht\u00010\u00010": {
+"pt": "O meu irmão rachou-me o lábio superior",
+"nl": "Mijn broer heeft mijn bovenlip bloedend stukgeslagen"
+},
+"iewescht\u00010\u00011": {
+"pt": "As tuas chaves estão na gaveta de cima",
+"nl": "Je sleutels liggen in de bovenste la"
+},
+"iewescht\u00011\u00010": {
+"pt": "Na carreira superior há um lugar vago",
+"nl": "In de hogere loopbaan is een plaats vrij"
+},
+"iewescht\u00011\u00011": {
+"pt": "As classes superiores da escola hoje têm folga",
+"nl": "De hoogste klassen van de school zijn vandaag vrij"
+},
+"Iewescht Schlënner\u00010\u00010": {
+"pt": "Moro em Oberschlinder",
+"nl": "Ik woon in Oberschlinder"
+},
+"Iewescht Schlënner\u00010\u00011": {
+"pt": "Este autocarro vai para Oberschlinder?",
+"nl": "Rijdt deze bus naar Oberschlinder?"
+},
+"Igel\u00010\u00010": {
+"pt": "Não se deve dar leite ao ouriço-cacheiro porque lhe provoca uma forte diarreia e pode levar à morte",
+"nl": "Egels mogen geen melk krijgen, want die veroorzaakt bij hen ernstige diarree en kan tot de dood leiden"
+},
+"Iglu\u00010\u00010": {
+"pt": "Gostava tanto de dormir uma vez num iglu",
+"nl": "Ik zou zo graag eens in een iglo slapen"
+},
+"Ignorant\u00010\u00010": {
+"pt": "O meu novo assistente é um ignorante",
+"nl": "Mijn nieuwe assistent is een ignorant"
+},
+"Ignoranz\u00010\u00010": {
+"pt": "Essa afirmação é um sinal de ignorância",
+"nl": "Die bewering is een teken van onwetendheid"
+},
+"ignoréieren\u00010\u00010": {
+"pt": "O condutor ignorou o sinal de stop e seguiu simplesmente em frente",
+"nl": "De chauffeur negeerde het stopbord en reed gewoon door"
+},
+"ignoréieren\u00010\u00011": {
+"pt": "A política ignorou os repórteres e as suas perguntas",
+"nl": "De politica negeerde de verslaggevers met hun vragen"
+},
+"Ikon\u00010\u00010": {
+"pt": "Nas igrejas ortodoxas estão pendurados ícones valiosos",
+"nl": "In de orthodoxe kerken hangen waardevolle iconen"
+},
+"Ikon\u00011\u00010": {
+"pt": "A cantora recentemente falecida era um ícone da música pop",
+"nl": "De onlangs overleden zangeres was een icoon van de popmuziek"
+},
+"Ikon\u00012\u00010": {
+"pt": "Tens de clicar duas vezes nesse ícone para abrir o documento",
+"nl": "Je moet twee keer op dat icoon klikken om het document te openen"
+},
+"illegal\u00010\u00010": {
+"pt": "Deste documento existem cópias ilegais",
+"nl": "Van dit document bestaan illegale kopieën"
+},
+"illegal\u00010\u00011": {
+"pt": "Ele encontra-se ilegalmente no país",
+"nl": "Hij verblijft illegaal in het land"
+},
+"Illegalitéit\u00010\u00010": {
+"pt": "Se conduzires sem carta, estás na ilegalidade",
+"nl": "Als je zonder rijbewijs rijdt, handel je illegaal"
+},
+"illimitéiert\u00010\u00010": {
+"pt": "Não dispomos de meios financeiros ilimitados",
+"nl": "Wij beschikken niet over onbeperkte financiële middelen"
+},
+"illimitéiert\u00010\u00011": {
+"pt": "Por dez euros podes telefonar aqui sem limites",
+"nl": "Voor tien euro kun je hier onbeperkt bellen"
+},
+"Illusioun\u00010\u00010": {
+"pt": "Não te iludas!",
+"nl": "Maak jezelf geen illusies!"
+},
+"Illusioun\u00010\u00011": {
+"pt": "Seria uma ilusão acreditar que ele um dia vai mudar",
+"nl": "Het zou een illusie zijn te geloven dat hij ooit verandert"
+},
+"illusoresch\u00010\u00010": {
+"pt": "É ilusório acreditar que teríamos o trabalho concluído até à noite",
+"nl": "Het is illusoir te geloven dat we vanavond met het werk klaar zouden zijn"
+},
+"Illustratioun\u00010\u00010": {
+"pt": "As ilustrações do livro são todas do mesmo artista",
+"nl": "De illustraties in het boek zijn allemaal van dezelfde kunstenaar"
+},
+"Illustratioun\u00011\u00010": {
+"pt": "A ilustração do folheto foi feita por uma agência",
+"nl": "De illustratie van de brochure is door een bureau gemaakt"
+},
+"Illustratioun\u00012\u00010": {
+"pt": "Como ilustração da sua teoria, deu-nos alguns exemplos",
+"nl": "Ter illustratie van zijn theorie gaf hij ons enkele voorbeelden"
+},
+"illustréieren\u00010\u00010": {
+"pt": "Este livro foi ilustrado por um conhecido ilustrador gráfico",
+"nl": "Dit boek werd geïllustreerd door een bekende grafisch ontwerper"
+},
+"illustréieren\u00011\u00010": {
+"pt": "A professora ilustrou a teoria com alguns exemplos",
+"nl": "De lerares illustreerde de theorie met enkele voorbeelden"
+},
+"Iltis\u00010\u00010": {
+"pt": "O furão-bravo tornou-se raro no Luxemburgo devido ao declínio dos anfíbios",
+"nl": "De bunzing is in Luxemburg zeldzaam geworden door de achteruitgang van de amfibieën"
+},
+"Image\u00010\u00010": {
+"pt": "Com o seu empenho social, a estrela de rock quer melhorar a sua imagem",
+"nl": "Met zijn sociaal engagement wil de rockster zijn imago verbeteren"
+},
+"Image\u00010\u00011": {
+"pt": "O escândalo recente prejudicou seriamente a imagem da empresa",
+"nl": "Het recente schandaal heeft het imago van het bedrijf ernstig geschaad"
+},
+"imaginär\u00010\u00010": {
+"pt": "O filme passa-se num mundo imaginário no século XXII",
+"nl": "Die film speelt zich af in een denkbeeldige wereld in de 22e eeuw"
+},
+"Imaginär\u00010\u00010": {
+"pt": "No imaginário da artista, seres sobrenaturais desempenham um papel importante",
+"nl": "In de verbeelding van de kunstenares spelen bovennatuurlijke wezens een belangrijke rol"
+},
+"Imaginatioun\u00010\u00010": {
+"pt": "A criança tem muita imaginação!",
+"nl": "Dat kind heeft veel fantasie!"
+},
+"Imam\u00010\u00010": {
+"pt": "O imã leu o Corão em voz alta",
+"nl": "De imam las uit de koran voor"
+},
+"Imitatioun\u00010\u00010": {
+"pt": "O teu relógio é uma imitação barata",
+"nl": "Je horloge is een goedkope imitatie"
+},
+"imitéieren\u00010\u00010": {
+"pt": "Tinha um colega que sabia imitar todos os nossos professores",
+"nl": "Ik had een collega die al onze leraren kon nabootsen"
+},
+"imitéieren\u00010\u00011": {
+"pt": "O guarda-florestal sabe imitar muitos cantos de aves",
+"nl": "De boswachter kan veel vogelstemmen nabootsen"
+},
+"Imker\u00010\u00010": {
+"pt": "Compro o meu mel diretamente ao apicultor",
+"nl": "Ik koop mijn honing rechtstreeks bij de imker"
+},
+"Imkerin\u00010\u00010": {
+"pt": "Compro o meu mel a uma apicultora no mercado",
+"nl": "Ik koop mijn honing bij een imkerin op de markt"
+},
+"immateriell\u00010\u00010": {
+"pt": "As patentes e as licenças fazem parte dos ativos intangíveis",
+"nl": "Patenten en licenties horen tot de immateriële activa"
+},
+"immateriell\u00010\u00011": {
+"pt": "Desde 2010, a procissão dançante de Echternach faz parte do património cultural imaterial da UNESCO",
+"nl": "Sinds 2010 behoort de springprocessie van Echternach tot het immaterieel cultureel erfgoed van de UNESCO"
+},
+"Immatrikulatioun\u00010\u00010": {
+"pt": "Onde fica o serviço de matrícula dos automóveis?",
+"nl": "Waar is het kantoor voor de inschrijving van voertuigen?"
+},
+"Immatrikulatioun\u00011\u00010": {
+"pt": "Para esse procedimento tens de apresentar o teu registo de matrícula",
+"nl": "Voor die procedure moet je je inschrijvingsbewijs voorleggen"
+},
+"immatrikuléieren\u00010\u00010": {
+"pt": "Onde é que tenho de ir para registar o meu carro?",
+"nl": "Waar moet ik naartoe om mijn auto te laten inschrijven?"
+},
+"immens\u00010\u00010": {
+"pt": "Nessa profissão é preciso ter uma paciência imensa",
+"nl": "In dat beroep moet je enorm veel geduld hebben"
+},
+"immens\u00011\u00010": {
+"pt": "Essa ideia é fantástica!",
+"nl": "Dat idee is geweldig!"
+},
+"immens\u00010\u00010~2": {
+"pt": "Ela sabe dançar muito bem",
+"nl": "Ze kan geweldig goed dansen"
+},
+"Immigrant\u00010\u00010": {
+"pt": "Neste momento estou a ler um livro interessante sobre os imigrantes italianos",
+"nl": "Op dit moment lees ik een interessant boek over de Italiaanse immigranten"
+},
+"Immigrantin\u00010\u00010": {
+"pt": "A imigrante aprende luxemburguês em cursos noturnos",
+"nl": "De immigrante leert Luxemburgs in avondcursussen"
+},
+"Immigratioun\u00010\u00010": {
+"pt": "A imigração tem de ser acompanhada por uma integração consequente",
+"nl": "Immigratie moet gepaard gaan met een consequente integratie"
+},
+"Immigratiounsgesetz\u00010\u00010": {
+"pt": "Alguns nacionalistas manifestaram-se contra a nova lei da imigração",
+"nl": "Enkele nationalisten demonstreerden tegen de nieuwe immigratiewet"
+},
+"Immigratiounsland\u00010\u00010": {
+"pt": "A América e a Austrália contam-se entre os países de imigração típicos",
+"nl": "Amerika en Australië behoren tot de typische immigratielanden"
+},
+"immigréieren\u00010\u00010": {
+"pt": "A família dele estabeleceu-se no nosso país há bem 40 anos",
+"nl": "Zijn familie heeft zich ruim 40 jaar geleden in ons land gevestigd"
+},
+"imminent\u00010\u00010": {
+"pt": "Segundo a polícia, o preso evadido não representa perigo iminente",
+"nl": "Volgens de politie gaat er van de ontsnapte gevangene geen onmiddellijk gevaar uit"
+},
+"imminent\u00010\u00011": {
+"pt": "As pessoas foram evacuadas porque, segundo os geólogos, a erupção do vulcão é iminente",
+"nl": "De mensen werden geëvacueerd omdat de uitbarsting van de vulkaan volgens de geologen op handen is"
+},
+"Immobilie\u00010\u00010": {
+"pt": "Neste momento é interessante investir o dinheiro em imóveis",
+"nl": "Op dit moment is het interessant om je geld in vastgoed te investeren"
+},
+"Immobilie\u00010\u00011": {
+"pt": "A herança inclui imóveis e ações",
+"nl": "De erfenis omvat onroerend goed en aandelen"
+},
+"Immobiliemaart\u00010\u00010": {
+"pt": "Os preços no mercado imobiliário ainda são demasiado altos",
+"nl": "De prijzen op de vastgoedmarkt zijn nog altijd te hoog"
+},
+"Immobiliemarché\u00010\u00010": {
+"pt": "Os preços no mercado imobiliário continuam a ser demasiado altos",
+"nl": "De prijzen op de vastgoedmarkt blijven te hoog"
+},
+"Immobilienagence\u00010\u00010": {
+"pt": "A minha irmã vendeu o apartamento através de uma agência imobiliária",
+"nl": "Mijn zus heeft haar appartement via een vastgoedkantoor verkocht"
+},
+"Immobilienagence\u00011\u00010": {
+"pt": "Quando passo à frente da agência imobiliária, olho sempre para os preços dos apartamentos na montra",
+"nl": "Als ik langs het vastgoedkantoor loop, kijk ik altijd naar de prijzen van de appartementen in de etalage"
+},
+"Immobilienhändler\u00010\u00010": {
+"pt": "Demos a um mediador imobiliário o encargo de vender a nossa casa",
+"nl": "We hebben een makelaar de opdracht gegeven ons huis te verkopen"
+},
+"Immobilienhändlerin\u00010\u00010": {
+"pt": "Para vender o meu apartamento, estou em contacto com uma mediadora imobiliária",
+"nl": "Om mijn appartement te verkopen, ben ik in contact met een makelaar"
+},
+"Immobilière\u00010\u00010": {
+"pt": "A minha irmã vendeu o apartamento através de uma imobiliária",
+"nl": "Mijn zus heeft haar appartement via een makelaarskantoor verkocht"
+},
+"Immobilière\u00011\u00010": {
+"pt": "Quando passo à frente da imobiliária, olho sempre para os preços dos apartamentos na montra",
+"nl": "Als ik langs het makelaarskantoor loop, kijk ik altijd naar de prijzen van de appartementen in de etalage"
+},
+"immobiliséieren\u00010\u00010": {
+"pt": "Depois do acidente, a perna partida teve de ser imobilizada",
+"nl": "Na het ongeval moest zijn gebroken been worden geïmmobiliseerd"
+},
+"immun\u00010\u00010": {
+"pt": "Nem uma vacina nem uma infeção tornam alguém imune a longo prazo à malária",
+"nl": "Noch een inenting noch een infectie maakt je op lange termijn immuun tegen malaria"
+},
+"immun\u00010\u00011": {
+"pt": "Nesta profissão acaba-se por ficar imune às impertinências",
+"nl": "In dit beroep word je met de tijd immuun voor brutaliteiten"
+},
+"immun\u00011\u00010": {
+"pt": "Em muitos países os representantes políticos têm imunidade",
+"nl": "In veel landen zijn de politieke mandatarissen immuun"
+},
+"immuniséieren\u00010\u00010": {
+"pt": "Uma vacina deve imunizar o doente contra uma determinada doença",
+"nl": "Een vaccin moet de patiënt tegen een bepaalde ziekte immuniseren"
+},
+"Immuniséierung\u00010\u00010": {
+"pt": "Na imunização ativa simula-se ao corpo uma infeção, à qual ele forma anticorpos",
+"nl": "Bij actieve immunisatie wordt het lichaam een infectie voorgespiegeld waarop het antistoffen aanmaakt"
+},
+"Immunitéit\u00010\u00010": {
+"pt": "A nova vacina garante a imunidade contra várias doenças",
+"nl": "Het nieuwe vaccin garandeert immuniteit tegen verschillende ziekten"
+},
+"Immunitéit\u00010\u00011": {
+"pt": "Ninguém sabe ainda por quanto tempo um doente infetado com o coronavírus tem imunidade contra ele",
+"nl": "Niemand kan nog zeggen hoe lang een patiënt die met het coronavirus besmet was, daartegen immuun is"
+},
+"Immunitéit\u00011\u00010": {
+"pt": "Devido à sua imunidade parlamentar, a política não pode ser acusada em tribunal",
+"nl": "Vanwege haar parlementaire immuniteit kan de politica niet voor de rechter worden gedaagd"
+},
+"Immunitéitspass\u00010\u00010": {
+"pt": "Em alguns países discute-se a ideia de um passaporte de imunidade como possível medida contra o coronavírus",
+"nl": "In sommige landen wordt het idee van een immuniteitspaspoort als mogelijke maatregel tegen het coronavirus besproken"
+},
+"Immunplasma\u00010\u00010": {
+"pt": "Uma terapia com plasma imune dá esperança a muitos doentes",
+"nl": "Een therapie met immuunplasma geeft veel patiënten hoop"
+},
+"Immunplasma\u00010\u00011": {
+"pt": "O plasma imune é plasma sanguíneo com anticorpos de doentes recuperados",
+"nl": "Immuunplasma is bloedplasma met antistoffen van genezen patiënten"
+},
+"Immunreaktioun\u00010\u00010": {
+"pt": "Uma resposta imunitária pode ajudar a proteger o corpo humano contra vírus",
+"nl": "Een immuunreactie kan helpen het menselijk lichaam tegen virussen te beschermen"
+},
+"Immunsystem\u00010\u00010": {
+"pt": "Um estilo de vida saudável contribui para um bom sistema imunitário",
+"nl": "Een gezonde levensstijl draagt bij tot een goed immuunsysteem"
+},
+"Impakt\u00010\u00010": {
+"pt": "A evolução demográfica tem um impacto direto na economia",
+"nl": "De demografische ontwikkeling heeft een direct effect op de economie"
+},
+"Imparfait\u00010\u00010": {
+"pt": "O verbo está no pretérito imperfeito",
+"nl": "Het werkwoord staat in de onvoltooid verleden tijd"
+},
+"Impeachment\u00010\u00010": {
+"pt": "A oposição deu início ao processo de destituição contra o presidente",
+"nl": "De oppositie heeft de procedure voor een impeachment tegen de president ingeleid"
+},
+"impeccabel\u00010\u00010": {
+"pt": "O nosso rapaz trouxe para casa notas impecáveis",
+"nl": "Onze zoon heeft een onberispelijk rapport mee naar huis gebracht"
+},
+"impeccabel\u00010\u00011": {
+"pt": "O teu fato novo assenta impecavelmente",
+"nl": "Je nieuwe pak zit onberispelijk"
+},
+"Imperativ\u00010\u00010": {
+"pt": "Nas tabelas do LOD encontram-se todos os verbos no infinitivo, no indicativo, no condicional e no imperativo",
+"nl": "In de tabellen van het LOD vind je alle werkwoorden in de infinitief, de indicatief, de conditionalis en de imperatief"
+},
+"Imperfekt\u00010\u00010": {
+"pt": "Ponham os verbos do texto no pretérito imperfeito!",
+"nl": "Zet de werkwoorden uit de tekst in de onvoltooid verleden tijd!"
+},
+"impertinent\u00010\u00010": {
+"pt": "Peço-lhes que se abstenham das suas observações impertinentes",
+"nl": "Ik zou u willen vragen uw brutale opmerkingen achterwege te laten"
+},
+"impertinent\u00010\u00011": {
+"pt": "Isso é que é uma pessoa impertinente!",
+"nl": "Dat is me er eentje, een brutale persoon!"
+},
+"impertinent\u00010\u00012": {
+"pt": "Pára de responder de forma tão impertinente!",
+"nl": "Houd op zo brutaal te antwoorden!"
+},
+"Impertinenz\u00010\u00010": {
+"pt": "Aquele fedelho tinha uma impertinência exemplar",
+"nl": "Die snotneus was van een voorbeeldige brutaliteit"
+},
+"Impetigo\u00010\u00010": {
+"pt": "O impétigo é uma doença de pele altamente contagiosa, transmitida por bactérias",
+"nl": "Impetigo is een zeer besmettelijke huidziekte die door bacteriën wordt overgedragen"
+},
+"Impfcampagne\u00010\u00010": {
+"pt": "Depois da campanha de vacinação, várias doses de vacina foram destruídas",
+"nl": "Na de vaccinatiecampagne werden verschillende vaccindoses vernietigd"
+},
+"Impfcampagne\u00010\u00011": {
+"pt": "A saúde lança uma campanha nacional de vacinação contra o tétano",
+"nl": "Het ministerie van Volksgezondheid lanceert een landelijke vaccinatiecampagne tegen tetanus"
+},
+"Impfdosis\u00010\u00010": {
+"pt": "Hoje vou ao médico receber a minha segunda dose da vacina",
+"nl": "Vandaag ga ik naar de dokter om mijn tweede vaccindosis te krijgen"
+},
+"Impfdosis\u00010\u00011": {
+"pt": "Após a campanha de vacinação, algumas doses de vacina foram destruídas",
+"nl": "Na de vaccinatiecampagne zijn enkele vaccindoses vernietigd"
+},
+"impfen\u00010\u00010": {
+"pt": "Vamos vacinar os nossos filhos contra a gripe",
+"nl": "We laten onze kinderen tegen griep inenten"
+},
+"impfen\u00010\u00011": {
+"pt": "Estou vacinado contra todo o tipo de doenças",
+"nl": "Ik ben tegen allerlei ziekten ingeënt"
+},
+"impfen\u00010\u00012": {
+"pt": "Agora que é possível vacinar-se contra o coronavírus, a vida vai, esperemos, voltar lentamente ao normal",
+"nl": "Nu men zich tegen het coronavirus kan laten vaccineren, wordt het leven hopelijk langzaam weer normaal"
+},
+"Impfflicht\u00010\u00010": {
+"pt": "Em muitos países vigora a vacinação obrigatória para o pessoal do setor dos cuidados",
+"nl": "In veel landen geldt een vaccinatieplicht voor het personeel in de zorgsector"
+},
+"Impfflicht\u00010\u00011": {
+"pt": "Durante a pandemia de coronavírus, debateu-se uma vacinação obrigatória geral",
+"nl": "Tijdens de coronapandemie werd er over een algemene vaccinatieplicht gedebatteerd"
+},
+"Impfpass\u00010\u00010": {
+"pt": "Leva o teu boletim de vacinas ao médico!",
+"nl": "Neem je vaccinatieboekje mee naar de dokter!"
+},
+"Impfstoff\u00010\u00010": {
+"pt": "O nosso laboratório trabalha no desenvolvimento de uma nova vacina",
+"nl": "Ons laboratorium werkt aan de ontwikkeling van een nieuw vaccin"
+},
+"Impfstoff\u00010\u00011": {
+"pt": "Ainda pode demorar anos até haver uma vacina contra essa doença",
+"nl": "Het kan nog jaren duren voordat er een vaccin tegen die ziekte is"
+},
+"Impfung\u00010\u00010": {
+"pt": "Tens de mandar registar as tuas vacinas no boletim de vacinas",
+"nl": "Je moet je vaccinaties in je vaccinatieboekje laten noteren"
+},
+"Impfung\u00010\u00011": {
+"pt": "A vacina contra a Covid-19 protege, na grande maioria dos casos, contra uma evolução grave da doença",
+"nl": "De vaccinatie tegen Covid-19 beschermt in de allermeeste gevallen tegen een ernstig verloop van de ziekte"
+},
+"Impfung\u00011\u00010": {
+"pt": "O farmacêutico ainda tem vacinas suficientes contra a gripe no frigorífico",
+"nl": "De apotheker heeft nog genoeg griepvaccins in de koelkast liggen"
+},
+"Impfung\u00011\u00011": {
+"pt": "Houve atrasos na entrega das vacinas contra o coronavírus",
+"nl": "Er waren tekorten bij de levering van de vaccins tegen het coronavirus"
+},
+"Impfzenter\u00010\u00010": {
+"pt": "Para poder vacinar o maior número possível de pessoas em pouco tempo, a saúde abre alguns centros de vacinação adicionais",
+"nl": "Om in korte tijd zoveel mogelijk mensen te kunnen vaccineren, opent de gezondheidsdienst enkele extra vaccinatiecentra"
+},
+"Implant\u00010\u00010": {
+"pt": "Como substituto do meu dente da frente, o meu dentista aconselhou-me um implante",
+"nl": "Als vervanging voor mijn voortand adviseerde mijn tandarts me een implantaat"
+},
+"Implantat\u00010\u00010": {
+"pt": "Na altura houve muita discussão sobre a segurança do silicone como implante",
+"nl": "Destijds werd er veel gediscussieerd over de veiligheid van siliconen als implantaat"
+},
+"Implantatioun\u00010\u00010": {
+"pt": "Novas infraestruturas devem favorecer a implantação de empresas",
+"nl": "Nieuwe infrastructuur moet de vestiging van bedrijven bevorderen"
+},
+"Implantatioun\u00011\u00010": {
+"pt": "A implantação de um pacemaker é hoje uma operação corrente",
+"nl": "Het implanteren van een pacemaker is tegenwoordig een gangbare operatie"
+},
+"implantéieren\u00010\u00010": {
+"pt": "Na próxima semana vão implantar-me uma anca artificial",
+"nl": "Volgende week krijg ik een kunstheup geïmplanteerd"
+},
+"implizéieren\u00010\u00010": {
+"pt": "Foi implicado naquele caso por causa da sua imprudência",
+"nl": "Hij werd door zijn onvoorzichtigheid in die zaak betrokken"
+},
+"implizéieren\u00011\u00010": {
+"pt": "Uma melhor qualidade implica um preço mais elevado",
+"nl": "Een betere kwaliteit impliceert een hogere prijs"
+},
+"implizéieren\u00012\u00010": {
+"pt": "A construção da nova escola implica um subsídio considerável do Estado",
+"nl": "De bouw van de nieuwe school impliceert een flinke subsidie van de staat"
+},
+"implizitt\u00010\u00010": {
+"pt": "Para obter a autorização, há algumas condições implícitas a cumprir",
+"nl": "Om de vergunning te krijgen, moeten enkele impliciete voorwaarden worden vervuld"
+},
+"implizitt\u00010\u00011": {
+"pt": "Essa cláusula tem de constar explicitamente do contrato ou já está implicitamente coberta?",
+"nl": "Moet die clausule uitdrukkelijk in het contract worden opgenomen of is ze al impliciet gedekt?"
+},
+"imponéieren\u00010\u00010": {
+"pt": "Queres impressionar as mulheres com o teu carro novo?",
+"nl": "Wil je de vrouwen imponeren met je nieuwe auto?"
 }
 }
