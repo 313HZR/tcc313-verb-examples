@@ -23193,7 +23193,7 @@
 },
 "bestoen\u00013\u00011": {
 "pt": "Insisto em que peçam desculpa à avó!",
-"nl": "Ik ssta erop dat jullie je bij oma verontschuldigen!"
+"nl": "Ik sta erop dat jullie je bij oma verontschuldigen!"
 },
 "bestoen\u00014\u00010": {
 "pt": "Nenhum candidato passou no teste",
@@ -23398,5 +23398,905 @@
 "betreffen\u00010\u00013": {
 "pt": "As pessoas afetadas foram indemnizadas pelo seguro",
 "nl": "De betrokken mensen werden door de verzekering vergoed"
+},
+"betreffend\u00010\u00010": {
+"pt": "A passagem em questão foi riscada do texto",
+"nl": "De betreffende passage werd uit de tekst geschrapt"
+},
+"betreffend\u00010\u00011": {
+"pt": "Alguém perdeu o relógio no ginásio, a pessoa em questão deve apresentar-se na receção",
+"nl": "In de turnzaal heeft iemand zijn horloge verloren, de betrokkene moet zich in de loge melden"
+},
+"betreien\u00010\u00010": {
+"pt": "Esta creche acolhe crianças entre os dois e os quatro anos",
+"nl": "Deze crèche vangt kinderen tussen twee en vier jaar op"
+},
+"betreien\u00011\u00010": {
+"pt": "A biblioteca é gerida por dois especialistas",
+"nl": "De bibliotheek wordt door twee vakmensen bemand"
+},
+"Betreiung\u00010\u00010": {
+"pt": "Naquele lar estão a ser criadas novas infraestruturas para o acompanhamento de pessoas com deficiência",
+"nl": "In dat tehuis worden nieuwe infrastructuren voor de begeleiding van mensen met een beperking gecreëerd"
+},
+"Betreiung\u00010\u00011": {
+"pt": "Um acompanhamento médico adequado é importante para melhorar a qualidade de vida de doentes com doenças crónicas",
+"nl": "Adequate medische begeleiding is belangrijk om de levenskwaliteit van patiënten met chronische ziekten te verbeteren"
+},
+"Betreiungsservice\u00010\u00010": {
+"pt": "O nosso município oferece desde há pouco serviços de acolhimento mais flexíveis",
+"nl": "Onze gemeente biedt sinds kort flexibelere opvangdiensten aan"
+},
+"Betreiungsstruktur\u00010\u00010": {
+"pt": "O nosso município quer criar duas novas estruturas de acolhimento, uma para crianças e outra para idosos",
+"nl": "Onze gemeente wil twee nieuwe opvangstructuren creëren, een voor kinderen en een voor ouderen"
+},
+"Betrib\u00010\u00010": {
+"pt": "O meu colega abriu agora o seu próprio negócio",
+"nl": "Mijn collega heeft nu zijn eigen bedrijf opgestart"
+},
+"Betrib\u00010\u00011": {
+"pt": "Todos os anos, algumas empresas vão à falência",
+"nl": "Elk jaar gaan een aantal bedrijven failliet"
+},
+"Betrib\u00010\u00012": {
+"pt": "Quando ele não está, a empresa pára",
+"nl": "Als hij er niet is, ligt het bedrijf stil"
+},
+"Betrib\u00010\u00013": {
+"pt": "A empresa vai esta noite jogar bowling em conjunto",
+"nl": "Het bedrijf gaat vanavond samen kegelen"
+},
+"Betrib\u00011\u00010": {
+"pt": "No verão há sempre muito movimento na praia",
+"nl": "In de zomer is het op het strand altijd druk"
+},
+"Betrib\u00012\u00010": {
+"pt": "O velho moinho deve ser restaurado e posto de novo em funcionamento",
+"nl": "De oude molen moet worden gerestaureerd en weer in bedrijf worden genomen"
+},
+"Betrib\u00013\u00010": {
+"pt": "A máquina está fora de serviço",
+"nl": "De machine is buiten bedrijf"
+},
+"Betribsfeier\u00010\u00010": {
+"pt": "Há anos que fazemos a nossa festa da empresa mesmo antes das férias grandes",
+"nl": "Al jaren houden we ons bedrijfsfeest vlak voor de grote vakantie"
+},
+"Betribsfinanzen\u00010\u00010": {
+"pt": "O nosso contabilista está a escrever um relatório sobre as finanças da empresa",
+"nl": "Onze boekhouder schrijft net een verslag over de bedrijfsfinanciën"
+},
+"betrieden\u00010\u00010": {
+"pt": "É proibido entrar na obra!",
+"nl": "Het is verboden het bouwterrein te betreden!"
+},
+"Betruecht\u00010\u00010": {
+"pt": "Uma viagem à Antártida nunca a consideraria",
+"nl": "Een reis naar Antarctica zou ik nooit overwegen"
+},
+"Betruecht\u00010\u00011": {
+"pt": "Pensámos durante muito tempo em comprar uma autocaravana, mas era simplesmente demasiado cara para nós",
+"nl": "We hebben lang overwogen een camper te kopen, maar het was ons gewoon te duur"
+},
+"Betruecht\u00011\u00010": {
+"pt": "Na revisão da lei foram tidos em conta todos os aspetos?",
+"nl": "Werden bij de herziening van de wet alle aspecten in overweging genomen?"
+},
+"betruechten\u00010\u00010": {
+"pt": "Muita gente encara a nova lei com um certo ceticismo",
+"nl": "Veel mensen bekijken de nieuwe wet met een zekere scepsis"
+},
+"betruechten\u00010\u00011": {
+"pt": "Se pensares bem em tudo, deixas os dedos longe desse negócio!",
+"nl": "Als je alles goed bekijkt, laat je je vingers van die zaak af!"
+},
+"betruechten\u00011\u00010": {
+"pt": "Muita gente considera normal a prosperidade atual",
+"nl": "Veel mensen beschouwen de huidige welvaart als normaal"
+},
+"Bëtschel\u00010\u00010": {
+"pt": "Na feira de gado comprámos dois cabritos",
+"nl": "Op de veemarkt hebben we twee geitjes gekocht"
+},
+"Bëtschel\u00010\u00011": {
+"pt": "Agora o cabrito está gordo!",
+"nl": "Nu is het geitje vet!"
+},
+"Bëtschel\u00011\u00010": {
+"pt": "Que presunçoso és!",
+"nl": "Wat ben jij een ingebeelde kwast!"
+},
+"bëtschelen\u00010\u00010": {
+"pt": "Uma das nossas cabras pariu durante a noite",
+"nl": "Een van onze geiten heeft 's nachts gelammerd"
+},
+"Bett\u00010\u00010": {
+"pt": "O carpinteiro está a fazer camas novas para os nossos gémeos",
+"nl": "De schrijnwerker maakt nieuwe bedden voor onze tweeling"
+},
+"Bett\u00010\u00011": {
+"pt": "O pai pôs as crianças na cama cedo",
+"nl": "Vader heeft de kinderen tijdig in bed gelegd"
+},
+"Bett\u00010\u00012": {
+"pt": "Durante o dia o nosso pequeno está seco, mas à noite ainda faz chichi na cama",
+"nl": "Overdag is ons kleintje zindelijk, maar 's nachts plast het nog in bed"
+},
+"Bett\u00010\u00013": {
+"pt": "Esta noite vou cedo para a cama",
+"nl": "Vanavond ga ik vroeg naar bed"
+},
+"Bett\u00010\u00014": {
+"pt": "Diz-se que Casanova era bom na cama",
+"nl": "Men zegt dat Casanova goed was in bed"
+},
+"Bett\u00010\u00015": {
+"pt": "No primeiro encontro já foram juntos para a cama",
+"nl": "Op hun eerste afspraak zijn ze al samen naar bed gegaan"
+},
+"Bett\u00010\u00016": {
+"pt": "No inverno não consigo sair da cama",
+"nl": "In de winter kom ik mijn bed niet uit"
+},
+"Bett\u00010\u00017": {
+"pt": "No novo hospital há cerca de 600 camas",
+"nl": "In het nieuwe ziekenhuis zijn er ongeveer 600 bedden"
+},
+"Bett\u00011\u00010": {
+"pt": "Com a canalização, o rio ganhou um leito mais largo",
+"nl": "Door de kanalisatie kreeg de rivier een breder bed"
+},
+"Bettdecken\u00010\u00010": {
+"pt": "Tenho dois edredões, um fino para o verão e um mais grosso para o inverno",
+"nl": "Ik heb twee dekbedden, een dun voor de zomer en een dikker voor de winter"
+},
+"Bëttel\u00010\u00010": {
+"pt": "Moro em Bettel",
+"nl": "Ik woon in Bettel"
+},
+"Bëttel\u00010\u00011": {
+"pt": "Este autocarro vai para Bettel?",
+"nl": "Rijdt deze bus naar Bettel?"
+},
+"Bettenduerf\u00010\u00010": {
+"pt": "Moro em Bettendorf",
+"nl": "Ik woon in Bettendorf"
+},
+"Bettenduerf\u00010\u00011": {
+"pt": "Este autocarro vai para Bettendorf?",
+"nl": "Rijdt deze bus naar Bettendorf?"
+},
+"Betteng op der Mess\u00010\u00010": {
+"pt": "Moro em Bettange-sur-Mess",
+"nl": "Ik woon in Bettange-sur-Mess"
+},
+"Betteng op der Mess\u00010\u00011": {
+"pt": "Este autocarro vai para Bettange-sur-Mess?",
+"nl": "Rijdt deze bus naar Bettange-sur-Mess?"
+},
+"Bettfläsch\u00010\u00010": {
+"pt": "Como tenho muitas vezes os pés frios, gosto de pôr uma botija de água quente na cama",
+"nl": "Omdat ik vaak koude voeten heb, leg ik graag een kruik in bed"
+},
+"Bettgedecks\u00010\u00010": {
+"pt": "Ajuda-me a mudar a roupa de cama!",
+"nl": "Help me het beddengoed te verversen!"
+},
+"Bettgedecks\u00010\u00011": {
+"pt": "No internato, as crianças têm de trazer a sua própria roupa de cama",
+"nl": "In het internaat moeten de kinderen hun eigen beddengoed meebrengen"
+},
+"Bettgezei\u00010\u00010": {
+"pt": "Ajuda-me a mudar a roupa de cama!",
+"nl": "Help me de bedlakens te verversen!"
+},
+"bettlägereg\u00010\u00010": {
+"pt": "Desde que a minha mãe está acamada, um serviço de cuidados ajuda-nos a tomar conta dela",
+"nl": "Sinds mijn moeder bedlegerig is, helpt een verzorgingsdienst ons om voor haar te zorgen"
+},
+"Bettschéier\u00010\u00010": {
+"pt": "O resguardo da cama impede que um doente inquieto caia da cama enquanto dorme",
+"nl": "Het bedhek voorkomt dat een onrustige zieke in zijn slaap uit bed valt"
+},
+"Bettseechesch\u00011\u00010": {
+"pt": "Na primavera vamos ao campo apanhar folhas de dente-de-leão",
+"nl": "In het voorjaar gaan we op het veld paardenbloembladeren steken"
+},
+"Bettseecheschzalot\u00010\u00010": {
+"pt": "Gosto de ovos cozidos na minha salada de dente-de-leão",
+"nl": "Ik eet graag hardgekookte eieren op mijn paardenbloemsalade"
+},
+"Bettspreet\u00010\u00010": {
+"pt": "A colcha do nosso quarto é do mesmo tecido que as cortinas",
+"nl": "De sprei in onze kamer is van dezelfde stof als de gordijnen"
+},
+"Bettwäsch\u00010\u00010": {
+"pt": "Em alguns albergues da juventude é preciso trazer a roupa de cama",
+"nl": "In sommige jeugdherbergen moet men beddengoed meebrengen"
+},
+"Bettwäsch\u00010\u00011": {
+"pt": "O meu irmãozinho tem lençóis com carros de corrida",
+"nl": "Mijn kleine broer heeft beddengoed met racewagens erop"
+},
+"Bëtz\u00010\u00010": {
+"pt": "Não penses que eu comeria as tuas sobras!",
+"nl": "Denk niet dat ik jouw restjes zou opeten!"
+},
+"Bëtz\u00010\u00011": {
+"pt": "Não deixes sobras!",
+"nl": "Laat geen restjes over!"
+},
+"Betzder\u00010\u00010": {
+"pt": "Moro em Betzdorf",
+"nl": "Ik woon in Betzdorf"
+},
+"Betzder\u00010\u00011": {
+"pt": "Este autocarro vai para Betzdorf?",
+"nl": "Rijdt deze bus naar Betzdorf?"
+},
+"Betzemillen\u00010\u00010": {
+"pt": "Moro em Betzemillen",
+"nl": "Ik woon in de Betzemillen"
+},
+"Betzemillen\u00010\u00011": {
+"pt": "Este autocarro vai para Betzemillen?",
+"nl": "Rijdt deze bus naar de Betzemillen?"
+},
+"bëtzen\u00010\u00010": {
+"pt": "Crianças, se deixarem sobras, depois não há gelado!",
+"nl": "Kinderen, als jullie restjes laten liggen, is er straks geen ijs!"
+},
+"beuechten\u00010\u00010": {
+"pt": "Vocês não respeitaram as regras e por isso já não podem continuar a jogar",
+"nl": "Jullie hebben de regels niet nageleefd en mogen daarom niet meer meespelen"
+},
+"beuechten\u00011\u00010": {
+"pt": "Na inauguração da exposição, o nosso conhecido nem sequer me deu atenção",
+"nl": "Op de vernissage heeft onze kennis me helemaal genegeerd"
+},
+"beurteelen\u00010\u00010": {
+"pt": "Não consigo avaliar esse romance, porque ainda não o li",
+"nl": "Ik kan die roman niet beoordelen omdat ik hem nog niet gelezen heb"
+},
+"Bevëlkerung\u00010\u00010": {
+"pt": "Depois do sismo, a população da região afetada foi evacuada",
+"nl": "Na de aardbeving werd de bevolking uit het getroffen gebied geëvacueerd"
+},
+"bevir\u00010\u00010": {
+"pt": "Vou tentar estar em casa antes de escurecer",
+"nl": "Ik probeer thuis te zijn voor het donker wordt"
+},
+"bevirdeelegen\u00010\u00010": {
+"pt": "Ninguém deve ser favorecido por causa de um cartão de partido",
+"nl": "Niemand mag worden bevoordeeld wegens een partijkaart"
+},
+"bevirstoen\u00010\u00010": {
+"pt": "Receio que nos esperem tempos difíceis",
+"nl": "Ik vrees dat er zware tijden op ons wachten"
+},
+"bewaachen\u00010\u00010": {
+"pt": "O nosso cão guarda a casa",
+"nl": "Onze hond bewaakt het huis"
+},
+"bewaachen\u00010\u00011": {
+"pt": "O edifício é vigiado permanentemente",
+"nl": "Het gebouw wordt voortdurend bewaakt"
+},
+"bewäerten\u00010\u00010": {
+"pt": "Tu avalias as outras pessoas apenas pelo seu desempenho!",
+"nl": "Je beoordeelt andere mensen alleen op hun prestaties!"
+},
+"Bewäertung\u00010\u00010": {
+"pt": "No último teste de segurança, o meu carro recebeu uma boa classificação",
+"nl": "Bij de laatste veiligheidstest kreeg mijn auto een goede beoordeling"
+},
+"bewaffnet\u00010\u00010": {
+"pt": "Dois jornalistas foram raptados por separatistas armados",
+"nl": "Twee journalisten werden ontvoerd door gewapende separatisten"
+},
+"bewältegen\u00010\u00010": {
+"pt": "Tens de lidar com os teus problemas sozinho",
+"nl": "Je moet je problemen alleen verwerken"
+},
+"bewältegen\u00010\u00011": {
+"pt": "Esse trabalho não se faz num dia",
+"nl": "Dat werk is niet in één dag te verwerken"
+},
+"bewandert\u00010\u00010": {
+"pt": "Não teria pensado que o teu amigo fosse tão versado em História",
+"nl": "Ik had niet gedacht dat je vriend in geschiedenis zo bedreven was"
+},
+"bewären\u00010\u00010": {
+"pt": "Aquela máquina provou o seu valor na nossa empresa",
+"nl": "Die machine heeft zich in ons bedrijf bewezen"
+},
+"bewären\u00010\u00011": {
+"pt": "Ela revelou-se como porta-voz da imprensa",
+"nl": "Ze heeft zich als woordvoerster bewezen"
+},
+"beweegen\u00010\u00010": {
+"pt": "Depois do acidente, o meu pai já não conseguia mexer a perna direita",
+"nl": "Na het ongeluk kon mijn vader zijn rechterbeen niet meer bewegen"
+},
+"beweegen\u00010\u00011": {
+"pt": "Com o seu temperamento, o nosso presidente moveu muita coisa",
+"nl": "Met zijn temperament heeft onze voorzitter veel in beweging gebracht"
+},
+"beweegen\u00011\u00010": {
+"pt": "Convenceste-me a ir ao médico",
+"nl": "Je hebt me ertoe bewogen naar de dokter te gaan"
+},
+"beweegen\u00012\u00010": {
+"pt": "A mulher sente quando a criança se mexe na barriga",
+"nl": "De vrouw voelt wanneer het kind in haar buik beweegt"
+},
+"beweegen\u00012\u00011": {
+"pt": "Mexe-te!",
+"nl": "Beweeg je!"
+},
+"beweegen\u00012\u00012": {
+"pt": "As negociações não saem do sítio",
+"nl": "De onderhandelingen komen niet van de plek"
+},
+"beweeglech\u00010\u00010": {
+"pt": "Os membros da boneca são articulados",
+"nl": "De ledematen van de pop zijn beweegbaar"
+},
+"beweeglech\u00010\u00011": {
+"pt": "As partes móveis da estante têm de ser desmontadas antes da mudança",
+"nl": "De beweegbare onderdelen van de kast moeten voor de verhuizing worden gedemonteerd"
+},
+"beweeglech\u00011\u00010": {
+"pt": "Para a idade que tem, ainda é incrivelmente ágil",
+"nl": "Voor zijn leeftijd is hij nog enorm beweeglijk"
+},
+"Beweegung\u00010\u00010": {
+"pt": "Não faças movimentos bruscos!",
+"nl": "Maak geen bruuske bewegingen!"
+},
+"Beweegung\u00010\u00011": {
+"pt": "As crianças pequenas ainda não conseguem controlar bem os seus movimentos",
+"nl": "Kleine kinderen kunnen hun bewegingen nog niet goed beheersen"
+},
+"Beweegung\u00010\u00012": {
+"pt": "Ele moveu mundos e fundos para conseguir aquele lugar",
+"nl": "Hij heeft hemel en aarde bewogen om die plaats te krijgen"
+},
+"Beweegung\u00011\u00010": {
+"pt": "Preciso de mais exercício para voltar a ficar em forma",
+"nl": "Ik heb meer beweging nodig om weer in vorm te komen"
+},
+"Beweegung\u00011\u00011": {
+"pt": "O exercício é importante para a circulação",
+"nl": "Beweging is belangrijk voor de bloedsomloop"
+},
+"Beweegung\u00012\u00010": {
+"pt": "Do protesto de algumas pessoas nasceu aos poucos todo um movimento",
+"nl": "Uit het protest van enkele mensen is langzaam aan een hele beweging ontstaan"
+},
+"Beweis\u00010\u00010": {
+"pt": "Há provas irrefutáveis contra o arguido",
+"nl": "Er liggen steekhoudende bewijzen tegen de beklaagde voor"
+},
+"Beweis\u00011\u00010": {
+"pt": "Com este projeto, o arquiteto provou a sua capacidade",
+"nl": "Met dat project heeft de architect zijn kunnen bewezen"
+},
+"beweisen\u00010\u00010": {
+"pt": "Prova-me que fizeste o bolo sozinho!",
+"nl": "Bewijs me dat je die cake helemaal alleen hebt gebakken!"
+},
+"beweisen\u00010\u00011": {
+"pt": "Os testes provaram que a substância não é tóxica",
+"nl": "De tests hebben bewezen dat de stof niet giftig is"
+},
+"beweisen\u00011\u00010": {
+"pt": "A reação da vendedora prova que ela não tem sentido de humor",
+"nl": "De reactie van de verkoopster bewijst dat ze geen grapje kan verstaan"
+},
+"bewëllegen\u00010\u00010": {
+"pt": "O meu padrinho não obteve a reforma por invalidez",
+"nl": "Mijn peter kreeg zijn invaliditeitspensioen niet toegekend"
+},
+"bewerben\u00010\u00010": {
+"pt": "Não tenciono candidatar-me a esse lugar",
+"nl": "Ik ben niet van plan me voor die plaats kandidaat te stellen"
+},
+"Bewerbung\u00010\u00010": {
+"pt": "As candidaturas a este posto têm de ser enviadas antes de 1 de maio",
+"nl": "De sollicitaties voor deze post moeten vóór 1 mei worden ingezonden"
+},
+"bewerfen\u00010\u00010": {
+"pt": "O orador foi apedrejado com tomates",
+"nl": "De spreker werd met tomaten bekogeld"
+},
+"bewerfen\u00010\u00011": {
+"pt": "As crianças atiraram lama umas às outras",
+"nl": "De kinderen bekogelden elkaar met modder"
+},
+"bewerfen\u00011\u00010": {
+"pt": "A empena vai ser rebocada amanhã",
+"nl": "De gevel wordt morgen bepleisterd"
+},
+"bewierken\u00010\u00010": {
+"pt": "Com as tuas lamúrias não consegues absolutamente nada",
+"nl": "Met je gezeur bereik je helemaal niets"
+},
+"bewierken\u00010\u00011": {
+"pt": "A carta ao diretor levou a que fosse feito um inquérito",
+"nl": "De ingezonden brief heeft ertoe geleid dat er een onderzoek werd ingesteld"
+},
+"bewonneren\u00010\u00010": {
+"pt": "Admiro a tua paciência!",
+"nl": "Ik bewonder je geduld!"
+},
+"bewonneren\u00010\u00011": {
+"pt": "As crianças admiraram a árvore de Natal tão bem decorada",
+"nl": "De kinderen bewonderden de prachtig versierde kerstboom"
+},
+"Bewonnerung\u00010\u00010": {
+"pt": "Ficaram de boca aberta de admiração",
+"nl": "Van bewondering bleef hun mond openstaan"
+},
+"Beworf\u00010\u00010": {
+"pt": "O reboco começa a esboroar-se",
+"nl": "De bepleistering begint af te brokkelen"
+},
+"bewosst\u00010\u00010": {
+"pt": "O que a tua amiga te contou ali era uma mentira deliberada",
+"nl": "Wat je vriendin je daar vertelde, was een bewuste leugen"
+},
+"bewosst\u00010\u00011": {
+"pt": "Não fui lá de forma bem consciente",
+"nl": "Ik ben er heel bewust niet naartoe gegaan"
+},
+"bewosst\u00011\u00010": {
+"pt": "Tenho consciência de que dependo da tua ajuda",
+"nl": "Ik ben me ervan bewust dat ik van je hulp afhankelijk ben"
+},
+"bewosst\u00011\u00011": {
+"pt": "O arguido não tinha consciência de nenhuma culpa",
+"nl": "De beklaagde was zich van geen schuld bewust"
+},
+"bewosst\u00011\u00012": {
+"pt": "Todo o fumador deve ter consciência de que põe a sua saúde em risco",
+"nl": "Elke roker moet zich ervan bewust zijn dat hij zijn gezondheid op het spel zet"
+},
+"Bewosstsinn\u00010\u00010": {
+"pt": "No que respeita à problemática ambiental, forma-se na sociedade uma consciência cada vez maior",
+"nl": "Wat de milieuproblematiek betreft, ontstaat er in de samenleving een steeds groter bewustzijn"
+},
+"Bewosstsinn\u00011\u00010": {
+"pt": "Abraçamos esta reforma cientes de que nos espera muito trabalho",
+"nl": "We nemen die hervorming aan met het bewustzijn dat er veel werk op ons wacht"
+},
+"bewuess\u00010\u00010": {
+"pt": "A árvore está completamente coberta de hera",
+"nl": "De boom is helemaal met klimop begroeid"
+},
+"bewunnt\u00010\u00010": {
+"pt": "Há quanto tempo está desabitado o velho moinho?",
+"nl": "Hoelang is de oude molen al niet meer bewoond?"
+},
+"bewunnt\u00010\u00011": {
+"pt": "À exceção da Antártida, todos os continentes são habitados",
+"nl": "Behalve Antarctica zijn alle continenten bewoond"
+},
+"Beyren\u00010\u00010": {
+"pt": "Moro em Beyren",
+"nl": "Ik woon in Beyren"
+},
+"Beyren\u00010\u00011": {
+"pt": "Este autocarro vai para Beyren?",
+"nl": "Rijdt deze bus naar Beyren?"
+},
+"bezeechnen\u00010\u00010": {
+"pt": "Como é que os especialistas designam esta anomalia?",
+"nl": "Hoe noemen de specialisten deze anomalie?"
+},
+"Bezeechnung\u00010\u00010": {
+"pt": "Qual é o termo médico para este vírus?",
+"nl": "Wat is de medische benaming voor dit virus?"
+},
+"Bezeechnung\u00010\u00011": {
+"pt": "Pretérito e imperfeito são duas designações para a mesma forma do passado",
+"nl": "Preteritum en imperfectum zijn twee benamingen voor dezelfde verleden tijd"
+},
+"bezeien\u00010\u00010": {
+"pt": "O porteiro pode testemunhar que a empregada de limpeza tinha deixado as luzes acesas",
+"nl": "De conciërge kan getuigen dat de poetsvrouw de lichten had laten branden"
+},
+"bezeien\u00010\u00011": {
+"pt": "Ninguém conseguiu testemunhar em tribunal que o arguido diz a verdade",
+"nl": "Niemand kon voor de rechtbank getuigen dat de beklaagde de waarheid spreekt"
+},
+"bezéien\u00010\u00010": {
+"pt": "O estofador reestofou o nosso sofá",
+"nl": "De stoffeerder heeft onze zetel opnieuw bekleed"
+},
+"bezéien\u00010\u00011": {
+"pt": "Em muitos hotéis, as camas são feitas todos os dias com roupa lavada",
+"nl": "In veel hotels worden de bedden elke dag vers opgemaakt"
+},
+"bezéien\u00011\u00010": {
+"pt": "Compro o meu vinho a um viticultor privado",
+"nl": "Ik betrek mijn wijn van een particuliere wijnbouwer"
+},
+"bezéien\u00012\u00010": {
+"pt": "O texto refere-se a acontecimentos do século XVI",
+"nl": "De tekst heeft betrekking op gebeurtenissen uit de zestiende eeuw"
+},
+"bezéien\u00012\u00011": {
+"pt": "Refiro-me ao meu antecessor",
+"nl": "Ik verwijs naar mijn voorganger"
+},
+"Bezéiung\u00010\u00010": {
+"pt": "As relações entre os dois países melhoraram muito",
+"nl": "De betrekkingen tussen de twee landen zijn sterk verbeterd"
+},
+"Bezéiung\u00010\u00011": {
+"pt": "A minha irmã e a namorada vivem numa relação estável",
+"nl": "Mijn zus en haar vriendin leven in een vaste relatie"
+},
+"Bezéiungspersoun\u00010\u00010": {
+"pt": "Desejo uma pessoa de relação que goste tanto de viajar como eu",
+"nl": "Ik wens een relatiepartner die even graag reist als ik"
+},
+"Bezéiungspersoun\u00010\u00011": {
+"pt": "Sou poliamoroso e tenho de momento dois parceiros",
+"nl": "Ik ben polyamoureus en heb momenteel twee relatiepartners"
+},
+"Bezierk\u00010\u00010": {
+"pt": "O nosso país está dividido em quatro círculos eleitorais",
+"nl": "Ons land is in vier kiesdistricten ingedeeld"
+},
+"Bezierk\u00010\u00011": {
+"pt": "O deputado do círculo do Centro pronunciou-se a favor de uma reforma",
+"nl": "De volksvertegenwoordiger van het kiesdistrict Centrum heeft zich voor een hervorming uitgesproken"
+},
+"Bezierk\u00010\u00012": {
+"pt": "O nosso clube de futebol joga na primeira divisão do primeiro distrito",
+"nl": "Onze voetbalclub speelt in de eerste divisie in het eerste district"
+},
+"Bezuch\u00010\u00010": {
+"pt": "As nossas velhas poltronas vão receber um novo estofo",
+"nl": "Onze oude fauteuils krijgen een nieuwe bekleding"
+},
+"Bezuch\u00011\u00010": {
+"pt": "A minha mãe doente já não tem qualquer ligação com o meio",
+"nl": "Mijn zieke moeder heeft geen band meer met haar omgeving"
+},
+"Bezuch\u00012\u00010": {
+"pt": "Há ainda muito a fazer no que respeita ao combate à pobreza",
+"nl": "Er valt nog veel te doen met betrekking tot de armoedebestrijding"
+},
+"Bezuchspersoun\u00010\u00010": {
+"pt": "A minha tia é, desde a minha infância, uma figura de referência importante para mim",
+"nl": "Mijn tante is sinds mijn kindertijd een belangrijke vertrouwenspersoon voor mij"
+},
+"bezuelbar\u00010\u00010": {
+"pt": "O governo empenha-se em criar mais habitação acessível",
+"nl": "De regering zet zich in om meer betaalbare woonruimte te scheppen"
+},
+"bezuelen\u00010\u00010": {
+"pt": "O cliente pagou a mercadoria em dinheiro",
+"nl": "De klant heeft de goederen contant betaald"
+},
+"bezuelen\u00010\u00011": {
+"pt": "Tens de te lembrar de pagar ao advogado!",
+"nl": "Je moet eraan denken de advocaat te betalen!"
+},
+"bezuelen\u00010\u00012": {
+"pt": "Vou pagar (a conta) ao balcão",
+"nl": "Ik ga (de rekening) aan de toonbank betalen"
+},
+"bezuelen\u00010\u00013": {
+"pt": "Paguei caro por aquela tolice",
+"nl": "Ik heb die stommiteit duur betaald"
+},
+"bezuelen\u00010\u00014": {
+"pt": "Isso ainda me vais pagar!",
+"nl": "Dat zul je me nog betalen!"
+},
+"bezuelen\u00010\u00015": {
+"pt": "O meu esforço compensou",
+"nl": "Mijn moeite heeft zich uitbetaald"
+},
+"bezuelen\u00010\u00016": {
+"pt": "Não tens dinheiro que te pague!",
+"nl": "Je bent met geld niet te betalen!"
+},
+"bezuelen\u00011\u00010": {
+"pt": "Ele pagou quase meio milhão pela casa",
+"nl": "Hij heeft bijna een half miljoen voor het huis betaald"
+},
+"Bezuelung\u00010\u00010": {
+"pt": "Os sindicatos lutam por um melhor pagamento no setor da construção",
+"nl": "De vakbonden zetten zich in voor een betere betaling in de bouwsector"
+},
+"Bezuelung\u00011\u00010": {
+"pt": "Por razões orçamentais, certos pagamentos têm de ser adiados para o ano seguinte",
+"nl": "Om budgettaire redenen moeten bepaalde betalingen naar volgend jaar worden verschoven"
+},
+"Bezuelung\u00011\u00011": {
+"pt": "Tenho de ligar para o banco, um dos meus pagamentos não foi efetuado",
+"nl": "Ik moet de bank opbellen, een van mijn betalingen is niet doorgegaan"
+},
+"bezwecken\u00010\u00010": {
+"pt": "A nova medida não teve o efeito que com ela pretendíamos",
+"nl": "De nieuwe maatregel had niet het effect dat we ermee beoogd hadden"
+},
+"bezwecken\u00010\u00011": {
+"pt": "O que pretendes realmente com as tuas observações?",
+"nl": "Wat beoog je eigenlijk met je opmerkingen?"
+},
+"bezweiwelen\u00010\u00010": {
+"pt": "Duvido que passes no exame se não te prepararem",
+"nl": "Ik betwijfel dat je voor het examen slaagt als je je niet voorbereidt"
+},
+"bezweiwelen\u00010\u00011": {
+"pt": "Duvido muito disso!",
+"nl": "Dat betwijfel ik toch sterk!"
+},
+"Bhutan\u00010\u00010": {
+"pt": "Já estive três vezes no Butão",
+"nl": "Ik ben al drie keer in Bhutan geweest"
+},
+"Bhutan\u00010\u00011": {
+"pt": "Vou para o Butão na próxima semana",
+"nl": "Ik ga volgende week naar Bhutan"
+},
+"Bhutan\u00010\u00012": {
+"pt": "Venho do Butão",
+"nl": "Ik kom uit Bhutan"
+},
+"Bhutaner\u00010\u00010": {
+"pt": "O meu melhor amigo é butanês",
+"nl": "Mijn beste vriend is Bhutaan"
+},
+"Bhutanerin\u00010\u00010": {
+"pt": "A minha melhor amiga é butanesa",
+"nl": "Mijn beste vriendin is Bhutaanse"
+},
+"bhutanesch\u00010\u00010": {
+"pt": "Na nossa viagem conhecemos a cultura butanesa",
+"nl": "Tijdens onze reis hebben we de Bhutaanse cultuur leren kennen"
+},
+"bi\u00010\u00010": {
+"pt": "Como sou bi, sinto-me atraído tanto por mulheres como por homens",
+"nl": "Omdat ik bi ben, voel ik me zowel tot vrouwen als tot mannen aangetrokken"
+},
+"Bibel\u00010\u00010": {
+"pt": "O padre explicou a Bíblia na aula de Religião",
+"nl": "De pastoor heeft in de godsdienstles de Bijbel uitgelegd"
+},
+"Bibel\u00010\u00011": {
+"pt": "Não existe uma tradução completa da Bíblia para luxemburguês",
+"nl": "Er bestaat geen volledige vertaling van de Bijbel in het Luxemburgs"
+},
+"Bibel\u00010\u00012": {
+"pt": "Isso já está na Bíblia",
+"nl": "Dat staat al in de Bijbel"
+},
+"Bibel\u00011\u00010": {
+"pt": "A Bíblia era antigamente em muitas casas o único livro",
+"nl": "De Bijbel was vroeger in veel huizen het enige boek"
+},
+"Bibel\u00011\u00011": {
+"pt": "Ele tem em casa uma coleção inteira de Bíblias antigas",
+"nl": "Hij heeft thuis een hele collectie oude bijbels staan"
+},
+"bibelesch\u00010\u00010": {
+"pt": "Analisaram, na aula de Religião, textos bíblicos?",
+"nl": "Hebben jullie in de godsdienstles eigenlijk bijbelse teksten geanalyseerd?"
+},
+"bibelesch\u00010\u00011": {
+"pt": "O bisavô da minha mãe tinha atingido uma idade bíblica",
+"nl": "De overgrootvader van mijn moeder had een bijbelse leeftijd bereikt"
+},
+"Bibeltext\u00010\u00010": {
+"pt": "O texto bíblico foi interpretado na homilia",
+"nl": "De bijbeltekst werd in de preek uitgelegd"
+},
+"Bibeltext\u00011\u00010": {
+"pt": "O estudante de Teologia explica o que distingue o texto bíblico",
+"nl": "De theologiestudent legt uit wat de bijbeltekst kenmerkt"
+},
+"Biber\u00010\u00010": {
+"pt": "Ao construir diques, o castor cria um habitat para muitas outras espécies de plantas e animais",
+"nl": "Door het bouwen van dammen creëert de bever een leefgebied voor vele andere plant- en diersoorten"
+},
+"Biberon\u00010\u00010": {
+"pt": "Ainda há leite para o biberão?",
+"nl": "Is er nog melk voor de zuigfles?"
+},
+"Bibliografie\u00010\u00010": {
+"pt": "No fim do livro há uma bibliografia com todos os títulos da autora",
+"nl": "Achterin het boek staat een bibliografie met alle titels van de auteur"
+},
+"Bibliothecaire\u00010\u00010": {
+"pt": "O bibliotecário caiu da escada",
+"nl": "De bibliothecaris is van de ladder gevallen"
+},
+"Bibliothecaire\u00010\u00011": {
+"pt": "Os bibliotecários estão a fazer o inventário",
+"nl": "De bibliothecarissen zijn bezig met de inventaris"
+},
+"Bibliothecaire\u00010\u00010~2": {
+"pt": "A bibliotecária lembrou-me de que ainda tinha de devolver um livro",
+"nl": "De bibliothecaris herinnerde me eraan dat ik nog een boek moest terugbrengen"
+},
+"Bibliothecairin\u00010\u00010": {
+"pt": "A bibliotecária lembrou-me de que ainda tinha de devolver um livro",
+"nl": "De bibliothecaresse herinnerde me eraan dat ik nog een boek moest terugbrengen"
+},
+"Bibliothéik\u00010\u00010": {
+"pt": "Requisitei na biblioteca um bom livro",
+"nl": "Ik heb in de bibliotheek een mooi boek geleend"
+},
+"Bibliothéik\u00011\u00010": {
+"pt": "O nosso clube tem uma biblioteca com cerca de 800 livros e revistas",
+"nl": "Onze vereniging heeft een bibliotheek met zo'n 800 boeken en tijdschriften"
+},
+"Bibliothéik\u00012\u00010": {
+"pt": "No incêndio da biblioteca ardeu uma grande parte dos livros",
+"nl": "Bij de brand in de bibliotheek is een groot deel van de boeken verbrand"
+},
+"Bibliothéik\u00013\u00010": {
+"pt": "Temos na sala uma estante de carvalho",
+"nl": "Wij hebben in de woonkamer een eiken boekenkast"
+},
+"Bic\u00010\u00010": {
+"pt": "Não tenho nada para escrever, podes emprestar-me a tua caneta?",
+"nl": "Ik heb niets om mee te schrijven, kun je me je pen lenen?"
+},
+"Bic\u00010\u00011": {
+"pt": "O nosso professor tem muitas canetas vermelhas",
+"nl": "Onze leraar heeft veel rode pennen"
+},
+"Bich\u00010\u00010": {
+"pt": "Atrás da igreja há três faias grandes",
+"nl": "Achter de kerk staan drie grote beuken"
+},
+"Bichelchen\u00011\u00010": {
+"pt": "Tomo nota disso no meu bloquinho",
+"nl": "Ik maak er een kleine notitie van in mijn boekje"
+},
+"Bichelchen\u00011\u00011": {
+"pt": "O professor escreve as notas no seu caderninho",
+"nl": "De leraar schrijft de punten in zijn boekje"
+},
+"bichen\u00010\u00010": {
+"pt": "A nossa mesa da cozinha tem um tampo de faia",
+"nl": "Onze keukentafel heeft een beuken blad"
+},
+"Bichenholz\u00010\u00010": {
+"pt": "Ele só queima lenha de faia na sua lareira",
+"nl": "Hij stookt in zijn haard alleen beukenhout"
+},
+"Bichenholz\u00010\u00011": {
+"pt": "Temos na sala um parquet de faia",
+"nl": "We hebben in onze woonkamer een beuken parket"
+},
+"Bicherbuttek\u00010\u00010": {
+"pt": "Esta livraria tem sempre os mais recentes romances policiais",
+"nl": "Deze boekhandel heeft altijd de nieuwste misdaadromans"
+},
+"Bicherfoire\u00010\u00010": {
+"pt": "Nas feiras do livro estão geralmente representadas todas as grandes editoras",
+"nl": "Op de boekenbeurzen zijn doorgaans alle grote uitgevers vertegenwoordigd"
+},
+"Bichergestell\u00010\u00010": {
+"pt": "Na minha estante, as prateleiras podem ser reguladas em altura",
+"nl": "In mijn boekenkast kunnen de planken in hoogte worden versteld"
+},
+"Bicherhaff\u00010\u00010": {
+"pt": "Moro em Bicherhaff",
+"nl": "Ik woon op de Bicherhaff"
+},
+"Bicherhaff\u00010\u00011": {
+"pt": "Este autocarro vai para Bicherhaff?",
+"nl": "Rijdt deze bus naar de Bicherhaff?"
+},
+"Bichermaart\u00010\u00010": {
+"pt": "Talvez encontre no mercado do livro um dicionário de latim",
+"nl": "Misschien vind ik op de boekenmarkt een Latijns woordenboek"
+},
+"Bicherregal\u00010\u00010": {
+"pt": "Na minha estante, as prateleiras podem ser reguladas em altura",
+"nl": "In mijn boekenrek kunnen de planken in hoogte worden versteld"
+},
+"Bicherregal\u00010\u00011": {
+"pt": "A minha prima tem na sala uma estante cheia de policiais",
+"nl": "Mijn nicht heeft in haar woonkamer een boekenrek vol detectives"
+},
+"Bichersammlung\u00010\u00010": {
+"pt": "Na minha coleção de livros falta o sétimo volume dessa série",
+"nl": "In mijn boekenverzameling ontbreekt het zevende deel van die reeks"
+},
+"Bicherschaf\u00010\u00010": {
+"pt": "Mandámos fazer ao carpinteiro duas estantes por medida",
+"nl": "We hebben door de schrijnwerker twee boekenkasten op maat laten maken"
+},
+"Bichersecteur\u00010\u00010": {
+"pt": "A feira do livro é uma data importante para o setor livreiro",
+"nl": "De boekenbeurs is een belangrijke datum voor de boekensector"
+},
+"Bicherwuerm\u00010\u00010": {
+"pt": "Ele compra todas as semanas uma pilha de livros, é um verdadeiro rato de biblioteca",
+"nl": "Hij koopt elke week een stapel boeken, hij is een echte boekenwurm"
+},
+"Bidden\u00010\u00010": {
+"pt": "As crianças lavaram o nosso cão no jardim numa tina",
+"nl": "De kinderen hebben onze hond in de tuin in een kuip gewassen"
+},
+"Bidden\u00011\u00010": {
+"pt": "Temos duas banheiras na nossa casa, uma para nós e uma para as crianças",
+"nl": "We hebben twee baden in ons huis, een voor ons en een voor de kinderen"
+},
+"Bidden\u00011\u00011": {
+"pt": "Com essa decisão, deitou-se fora o bebé com a água do banho",
+"nl": "Met die beslissing werd het kind met het badwater weggegooid"
+},
+"bidden\u00010\u00010": {
+"pt": "Esta cidade tem muito a oferecer aos turistas",
+"nl": "Deze stad heeft de toeristen veel te bieden"
+},
+"bidden\u00011\u00010": {
+"pt": "Quem oferecer mais fica com o lote!",
+"nl": "Wie het meest biedt, krijgt de toewijzing!"
+},
+"bidden\u00011\u00011": {
+"pt": "No leilão licitei alguns milhares de euros para ficar com aquele quadro",
+"nl": "Op de veiling heb ik een paar duizend euro geboden om dat schilderij te krijgen"
+},
+"bidden\u00012\u00010": {
+"pt": "Assim que surgir uma oportunidade, procuro outro lugar",
+"nl": "Zodra zich een mogelijkheid voordoet, zoek ik een andere plaats"
+},
+"Biddi\u00010\u00010": {
+"pt": "Os agricultores abastados tinham antigamente alguns cavalos de trabalho e um pónei para atrelar à carruagem",
+"nl": "De rijke boeren hadden vroeger een paar werkpaarden en een pony om voor de koets te spannen"
+},
+"Bidet\u00010\u00010": {
+"pt": "Os meus pais têm um bidé na casa de banho",
+"nl": "Mijn ouders hebben een bidet in hun badkamer staan"
+},
+"Bidon\u00010\u00010": {
+"pt": "Os escuteiros encheram os cantis na nascente",
+"nl": "De scouts hebben hun veldflessen bij de bron gevuld"
+},
+"Bidon\u00010\u00011": {
+"pt": "Bebe do teu cantil!",
+"nl": "Neem een slok uit je veldfles!"
+},
+"Bidon\u00011\u00010": {
+"pt": "Tenho um jerricã de gasolina para o corta-relva na cave",
+"nl": "Ik heb een jerrycan benzine voor de grasmaaier in de kelder staan"
+},
+"Bidscht\u00010\u00010": {
+"pt": "Moro em Büderscheid",
+"nl": "Ik woon in Büderscheid"
+},
+"Bidscht\u00010\u00011": {
+"pt": "Este autocarro vai para Büderscheid?",
+"nl": "Rijdt deze bus naar Büderscheid?"
+},
+"Bieberech\u00010\u00010": {
+"pt": "Moro em Bieberech",
+"nl": "Ik woon in Bieberech"
+},
+"Bieberech\u00010\u00011": {
+"pt": "Este autocarro vai para Bieberech?",
+"nl": "Rijdt deze bus naar Bieberech?"
+},
+"Biebereg\u00010\u00010": {
+"pt": "Moro em Biebereg",
+"nl": "Ik woon in Biebereg"
+},
+"Biebereg\u00010\u00011": {
+"pt": "Este autocarro vai para Biebereg?",
+"nl": "Rijdt deze bus naar Biebereg?"
 }
 }
