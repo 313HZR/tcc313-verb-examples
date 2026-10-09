@@ -56,11 +56,31 @@ Input (reuse, parent folder): `../dict_examples_input.json.gz`
 - Arabic MUST be correct vocalised MSA script (never Latin/transliteration).
 - Output JSON only. One output file per job (names above), written in **this** folder.
 
-## How to run (resumable, survives interruptions)
-- Process units in order. After every ~25 units: write the output file + `git add -A && git commit && git push`.
-- **Resume:** on start, load the existing output file (if present) and SKIP every `k`/verb/sense already done.
-- The `k` / `<lb>` / `<headword>\u0001<ipa>` keys map 1:1 back onto the existing data, so injection is exact.
+## HOW TO RUN IT — FAST and CHEAP (read carefully, this is the important part)
 
-## Cost note
-Meanings (jobs 1–2 ≈ 42k) are small; examples (jobs 3–4 ≈ 256k cells × 3 langs) are the expensive part.
-You may stop after jobs 1–2 if you want meanings first and examples later — both are independent.
+The previous run was slow and expensive because ONE agent processed everything serially and
+wandered (re-reading, re-doing). **Do NOT do that.** Follow this exactly:
+
+1. **Parallel sub-agents (fan-out).** Split the input into chunks of **~40 units** and dispatch
+   **8–12 sub-agents at once** (the Task/Agent tool), each translating ONE chunk and returning
+   only its JSON. Merge the returned JSON into the output file. This is the whole speed-up:
+   many focused workers instead of one wandering agent.
+2. **Cheap model.** Use **Haiku** for the bulk (examples). Use Sonnet only for the meanings
+   (jobs 1–2) if you want extra quality. Haiku is plenty for sentence translation and is the
+   single biggest cost saving.
+3. **Batch inside each call.** One sub-agent call translates its WHOLE chunk (~40 units =
+   hundreds of cells) in a single response. Never one call per cell.
+4. **Strict focus — do NOT wander.** Each sub-agent gets ONLY its chunk of data in the prompt,
+   does ONLY the translation, returns ONLY JSON. No reading other files, no exploring, no
+   re-translating anything already present in the output.
+5. **Commit + resume.** After each batch of merged chunks, write the output file and
+   `git add -A && git commit && git push`. On start, load the existing output and SKIP every
+   `k`/verb/sense already done. You can stop and restart any time with no waste.
+6. **Keys map 1:1** (`k` / `<lb>` / `<headword>\u0001<ipa>`) so injection back is exact.
+
+## Cost strategy — DO THIS
+Budget is tight. **Run jobs 1–2 (meanings) FIRST and stop there.** Meanings are small (~42k) and
+cheap, and they already unlock: Spanish/Italian conjugation (offline, free) + the es/it/ar word
+columns in both apps. **Jobs 3–4 (examples) are the expensive part (256k cells × 3 langs) — only
+run them later if budget allows.** Each job is independent; doing meanings only is a complete,
+useful result on its own.
