@@ -198898,5 +198898,905 @@
 "telefonéieren\u00010\u00011": {
 "pt": "No trabalho não podes estar o dia todo ao telefone em chamadas pessoais!",
 "nl": "Op het werk kun je niet de hele dag privé bellen!"
+},
+"telefonéieren\u00011\u00010": {
+"pt": "O meu telemóvel avariou, ligo-te de uma cabine",
+"nl": "Mijn gsm is kapot, ik bel je vanuit een telefooncel"
+},
+"telefonéieren\u00011\u00011": {
+"pt": "O tio telefonou ao sobrinho para o felicitar",
+"nl": "Oom belde zijn neef om hem te feliciteren"
+},
+"telefonesch\u00010\u00010": {
+"pt": "Hoje entrámos em contacto por telefone com todos os membros da associação",
+"nl": "Vandaag hebben we telefonisch contact opgenomen met alle leden van de vereniging"
+},
+"telefonesch\u00010\u00011": {
+"pt": "A médica hoje não é contactável por telefone",
+"nl": "De dokter is vandaag telefonisch niet bereikbaar"
+},
+"Telefonsbuch\u00010\u00010": {
+"pt": "Com esse nome não encontro nada na lista telefónica",
+"nl": "Onder die naam vind ik niets in het telefoonboek"
+},
+"Telefonsbuch\u00010\u00011": {
+"pt": "Estás na lista telefónica?",
+"nl": "Sta je in het telefoonboek?"
+},
+"Telefonsgespréich\u00010\u00010": {
+"pt": "Ontem à noite tive uma excelente conversa telefónica com o meu primo",
+"nl": "Gisterenavond had ik een leuk telefoongesprek met mijn neef"
+},
+"Telefonsgespréich\u00010\u00011": {
+"pt": "O criminoso pôde ser localizado através de uma chamada telefónica",
+"nl": "De crimineel kon via een telefoongesprek gelokaliseerd worden"
+},
+"Telefonskabel\u00010\u00010": {
+"pt": "Como os operários da obra danificaram um cabo telefónico, o telefone não funciona na nossa rua",
+"nl": "Doordat de arbeiders op de werf een telefoonkabel beschadigd hebben, werkt de telefoon in onze straat niet"
+},
+"Telefonskabinn\u00010\u00010": {
+"pt": "Lá em baixo na aldeia, junto aos correios, ainda há uma cabine telefónica",
+"nl": "Beneden in het dorp bij de post staat nog een telefooncel"
+},
+"Telefonsleitung\u00010\u00010": {
+"pt": "As muitas chamadas sobrecarregaram as linhas telefónicas",
+"nl": "De vele oproepen hebben de telefoonlijnen overbelast"
+},
+"Telefonsnetz\u00010\u00010": {
+"pt": "Na passagem de ano, a rede telefónica fica regularmente sobrecarregada",
+"nl": "Met oudejaar raakt het telefoonnet regelmatig overbelast"
+},
+"Telefonsnummer\u00010\u00010": {
+"pt": "No seu pedido tem de indicar o seu nome, a sua morada e o seu número de telefone",
+"nl": "In uw aanvraag moet u uw naam, uw adres en uw telefoonnummer opgeven"
+},
+"Telefonsreseau\u00010\u00010": {
+"pt": "Na passagem de ano, a rede telefónica fica regularmente sobrecarregada",
+"nl": "Met oudejaar raakt het telefoonnet regelmatig overbelast"
+},
+"Telefonsverbindung\u00010\u00010": {
+"pt": "A partir do outono, as tarifas das ligações telefónicas devem ficar mais baratas",
+"nl": "Vanaf de herfst zouden de tarieven voor telefoonverbindingen goedkoper moeten worden"
+},
+"Telegraf\u00010\u00010": {
+"pt": "No museu dos correios estão expostos vários telégrafos",
+"nl": "In het postmuseum staan een heleboel telegraaftoestellen tentoongesteld"
+},
+"telegraféieren\u00010\u00010": {
+"pt": "O navio telegrafou um sinal de socorro",
+"nl": "Het schip seinde een noodsignaal"
+},
+"telegraféieren\u00010\u00011": {
+"pt": "Antigamente telegrafava-se (uma mensagem) de uma estação para a outra quando o comboio tinha passado",
+"nl": "Vroeger werd er van het ene station naar het andere (een bericht) geseind als de trein voorbij was"
+},
+"telegrafesch\u00010\u00010": {
+"pt": "Naquele tempo enviavam-se muitas mensagens telegráficas",
+"nl": "In die tijd werden er veel telegrafische berichten verstuurd"
+},
+"Telegramm\u00010\u00010": {
+"pt": "Antigamente, informações urgentes eram enviadas por telegrama",
+"nl": "Vroeger werd dringende informatie per telegram verstuurd"
+},
+"Telegramm\u00011\u00010": {
+"pt": "A minha avó guarda numa caixa de sapatos os telegramas que recebeu para o casamento",
+"nl": "Mijn oma bewaart de telegrammen die ze voor haar huwelijk kreeg in een schoenendoos"
+},
+"Telekommunikatioun\u00010\u00010": {
+"pt": "O mercado das telecomunicações evolui constantemente",
+"nl": "De telecommunicatiemarkt evolueert voortdurend"
+},
+"telepathesch\u00010\u00010": {
+"pt": "Não consigo ler os teus pensamentos, não tenho capacidades telepáticas",
+"nl": "Ik kan je gedachten niet lezen, ik heb geen telepathische gaven"
+},
+"Telepathie\u00010\u00010": {
+"pt": "A telepatia não é um fenómeno universalmente reconhecido",
+"nl": "Telepathie is geen algemeen erkend fenomeen"
+},
+"Telepathie\u00010\u00011": {
+"pt": "Ia precisamente propor o mesmo que tu, se isso não era telepatia!",
+"nl": "Ik wilde net hetzelfde voorstellen als jij, als dat geen telepathie was!"
+},
+"Teleskop\u00010\u00010": {
+"pt": "Se o céu não ficar nublado esta noite, experimento o meu telescópio novo!",
+"nl": "Als de lucht vanavond niet dichttrekt, probeer ik mijn nieuwe telescoop uit!"
+},
+"Teletravail\u00010\u00010": {
+"pt": "Às quartas-feiras a minha parceira está sempre em casa, faz teletrabalho",
+"nl": "Op woensdag is mijn partner altijd thuis, ze doet dan telewerk"
+},
+"Teletravail\u00010\u00011": {
+"pt": "No tempo da crise da covid, todo o serviço funcionou em teletrabalho",
+"nl": "In de tijd van de coronacrisis functioneerde de hele dienst in telewerk"
+},
+"Televisioun\u00010\u00010": {
+"pt": "A nossa televisão avariou mesmo a meio do jogo!",
+"nl": "Onze televisie ging precies halverwege de match kapot!"
+},
+"Televisioun\u00011\u00010": {
+"pt": "Ele passa o dia todo na poltrona a ver televisão!",
+"nl": "Hij zit de hele dag in de zetel televisie te kijken!"
+},
+"Televisioun\u00012\u00010": {
+"pt": "O meu primo trabalha como operador de câmara na televisão",
+"nl": "Mijn neef werkt als cameraman bij de televisie"
+},
+"Televisioun\u00013\u00010": {
+"pt": "A televisão chegou ao local do acidente antes da polícia",
+"nl": "De televisie was voor de politie ter plaatse bij het ongeval"
+},
+"Televisiounsprogramm\u00010\u00010": {
+"pt": "Na programação de televisão desta semana só havia porcaria",
+"nl": "Het televisieprogramma van deze week bestond alleen uit rommel"
+},
+"Televisiounsprogramm\u00011\u00010": {
+"pt": "Vê lá na programação da televisão se esta noite dá algum filme bom!",
+"nl": "Kijk eens in de tv-gids of er vanavond een mooie film op is!"
+},
+"Televisiounsprogramm\u00012\u00010": {
+"pt": "O novo programa de televisão mostra sobretudo programas de desporto",
+"nl": "Het nieuwe televisieprogramma toont vooral sportuitzendingen"
+},
+"Televisiounsserie\u00010\u00010": {
+"pt": "Esta noite dá o último episódio daquela série de televisão tão querida",
+"nl": "Vanavond komt de laatste aflevering van die geliefde televisieserie"
+},
+"Televisiounsserie\u00010\u00011": {
+"pt": "A nova série de televisão é produzida por uma empresa estrangeira",
+"nl": "De nieuwe televisieserie wordt geproduceerd door een buitenlands bedrijf"
+},
+"Teller\u00010\u00010": {
+"pt": "Pega num pano da loiça e seca os pratos!",
+"nl": "Neem een keukendoek en droog de borden af!"
+},
+"Teller\u00010\u00011": {
+"pt": "Estes poucos pratos podemos lavá-los à mão",
+"nl": "Die paar borden kunnen we met de hand afwassen"
+},
+"Teller\u00010\u00012": {
+"pt": "Pega melhor em pratos fundos para os esparguetes!",
+"nl": "Neem liever diepe borden voor de spaghetti!"
+},
+"Teller\u00010\u00013": {
+"pt": "Não comas também o prato!",
+"nl": "Eet het bord niet mee op!"
+},
+"Teller\u00010\u00014": {
+"pt": "Na noite de 5 de dezembro, as crianças põem os pratos (na mesa)",
+"nl": "Op de avond van 5 december zetten de kinderen de borden (op tafel)"
+},
+"Teller\u00011\u00010": {
+"pt": "Alguém quer mais um prato de sopa?",
+"nl": "Wil er nog iemand een bord soep?"
+},
+"Teller\u00011\u00011": {
+"pt": "Tinha tanta fome que comi dois pratos de massa!",
+"nl": "Ik had zo'n honger dat ik twee borden pasta at!"
+},
+"Tellur\u00010\u00010": {
+"pt": "O elemento telúrio pertence ao grupo dos semimetais",
+"nl": "Het element telluur behoort tot de groep van de halfmetalen"
+},
+"tel quel\u00010\u00010": {
+"pt": "O conselho municipal adotou o nosso parecer tal e qual",
+"nl": "De gemeenteraad nam ons advies ongewijzigd over"
+},
+"tel quel\u00010\u00011": {
+"pt": "Leio-vos o texto tal e qual, sem o comentar",
+"nl": "Ik lees u de tekst voor zoals hij is, zonder hem te becommentariëren"
+},
+"tëlteren\u00010\u00010": {
+"pt": "Não apalpes assim as peras, depois ficam pisadas!",
+"nl": "Betast die peren niet zo, straks zitten ze vol builen!"
+},
+"tëlteren\u00011\u00010": {
+"pt": "As duas avós mimaram tanto o pequenino que ele começou a chorar",
+"nl": "De twee oma's knuffelden het kleintje zo lang dat het begon te huilen"
+},
+"Temmincksandleefer\u00010\u00010": {
+"pt": "Quanto tempo chocam os pilritos-de-Temminck?",
+"nl": "Hoe lang broeden de Temmincks strandlopers?"
+},
+"Temoignage\u00010\u00010": {
+"pt": "O testemunho desse senhor sobre o seu tempo no campo de concentração tocou-me profundamente",
+"nl": "Het getuigenis van die meneer over zijn tijd in het concentratiekamp heeft me diep geraakt"
+},
+"Tempel\u00010\u00010": {
+"pt": "Em escavações foram encontrados restos de um templo antigo",
+"nl": "Bij opgravingen werden resten van een antieke tempel gevonden"
+},
+"Temperament\u00010\u00010": {
+"pt": "Os nossos dois filhos têm temperamentos muito diferentes",
+"nl": "Onze twee kinderen hebben heel verschillende temperamenten"
+},
+"Temperament\u00011\u00010": {
+"pt": "Diz-se muitas vezes que as pessoas do sul têm mais temperamento",
+"nl": "Er wordt vaak beweerd dat mensen uit het zuiden meer temperament hebben"
+},
+"temperamentvoll\u00010\u00010": {
+"pt": "Em jovem eras aparentemente temperamental, hoje és a calma em pessoa",
+"nl": "Als jongere was je blijkbaar temperamentvol, vandaag ben je de rust zelve"
+},
+"temperamentvoll\u00010\u00011": {
+"pt": "Um cavalo tão fogoso não é para principiantes!",
+"nl": "Zo'n temperamentvol paard is niets voor beginners!"
+},
+"temperamentvoll\u00010\u00012": {
+"pt": "O jovem político defendeu a sua posição com temperamento",
+"nl": "De jonge politicus verdedigde zijn standpunt met temperament"
+},
+"Temperatur\u00010\u00010": {
+"pt": "As plantas sofreram muito com as temperaturas baixas",
+"nl": "De planten hebben sterk geleden onder de lage temperaturen"
+},
+"Tempo\u00010\u00010": {
+"pt": "Os ciclistas imprimiram um bom ritmo",
+"nl": "De renners hadden een lekker tempo erin gezet"
+},
+"Tempo\u00010\u00011": {
+"pt": "A este ritmo nunca acabamos o nosso trabalho!",
+"nl": "In dat tempo raken we nooit klaar met ons werk!"
+},
+"Tempo\u00010\u00012": {
+"pt": "Despacha-te um bocadinho!",
+"nl": "Maak wat tempo!"
+},
+"temporaire\u00010\u00010": {
+"pt": "No museu há uma exposição temporária que tem muito sucesso",
+"nl": "In het museum loopt een tijdelijke tentoonstelling die veel succes heeft"
+},
+"Temps mort\u00010\u00010": {
+"pt": "O treinador pediu um desconto de tempo para dar algumas instruções à equipa",
+"nl": "De trainer vroeg een time-out om de ploeg enkele instructies te geven"
+},
+"tendéieren\u00010\u00010": {
+"pt": "Tens tendência para culpar os outros de tudo",
+"nl": "Je neigt ertoe de anderen overal de schuld van te geven"
+},
+"tendéieren\u00011\u00010": {
+"pt": "Os preços tendem novamente a subir",
+"nl": "De prijzen neigen weer naar boven"
+},
+"tendéieren\u00012\u00010": {
+"pt": "Politicamente, tende mais para a esquerda",
+"nl": "Politiek neigt hij eerder naar links"
+},
+"Tendenz\u00010\u00010": {
+"pt": "Neste inverno vêem-se por toda a parte as mesmas tendências na moda",
+"nl": "Deze winter ziet men in de mode overal dezelfde tendensen"
+},
+"Tendenz\u00011\u00010": {
+"pt": "Ele tem tendência para generalizar sempre tudo",
+"nl": "Hij heeft de neiging om altijd alles te veralgemenen"
+},
+"Tendenz\u00011\u00011": {
+"pt": "Alguns artistas têm tendência para a abstração",
+"nl": "Sommige kunstenaars hebben een neiging tot abstractie"
+},
+"tendenziell\u00010\u00010": {
+"pt": "O nosso perito constata uma tendência de descida dos preços do petróleo",
+"nl": "Onze expert stelt een dalende tendens van de olieprijzen vast"
+},
+"Tendinite\u00010\u00010": {
+"pt": "Quando acabei de pintar, tinha uma tendinite no braço direito",
+"nl": "Toen ik klaar was met schilderen, had ik een peesontsteking in mijn rechterarm"
+},
+"Tennessin\u00010\u00010": {
+"pt": "O elemento tenesso tem 117 protões no seu núcleo",
+"nl": "Het element tennessine heeft 117 protonen in zijn kern"
+},
+"Tennis\u00010\u00010": {
+"pt": "Quem joga ténis a sério precisa de várias raquetes por ano",
+"nl": "Wie serieus tennist, heeft een paar rackets per jaar nodig"
+},
+"Tennis\u00010\u00011": {
+"pt": "O ténis organiza um torneio",
+"nl": "Het tennis organiseert een toernooi"
+},
+"Tennisclub\u00010\u00010": {
+"pt": "No nosso clube de ténis, os principiantes recebem uma raquete emprestada",
+"nl": "In onze tennisclub krijgen beginners een racket in bruikleen"
+},
+"Tennisclub\u00010\u00011": {
+"pt": "O clube de ténis organiza um torneio",
+"nl": "De tennisclub organiseert een toernooi"
+},
+"Tennisekipp\u00010\u00010": {
+"pt": "A nossa equipa de ténis ganhou o bronze nas duplas",
+"nl": "Onze tennisploeg won brons in het dubbel"
+},
+"Tennisspiller\u00010\u00010": {
+"pt": "De raiva, o tenista partiu a raquete",
+"nl": "Van woede sloeg de tennisser zijn racket stuk"
+},
+"Tennisspillerin\u00010\u00010": {
+"pt": "Contra todas as expectativas, a jovem tenista ganhou o difícil encontro",
+"nl": "Tegen alle verwachtingen in won de jonge tennisster de moeilijke match"
+},
+"Tenor\u00010\u00010": {
+"pt": "Canto tenor no coro",
+"nl": "Ik zing tenor in het koor"
+},
+"Tenor\u00010\u00011": {
+"pt": "No coro, os tenores estão em número insuficiente",
+"nl": "In het koor zijn de tenoren ondervertegenwoordigd"
+},
+"Tenor\u00011\u00010": {
+"pt": "No nosso coro da igreja faltam alguns tenores",
+"nl": "In ons kerkkoor ontbreken enkele tenoren"
+},
+"Tenorstëmm\u00010\u00010": {
+"pt": "O teu tio tem uma voz de tenor maravilhosa, está num coro?",
+"nl": "Je oom heeft een prachtige tenorstem, zit hij in een koor?"
+},
+"Tenorstëmm\u00011\u00010": {
+"pt": "O maestro não tinha distribuído tenores suficientes na última peça",
+"nl": "De dirigent had bij het laatste stuk niet genoeg tenoren ingedeeld"
+},
+"Tënt\u00010\u00010": {
+"pt": "Escrevo de preferência com tinta azul",
+"nl": "Ik schrijf het liefst met blauwe inkt"
+},
+"Tënt\u00010\u00011": {
+"pt": "Correu muita tinta",
+"nl": "Er is veel inkt gevloeid"
+},
+"Tëntefaass\u00010\u00010": {
+"pt": "Antigamente, todos os alunos tinham um tinteiro na carteira",
+"nl": "Vroeger had elk schoolkind een inktpot in zijn bank"
+},
+"Tëntefësch\u00010\u00010": {
+"pt": "No mercado havia chocos de todas as espécies",
+"nl": "Op de markt hadden ze inktvissen van allerlei soorten"
+},
+"tentéieren\u00010\u00010": {
+"pt": "Mesmo assim ficaria tentado a pegar noutro petit-four",
+"nl": "Ik zou toch in verleiding komen om nog een petit-four te nemen"
+},
+"Tënten\u00010\u00010": {
+"pt": "Moro em Tënten",
+"nl": "Ik woon in Tënten"
+},
+"Tënten\u00010\u00011": {
+"pt": "Este autocarro vai para Tënten?",
+"nl": "Rijdt deze bus naar Tënten?"
+},
+"Tëntesmillen\u00010\u00010": {
+"pt": "Moro em Tëntesmillen",
+"nl": "Ik woon in Tëntesmillen"
+},
+"Tëntesmillen\u00010\u00011": {
+"pt": "Este autocarro vai para Tëntesmillen?",
+"nl": "Rijdt deze bus naar Tëntesmillen?"
+},
+"Tenue\u00010\u00010": {
+"pt": "Aquela pessoa não tem a postura adequada para um lugar tão importante",
+"nl": "Die persoon heeft niet de juiste houding voor zo'n belangrijke plaats"
+},
+"Tenue\u00011\u00010": {
+"pt": "Acho que o teu traje é informal demais para ir ao teatro",
+"nl": "Ik vind je outfit te los om mee naar het theater te gaan"
+},
+"Tenue\u00011\u00011": {
+"pt": "O general estava em grande uniforme",
+"nl": "De generaal was in groot tenue"
+},
+"Tenue\u00011\u00012": {
+"pt": "Para essa festa não precisas de te vestir muito elegante",
+"nl": "Voor dat feest hoef je je niet zo uit te dossen"
+},
+"Teppech\u00010\u00010": {
+"pt": "Limpa os sapatos no tapete antes de entrares!",
+"nl": "Veeg je schoenen af op de mat voor je binnenkomt!"
+},
+"Teppech\u00011\u00010": {
+"pt": "O nosso tapete novo já está a perder as franjas",
+"nl": "Ons nieuwe tapijt verliest al zijn franjes"
+},
+"Teppech\u00011\u00011": {
+"pt": "A imprensa impediu que o escândalo fosse varrido para debaixo do tapete",
+"nl": "De pers heeft verhinderd dat het schandaal onder het tapijt geveegd werd"
+},
+"Teppechhändler\u00010\u00010": {
+"pt": "O comerciante de tapetes também exporta os seus produtos para o estrangeiro",
+"nl": "De tapijthandelaar exporteert zijn waren ook naar het buitenland"
+},
+"Teppechhändlerin\u00010\u00010": {
+"pt": "Naquela comerciante de tapetes tens neste momento uma percentagem de desconto em quase todos os tapetes",
+"nl": "Bij die tapijthandelaarster krijg je nu korting op bijna alle tapijten"
+},
+"Teppechverkeefer\u00010\u00010": {
+"pt": "Nas férias fomos enganados na praia por um vendedor de tapetes",
+"nl": "Op vakantie werden we op het strand door een tapijtverkoper beetgenomen"
+},
+"Teppechverkeeferin\u00010\u00010": {
+"pt": "A vendedora de tapetes tem uma grande seleção de tapetes extravagantes",
+"nl": "De tapijtverkoopster heeft een grote keuze aan extravagante tapijten"
+},
+"Tëppel\u00010\u00010": {
+"pt": "O velho tem as mãos cheias de manchas castanhas",
+"nl": "De oude man heeft zijn handen vol bruine vlekken"
+},
+"Tëppel\u00010\u00011": {
+"pt": "Vais vestir a tua blusa lisa ou a de bolinhas?",
+"nl": "Trek je je effen blouse aan of die met de stippen?"
+},
+"Tëppel\u00010\u00012": {
+"pt": "Na ortografia luxemburguesa, muitos principiantes têm problemas com os pontos no e",
+"nl": "In de Luxemburgse spelling hebben veel beginners problemen met de puntjes op de e"
+},
+"Tëppel\u00010\u00013": {
+"pt": "Já é tempo de alguém lhe pôr os pontos nos ii!",
+"nl": "Het wordt hoog tijd dat iemand daar de puntjes op de i zet!"
+},
+"Terbium\u00010\u00010": {
+"pt": "O elemento térbio pertence ao grupo dos lantanídeos",
+"nl": "Het element terbium behoort tot de groep van de lanthaniden"
+},
+"Term\u00010\u00010": {
+"pt": "Num texto legal, os termos têm de ser juridicamente precisos",
+"nl": "In een wettekst moeten de termen juridisch precies zijn"
+},
+"Term\u00010\u00011": {
+"pt": "Estão outra vez de bem (um com o outro)",
+"nl": "Ze staan weer op goede voet (met elkaar)"
+},
+"Termin\u00010\u00010": {
+"pt": "A nossa diretora hoje não tem tempo, tem uma reunião atrás da outra",
+"nl": "Onze directrice heeft vandaag geen tijd, ze heeft de ene afspraak na de andere"
+},
+"Termin\u00011\u00010": {
+"pt": "Vê lá se não perdes o prazo para te inscreveres na universidade!",
+"nl": "Zorg dat je de termijn om je aan de universiteit in te schrijven niet mist!"
+},
+"Terminologie\u00010\u00010": {
+"pt": "A terminologia jurídica é difícil de entender",
+"nl": "De juridische terminologie is moeilijk te begrijpen"
+},
+"Terpetäin\u00010\u00010": {
+"pt": "O pintor limpa os pincéis com aguarrás",
+"nl": "De schilder reinigt zijn penselen met terpentijn"
+},
+"Terrain\u00010\u00010": {
+"pt": "O terreno da antiga fundição tem de ser saneado",
+"nl": "Het terrein van de oude smelterij moet gesaneerd worden"
+},
+"Terrain\u00010\u00011": {
+"pt": "Nessa discussão ele está no seu terreno",
+"nl": "In die discussie staat hij op zijn terrein"
+},
+"Terrain\u00011\u00010": {
+"pt": "Os bombeiros estavam bem preparados para a sua intervenção no terreno",
+"nl": "De brandweerlieden waren goed voorbereid op hun inzet in het veld"
+},
+"Terrain\u00011\u00011": {
+"pt": "Precisaríamos da opinião de pessoas do terreno",
+"nl": "We zouden de mening van mensen uit het veld nodig hebben"
+},
+"Terrain\u00011\u00012": {
+"pt": "Esse repórter não se pode mandar para o terreno, escandaliza as pessoas com perguntas indiscretas",
+"nl": "Die reporter kun je niet het veld insturen, hij choqueert de mensen met indiscrete vragen"
+},
+"Terrain\u00012\u00010": {
+"pt": "A nossa casa fica num terreno de seis ares",
+"nl": "Ons huis staat op een terrein van zes are"
+},
+"Terrain\u00012\u00011": {
+"pt": "Na nossa rua há dois terrenos à venda",
+"nl": "In onze straat zijn twee terreinen te koop"
+},
+"Terrain\u00013\u00010": {
+"pt": "O nosso clube de futebol vai ter um campo novo",
+"nl": "Onze voetbalclub krijgt een nieuw terrein"
+},
+"Terrain\u00013\u00011": {
+"pt": "Se não nos queremos fazer ridículos em campo, temos de jogar melhor",
+"nl": "Als we ons op het terrein niet willen blameren, moeten we beter spelen"
+},
+"Terrain\u00013\u00012": {
+"pt": "O árbitro expulsou dois jogadores do campo",
+"nl": "De scheidsrechter stuurde twee spelers van het veld"
+},
+"Terrarium\u00010\u00010": {
+"pt": "Tenho um terrário com cobras no meu apartamento",
+"nl": "Ik heb een terrarium met slangen in mijn appartement"
+},
+"Terrass\u00010\u00010": {
+"pt": "No verão sentamo-nos muitas vezes lá fora no terraço",
+"nl": "In de zomer zitten we vaak buiten op het terras"
+},
+"Terrass\u00010\u00011": {
+"pt": "Como tínhamos bom tempo, servi a refeição no terraço",
+"nl": "Omdat we mooi weer hadden, heb ik het eten op het terras opgediend"
+},
+"Terrass\u00011\u00010": {
+"pt": "O taberneiro da aldeia já abriu o seu terraço",
+"nl": "De cafébaas in het dorp heeft zijn terras al open"
+},
+"Terrass\u00011\u00011": {
+"pt": "Bebemos um café expresso numa esplanada",
+"nl": "We dronken een espresso op een terras"
+},
+"Terrass\u00012\u00010": {
+"pt": "Construímos um pomar em forma de socalcos",
+"nl": "We hebben een boomgaard in de vorm van terrassen aangelegd"
+},
+"Terrassendier\u00010\u00010": {
+"pt": "Os assaltantes entraram em casa pela porta do terraço",
+"nl": "De inbrekers kwamen via de terrasdeur het huis binnen"
+},
+"terribel\u00010\u00010": {
+"pt": "A terrível experiência abalou-o muito",
+"nl": "De verschrikkelijke ervaring heeft hem zwaar belast"
+},
+"terribel\u00010\u00011": {
+"pt": "Como pode uma pessoa fazer uma coisa tão terrível?",
+"nl": "Hoe komt een mens ertoe zoiets verschrikkelijks te doen?"
+},
+"terribel\u00011\u00010": {
+"pt": "O tubo de escape do meu carro faz um barulho terrível",
+"nl": "De uitlaat van mijn auto maakt een verschrikkelijk lawaai"
+},
+"terribel\u00011\u00011": {
+"pt": "O nosso bazar teve um êxito enorme",
+"nl": "Onze bazaar had een geweldig succes"
+},
+"terribel\u00011\u00012": {
+"pt": "Estou terrivelmente entusiasmado com as férias",
+"nl": "Ik kijk enorm uit naar de vakantie"
+},
+"Terrinn\u00010\u00010": {
+"pt": "Como entrada serviram-se duas fatias de terrina com salada",
+"nl": "Als voorgerecht waren er twee sneden terrine met salade"
+},
+"Territoire\u00010\u00010": {
+"pt": "Depois da guerra, o país perdeu parte do seu território",
+"nl": "Na de oorlog verloor het land een deel van zijn grondgebied"
+},
+"Territoire\u00010\u00011": {
+"pt": "No território da cidade, os lugares de estacionamento são cada vez mais raros",
+"nl": "Op het grondgebied van de stad worden de parkeerplaatsen steeds zeldzamer"
+},
+"Territoire\u00011\u00010": {
+"pt": "O nosso cão não consegue deixar de marcar o seu território",
+"nl": "Onze hond kan het niet laten zijn territorium af te bakenen"
+},
+"territorial\u00010\u00010": {
+"pt": "A integridade territorial dos Estados tem de ser respeitada",
+"nl": "De territoriale integriteit van de staten moet gerespecteerd worden"
+},
+"Terror\u00010\u00010": {
+"pt": "Muitas pessoas fogem do terror no seu país",
+"nl": "Veel mensen vluchten voor de terreur in hun land"
+},
+"Terror\u00010\u00011": {
+"pt": "O meu pai fez um terrível escarcéu por causa daquele mau exame",
+"nl": "Mijn vader maakte een enorme heisa over dat slechte examen"
+},
+"terroriséieren\u00010\u00010": {
+"pt": "O inimigo tenta por todos os meios aterrorizar a população",
+"nl": "De vijand probeert de bevolking met alle middelen te terroriseren"
+},
+"terroriséieren\u00010\u00011": {
+"pt": "Porque deixas que o teu marido te aterrorize assim?",
+"nl": "Waarom laat je je zo door je man terroriseren?"
+},
+"Terrorismus\u00010\u00010": {
+"pt": "A polícia quer agir de forma mais direcionada contra o terrorismo",
+"nl": "De politie wil gerichter optreden tegen het terrorisme"
+},
+"Terrorist\u00010\u00010": {
+"pt": "Os terroristas mataram os reféns a sangue-frio",
+"nl": "De terroristen schoten de gijzelaars in koelen bloede neer"
+},
+"Terroristemilieu\u00010\u00010": {
+"pt": "A polícia infiltrou um dos seus agentes no meio terrorista",
+"nl": "De politie liet een van haar mensen in het terroristische milieu infiltreren"
+},
+"terroristesch\u00010\u00010": {
+"pt": "Um grupo terrorista reivindicou os atentados",
+"nl": "Een terroristische groep eiste de aanslagen op"
+},
+"Terroristin\u00010\u00010": {
+"pt": "A polícia deteve no aeroporto uma presumível terrorista",
+"nl": "De politie arresteerde op de luchthaven een vermoedelijke terroriste"
+},
+"Terrororganisatioun\u00010\u00010": {
+"pt": "Vários agentes dos serviços secretos infiltraram a organização terrorista",
+"nl": "Verschillende agenten van de geheime dienst infiltreerden de terroristische organisatie"
+},
+"Tëschebluddung\u00010\u00010": {
+"pt": "Quando uma mulher perde sangue entre duas menstruações, fala-se de hemorragias intermenstruais",
+"nl": "Wanneer een vrouw tussen twee menstruaties bloed verliest, spreekt men van tussentijds bloedverlies"
+},
+"Tëschefall\u00010\u00010": {
+"pt": "No seu artigo, o jornalista dramatizou terrivelmente o incidente",
+"nl": "In zijn artikel heeft de journalist het incident verschrikkelijk gedramatiseerd"
+},
+"Tëschelager\u00010\u00010": {
+"pt": "Cada central nuclear precisa de um armazenamento intermédio para resíduos radioativos",
+"nl": "Elke kerncentrale heeft een tussentijdse opslag voor radioactief afval nodig"
+},
+"tëschelageren\u00010\u00010": {
+"pt": "Os legumes frescos não devem ser armazenados muito tempo antes de irem para venda",
+"nl": "Verse groenten mogen niet lang tussentijds opgeslagen worden voor ze in de verkoop gaan"
+},
+"tëschelanden\u00010\u00010": {
+"pt": "O avião teve de fazer uma escala de emergência devido a uma urgência médica",
+"nl": "Het vliegtuig moest wegens een medisch noodgeval een tussenlanding maken"
+},
+"Tëschelandung\u00010\u00010": {
+"pt": "Por causa do mau tempo tivemos uma escala não planeada",
+"nl": "Door het slechte weer hadden we een ongeplande tussenlanding"
+},
+"Tëscheléisung\u00010\u00010": {
+"pt": "Essa medida só pode ser usada, no máximo, como solução provisória",
+"nl": "Die maatregel is hoogstens als tussenoplossing bruikbaar"
+},
+"tëschenduerch\u00010\u00010": {
+"pt": "Na nossa viagem tivemos de parar pelo caminho porque o nosso filho mais novo se sentiu mal",
+"nl": "Op onze reis moesten we onderweg stoppen omdat onze jongste zich niet goed voelde"
+},
+"tëschenduerch\u00010\u00011": {
+"pt": "Não comas tanto entre as refeições, senão depois não consegues comer à mesa!",
+"nl": "Eet niet zoveel tussendoor, anders krijg je straks niets meer naar binnen aan tafel!"
+},
+"tëschent\u00010\u00010": {
+"pt": "Senta-te entre nós, ainda cabes!",
+"nl": "Ga tussen ons zitten, je past er nog net bij!"
+},
+"tëschent\u00010\u00011": {
+"pt": "Marca-me o encontro entre os dois feriados!",
+"nl": "Leg de afspraak tussen de twee feestdagen!"
+},
+"tëschent\u00010\u00012": {
+"pt": "No nosso bairro tem de se respeitar entre as casas uma distância de pelo menos seis metros",
+"nl": "In onze wijk moet tussen de huizen een afstand van minstens zes meter gerespecteerd worden"
+},
+"tëschent\u00010\u00013": {
+"pt": "A nossa creche acolhe crianças entre os dois e os quatro anos",
+"nl": "Onze crèche vangt kinderen op tussen twee en vier jaar"
+},
+"tëschent\u00010\u00014": {
+"pt": "Na próxima semana deve fazer entre 25 e 30 graus",
+"nl": "Volgende week zou het tussen 25 en 30 graden worden"
+},
+"tëschent\u00010\u00015": {
+"pt": "Diz um número entre um e cinco!",
+"nl": "Zeg een getal tussen één en vijf!"
+},
+"tëschent\u00010\u00016": {
+"pt": "Na discussão dos pais, a criança ficou entre os dois",
+"nl": "In de ruzie van de ouders stond het kind tussen die twee in"
+},
+"tëschent\u00011\u00010": {
+"pt": "O bilhete tinha escorregado para entre outros papéis",
+"nl": "Het briefje was tussen andere papieren geschoven"
+},
+"tëschent\u00011\u00011": {
+"pt": "A tua carta estava entre os jornais velhos",
+"nl": "Je brief lag tussen de oude kranten"
+},
+"tëschent\u00012\u00010": {
+"pt": "As relações entre as duas empresas são pouco claras",
+"nl": "De betrekkingen tussen de twee bedrijven zijn onduidelijk"
+},
+"tëschent\u00012\u00011": {
+"pt": "Entre nós nasceu uma verdadeira amizade",
+"nl": "Tussen ons is een echte vriendschap ontstaan"
+},
+"Tëschenzäit\u00010\u00010": {
+"pt": "Entretanto, a lei foi completada várias vezes",
+"nl": "De wet is intussen verschillende keren aangevuld"
+},
+"Test\u00010\u00010": {
+"pt": "O meu mecânico põe o novo modelo à disposição dos clientes para um teste",
+"nl": "Mijn garagist stelt het nieuwe model ter beschikking van de klanten voor een test"
+},
+"Test\u00011\u00010": {
+"pt": "Para medir a inteligência existem muitos testes diferentes",
+"nl": "Om intelligentie te meten bestaan er veel verschillende tests"
+},
+"Test\u00012\u00010": {
+"pt": "Para ser admitido nos bombeiros profissionais, cada candidato tem de passar uma série de testes",
+"nl": "Om bij de beroepsbrandweer aangenomen te worden, moet elke kandidaat een reeks tests doorstaan"
+},
+"Test\u00013\u00010": {
+"pt": "No teste, os alunos só podem ter um lápis e uma régua em cima da mesa",
+"nl": "Tijdens de test mogen de leerlingen enkel een potlood en een lat op hun bank hebben"
+},
+"Testament\u00010\u00010": {
+"pt": "A existência de um testamento era desconhecida dos herdeiros",
+"nl": "Het bestaan van een testament was de erfgenamen niet bekend"
+},
+"Testament\u00010\u00011": {
+"pt": "Os testamentos podem ser depositados num notário",
+"nl": "Testamenten kunnen bij een notaris neergelegd worden"
+},
+"Testament\u00011\u00010": {
+"pt": "Onde está no Antigo Testamento a passagem com os dez mandamentos?",
+"nl": "Waar staat in het Oude Testament de passage met de tien geboden?"
+},
+"Testament\u00011\u00011": {
+"pt": "No Novo Testamento é contada a história de Jesus Cristo",
+"nl": "In het Nieuwe Testament wordt het verhaal van Jezus Christus verteld"
+},
+"testamentaresch\u00010\u00010": {
+"pt": "Na disposição testamentária consta como a herança é repartida",
+"nl": "In de testamentaire beschikking staat hoe de erfenis verdeeld wordt"
+},
+"testamentaresch\u00010\u00011": {
+"pt": "A associação de caridade recebeu estes terrenos em legado testamentário",
+"nl": "De liefdadigheidsvereniging kreeg deze terreinen bij testament"
+},
+"testen\u00010\u00010": {
+"pt": "Depois do meu acidente, o médico testou os meus reflexos",
+"nl": "Na mijn ongeval testte de dokter mijn reflexen"
+},
+"testen\u00010\u00011": {
+"pt": "Toda a pessoa com sintomas típicos de covid-19 deve fazer-se testar",
+"nl": "Iedereen met typische symptomen van covid-19 moet zich laten testen"
+},
+"testen\u00010\u00012": {
+"pt": "No concurso, os candidatos são testados nos seus conhecimentos gerais",
+"nl": "Bij het vergelijkend examen wordt de algemene kennis van de kandidaten getest"
+},
+"testen\u00010\u00013": {
+"pt": "A estrada nova ainda está cortada, o piso está a ser testado quanto à aderência",
+"nl": "De nieuwe straat is nog afgesloten, het wegdek wordt getest op grip"
+},
+"testen\u00010\u00014": {
+"pt": "Fez-me aquela pergunta para me testar",
+"nl": "Hij stelde me die vraag om mij te testen"
+},
+"testen\u00011\u00010": {
+"pt": "Os clientes querem testar o carro antes de o comprar",
+"nl": "De klanten willen de auto testen voor ze hem kopen"
+},
+"testen\u00011\u00011": {
+"pt": "Anda, vamos experimentar aquele restaurante novo ao lado da igreja!",
+"nl": "Kom, laten we dat nieuwe restaurant naast de kerk eens uitproberen!"
+},
+"Testfro\u00010\u00010": {
+"pt": "Os candidatos tiveram dificuldades com a última pergunta do teste",
+"nl": "De kandidaten hadden moeite met de laatste testvraag"
+},
+"Testkit\u00010\u00010": {
+"pt": "A polícia tem kits de teste especiais com os quais se pode apurar se alguém consumiu drogas",
+"nl": "De politie heeft speciale testkits waarmee men kan vaststellen of iemand drugs gebruikt heeft"
+},
+"Testkit\u00010\u00011": {
+"pt": "O nosso laboratório desenvolveu um kit de teste com o qual se pode comprovar uma infeção pelo Sars-CoV-2",
+"nl": "Ons laboratorium heeft een testkit ontwikkeld waarmee men een besmetting met Sars-CoV-2 kan aantonen"
+},
+"Testmatch\u00010\u00010": {
+"pt": "A nossa nova avançada marcou logo três golos no primeiro jogo de preparação",
+"nl": "Onze nieuwe spits scoorde meteen drie doelpunten in de eerste oefenwedstrijd"
+},
+"Teststatioun\u00010\u00010": {
+"pt": "Na nossa estação de teste são medidas as emissões nocivas de gases de escape",
+"nl": "In ons teststation worden schadelijke uitlaatemissies gemeten"
+},
+"Teststatioun\u00010\u00011": {
+"pt": "Como tenho os sintomas da covid-19, a médica enviou-me para um centro de testes",
+"nl": "Omdat ik de symptomen van covid-19 heb, stuurde de dokter me naar een teststation"
+},
+"Tetanus\u00010\u00010": {
+"pt": "É importante receber regularmente um reforço da vacina contra o tétano",
+"nl": "Het is belangrijk om regelmatig een herhalingsprik tegen tetanus te krijgen"
+},
+"Tëtelbierg\u00010\u00010": {
+"pt": "Já estiveste alguma vez em Tëtelbierg?",
+"nl": "Ben je al eens in Tëtelbierg geweest?"
+},
+"Tëtelbierg\u00010\u00011": {
+"pt": "No fim de semana fizemos uma caminhada até Tëtelbierg",
+"nl": "We hebben dit weekend naar Tëtelbierg gewandeld"
+},
+"Tëtt\u00010\u00010": {
+"pt": "Olha, ali alguém levanta a t-shirt para a estrela de rock lhe assinar nos seios!",
+"nl": "Kijk, daar tilt iemand zijn T-shirt op zodat de rockster op zijn borsten tekent!"
+},
+"Texasbox\u00010\u00010": {
+"pt": "O que hoje chamamos jeans chamava-se antigamente calças texanas",
+"nl": "Wat we vandaag jeans noemen, heette vroeger texasbroek"
+},
+"Text\u00010\u00010": {
+"pt": "Não entendo o sentido desse texto",
+"nl": "Ik begrijp de zin van die tekst niet"
+},
+"Text\u00010\u00011": {
+"pt": "No teu texto ainda há uma série de erros de impressão",
+"nl": "In je tekst staan nog een aantal tikfouten"
+},
+"Text\u00010\u00012": {
+"pt": "Preparei um pequeno texto para o cartão de aniversário",
+"nl": "Ik heb een korte tekst voor de verjaardagskaart voorbereid"
+},
+"Text\u00010\u00013": {
+"pt": "Os arqueólogos depararam com textos que não conseguem decifrar",
+"nl": "De archeologen zijn op teksten gestuit die ze niet ontcijferd krijgen"
+},
+"Text\u00010\u00014": {
+"pt": "O ator está a decorar o seu texto",
+"nl": "De acteur is bezig zijn tekst van buiten te leren"
+},
+"Textilien\u00010\u00010": {
+"pt": "No centro de reciclagem, o contentor para têxteis fica ao lado do do vidro",
+"nl": "In het recyclagepark staat de container voor textiel naast die voor glas"
+},
+"Textilien\u00010\u00011": {
+"pt": "A indústria desenvolve sempre novos têxteis",
+"nl": "De industrie ontwikkelt telkens nieuwe textiel"
+},
+"Textilindustrie\u00010\u00010": {
+"pt": "Esta região vivia antigamente praticamente só da indústria têxtil",
+"nl": "Deze streek leefde vroeger praktisch alleen van de textielindustrie"
+},
+"Textmarker\u00010\u00010": {
+"pt": "Marca com um marcador as palavras-chave mais importantes do documento!",
+"nl": "Markeer de belangrijkste trefwoorden in het document met een markeerstift!"
+},
+"Textpassage\u00010\u00010": {
+"pt": "No artigo há algumas passagens de texto politicamente incorretas",
+"nl": "In het artikel staan enkele tekstpassages die politiek niet correct zijn"
+},
+"Textpassage\u00010\u00011": {
+"pt": "Para mudar o tipo de letra de uma passagem de texto, tem de se selecioná-la primeiro",
+"nl": "Om het lettertype van een tekstpassage te wijzigen, moet men ze eerst selecteren"
+},
+"textuell\u00010\u00010": {
+"pt": "O Conselho de Estado fez algumas alterações textuais ao projeto de lei",
+"nl": "De Raad van State heeft enkele tekstuele wijzigingen in het wetsontwerp aangebracht"
+},
+"textuell\u00011\u00010": {
+"pt": "Esta frase é uma citação textual da Bíblia",
+"nl": "Deze zin is een letterlijk citaat uit de Bijbel"
+},
+"TGV\u00010\u00010": {
+"pt": "De TGV, da cidade levas um pouco mais de duas horas até Paris",
+"nl": "Met de TGV doe je vanuit de stad iets meer dan twee uur over naar Parijs"
+},
+"Thailand\u00010\u00010": {
+"pt": "Já estive três vezes na Tailândia",
+"nl": "Ik ben al drie keer in Thailand geweest"
+},
+"Thailand\u00010\u00011": {
+"pt": "Na próxima semana vou à Tailândia",
+"nl": "Volgende week ga ik naar Thailand"
+},
+"Thailand\u00010\u00012": {
+"pt": "Venho da Tailândia",
+"nl": "Ik kom uit Thailand"
+},
+"Thailänner\u00010\u00010": {
+"pt": "O meu melhor amigo é tailandês",
+"nl": "Mijn beste vriend is Thai"
+},
+"Thailännerin\u00010\u00010": {
+"pt": "A minha melhor amiga é tailandesa",
+"nl": "Mijn beste vriendin is Thaise"
+},
+"thailännesch\u00010\u00010": {
+"pt": "Na nossa viagem ficámos a conhecer a cultura tailandesa",
+"nl": "Op onze reis hebben we de Thaise cultuur leren kennen"
+},
+"Thallium\u00010\u00010": {
+"pt": "O elemento tálio pertence ao grupo dos metais",
+"nl": "Het element thallium behoort tot de groep van de metalen"
+},
+"Theater\u00010\u00010": {
+"pt": "Este teatro só representa peças modernas",
+"nl": "Dit theater speelt enkel moderne stukken"
+},
+"Theater\u00011\u00010": {
+"pt": "O teatro antigo vai ser demolido no próximo ano",
+"nl": "Het oude theater wordt volgend jaar afgebroken"
+},
+"Theater\u00012\u00010": {
+"pt": "Também no estrangeiro o teatro depende de subsídios",
+"nl": "Ook in het buitenland is het theater op subsidies aangewezen"
 }
 }
