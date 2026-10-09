@@ -123298,5 +123298,905 @@
 "Mandat\u00011\u00010": {
 "pt": "Não tens mandato para fazer isso",
 "nl": "Je hebt geen mandaat om dat te doen"
+},
+"Mandat\u00010\u00010~2": {
+"pt": "O mandato do presidente termina ao fim de cinco anos",
+"nl": "Het mandaat van de president loopt na vijf jaar af"
+},
+"Mandat\u00011\u00010~2": {
+"pt": "Não tens mandato para fazer isso",
+"nl": "Je hebt geen mandaat om dat te doen"
+},
+"Mandataire\u00010\u00010": {
+"pt": "Em muitos países, os representantes políticos gozam de imunidade",
+"nl": "In veel landen zijn de politieke mandatarissen immuun"
+},
+"Mandat d'arrêt\u00010\u00010": {
+"pt": "A juíza de instrução emitiu um mandado de detenção contra o presumível assassino",
+"nl": "De onderzoeksrechter vaardigde een aanhoudingsbevel uit tegen de vermoedelijke moordenaar"
+},
+"Mandat d'arrêt\u00010\u00011": {
+"pt": "O homem que desviou milhões é procurado com um mandado de captura internacional",
+"nl": "De man die miljoenen heeft verduisterd, wordt met een internationaal aanhoudingsbevel gezocht"
+},
+"mandatéieren\u00010\u00010": {
+"pt": "Foi mandatado para a gestão do negócio",
+"nl": "Hij kreeg het mandaat om de zaak te beheren"
+},
+"mandatéieren\u00010\u00011": {
+"pt": "Um porta-voz mandatado do sindicato anunciou uma greve",
+"nl": "Een gemandateerde woordvoerder van de vakbond kondigde een staking aan"
+},
+"Mandel\u00010\u00010": {
+"pt": "Misturei amêndoas moídas na massa",
+"nl": "Ik heb gemalen amandelen door het deeg gemengd"
+},
+"Mandel\u00011\u00010": {
+"pt": "O meu primo teve as amígdalas retiradas na semana passada",
+"nl": "Mijn neef heeft vorige week zijn amandelen laten verwijderen"
+},
+"Mandelblietchen\u00010\u00010": {
+"pt": "Para este bolo são precisas lascas de amêndoa torradas",
+"nl": "Voor deze cake heb je geroosterde amandelschilfers nodig"
+},
+"Mandelpesto\u00010\u00010": {
+"pt": "Podes dar-me a receita do teu excelente pesto de amêndoa?",
+"nl": "Kun je me het recept van je uitstekende amandelpesto geven?"
+},
+"Manéier\u00010\u00010": {
+"pt": "Ela tem uma maneira encantadora de lidar com as pessoas",
+"nl": "Ze heeft een charmante manier om met mensen om te gaan"
+},
+"Manéier\u00010\u00011": {
+"pt": "Há pelo menos duas maneiras de resolver este exercício de cálculo",
+"nl": "Er zijn minstens twee manieren om deze rekenopgave op te lossen"
+},
+"Manéier\u00010\u00012": {
+"pt": "Assim nunca chegas a lado nenhum!",
+"nl": "Zo kom je nooit ergens!"
+},
+"Manéier\u00011\u00010": {
+"pt": "De certa forma tenho de te dar razão, mas mantenho a minha opinião",
+"nl": "In zekere zin moet ik je gelijk geven, maar ik blijf bij mijn mening"
+},
+"Manéier\u00012\u00010": {
+"pt": "Tem vergonha, não tens maneiras!",
+"nl": "Schaam je, je hebt geen manieren!"
+},
+"Manéier\u00012\u00011": {
+"pt": "Não podemos deixar passar as más maneiras das crianças",
+"nl": "We kunnen de slechte manieren van de kinderen niet laten passeren"
+},
+"manéierlech\u00010\u00010": {
+"pt": "É um rapaz fino e bem-educado",
+"nl": "Hij is een fijne, welgemanierde jongen"
+},
+"manéierlech\u00010\u00011": {
+"pt": "As crianças agradeceram com muita educação",
+"nl": "De kinderen bedankten heel beleefd"
+},
+"Manertchen\u00010\u00010": {
+"pt": "Moro em Manertchen",
+"nl": "Ik woon in Manertchen"
+},
+"Manertchen\u00010\u00011": {
+"pt": "Este autocarro vai para Manertchen?",
+"nl": "Rijdt deze bus naar Manertchen?"
+},
+"Mangan\u00010\u00010": {
+"pt": "O elemento manganês pertence ao grupo dos metais de transição",
+"nl": "Het element mangaan behoort tot de groep van de overgangsmetalen"
+},
+"Mangel\u00010\u00010": {
+"pt": "O principal problema desta aluna é a falta de concentração",
+"nl": "Het grootste probleem van deze leerlinge is het gebrek aan concentratie"
+},
+"Mangel\u00010\u00011": {
+"pt": "Na minha análise ao sangue foi detetada uma forte carência de ferro e de vitamina D",
+"nl": "In mijn bloedonderzoek werd een sterk tekort aan ijzer en vitamine D vastgesteld"
+},
+"Mangel\u00011\u00010": {
+"pt": "O novo edifício tem uma série de defeitos",
+"nl": "Het nieuwe gebouw heeft een aantal gebreken"
+},
+"mangelhaft\u00010\u00010": {
+"pt": "Se 50 % dos alunos têm conhecimentos insuficientes em ciências, temos de questionar o nosso sistema escolar",
+"nl": "Als 50 % van de leerlingen ontoereikende kennis van de wetenschappen heeft, moeten we ons schoolsysteem in vraag stellen"
+},
+"mangelhaft\u00011\u00010": {
+"pt": "As peças defeituosas da máquina foram substituídas ao abrigo da garantia",
+"nl": "De defecte onderdelen van de machine werden onder de garantie vervangen"
+},
+"Mange-tout\u00010\u00010": {
+"pt": "No mercado comprei feijões, cogumelos e ervilhas-torta",
+"nl": "Op de markt heb ik bonen, champignons en peultjes gekocht"
+},
+"Mango\u00010\u00010": {
+"pt": "Das frutas exóticas, as mangas são as que mais gosto",
+"nl": "Van de exotische vruchten hou ik het meest van mango's"
+},
+"Mangold\u00010\u00010": {
+"pt": "A acelga e o espinafre têm muitíssimas vitaminas",
+"nl": "Snijbiet en spinazie bevatten heel veel vitaminen"
+},
+"maniabel\u00010\u00010": {
+"pt": "A nova batedeira é mais fácil de manejar do que a velha",
+"nl": "De nieuwe mixer is handzamer dan de oude"
+},
+"maniabel\u00011\u00010": {
+"pt": "O novo chefe é mais acessível do que o antigo",
+"nl": "De nieuwe chef is toegankelijker dan de oude"
+},
+"Manie\u00010\u00010": {
+"pt": "A limpeza tornou-se uma mania para a nossa vizinha",
+"nl": "Poetsen is voor onze buurvrouw een manie geworden"
+},
+"manifest\u00010\u00010": {
+"pt": "Neste caso foram cometidos erros manifestos",
+"nl": "In deze zaak zijn manifeste fouten gemaakt"
+},
+"manifest\u00010\u00011": {
+"pt": "É evidente que houve irregularidades nas contas",
+"nl": "Het is duidelijk dat er onregelmatigheden in de afrekeningen waren"
+},
+"Manifest\u00010\u00010": {
+"pt": "O novo grupo político quer, com o seu manifesto, desencadear uma discussão",
+"nl": "De nieuwe politieke groepering wil met haar manifest een discussie op gang brengen"
+},
+"Manifestant\u00010\u00010": {
+"pt": "Os manifestantes demonstraram por melhores condições de trabalho",
+"nl": "De betogers hebben gedemonstreerd voor betere arbeidsvoorwaarden"
+},
+"Manifestantin\u00010\u00010": {
+"pt": "A manifestante foi detida pela polícia, embora estivesse a manifestar-se pacificamente",
+"nl": "De betoogster werd door de politie aangehouden, hoewel ze vreedzaam had betoogd"
+},
+"Manifestatioun\u00010\u00010": {
+"pt": "No âmbito do festival, a comuna organiza uma série de manifestações culturais",
+"nl": "In het kader van het festival organiseert de gemeente een reeks culturele evenementen"
+},
+"Manifestatioun\u00011\u00010": {
+"pt": "Amanhã à tarde há na cidade uma manifestação contra a guerra",
+"nl": "Morgenmiddag is er in de stad een betoging tegen de oorlog"
+},
+"Manifestatiounskalenner\u00010\u00010": {
+"pt": "No calendário de eventos encontram-se todas as manifestações que as associações organizam este ano na nossa comuna",
+"nl": "In de evenementenkalender vind je alle evenementen die de verenigingen dit jaar in onze gemeente organiseren"
+},
+"manifestéieren\u00010\u00010": {
+"pt": "A 1 de maio os sindicatos manifestam-se em todo o mundo",
+"nl": "Op 1 mei betogen de vakbonden over de hele wereld"
+},
+"manifestéieren\u00011\u00010": {
+"pt": "Ao fim de três anos, o meu primo voltou a dar sinal de vida",
+"nl": "Na drie jaar heeft mijn neef zich weer eens laten horen"
+},
+"manifestéieren\u00012\u00010": {
+"pt": "Este tipo de gripe manifesta-se através de febre e dor de garganta",
+"nl": "Dit soort griep uit zich door koorts en keelpijn"
+},
+"manifestéieren\u00012\u00011": {
+"pt": "Durante as discussões já se manifestaram as primeiras dificuldades",
+"nl": "Tijdens de besprekingen hebben zich al de eerste moeilijkheden voorgedaan"
+},
+"Manikür\u00010\u00010": {
+"pt": "Tenho de ir à manicure porque perdi uma das minhas unhas postiças",
+"nl": "Ik moet naar de manicure omdat ik een van mijn kunstnagels ben kwijtgeraakt"
+},
+"Manila\u00010\u00010": {
+"pt": "Manila é a capital das Filipinas",
+"nl": "Manilla is de hoofdstad van de Filipijnen"
+},
+"Manipulateur\u00010\u00010": {
+"pt": "Aquele manipulador tenta por todos os meios persuadir as pessoas",
+"nl": "Die manipulator probeert de mensen met alle middelen te overhalen"
+},
+"Manipulatioun\u00010\u00010": {
+"pt": "O manuseamento deste aparelho é muito complicado",
+"nl": "De bediening van dit toestel is heel ingewikkeld"
+},
+"Manipulatioun\u00011\u00010": {
+"pt": "Nas eleições houve manipulações",
+"nl": "Bij de verkiezingen waren er manipulaties"
+},
+"Manipulatioun\u00012\u00010": {
+"pt": "A publicidade é uma manipulação do consumidor",
+"nl": "Reclame is een manipulatie van de consument"
+},
+"Manipulatrice\u00010\u00010": {
+"pt": "Agora aquela manipuladora voltou a conseguir, com os seus meios, o que queria!",
+"nl": "Nu heeft die manipulatrice met haar middelen weer bereikt wat ze wilde!"
+},
+"manipuléieren\u00010\u00010": {
+"pt": "Com a sua conversa conseguiu manipular muitas pessoas",
+"nl": "Met zijn gepraat heeft hij veel mensen kunnen manipuleren"
+},
+"manipuléieren\u00011\u00010": {
+"pt": "O contabilista é suspeito de ter manipulado os livros da empresa",
+"nl": "De boekhouder wordt ervan verdacht de boeken van het bedrijf te hebben gemanipuleerd"
+},
+"manipuléieren\u00011\u00011": {
+"pt": "O conta-quilómetros deste carro foi adulterado",
+"nl": "De kilometerteller van deze auto werd gemanipuleerd"
+},
+"Manktem\u00010\u00010": {
+"pt": "Por falta de provas, o arguido foi absolvido",
+"nl": "Wegens gebrek aan bewijzen werd de beschuldigde vrijgesproken"
+},
+"Manktem\u00010\u00011": {
+"pt": "Na minha análise ao sangue foi detetada uma forte carência de ferro e de vitamina D",
+"nl": "In mijn bloedonderzoek werd een sterk tekort aan ijzer en vitamine D vastgesteld"
+},
+"Mann\u00010\u00010": {
+"pt": "As casas de banho para homens e mulheres são separadas",
+"nl": "De toiletten voor mannen en vrouwen zijn gescheiden"
+},
+"Mann\u00010\u00011": {
+"pt": "Ele sabe defender-se!",
+"nl": "Hij weet zijn mannetje te staan!"
+},
+"Mann\u00011\u00010": {
+"pt": "O meu marido foi de férias com as crianças",
+"nl": "Mijn man is met de kinderen op vakantie gegaan"
+},
+"Mann\u00012\u00010": {
+"pt": "Tu és o homem certo para este trabalho!",
+"nl": "Jij bent de juiste man voor dit werk!"
+},
+"Mann\u00012\u00011": {
+"pt": "Vieram dez homens para fazer o trabalho",
+"nl": "Er kwamen tien man om het werk te doen"
+},
+"mann\u00010\u00010": {
+"pt": "A comida estava boa, mas era um pouco escassa",
+"nl": "Het eten was lekker, maar het was een beetje te weinig"
+},
+"mann\u00010\u00011": {
+"pt": "Como estou doente, esforço-me o menos possível",
+"nl": "Omdat ik ziek ben, span ik me zo weinig mogelijk in"
+},
+"mann\u00010\u00012": {
+"pt": "Quando fiz as contas, faltavam-me uns euros",
+"nl": "Toen ik het nagerekend had, kwam ik een paar euro te kort"
+},
+"Männchen\u00011\u00010": {
+"pt": "As crianças desenharam um boneco no quadro",
+"nl": "De kinderen tekenden een mannetje op het bord"
+},
+"Männchen\u00011\u00011": {
+"pt": "Está bêbedo que nem um cacho!",
+"nl": "Hij is zo dronken als een tempelier!"
+},
+"Männchen\u00011\u00012": {
+"pt": "O nosso cão sabe fazer a pose de pedinte",
+"nl": "Onze hond kan mannetje maken"
+},
+"Männchen\u00011\u00013": {
+"pt": "Ele está a ver coisas!",
+"nl": "Hij ziet witte muizen!"
+},
+"Männchen\u00011\u00014": {
+"pt": "Está constantemente a fazer-se de bonito diante do chefe!",
+"nl": "Hij zit voortdurend bij de chef te slijmen!"
+},
+"Männchen\u00012\u00010": {
+"pt": "O teu porquinho-da-índia é macho ou fêmea?",
+"nl": "Is je cavia een mannetje of een vrouwtje?"
+},
+"Männchen\u00013\u00010": {
+"pt": "Que menino querido que é o vosso pequeno!",
+"nl": "Wat is jullie kleintje toch een lief mannetje!"
+},
+"Männchen\u00014\u00010": {
+"pt": "Ouve lá, rapaz, agora já chega!",
+"nl": "Luister eens, mannetje, nu is het genoeg!"
+},
+"Mannequin\u00010\u00010": {
+"pt": "Uma das manequins caiu a meio do desfile",
+"nl": "Een van de mannequins viel midden in de défilé"
+},
+"Mannequin\u00011\u00010": {
+"pt": "Na montra está um manequim de biquíni",
+"nl": "In de etalage staat een mannequin in bikini"
+},
+"manner\u00010\u00010": {
+"pt": "Come menos, se queres emagrecer!",
+"nl": "Eet minder als je wilt afvallen!"
+},
+"manner\u00010\u00011": {
+"pt": "Recebes 20 euros, nem mais nem menos!",
+"nl": "Je krijgt 20 euro, niet meer en niet minder!"
+},
+"manner\u00010\u00012": {
+"pt": "Isso é menos do que nada!",
+"nl": "Dat is minder dan niets!"
+},
+"manner\u00010\u00013": {
+"pt": "Hoje estou mais ou menos bem",
+"nl": "Het gaat vandaag min of meer goed met me"
+},
+"manner\u00010\u00014": {
+"pt": "Naquele discurso, menos teria sido mais!",
+"nl": "Bij die toespraak was minder meer geweest!"
+},
+"manner\u00010\u00010~2": {
+"pt": "Nas férias grandes há menos trânsito nas estradas",
+"nl": "In de grote vakantie is er minder verkeer op de wegen"
+},
+"männerfeindlech\u00010\u00010": {
+"pt": "Para provocar na discussão, a mulher fez algumas observações misândricas",
+"nl": "Om te provoceren in de discussie maakte de vrouw enkele mannenhatende opmerkingen"
+},
+"mannerjäreg\u00010\u00010": {
+"pt": "Enquanto fores menor de idade, precisas de uma autorização dos teus pais",
+"nl": "Zolang je minderjarig bent, heb je een toestemming van je ouders nodig"
+},
+"mannerjäreg\u00010\u00011": {
+"pt": "Sem acompanhante adulto, nenhum menor pode participar nesta viagem",
+"nl": "Zonder volwassen begeleider mag geen minderjarige aan deze reis deelnemen"
+},
+"Männerkammerchouer\u00010\u00010": {
+"pt": "Esta noite o coro de câmara masculino dá o seu concerto tradicional",
+"nl": "Vanavond geeft het mannenkamerkoor zijn traditionele concert"
+},
+"mannerwäerteg\u00010\u00010": {
+"pt": "Não temos mercadoria de qualidade inferior na nossa loja",
+"nl": "In onze winkel voeren we geen minderwaardige goederen"
+},
+"Männi\u00010\u00010": {
+"pt": "Coitadinho, magoaste-te?",
+"nl": "Arm kereltje, heb je je pijn gedaan?"
+},
+"Männi\u00011\u00010": {
+"pt": "Ora, amigo, aqui não se passa à frente!",
+"nl": "Hé, vriend, hier wordt niet voorgedrongen!"
+},
+"Männi\u00011\u00011": {
+"pt": "Rapaz, não podes voltar para casa depois da meia-noite quando amanhã tens escola!",
+"nl": "Jongen, je kunt niet na middernacht thuiskomen als je morgen school hebt!"
+},
+"männlech\u00010\u00010": {
+"pt": "Só tenho colegas de trabalho homens",
+"nl": "Ik heb alleen mannelijke collega's op het werk"
+},
+"männlech\u00011\u00010": {
+"pt": "Essa é uma reação tipicamente masculina",
+"nl": "Dat is een typisch mannelijke reactie"
+},
+"männlech\u00012\u00010": {
+"pt": "Em luxemburguês há substantivos que são tanto masculinos como femininos",
+"nl": "In het Luxemburgs zijn er zelfstandige naamwoorden die zowel mannelijk als vrouwelijk zijn"
+},
+"Männlechkeet\u00010\u00010": {
+"pt": "Com a camisa aberta só quer sublinhar a sua masculinidade",
+"nl": "Met zijn open hemd wil hij alleen zijn mannelijkheid benadrukken"
+},
+"mannst\u00010\u00010": {
+"pt": "A mínima dificuldade desencoraja-o",
+"nl": "De minste moeilijkheid ontmoedigt hem"
+},
+"mannst\u00011\u00010": {
+"pt": "Por agora, a doente deve evitar o mínimo esforço",
+"nl": "Voorlopig moet de patiënte de minste inspanning vermijden"
+},
+"mannst\u00012\u00010": {
+"pt": "O mínimo cochicho basta para irritar o nosso professor de História",
+"nl": "Het minste gefluister volstaat om onze geschiedenisleraar boos te maken"
+},
+"mannst\u00013\u00010": {
+"pt": "Nas negociações, o patronato não quis fazer a mínima concessão",
+"nl": "Bij de onderhandelingen wilde het patronaat niet de minste toegeving doen"
+},
+"mannst\u00014\u00010": {
+"pt": "Muito poucos de nós quereriam abdicar do conforto e do luxo",
+"nl": "De minsten van ons zouden afstand willen doen van comfort en luxe"
+},
+"mannst\u00015\u00010": {
+"pt": "Sou eu quem gasta menos dinheiro em casa",
+"nl": "Ik geef thuis het minste geld uit"
+},
+"mannsten\u00010\u00010": {
+"pt": "A mais elementar decência exigiria que te desculpasses",
+"nl": "De minste fatsoenlijkheid had vereist dat je je excuseerde"
+},
+"mannsten\u00011\u00010": {
+"pt": "De todos os participantes, foi ele quem mostrou o menor interesse",
+"nl": "Van alle deelnemers toonde hij de minste belangstelling"
+},
+"mannsten\u00012\u00010": {
+"pt": "Com esse argumento, a política contava com a menor resistência",
+"nl": "Met dat argument rekende de politica op de minste weerstand"
+},
+"mannsten\u00013\u00010": {
+"pt": "A direção deixou precisamente a funcionária com menos jeito para negociar conduzir as negociações!",
+"nl": "De directie liet uitgerekend de medewerkster met het minste onderhandelingstalent de onderhandelingen voeren!"
+},
+"mannsten\u00014\u00010": {
+"pt": "Neste tipo de operação, só na minoria dos casos surgem complicações inesperadas",
+"nl": "Bij dit type operatie treden in de minste gevallen onverwachte complicaties op"
+},
+"mannsten\u00014\u00011": {
+"pt": "Isso seria a menor das suas preocupações",
+"nl": "Dat zou zijn minste zorg zijn"
+},
+"mannster\u00010\u00010": {
+"pt": "À mais pequena dificuldade, ele logo desanima",
+"nl": "Bij de minste moeilijkheid is hij meteen ontmoedigd"
+},
+"Manometer\u00010\u00010": {
+"pt": "O manómetro mostra a que altura está a pressão na caldeira",
+"nl": "De manometer toont hoe hoog de druk in de ketel is"
+},
+"Manöver\u00010\u00010": {
+"pt": "Durante as manobras, os soldados foram expostos a situações extremas",
+"nl": "Tijdens de manoeuvres werden de soldaten blootgesteld aan extreme situaties"
+},
+"Manöver\u00010\u00011": {
+"pt": "Esta semana o nosso exército vai para as manobras",
+"nl": "Deze week gaat ons leger op manoeuvre"
+},
+"Manöver\u00011\u00010": {
+"pt": "Numa estrada escorregadia não se pode permitir nenhuma manobra brusca",
+"nl": "Op een gladde weg kun je je geen enkele abrupte manoeuvre veroorloven"
+},
+"Manöver\u00012\u00010": {
+"pt": "Essa discussão é uma manobra política para distrair de problemas importantes",
+"nl": "Die discussie is een politieke manoeuvre om af te leiden van belangrijke problemen"
+},
+"manövréieren\u00010\u00010": {
+"pt": "O motorista manobrou o autocarro com muita perícia pelas ruas estreitas",
+"nl": "De chauffeur manoeuvreerde de bus met veel vaardigheid door de smalle straten"
+},
+"manövréieren\u00011\u00010": {
+"pt": "Manobrou tanto tempo até ter estacionado bem o carro",
+"nl": "Hij manoeuvreerde zo lang tot hij de auto goed had geparkeerd"
+},
+"Mansarde\u00010\u00010": {
+"pt": "Arrendamos o nosso sótão a estudantes",
+"nl": "We verhuren onze mansarde aan studenten"
+},
+"Mansardesfënster\u00010\u00010": {
+"pt": "Entrou chuva pela janela da mansarda",
+"nl": "Het heeft door het mansarderaam naar binnen geregend"
+},
+"Mantel\u00010\u00010": {
+"pt": "Veste o casaco, está muito vento!",
+"nl": "Doe je jas aan, het waait hard!"
+},
+"Mantel\u00011\u00010": {
+"pt": "Preciso de dois pneus novos para a minha bicicleta",
+"nl": "Ik heb twee nieuwe banden voor mijn fiets nodig"
+},
+"Mantelbriet\u00010\u00010": {
+"pt": "Podem pendurar aqui os vossos casacos no cabide",
+"nl": "Jullie kunnen jullie jassen hier aan de kapstok hangen"
+},
+"Mantelbriet\u00011\u00010": {
+"pt": "Comprámos um cabide de pé novo",
+"nl": "We hebben een nieuwe staande kapstok gekocht"
+},
+"Mantelbriet\u00012\u00010": {
+"pt": "Dá-me um cabide para pendurar o meu casaco!",
+"nl": "Geef me een hanger om mijn jas op te hangen!"
+},
+"Mantelméiw\u00010\u00010": {
+"pt": "Quanto tempo chocam as gaivotas-d'asa-escura?",
+"nl": "Hoe lang broeden grote mantelmeeuwen?"
+},
+"Manternach\u00010\u00010": {
+"pt": "Moro em Manternach",
+"nl": "Ik woon in Manternach"
+},
+"Manternach\u00010\u00011": {
+"pt": "Este autocarro vai para Manternach?",
+"nl": "Rijdt deze bus naar Manternach?"
+},
+"manuell\u00010\u00010": {
+"pt": "Ele é muito habilidoso em trabalhos manuais",
+"nl": "Hij is erg handig met handwerk"
+},
+"manuell\u00010\u00011": {
+"pt": "O nosso portão da garagem só se abre manualmente",
+"nl": "Onze garagepoort gaat alleen handmatig open"
+},
+"Manufaktur\u00010\u00010": {
+"pt": "Desta manufatura de cerâmica e porcelana surgiu um grupo internacional",
+"nl": "Uit deze manufactuur voor keramiek en porselein is een internationaal concern ontstaan"
+},
+"Manung\u00010\u00010": {
+"pt": "Recebi um aviso porque não tinha pago uma fatura",
+"nl": "Ik kreeg een aanmaning omdat ik een rekening niet had betaald"
+},
+"Manuskript\u00010\u00010": {
+"pt": "Na biblioteca há manuscritos do século XII",
+"nl": "In de bibliotheek liggen manuscripten uit de 12e eeuw"
+},
+"Manuskript\u00011\u00010": {
+"pt": "A editora não quer o meu manuscrito em PDF",
+"nl": "De uitgeverij wil mijn manuscript niet als pdf"
+},
+"Manuskript\u00011\u00011": {
+"pt": "A tese de doutoramento ainda não foi publicada, mas já podes citá-la como manuscrito",
+"nl": "Het doctoraatsproefschrift is nog niet gepubliceerd, maar je kunt het al als manuscript citeren"
+},
+"Manuskript\u00012\u00010": {
+"pt": "O orador pôs de lado o seu manuscrito e falou de improviso",
+"nl": "De spreker legde zijn manuscript opzij en sprak vrij"
+},
+"Mapp\u00010\u00010": {
+"pt": "Os documentos importantes estão na gaveta de cima, numa pasta azul",
+"nl": "De belangrijke documenten liggen in de bovenste lade in een blauwe map"
+},
+"Mapp\u00010\u00011": {
+"pt": "O aluno esqueceu-se em casa da pasta com os desenhos",
+"nl": "De leerling is zijn map met de tekeningen thuis vergeten"
+},
+"Mapp\u00011\u00010": {
+"pt": "Não devíamos oferecer ao pai, no Dia do Pai, uma pasta nova de couro?",
+"nl": "Moeten we papa voor Vaderdag niet een nieuwe leren aktetas geven?"
+},
+"Mapp\u00011\u00011": {
+"pt": "O professor não conseguiu meter todos aqueles livros na sua pasta",
+"nl": "De leraar kreeg al die boeken niet in zijn tas"
+},
+"Maputo\u00010\u00010": {
+"pt": "Maputo é a capital de Moçambique",
+"nl": "Maputo is de hoofdstad van Mozambique"
+},
+"Maquette\u00010\u00010": {
+"pt": "Na exposição são mostradas maquetas de vários castelos e palácios",
+"nl": "Op de tentoonstelling worden maquettes van verschillende burchten en paleizen getoond"
+},
+"Maquette\u00010\u00011": {
+"pt": "O arquiteto ganhou o primeiro prémio com a sua maqueta",
+"nl": "De architect won de eerste prijs met zijn maquette"
+},
+"Maquette\u00011\u00010": {
+"pt": "Levei a maqueta do cartaz à tipografia",
+"nl": "Ik heb de lay-out van de affiche naar de drukkerij gebracht"
+},
+"Maquillage\u00010\u00010": {
+"pt": "Por causa da minha pele sensível, não uso maquilhagem barata",
+"nl": "Vanwege mijn gevoelige huid gebruik ik geen goedkope make-up"
+},
+"Maquillage\u00011\u00010": {
+"pt": "A maquilhagem da noiva ficou mesmo bem conseguida",
+"nl": "De make-up van de bruid is echt geslaagd"
+},
+"maquilléieren\u00010\u00010": {
+"pt": "A cabeleireira penteou-me e maquilhou-me para a ocasião especial",
+"nl": "De kapster heeft me voor de bijzondere gelegenheid gekapt en opgemaakt"
+},
+"maquilléieren\u00010\u00011": {
+"pt": "Para o baile vou maquilhar-me",
+"nl": "Voor het bal zal ik me opmaken"
+},
+"Maracuja\u00010\u00010": {
+"pt": "O maracujá cresce em países tropicais",
+"nl": "Passievrucht groeit in tropische landen"
+},
+"Marathon\u00010\u00010": {
+"pt": "Tenho a intenção de correr a maratona este ano",
+"nl": "Ik ben van plan dit jaar de marathon te lopen"
+},
+"Marathonleefer\u00010\u00010": {
+"pt": "O jovem maratonista deu mesmo tudo na última subida",
+"nl": "De jonge marathonloper gaf bij de laatste klim nog eens alles"
+},
+"Marathonleeferin\u00010\u00010": {
+"pt": "Como maratonista, estou habituada a correr longas distâncias",
+"nl": "Als marathonloopster ben ik gewend lange afstanden te lopen"
+},
+"Marber\u00010\u00010": {
+"pt": "Têm uma escada de mármore até ao sótão",
+"nl": "Ze hebben een marmeren trap tot op zolder"
+},
+"marber\u00010\u00010": {
+"pt": "Mandaram pôr um chão de mármore na casa de banho",
+"nl": "Ze hebben in hun badkamer een marmeren vloer laten leggen"
+},
+"marbréiert\u00010\u00010": {
+"pt": "Temos um papel de parede marmoreado na sala",
+"nl": "We hebben een gemarmerd behang in de woonkamer"
+},
+"Marcassin\u00010\u00010": {
+"pt": "No outono, muitos restaurantes têm javali novo na ementa",
+"nl": "In de herfst hebben veel restaurants marcassin op de kaart"
+},
+"Marchandise\u00010\u00010": {
+"pt": "A mercadoria tem de ser verificada logo na entrega, senão já não pode ser trocada",
+"nl": "De goederen moeten onmiddellijk bij de levering worden gecontroleerd, anders kunnen ze niet meer worden omgeruild"
+},
+"Marché\u00010\u00010": {
+"pt": "A oferta e a procura regulam o mercado",
+"nl": "Vraag en aanbod regelen de markt"
+},
+"Marché\u00010\u00011": {
+"pt": "Já existe um mercado para o vosso novo produto?",
+"nl": "Bestaat er al een markt voor uw nieuwe product?"
+},
+"Marché\u00011\u00010": {
+"pt": "Que condições tem de cumprir uma empresa artesanal para poder participar num concurso público?",
+"nl": "Aan welke voorwaarden moet een ambachtelijk bedrijf voldoen om aan een openbare aanbesteding te kunnen deelnemen?"
+},
+"Marché\u00011\u00011": {
+"pt": "A nossa empresa ganhou o concurso público da comuna para os novos escritórios",
+"nl": "Ons bedrijf kreeg de openbare aanbesteding van de gemeente voor de nieuwe kantoren toegewezen"
+},
+"Märchen\u00010\u00010": {
+"pt": "A minha avó leu-nos um conto",
+"nl": "Mijn oma las ons een sprookje voor"
+},
+"Märchen\u00010\u00011": {
+"pt": "Não me venhas com histórias da carochinha!",
+"nl": "Vertel me toch geen sprookjes!"
+},
+"Marder\u00010\u00010": {
+"pt": "As martas gostam de roer os cabos no compartimento do motor",
+"nl": "Marters knagen graag aan de kabels in de motorruimte"
+},
+"Maréchal de la Cour\u00010\u00010": {
+"pt": "O Marechal da Corte informou o governo sobre o decorrer da visita de Estado",
+"nl": "De maréchal de la Cour heeft de regering ingelicht over het verloop van het staatsbezoek"
+},
+"Maréchale de la Cour\u00010\u00010": {
+"pt": "A Marechala da Corte informou o governo sobre o decorrer da visita de Estado",
+"nl": "De maréchale de la Cour heeft de regering ingelicht over het verloop van het staatsbezoek"
+},
+"Märei\u00010\u00010": {
+"pt": "Recebi uma carta da câmara municipal",
+"nl": "Ik heb een brief van het gemeentehuis gekregen"
+},
+"Märei\u00011\u00010": {
+"pt": "A câmara municipal fica mesmo ao lado da igreja",
+"nl": "Het gemeentehuis staat vlak naast de kerk"
+},
+"Märel\u00010\u00010": {
+"pt": "Moro em Märel",
+"nl": "Ik woon in Märel"
+},
+"Märel\u00010\u00011": {
+"pt": "Este autocarro vai para Märel?",
+"nl": "Rijdt deze bus naar Märel?"
+},
+"Märel\u00010\u00010~2": {
+"pt": "Quanto tempo chocam os melros?",
+"nl": "Hoe lang broeden merels?"
+},
+"Märel\u00010\u00011~2": {
+"pt": "A mulher está sentada no parque a ouvir os melros",
+"nl": "De vrouw zit in het park naar de merels te luisteren"
+},
+"Margarinn\u00010\u00010": {
+"pt": "Pôs a margarina numa taça, juntamente com o açúcar",
+"nl": "Hij deed de margarine samen met de suiker in een kom"
+},
+"Marge\u00010\u00010": {
+"pt": "Nesses produtos há uma grande margem de lucro",
+"nl": "Op die producten zit een grote winstmarge"
+},
+"marginal\u00010\u00010": {
+"pt": "O desemprego não é um problema marginal",
+"nl": "Werkloosheid is geen marginaal probleem"
+},
+"marginaliséieren\u00010\u00010": {
+"pt": "Não se deve marginalizar esse problema",
+"nl": "Dat probleem mag men niet marginaliseren"
+},
+"Margréitchen\u00010\u00010": {
+"pt": "A margarida floresce em muitos prados da primavera ao outono",
+"nl": "Het madeliefje bloeit in veel weiden van de lente tot de herfst"
+},
+"Mariage\u00010\u00010": {
+"pt": "O casamento civil na câmara é hoje à tarde",
+"nl": "Het huwelijk op het gemeentehuis is vanmiddag"
+},
+"Mariage\u00011\u00010": {
+"pt": "Num casamento é preciso estar disposto a fazer compromissos",
+"nl": "In een huwelijk moet men bereid zijn compromissen te sluiten"
+},
+"Mariendall\u00010\u00010": {
+"pt": "Moro em Mariendall",
+"nl": "Ik woon in Mariendall"
+},
+"Mariendall\u00010\u00011": {
+"pt": "Este autocarro vai para Mariendall?",
+"nl": "Rijdt deze bus naar Mariendall?"
+},
+"Marihuana\u00010\u00010": {
+"pt": "Os pais dele não sabem que ele fuma marijuana",
+"nl": "Zijn ouders weten niet dat hij marihuana rookt"
+},
+"Marimba\u00010\u00010": {
+"pt": "Na última peça ouvia-se bem a marimba",
+"nl": "In het laatste stuk hoorde je de marimba goed"
+},
+"Marinad\u00010\u00010": {
+"pt": "O nosso talhante faz uma excelente marinada para as costeletas",
+"nl": "Onze slager maakt een uitstekende marinade voor de koteletten"
+},
+"marinéieren\u00010\u00010": {
+"pt": "Comprei no talho quatro costeletas marinadas",
+"nl": "Ik heb bij de slager vier gemarineerde koteletten gekocht"
+},
+"Marinn\u00010\u00010": {
+"pt": "O meu primo quer mais tarde ir para a marinha",
+"nl": "Mijn neef wil later graag bij de marine"
+},
+"Marionett\u00010\u00010": {
+"pt": "Comprei-me nas férias uma bonita marioneta",
+"nl": "Ik heb in de vakantie een mooie marionet gekocht"
+},
+"Marionett\u00011\u00010": {
+"pt": "Ele é apenas uma marioneta do patrão",
+"nl": "Hij is maar een marionet van zijn baas"
+},
+"maritim\u00010\u00010": {
+"pt": "O setor marítimo desempenha um papel importante na importação de mercadorias",
+"nl": "De maritieme sector speelt een belangrijke rol bij de invoer van goederen"
+},
+"maritim\u00010\u00011": {
+"pt": "O clima marítimo ajuda em certas alergias",
+"nl": "Het zeeklimaat helpt bij bepaalde allergieën"
+},
+"Märjendaller Haff\u00010\u00010": {
+"pt": "Moro em Märjendaller Haff",
+"nl": "Ik woon op Märjendaller Haff"
+},
+"Märjendaller Haff\u00010\u00011": {
+"pt": "Este autocarro vai para Märjendaller Haff?",
+"nl": "Rijdt deze bus naar Märjendaller Haff?"
+},
+"Mark\u00010\u00010": {
+"pt": "Essa é uma marca legalmente protegida",
+"nl": "Dat is een wettelijk beschermd merk"
+},
+"Mark\u00010\u00011": {
+"pt": "Compram sempre um carro da mesma marca",
+"nl": "Ze kopen altijd een auto van hetzelfde merk"
+},
+"Mark\u00010\u00010~2": {
+"pt": "Antes de o euro ter sido introduzido, na Alemanha pagava-se em marcos",
+"nl": "Voordat de euro werd ingevoerd, werd in Duitsland met mark betaald"
+},
+"markant\u00010\u00010": {
+"pt": "Aquele ator é uma personalidade marcante",
+"nl": "Die acteur is een markante persoonlijkheid"
+},
+"markant\u00010\u00011": {
+"pt": "Reconhece-se-a logo pela sua voz marcante",
+"nl": "Je herkent haar meteen aan haar markante stem"
+},
+"markéieren\u00010\u00010": {
+"pt": "Marcámos vários sítios no mapa a verde",
+"nl": "We hebben verschillende plaatsen op de kaart groen gemarkeerd"
+},
+"markéieren\u00010\u00011": {
+"pt": "Para sinalizar as obras na autoestrada, os operários tinham colocado cones",
+"nl": "Om de werf op de snelweg af te bakenen hadden de arbeiders kegels geplaatst"
+},
+"markéieren\u00010\u00012": {
+"pt": "Esta pedra marcava antigamente a fronteira",
+"nl": "Deze steen markeerde vroeger de grens"
+},
+"markéieren\u00010\u00013": {
+"pt": "Marquei no livro o sítio onde parei de ler",
+"nl": "Ik heb in het boek de plaats gemarkeerd waar ik ben opgehouden met lezen"
+},
+"markéieren\u00010\u00014": {
+"pt": "Os gatos marcam o seu território",
+"nl": "Katten markeren hun territorium"
+},
+"markéieren\u00011\u00010": {
+"pt": "A longa doença marcou-o",
+"nl": "De lange ziekte heeft hem getekend"
+},
+"markéieren\u00011\u00011": {
+"pt": "Esse filme marcou-me",
+"nl": "Die film heeft indruk op me gemaakt"
+},
+"markéieren\u00012\u00010": {
+"pt": "Hoje voltaste a armar-te em parvo",
+"nl": "Je hebt je vandaag weer als een dwaas gedragen"
+},
+"markéieren\u00012\u00011": {
+"pt": "Ele tem sempre de armar-se em durão",
+"nl": "Hij moet altijd de stoere man uithangen"
+},
+"markéieren\u00013\u00010": {
+"pt": "A tua roupa interior marca-se por baixo daqueles calções justos",
+"nl": "Je slip tekent zich af onder die strakke broek"
+},
+"Markéierung\u00010\u00010": {
+"pt": "O gado que vai ser abatido tem uma marca vermelha",
+"nl": "Het vee dat geslacht wordt, heeft een rode markering"
+},
+"Markéierung\u00010\u00011": {
+"pt": "Se seguir as marcações amarelas na clínica, chega à ala pediátrica",
+"nl": "Als u de gele markeringen in de kliniek volgt, komt u op de kinderafdeling"
+},
+"Markéierung\u00011\u00010": {
+"pt": "A estrada está cortada porque ainda estão a fazer a sinalização no pavimento",
+"nl": "De weg is afgesloten omdat ze nog bezig zijn met de wegmarkeringen"
+},
+"Markenzeechen\u00010\u00010": {
+"pt": "As formas assimétricas são a marca registada do pintor",
+"nl": "Asymmetrische vormen zijn het handelsmerk van de schilder"
+},
+"Marketing\u00010\u00010": {
+"pt": "Ele ocupa-se na empresa do marketing",
+"nl": "Hij houdt zich in het bedrijf bezig met marketing"
+},
+"Markis\u00010\u00010": {
+"pt": "Mandaram fazer para a loja um toldo por medida",
+"nl": "Ze hebben voor de winkel een zonnescherm op maat laten maken"
+},
+"Marmerkuch\u00010\u00010": {
+"pt": "Este bolo de mármore fui eu que o fiz",
+"nl": "Deze marmercake heb ik zelf gebakken"
+},
+"Maroc\u00010\u00010": {
+"pt": "Já estive três vezes em Marrocos",
+"nl": "Ik ben al drie keer in Marokko geweest"
+},
+"Maroc\u00010\u00011": {
+"pt": "Vou a Marrocos na próxima semana",
+"nl": "Volgende week ga ik naar Marokko"
+},
+"Maroc\u00010\u00012": {
+"pt": "Venho de Marrocos",
+"nl": "Ik kom uit Marokko"
+},
+"Marokkaner\u00010\u00010": {
+"pt": "O meu melhor amigo é marroquino",
+"nl": "Mijn beste vriend is Marokkaan"
+},
+"Marokkanerin\u00010\u00010": {
+"pt": "A minha melhor amiga é marroquina",
+"nl": "Mijn beste vriendin is Marokkaanse"
+},
+"marokkanesch\u00010\u00010": {
+"pt": "Na nossa viagem conhecemos a cultura marroquina",
+"nl": "Op onze reis hebben we de Marokkaanse cultuur leren kennen"
+},
+"Marokko\u00010\u00010": {
+"pt": "Já estive três vezes em Marrocos",
+"nl": "Ik ben al drie keer in Marokko geweest"
+},
+"Marokko\u00010\u00011": {
+"pt": "Vou a Marrocos na próxima semana",
+"nl": "Volgende week ga ik naar Marokko"
+},
+"Marokko\u00010\u00012": {
+"pt": "Sou de Marrocos",
+"nl": "Ik kom uit Marokko"
+},
+"Maroquinerie\u00010\u00010": {
+"pt": "Compraste a tua mala nessa nova loja de marroquinaria?",
+"nl": "Heb je je tas in die nieuwe lederwarenwinkel gekocht?"
+},
+"Maroquinerie\u00011\u00010": {
+"pt": "Nas grandes lojas há uma secção de marroquinaria",
+"nl": "In grote winkels is er een afdeling lederwaren"
+},
+"Marott\u00010\u00010": {
+"pt": "É uma mania dele usar sempre um cachecol",
+"nl": "Het is een gril van hem om altijd een sjaal te dragen"
+},
+"Maroun\u00010\u00010": {
+"pt": "Comprei no mercado de Natal um cartucho de castanhas",
+"nl": "Ik heb op de kerstmarkt een zakje kastanjes gekocht"
+},
+"Marquage\u00010\u00010": {
+"pt": "A estrada está cortada porque estão a pintar de novo a sinalização",
+"nl": "De weg is afgesloten omdat de markeringen net opnieuw worden aangebracht"
+},
+"Marquage\u00010\u00011": {
+"pt": "Essa marcação indica que os brinquedos cumprem determinadas normas de segurança",
+"nl": "Die markering geeft aan dat het speelgoed aan bepaalde veiligheidsnormen voldoet"
+},
+"Marquis\u00010\u00010": {
+"pt": "Todos os anos o Marquês convidava o Conde para a sua caçada",
+"nl": "Elk jaar nodigde de markies de graaf uit voor zijn jacht"
 }
 }
