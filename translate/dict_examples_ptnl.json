@@ -221398,5 +221398,905 @@
 "Waffeschäin\u00010\u00010": {
 "pt": "Não preenche as condições necessárias para obter uma licença de porte de arma",
 "nl": "U vervult de nodige voorwaarden niet om een wapenvergunning te krijgen"
+},
+"Waffeschäin\u00011\u00010": {
+"pt": "O meu avô trancou a sua licença de porte de arma no cofre",
+"nl": "Mijn opa heeft zijn wapenvergunning in de kluis opgeborgen"
+},
+"Waffestëllstand\u00010\u00010": {
+"pt": "Uma trégua é o requisito para conversações entre os adversários",
+"nl": "Een wapenstilstand is de voorwaarde voor gesprekken tussen de tegenstanders"
+},
+"Waggon\u00010\u00010": {
+"pt": "O vagão está autorizado para uma carga máxima de quarenta toneladas",
+"nl": "De wagon is toegelaten voor een maximale lading van veertig ton"
+},
+"Waggon\u00010\u00011": {
+"pt": "Os últimos vagões são desacoplados",
+"nl": "De laatste wagons worden afgekoppeld"
+},
+"Waggon\u00010\u00012": {
+"pt": "O primeiro vagão está reservado à primeira classe",
+"nl": "De eerste wagon is gereserveerd voor de eerste klas"
+},
+"Waggon\u00010\u00013": {
+"pt": "Para os agricultores foi entregue um vagão inteiro (cheio) de adubo",
+"nl": "Voor de boeren werd een hele wagon (vol) kunstmest geleverd"
+},
+"Wagon-lit\u00010\u00010": {
+"pt": "Depois de uma noite no vagão-cama, chegámos bem descansados a Itália",
+"nl": "Na een nacht in de slaapwagen zijn we goed uitgerust in Italië aangekomen"
+},
+"Wäibau\u00010\u00010": {
+"pt": "O ministro da Agricultura é também responsável pela viticultura",
+"nl": "De minister van Landbouw is ook bevoegd voor de wijnbouw"
+},
+"wäichen\u00010\u00010": {
+"pt": "O cão não se mexeu da porta de casa a manhã toda",
+"nl": "De hond is de hele morgen niet van de voordeur gewijken"
+},
+"wäichen\u00010\u00011": {
+"pt": "Como os manifestantes não cederam, a polícia recorreu a métodos mais drásticos",
+"nl": "Omdat de betogers niet weken, greep de politie naar drastischere methodes"
+},
+"Wäicherdang\u00010\u00010": {
+"pt": "Moro em Wäicherdang",
+"nl": "Ik woon in Wäicherdang"
+},
+"Wäicherdang\u00010\u00011": {
+"pt": "Este autocarro vai para Wäicherdang?",
+"nl": "Rijdt deze bus naar Wäicherdang?"
+},
+"Wäifaass\u00010\u00010": {
+"pt": "O mestre de adega sulfitou os tonéis de vinho",
+"nl": "De kelderman heeft de wijnvaten gezwaveld"
+},
+"Wäifest\u00010\u00010": {
+"pt": "Na festa do vinho, muita gente bebeu mais do que devia",
+"nl": "Op het wijnfeest hadden veel mensen een glas te veel op"
+},
+"Wäifest\u00010\u00011": {
+"pt": "Todos os vinhateiros da aldeia estavam representados com uma banca na festa do vinho",
+"nl": "Alle wijnbouwers uit het dorp waren met een stand vertegenwoordigd op het wijnfeest"
+},
+"Wäifläsch\u00010\u00010": {
+"pt": "Ainda tenho de levar as garrafas de vinho ao contentor do vidro",
+"nl": "Ik moet de wijnflessen nog naar de glascontainer brengen"
+},
+"Wäifleck\u00010\u00010": {
+"pt": "A nódoa de vinho não saiu na lavandaria",
+"nl": "De wijnvlek is er in de stomerij niet uitgegaan"
+},
+"Wäifleck\u00010\u00011": {
+"pt": "O sal é um bom remédio contra nódoas de vinho",
+"nl": "Zout is een goed middel tegen wijnvlekken"
+},
+"Wäifleck\u00011\u00010": {
+"pt": "Tem uma mancha de nascença no rosto",
+"nl": "Hij heeft een wijnvlek in zijn gezicht"
+},
+"Wäigéigend\u00010\u00010": {
+"pt": "Preferimos ir de férias para uma região vinhateira",
+"nl": "We gaan het liefst op vakantie naar een wijnstreek"
+},
+"Wäiglas\u00010\u00010": {
+"pt": "Para o casamento ofereceram-nos duas dúzias de copos de vinho em cristal",
+"nl": "Voor het huwelijk kregen we twee dozijn kristallen wijnglazen cadeau"
+},
+"Wäikeller\u00010\u00010": {
+"pt": "Na adega do novo restaurante há algumas garrafas muito raras",
+"nl": "In de wijnkelder van het nieuwe restaurant liggen enkele heel zeldzame flessen"
+},
+"Wäikeller\u00010\u00011": {
+"pt": "O meu sogro tem uma bela adega",
+"nl": "Mijn schoonvader heeft een mooie wijnkelder"
+},
+"Wäikëscht\u00010\u00010": {
+"pt": "A minha colega construiu uma mesa de cabeceira com um velho caixote de vinho",
+"nl": "Mijn collega heeft van een oude wijnkist een nachtkastje gemaakt"
+},
+"Wäikëscht\u00010\u00011": {
+"pt": "Este vinhateiro ainda entrega o seu vinho em caixas de madeira",
+"nl": "Deze wijnbouwer levert zijn wijn nog in houten wijnkisten"
+},
+"Wäimount\u00010\u00010": {
+"pt": "Antigamente chamava-se também ao mês de outubro o mês do vinho",
+"nl": "Vroeger werd oktober ook wel Wäimount genoemd"
+},
+"Wäin\u00010\u00010": {
+"pt": "Gosto de beber à refeição uma pequena jarra de vinho tinto",
+"nl": "Bij het eten drink ik graag een karafje rode wijn"
+},
+"Wäin\u00010\u00011": {
+"pt": "A maioria dos vinhos dessa colheita são particularmente bons",
+"nl": "De meeste wijnen van die jaargang zijn bijzonder goed"
+},
+"Wäin\u00010\u00012": {
+"pt": "Para chegar a um compromisso, tivemos de fazer muitas cedências",
+"nl": "Om tot een compromis te komen moesten we veel water bij onze wijn doen"
+},
+"Wäin\u00010\u00013": {
+"pt": "Falei-lhe com franqueza",
+"nl": "Ik heb hem klare wijn geschonken"
+},
+"Wäin\u00011\u00010": {
+"pt": "A pérgola toda está coberta de videira-virgem",
+"nl": "De hele pergola is begroeid met wilde wingerd"
+},
+"Wäin\u00012\u00010": {
+"pt": "Naquele restaurante tens vinho a copo ou em jarra",
+"nl": "In dat restaurant krijg je open wijn"
+},
+"Wäinamateur\u00010\u00010": {
+"pt": "Com este vinho de qualidade alegra-se qualquer apreciador de vinho",
+"nl": "Met deze cru doet men elke wijnliefhebber een plezier"
+},
+"Wäinhandel\u00010\u00010": {
+"pt": "O restaurador tem também um pequeno negócio de vinhos",
+"nl": "De restauranthouder drijft er naast een kleine wijnhandel op na"
+},
+"Wäinhändler\u00010\u00010": {
+"pt": "O meu pai é representante de um comerciante de vinhos",
+"nl": "Mijn vader is vertegenwoordiger bij een wijnhandelaar"
+},
+"Wäinhändler\u00010\u00011": {
+"pt": "A adega local tem vários grandes comerciantes de vinho estrangeiros na sua clientela",
+"nl": "De plaatselijke wijnkelder heeft verschillende grote buitenlandse wijnhandelaars onder haar klanten"
+},
+"Wäinhändlerin\u00010\u00010": {
+"pt": "A minha comerciante de vinhos sugeriu-me um bom vinho tinto",
+"nl": "Mijn wijnhandelaarster stelde me een goede rode wijn voor"
+},
+"Wäinzoossiss\u00010\u00010": {
+"pt": "Aos sábados, a nossa avó fazia sempre salsichas de vinho com molho de mostarda, puré e compota",
+"nl": "Op zaterdag maakte onze oma altijd wijnworst met mosterdsaus, puree en compote"
+},
+"Wäiprouf\u00010\u00010": {
+"pt": "Na nossa última prova de vinhos, provámos um excelente Auxerrois",
+"nl": "Bij onze laatste wijnproeverij hebben we een uitstekende Auxerrois geproefd"
+},
+"Wäirief\u00010\u00010": {
+"pt": "O meu pai plantou uma videira junto à pérgola",
+"nl": "Mijn vader heeft een wijnrank bij de pergola geplant"
+},
+"Wäirief\u00010\u00011": {
+"pt": "As videiras doentes foram substituídas por novas pelo vinhateiro",
+"nl": "De zieke wijnstokken werden door de wijnbouwer door nieuwe vervangen"
+},
+"Wäisheetszant\u00010\u00010": {
+"pt": "Um dos meus dentes do siso de cima teve de ser arrancado porque cresceu torto contra a bochecha",
+"nl": "Een van mijn bovenste verstandskiezen moest getrokken worden omdat hij scheef in mijn wang gegroeid was"
+},
+"wäismaachen\u00010\u00010": {
+"pt": "Os nossos filhos queriam fazer-nos acreditar que não tinham nada a ver com a discussão",
+"nl": "Onze kinderen wilden ons doen geloven dat ze niets met die ruzie te maken hadden"
+},
+"wäiss\u00010\u00010": {
+"pt": "Uma pomba branca simboliza a paz",
+"nl": "Een witte duif symboliseert de vrede"
+},
+"wäiss\u00010\u00011": {
+"pt": "Na zona de guerra, os civis chamaram a atenção com uma bandeira branca",
+"nl": "In het oorlogsgebied maakten de burgers met een witte vlag op zich attent"
+},
+"wäiss\u00010\u00012": {
+"pt": "Posso dar-te isso preto no branco",
+"nl": "Ik kan je dat zwart op wit geven"
+},
+"wäiss\u00010\u00013": {
+"pt": "Acham que este ano vai haver um Natal branco?",
+"nl": "Denken jullie dat het dit jaar een witte kerst wordt?"
+},
+"wäiss\u00010\u00014": {
+"pt": "Isso é tão raro como ratos brancos",
+"nl": "Dat is zo zeldzaam als witte muizen"
+},
+"wäiss\u00010\u00015": {
+"pt": "À saída da aldeia ficam os Ratos Brancos",
+"nl": "Aan de uitgang van het dorp staan de Witte Muizen"
+},
+"wäiss\u00010\u00016": {
+"pt": "No exame entreguei uma folha em branco",
+"nl": "Op het examen heb ik een blanco blad ingeleverd"
+},
+"wäiss\u00010\u00017": {
+"pt": "Já não tenho nem tintos nem brancos!",
+"nl": "Ik heb geen rode en geen witte meer!"
+},
+"wäiss\u00011\u00010": {
+"pt": "A nossa equipa de futebol é composta metade por jogadores negros e metade por jogadores brancos",
+"nl": "Onze voetbalploeg bestaat voor de helft uit zwarte en voor de helft uit witte spelers"
+},
+"Wäissbaartséischmuewel\u00010\u00010": {
+"pt": "Quanto tempo chocam as gaivinas-de-faces-brancas?",
+"nl": "Hoe lang broeden de witwangsterns?"
+},
+"Wäissbandkräizschniewel\u00010\u00010": {
+"pt": "Quanto tempo chocam os cruza-bicos-de-asas-brancas?",
+"nl": "Hoe lang broeden de witbandkruisbekken?"
+},
+"Wäissdar\u00010\u00010": {
+"pt": "Os ramos do pilriteiro têm muitos espinhos",
+"nl": "De takken van de meidoorn hebben veel doornen"
+},
+"Wäissdar\u00010\u00011": {
+"pt": "Os frutos vermelhos do pilriteiro chamam-se escarlatas",
+"nl": "De rode vruchten van de meidoorn heten rozenbottels"
+},
+"Wäisse Milan\u00010\u00010": {
+"pt": "Quanto tempo chocam os peneireiros-cinzentos?",
+"nl": "Hoe lang broeden de grijze wouwen?"
+},
+"wäissen\u00010\u00010": {
+"pt": "Antigamente as casas eram muitas vezes caiadas antes da quermesse",
+"nl": "Vroeger werden de huizen vaak gewit voor de kermis"
+},
+"Wäissenhaff\u00010\u00010": {
+"pt": "Moro em Wäissenhaff",
+"nl": "Ik woon in Wäissenhaff"
+},
+"Wäissenhaff\u00010\u00011": {
+"pt": "Este autocarro vai para Wäissenhaff?",
+"nl": "Rijdt deze bus naar Wäissenhaff?"
+},
+"Wäisse Storch\u00010\u00010": {
+"pt": "Quanto tempo chocam as cegonhas-brancas?",
+"nl": "Hoe lang broeden de ooievaars?"
+},
+"Wäisse Wäin\u00010\u00010": {
+"pt": "Com este prato combina um vinho branco seco",
+"nl": "Bij dit gerecht past een droge witte wijn"
+},
+"Wäissflilleksséischmuewel\u00010\u00010": {
+"pt": "Quanto tempo chocam as gaivinas-de-asa-branca?",
+"nl": "Hoe lang broeden de witvleugelsterns?"
+},
+"Wäissfloss\u00010\u00010": {
+"pt": "A leucorreia é um corrimento inofensivo da vagina que toda a mulher saudável tem",
+"nl": "Witte vloed is een onschuldige afscheiding uit de vagina die elke gezonde vrouw heeft"
+},
+"Wäiss Iernz\u00010\u00010": {
+"pt": "A Wäiss Iernz corre por Reisduerf até ao Sûre",
+"nl": "De Wäiss Iernz loopt bij Reisduerf in de Sûre"
+},
+"Wäisskapp\u00010\u00010": {
+"pt": "Os escalos desovam entre abril e junho",
+"nl": "De kopvoorns paaien tussen april en juni"
+},
+"Wäisskapp\u00011\u00010": {
+"pt": "O escalo já não se come muito por causa das muitas espinhas",
+"nl": "De kopvoorn wordt wegens de vele graten niet veel meer gegeten"
+},
+"Wäissruss\u00010\u00010": {
+"pt": "O meu melhor amigo é bielorrusso",
+"nl": "Mijn beste vriend is Wit-Rus"
+},
+"wäissrussesch\u00010\u00010": {
+"pt": "Na nossa viagem ficámos a conhecer a cultura bielorrussa",
+"nl": "Op onze reis hebben we de Wit-Russische cultuur leren kennen"
+},
+"Wäissrussin\u00010\u00010": {
+"pt": "A minha melhor amiga é bielorrussa",
+"nl": "Mijn beste vriendin is Wit-Russin"
+},
+"Wäissrussland\u00010\u00010": {
+"pt": "Já estive três vezes na Bielorrússia",
+"nl": "Ik ben al drie keer in Wit-Rusland geweest"
+},
+"Wäissrussland\u00010\u00011": {
+"pt": "Na próxima semana vou à Bielorrússia",
+"nl": "Volgende week ga ik naar Wit-Rusland"
+},
+"Wäissrussland\u00010\u00012": {
+"pt": "Venho da Bielorrússia",
+"nl": "Ik kom uit Wit-Rusland"
+},
+"Wäistuff\u00010\u00010": {
+"pt": "Naquele bar de vinhos já passámos algumas noites agradáveis com os nossos amigos",
+"nl": "In die wijnbar hebben we met onze vrienden al enkele gezellige avonden doorgebracht"
+},
+"Wäiswampech\u00010\u00010": {
+"pt": "Moro em Wäiswampech",
+"nl": "Ik woon in Wäiswampech"
+},
+"Wäiswampech\u00010\u00011": {
+"pt": "Este autocarro vai para Wäiswampech?",
+"nl": "Rijdt deze bus naar Wäiswampech?"
+},
+"wäit\u00010\u00010": {
+"pt": "Foi um longo caminho, mas valeu a pena chegar até aqui!",
+"nl": "Het was een lange weg, maar het was de moeite om tot hier te komen!"
+},
+"wäit\u00010\u00011": {
+"pt": "Muitos trabalhadores fronteiriços têm de viajar longe para chegar ao trabalho",
+"nl": "Veel grensarbeiders moeten ver rijden om op hun werk te komen"
+},
+"wäit\u00010\u00012": {
+"pt": "Atira a bola o mais longe que conseguires!",
+"nl": "Gooi de bal zo ver als je kunt!"
+},
+"wäit\u00010\u00013": {
+"pt": "Não se via ninguém por perto num raio enorme",
+"nl": "Er was wijd en zijd geen mens te zien"
+},
+"wäit\u00010\u00014": {
+"pt": "Com amabilidade, chega-se geralmente mais longe do que com zanga",
+"nl": "Met vriendelijkheid komt men meestal verder dan met boosheid"
+},
+"wäit\u00011\u00010": {
+"pt": "Gritavam tanto que já se ouviam de longe",
+"nl": "Ze brulden zo hard dat men ze al van ver hoorde"
+},
+"wäit\u00011\u00011": {
+"pt": "De longe ouvia-se o trovão",
+"nl": "Van ver hoorde men de donder"
+},
+"wäit\u00012\u00010": {
+"pt": "A nossa equipa jogou muito pior do que da última vez",
+"nl": "Onze ploeg speelde bij lange na niet zo goed als de vorige keer"
+},
+"wäit\u00010\u00010~2": {
+"pt": "Tomei a liberdade de entrar, a porta de casa estava escancarada",
+"nl": "Ik nam de vrijheid binnen te komen, de voordeur stond wijd open"
+},
+"wäit\u00010\u00011~2": {
+"pt": "Quando ia tirar a fotografia, a águia abriu bem as asas e voou",
+"nl": "Net toen ik hem wilde fotograferen, spreidde de arend zijn vleugels wijd uit en vloog weg"
+},
+"wäit\u00010\u00012~2": {
+"pt": "Cansa manter a boca bem aberta no dentista",
+"nl": "Het is vermoeiend bij de tandarts de mond wijd open te houden"
+},
+"Wäitbléck\u00010\u00010": {
+"pt": "Falta-lhe a visão necessária para desenvolver mais a empresa",
+"nl": "Hem ontbreekt de nodige verruimende blik om het bedrijf verder te ontwikkelen"
+},
+"Wäitbléck\u00010\u00011": {
+"pt": "Uma reforma tão grande exige coerência e visão",
+"nl": "Zo'n grote hervorming vereist coherentie en vooruitziende blik"
+},
+"Wäitbléck\u00010\u00012": {
+"pt": "Na educação, a visão de longo prazo é um elemento importante",
+"nl": "Bij de opvoeding is een ruime blik een belangrijk element"
+},
+"wäitleefeg\u00010\u00010": {
+"pt": "O da direita na fotografia é um primo afastado meu",
+"nl": "Die rechts op de foto is een verre neef van mij"
+},
+"wäitleefeg\u00010\u00011": {
+"pt": "Convidámos até a nossa família afastada",
+"nl": "We hebben zelfs onze verre familie uitgenodigd"
+},
+"Wäitsiicht\u00010\u00010": {
+"pt": "A reforma exige coerência e visão de futuro",
+"nl": "Die hervorming vereist coherentie en vooruitziendheid"
+},
+"wäitsiichteg\u00010\u00010": {
+"pt": "Sou hipermétrope, preciso de óculos para ler",
+"nl": "Ik ben verziend, om te lezen heb ik een bril nodig"
+},
+"wäitsiichteg\u00011\u00010": {
+"pt": "O nosso governo precisa de políticos empenhados e com visão de futuro",
+"nl": "Onze regering heeft geëngageerde en vooruitziende politici nodig"
+},
+"wäitsiichteg\u00011\u00011": {
+"pt": "O ministro responsável é acusado de não ter tido visão de futuro suficiente",
+"nl": "De verantwoordelijke minister wordt verweten dat hij niet vooruitziend genoeg was"
+},
+"Wäitsprong\u00010\u00010": {
+"pt": "Quem detém neste momento o recorde mundial de salto em comprimento?",
+"nl": "Wie heeft op dit moment het wereldrecord verspringen?"
+},
+"Wäiwaasser\u00010\u00010": {
+"pt": "Quando são batizadas, as crianças recebem um pouco de água benta na cabeça",
+"nl": "Wanneer ze gedoopt worden, krijgen de kinderen wat wijwater over het hoofd gegoten"
+},
+"Wäiwaasser\u00010\u00011": {
+"pt": "O meu irmão tem medo de cães como o diabo de água benta",
+"nl": "Mijn broer is bang voor honden als de duivel voor wijwater"
+},
+"Wäiwaasseschdëppchen\u00010\u00010": {
+"pt": "Na pequena pia de água benta há um ramo de palmas para benzer",
+"nl": "In het wijwaterbakje ligt een bos palmtakjes om te zegenen"
+},
+"Wäiwaasseschdëppchen\u00010\u00011": {
+"pt": "A minha avó tinha sempre uma pequena pia de água benta de porcelana pendurada por cima da mesa de cabeceira",
+"nl": "Mijn oma had altijd een klein porseleinen wijwaterbakje boven haar nachtkastje hangen"
+},
+"Wak\u00010\u00010": {
+"pt": "Encomendei um camião de gravilha para à volta da casa",
+"nl": "Ik heb een vrachtwagen kiezel voor rond het huis besteld"
+},
+"Wak\u00010\u00011": {
+"pt": "A comida pesava-me no estômago como uma pedra",
+"nl": "Het eten lag me als een steen op de maag"
+},
+"Wak\u00011\u00010": {
+"pt": "No intervalo, as crianças jogaram às bolas de gude no recreio",
+"nl": "In de pauze speelden de kinderen knikkers op de speelplaats"
+},
+"Wak\u00012\u00010": {
+"pt": "Nunca tem um tostão no bolso quando vamos beber um copo",
+"nl": "Hij heeft nooit een cent op zak als we iets gaan drinken"
+},
+"Wak\u00012\u00011": {
+"pt": "Aquele velho casarão já não vale um tostão",
+"nl": "Dat oude gebouw is geen cent meer waard"
+},
+"Wak\u00013\u00010": {
+"pt": "Nestas calças apertadas as bolas ficam-me esmagadas!",
+"nl": "In die strakke broek worden mijn ballen platgedrukt!"
+},
+"Wak\u00013\u00011": {
+"pt": "Agora estamos mesmo em apuros!",
+"nl": "Nu zitten we echt in de problemen!"
+},
+"Wakelter\u00010\u00010": {
+"pt": "Ao longo do caminho do campo há alguns zimbros",
+"nl": "Langs het veldpad staan enkele jeneverbesstruiken"
+},
+"Wakelter\u00010\u00011": {
+"pt": "O zimbro tem agulhas compridas e picantes",
+"nl": "De jeneverbes heeft lange, prikkende naalden"
+},
+"Wakelter\u00011\u00010": {
+"pt": "O molho sabe a zimbro",
+"nl": "De saus smaakt naar jeneverbes"
+},
+"Wakelter\u00012\u00010": {
+"pt": "Tinha-me esquecido de pôr algumas bagas de zimbro na couve fermentada",
+"nl": "Ik was vergeten enkele jeneverbessen in de zuurkool te doen"
+},
+"Wakelter\u00013\u00010": {
+"pt": "Como digestivo, prefiro aguardente de ameixa a gin",
+"nl": "Als digestief heb ik liever pruimenjenever dan jenever"
+},
+"Wakelterkär\u00010\u00010": {
+"pt": "Tinha-me esquecido de pôr algumas bagas de zimbro na couve fermentada",
+"nl": "Ik was vergeten enkele jeneverbessen in de zuurkool te doen"
+},
+"wakereg\u00010\u00010": {
+"pt": "Depois daquela agitação, passei a noite toda acordado",
+"nl": "Na die opwinding heb ik de hele nacht wakker gelegen"
+},
+"wakereg\u00010\u00011": {
+"pt": "Depois de uma operação, os pacientes ficam na sala de recuperação até estarem bem acordados",
+"nl": "Na een operatie blijven de patiënten in de ontwaakzaal tot ze echt wakker zijn"
+},
+"wakereg\u00011\u00010": {
+"pt": "Acordo sozinho às sete horas",
+"nl": "Ik word uit mezelf om zeven uur wakker"
+},
+"wakereg\u00011\u00011": {
+"pt": "O enfermeiro dá palmadinhas na cara da paciente para ela acordar",
+"nl": "De verpleger klopt de patiënte telkens op de wangen opdat ze wakker zou worden"
+},
+"wakereg\u00012\u00010": {
+"pt": "Aquele barulho acordou-me cedo esta manhã",
+"nl": "Dat lawaai heeft me vanmorgen al vroeg wakker gemaakt"
+},
+"wakereg\u00013\u00010": {
+"pt": "O pequeno do nosso vizinho é uma criança muito esperta, além da escola ainda vai ao conservatório",
+"nl": "Het kleintje van onze buurman is een heel pienter kind, naast school gaat het ook nog naar het conservatorium"
+},
+"Wal\u00010\u00010": {
+"pt": "O novo partido obteve nas eleições onze por cento dos votos",
+"nl": "De nieuwe partij kreeg bij de verkiezingen elf procent van de stemmen"
+},
+"Wal\u00010\u00011": {
+"pt": "Na assembleia geral desta vez há eleições para o novo comité",
+"nl": "Op de algemene vergadering zijn er deze keer verkiezingen voor het nieuwe comité"
+},
+"Wal\u00010\u00012": {
+"pt": "O meu irmão participa na eleição do homem mais bonito do Luxemburgo",
+"nl": "Mijn broer doet mee aan de verkiezing van de knapste man van Luxemburg"
+},
+"Wal\u00010\u00013": {
+"pt": "Vou votar nas eleições",
+"nl": "Ik ga mee naar de verkiezingen"
+},
+"Wal\u00010\u00010~2": {
+"pt": "Vou ver esta noite um documentário sobre a caça à baleia",
+"nl": "Vanavond kijk ik naar een documentaire over de jacht op walvissen"
+},
+"Wal\u00010\u00010~3": {
+"pt": "Moro em Wal",
+"nl": "Ik woon in Wal"
+},
+"Wal\u00010\u00011~2": {
+"pt": "Este autocarro vai para Wal?",
+"nl": "Rijdt deze bus naar Wal?"
+},
+"Walbezierk\u00010\u00010": {
+"pt": "O nosso país está dividido em quatro círculos eleitorais",
+"nl": "Ons land is in vier kiesdistricten verdeeld"
+},
+"Walbezierk\u00010\u00011": {
+"pt": "Sou candidato no círculo eleitoral do Centro às eleições legislativas",
+"nl": "Ik ben in het kiesdistrict Centrum kandidaat voor de Kamerverkiezingen"
+},
+"Walbüro\u00010\u00010": {
+"pt": "Nas últimas três eleições fui membro da mesa eleitoral",
+"nl": "Bij de laatste drie verkiezingen was ik lid van het stembureau"
+},
+"Walbüro\u00011\u00010": {
+"pt": "Na nossa câmara, a mesa de voto fica na velha escola",
+"nl": "In onze gemeente is het stembureau in de oude school"
+},
+"Walcampagne\u00010\u00010": {
+"pt": "Desta vez a campanha eleitoral começou muito cedo",
+"nl": "Dit keer is de verkiezingscampagne al heel vroeg begonnen"
+},
+"Walcampagne\u00010\u00011": {
+"pt": "A nossa campanha eleitoral foi um grande sucesso!",
+"nl": "Onze verkiezingscampagne was een groot succes!"
+},
+"Waldag\u00010\u00010": {
+"pt": "Entre nós, o dia das eleições calha sempre num domingo",
+"nl": "Bij ons valt de verkiezingsdag altijd op een zondag"
+},
+"Waldbëlleg\u00010\u00010": {
+"pt": "Moro em Waldbëlleg",
+"nl": "Ik woon in Waldbëlleg"
+},
+"Waldbëlleg\u00010\u00011": {
+"pt": "Este autocarro vai para Waldbëlleg?",
+"nl": "Rijdt deze bus naar Waldbëlleg?"
+},
+"Waldberg\u00010\u00010": {
+"pt": "Moro em Waldberg",
+"nl": "Ik woon in Waldberg"
+},
+"Waldberg\u00010\u00011": {
+"pt": "Este autocarro vai para Waldberg?",
+"nl": "Rijdt deze bus naar Waldberg?"
+},
+"Waldbriedemes\u00010\u00010": {
+"pt": "Moro em Waldbriedemes",
+"nl": "Ik woon in Waldbriedemes"
+},
+"Waldbriedemes\u00010\u00011": {
+"pt": "Este autocarro vai para Waldbriedemes?",
+"nl": "Rijdt deze bus naar Waldbriedemes?"
+},
+"Walddëschtel\u00010\u00010": {
+"pt": "No azevinho, só as plantas fêmeas dão aqueles belos frutos vermelhos",
+"nl": "Bij de hulst dragen enkel de vrouwelijke planten die mooie rode bessen"
+},
+"Waldhaff\u00010\u00010": {
+"pt": "Moro em Waldhaff",
+"nl": "Ik woon in Waldhaff"
+},
+"Waldhaff\u00010\u00011": {
+"pt": "Este autocarro vai para Waldhaff?",
+"nl": "Rijdt deze bus naar Waldhaff?"
+},
+"Waldiesel\u00010\u00010": {
+"pt": "Pára de gritar como um alucinado!",
+"nl": "Hou op te schreeuwen als een bezetene!"
+},
+"Waldiesel\u00010\u00011": {
+"pt": "Ele grita como um alucinado",
+"nl": "Hij schreeuwt moord en brand"
+},
+"Wales\u00010\u00010": {
+"pt": "Já estive três vezes no País de Gales",
+"nl": "Ik ben al drie keer in Wales geweest"
+},
+"Wales\u00010\u00011": {
+"pt": "Na próxima semana vou ao País de Gales",
+"nl": "Volgende week ga ik naar Wales"
+},
+"Wales\u00010\u00012": {
+"pt": "Venho do País de Gales",
+"nl": "Ik kom uit Wales"
+},
+"Walfer\u00010\u00010": {
+"pt": "Moro em Walfer",
+"nl": "Ik woon in Walfer"
+},
+"Walfer\u00010\u00011": {
+"pt": "Este autocarro vai para Walfer?",
+"nl": "Rijdt deze bus naar Walfer?"
+},
+"Walfësch\u00010\u00010": {
+"pt": "Vou ver esta noite um documentário sobre a caça à baleia",
+"nl": "Vanavond kijk ik naar een documentaire over de walvisvangst"
+},
+"walflichteg\u00010\u00010": {
+"pt": "Aos 18 anos é-se obrigado a votar",
+"nl": "Op 18 jaar is men stemplichtig"
+},
+"walflichteg\u00010\u00011": {
+"pt": "O seu filho já tem idade de votar?",
+"nl": "Is uw zoon al in de stemgerechtigde leeftijd?"
+},
+"Walgesetz\u00010\u00010": {
+"pt": "O desenrolar geral das eleições legislativas é fixado pela lei eleitoral",
+"nl": "Het precieze verloop van de Kamerverkiezingen wordt door de kieswet vastgelegd"
+},
+"Waliser\u00010\u00010": {
+"pt": "O meu melhor amigo é galês",
+"nl": "Mijn beste vriend is Welshman"
+},
+"Waliserin\u00010\u00010": {
+"pt": "A minha melhor amiga é galesa",
+"nl": "Mijn beste vriendin is Welshe"
+},
+"walisesch\u00010\u00010": {
+"pt": "Na nossa viagem ficámos a conhecer a cultura galesa",
+"nl": "Op onze reis hebben we de Welshe cultuur leren kennen"
+},
+"Waljoer\u00010\u00010": {
+"pt": "Num ano eleitoral, é particularmente importante para os partidos convencer as pessoas das suas ideias",
+"nl": "In een verkiezingsjaar is het voor de partijen bijzonder belangrijk de mensen van hun ideeën te overtuigen"
+},
+"Walkabinn\u00010\u00010": {
+"pt": "Os eleitores têm de ir um a um à cabina de voto",
+"nl": "De kiezers moeten één voor één naar het stemhokje gaan"
+},
+"Walkampf\u00010\u00010": {
+"pt": "A ecologia desempenha um papel importante nesta campanha eleitoral",
+"nl": "De ecologie speelt in deze verkiezingscampagne een belangrijke rol"
+},
+"Walkie-Talkie\u00010\u00010": {
+"pt": "em criança tinha um walkie-talkie para falar com as crianças da vizinhança",
+"nl": "Als kind had ik een walkietalkie om met de buurkinderen te praten"
+},
+"Wall\u00010\u00010": {
+"pt": "Antigamente, as fortalezas eram muitas vezes protegidas dos inimigos por uma muralha e um fosso",
+"nl": "Vroeger werden vestingen vaak door een wal en een gracht tegen vijanden beschermd"
+},
+"Wallenduerf\u00010\u00010": {
+"pt": "Moro em Wallenduerf",
+"nl": "Ik woon in Wallenduerf"
+},
+"Wallenduerf\u00010\u00011": {
+"pt": "Este autocarro vai para Wallenduerf?",
+"nl": "Rijdt deze bus naar Wallenduerf?"
+},
+"Wallenduerfer Bréck\u00010\u00010": {
+"pt": "Moro em Wallenduerfer Bréck",
+"nl": "Ik woon in Wallenduerfer Bréck"
+},
+"Wallenduerfer Bréck\u00010\u00011": {
+"pt": "Este autocarro vai para Wallenduerfer Bréck?",
+"nl": "Rijdt deze bus naar Wallenduerfer Bréck?"
+},
+"Wallfaart\u00010\u00010": {
+"pt": "A peregrinação ao túmulo do santo existe desde a Idade Média",
+"nl": "De bedevaart naar het graf van de heilige bestaat sinds de middeleeuwen"
+},
+"Wallis\u00010\u00010": {
+"pt": "Já fizeste a tua mala?",
+"nl": "Heb je je koffer al ingepakt?"
+},
+"Wallis\u00010\u00011": {
+"pt": "Enfiámos depressa as coisas nas malas",
+"nl": "We hebben de spullen snel in de koffers gepropt"
+},
+"Wallis\u00010\u00012": {
+"pt": "As pessoas estão sentadas nas malas",
+"nl": "De mensen zitten op de koffers"
+},
+"Walmodus\u00010\u00010": {
+"pt": "A lei estabelece o sistema eleitoral usado nas eleições autárquicas",
+"nl": "De wet legt vast volgens welke stemprocedure er bij de gemeenteraadsverkiezingen gestemd wordt"
+},
+"Walprogramm\u00010\u00010": {
+"pt": "O novo partido ainda não tem um verdadeiro programa eleitoral",
+"nl": "De nieuwe partij heeft nog geen echt verkiezingsprogramma"
+},
+"Walrecht\u00010\u00010": {
+"pt": "Neste país obtém-se o direito de voto ativo aos 18 anos",
+"nl": "In dit land krijgt men het actief kiesrecht op 18 jaar"
+},
+"Walresultat\u00010\u00010": {
+"pt": "O resultado das eleições só é divulgado quando todos os votos estiverem contados",
+"nl": "De verkiezingsuitslag wordt pas bekendgemaakt wanneer alle stemmen geteld zijn"
+},
+"Walsproch\u00010\u00010": {
+"pt": "Muitas pessoas, infelizmente, não tinham percebido bem o slogan eleitoral do partido",
+"nl": "Veel mensen hadden de verkiezingsslogan van de partij helaas niet goed begrepen"
+},
+"Walstëmm\u00010\u00010": {
+"pt": "Só teremos o resultado final quando todos os votos estiverem contados",
+"nl": "We hebben pas het eindresultaat wanneer alle stemmen geteld zijn"
+},
+"Walsystem\u00010\u00010": {
+"pt": "Alguns partidos exigem uma alteração do sistema eleitoral",
+"nl": "Enkele partijen eisen een wijziging van het kiesstelsel"
+},
+"walten\u00010\u00010": {
+"pt": "Quando os pais estão de férias, as crianças podem fazer em casa o que lhes apetece",
+"nl": "Als de ouders op vakantie zijn, kunnen de kinderen thuis doen en laten wat ze willen"
+},
+"walten\u00010\u00011": {
+"pt": "O chefe deixa os seus trabalhadores fazerem o que lhes apetece",
+"nl": "De chef laat zijn arbeiders doen en laten wat ze willen"
+},
+"Walter\u00010\u00010": {
+"pt": "Moro em Walter",
+"nl": "Ik woon in Walter"
+},
+"Walter\u00010\u00011": {
+"pt": "Este autocarro vai para Walter?",
+"nl": "Rijdt deze bus naar Walter?"
+},
+"Walverspriechen\u00010\u00010": {
+"pt": "Assim que as eleições passam, muitas promessas eleitorais são rapidamente esquecidas",
+"nl": "Zodra de verkiezingen voorbij zijn, worden veel verkiezingsbeloften snel weer vergeten"
+},
+"Walz\u00010\u00010": {
+"pt": "O casal de noivos dança tradicionalmente a primeira valsa",
+"nl": "Het bruidspaar danst traditioneel de eerste wals"
+},
+"Walz\u00010\u00011": {
+"pt": "A pedido geral, a orquestra toca agora uma valsa",
+"nl": "Op algemeen verzoek speelt het orkest nu een wals"
+},
+"Walz\u00010\u00010~2": {
+"pt": "Encontrei na feira da ladra um rolo para a minha velha máquina de escrever",
+"nl": "Op de rommelmarkt heb ik een wals voor mijn oude schrijfmachine gevonden"
+},
+"Walz\u00011\u00010": {
+"pt": "Para alisar o pavimento da autoestrada, três cilindros avançaram lado a lado",
+"nl": "Om het wegdek op de autosnelweg mooi glad te krijgen, reden drie wegwalsen naast elkaar"
+},
+"Walz\u00012\u00010": {
+"pt": "Como choveu, temos de passar mais uma vez o rolo pelo campo antes do jogo",
+"nl": "Omdat het geregend heeft, moeten we voor de match nog eens met de wals over het terrein rijden"
+},
+"Walz\u00013\u00010": {
+"pt": "Jovens artesãos que andam em viagem de aprendizagem reconhecem-se pelo seu vestuário especial",
+"nl": "Jonge handwerkers die op wandel zijn, herkent men aan hun speciale kledij"
+},
+"Walz\u00013\u00011": {
+"pt": "Quando regressou ao fim de três anos de viagem de aprendizagem, tinha aprendido muito",
+"nl": "Toen hij na drie jaar rondtrekken terugkwam, had hij veel bijgeleerd"
+},
+"walzen\u00010\u00010": {
+"pt": "É impressionante ver como o aço incandescente é laminado",
+"nl": "Het is indrukwekkend te zien hoe het gloeiende staal gewalst wordt"
+},
+"walzen\u00010\u00011": {
+"pt": "Três máquinas pesadas avançam lado a lado para compactar o macadame",
+"nl": "Drie zware machines rijden naast elkaar om het macadam te walsen"
+},
+"Walziedel\u00010\u00010": {
+"pt": "Desta vez, muitos boletins de voto eram inválidos",
+"nl": "Deze keer waren veel stembiljetten ongeldig"
+},
+"Walzstrooss\u00010\u00010": {
+"pt": "O novo laminador entra em funcionamento ainda esta semana",
+"nl": "De nieuwe walsstraat wordt deze week nog in gebruik genomen"
+},
+"Walzwierk\u00010\u00010": {
+"pt": "De toda a fundição, só ficou de pé a laminagem",
+"nl": "Van heel die smelterij is enkel het walswerk blijven staan"
+},
+"Wampes\u00010\u00010": {
+"pt": "Que barriga ele arranjou!",
+"nl": "Wat heeft die een buik gekregen!"
+},
+"Wampes\u00010\u00011": {
+"pt": "Durante as festas enchemos bem a barriga",
+"nl": "Tijdens de feestdagen hebben we ons lekker volgegeten"
+},
+"Wand\u00010\u00010": {
+"pt": "Desde de manhã sopra um vento gélido",
+"nl": "Sinds vanmorgen waait er een ijskoude wind"
+},
+"Wand\u00010\u00011": {
+"pt": "O vento soprou as folhas caídas para o pátio",
+"nl": "De wind heeft de dode bladeren de hof ingejaagd"
+},
+"Wand\u00010\u00012": {
+"pt": "A nova diretora trouxe ares frescos à empresa",
+"nl": "De nieuwe directrice heeft frisse wind in het bedrijf gebracht"
+},
+"Wand\u00010\u00013": {
+"pt": "Aqui sopra agora um vento novo!",
+"nl": "Hier waait nu een nieuwe wind!"
+},
+"Wand\u00010\u00014": {
+"pt": "O vento mudou",
+"nl": "De wind is gedraaid"
+},
+"Wand\u00010\u00015": {
+"pt": "A concorrência não pode de modo algum ter conhecimento do nosso projeto",
+"nl": "De concurrentie mag in geen geval lucht krijgen van ons project"
+},
+"Wand\u00010\u00010~2": {
+"pt": "Dividimos a nossa sala em duas com uma divisória de madeira",
+"nl": "We hebben onze kamer met een houten wand in twee gedeeld"
+},
+"Wand\u00010\u00011~2": {
+"pt": "Sente-se bem entre as suas quatro paredes",
+"nl": "Hij voelt zich thuis tussen zijn vier muren"
+},
+"Wand\u00011\u00010": {
+"pt": "Nas paredes da gruta formaram-se cristais",
+"nl": "Aan de wanden van de grot hadden zich kristallen gevormd"
+},
+"Wandel\u00010\u00010": {
+"pt": "A mudança social é demasiado rápida para muita gente",
+"nl": "De maatschappelijke verandering gaat veel mensen te snel"
+},
+"Wandenergie\u00010\u00010": {
+"pt": "Sabes que percentagem da nossa eletricidade é produzida por energia eólica?",
+"nl": "Weet je hoeveel procent van onze stroom met windenergie geproduceerd wordt?"
+},
+"wanderen\u00010\u00010": {
+"pt": "Vens connosco este verão fazer caminhadas nas montanhas?",
+"nl": "Ga je deze zomer mee wandelen in de bergen?"
+},
+"wanderen\u00011\u00010": {
+"pt": "Os nómadas deslocam-se com o gado para onde haja alguma coisa para comer",
+"nl": "Nomaden trekken met hun vee naar waar het iets te eten vindt"
+},
+"wanderen\u00011\u00011": {
+"pt": "Quando a minha pedra na vesícula se desloca, causa-me problemas",
+"nl": "Zodra mijn galsteen gaat wandelen, bezorgt hij me problemen"
+},
+"wanderen\u00011\u00012": {
+"pt": "Em nossa casa a publicidade vai logo para o lixo",
+"nl": "Bij ons thuis verdwijnt reclame meteen in de vuilnisbak"
+},
+"wanderen\u00011\u00013": {
+"pt": "Aquele patife acaba mais cedo ou mais tarde na prisão",
+"nl": "Die schavuit belandt vroeg of laat in de gevangenis"
+},
+"Wanderer\u00010\u00010": {
+"pt": "Os caminhantes ficaram contentes quando chegaram, depois da longa marcha, ao albergue da juventude",
+"nl": "De wandelaars waren blij toen ze na hun lange tocht in het jeugdverblijf aankwamen"
+},
+"Wanderfallek\u00010\u00010": {
+"pt": "Quanto tempo chocam os falcões-peregrinos?",
+"nl": "Hoe lang broeden de slechtvalken?"
+},
+"Wanderin\u00010\u00010": {
+"pt": "Sem GPS, a caminhante ter-se-ia certamente perdido naquelas montanhas",
+"nl": "Zonder gps zou de wandelaarster zich in die bergen zeker verdwaald hebben"
+},
+"Wanderschong\u00010\u00010": {
+"pt": "Para uma caminhada no Éislek, é melhor calçares as botas de caminhada",
+"nl": "Voor een tocht in het Éislek trek je best je wandelschoenen aan"
+},
+"Wandertour\u00010\u00010": {
+"pt": "A caminhada foi bonita, mas as outras pessoas andaram depressa demais para mim",
+"nl": "De wandeltocht was fijn, maar de andere mensen liepen me een stuk te snel"
+},
+"Wandertour\u00010\u00011": {
+"pt": "Nas férias fizemos algumas caminhadas bonitas pelas montanhas",
+"nl": "In de vakantie hebben we enkele mooie wandeltochten door de bergen gemaakt"
+},
+"Wanderung\u00010\u00010": {
+"pt": "A caminhada foi bonita, mas as outras pessoas andaram depressa demais para mim",
+"nl": "De wandeling was fijn, maar de andere mensen liepen me een stuk te snel"
+},
+"Wanderung\u00010\u00011": {
+"pt": "Nas férias fizemos algumas caminhadas bonitas pelas montanhas",
+"nl": "In de vakantie hebben we enkele mooie wandelingen door de bergen gemaakt"
+},
+"Wanderung\u00011\u00010": {
+"pt": "Nas férias vamos a África ver a migração dos antílopes",
+"nl": "In de vakantie gaan we naar Afrika om de migratie van de antilopen te zien"
+},
+"Wanderwee\u00010\u00010": {
+"pt": "Quanto mede o trilho pedestre que vai de Butschebuerg a Téiteng?",
+"nl": "Hoe lang is het wandelpad dat van Butschebuerg naar Téiteng loopt?"
+},
+"Wanderwee\u00010\u00011": {
+"pt": "No Mëllerdall há imensos trilhos pedestres",
+"nl": "In het Mëllerdall zijn er een massa wandelpaden"
+},
+"Wandhaff\u00010\u00010": {
+"pt": "Aqui estamos em Wandhaff, perto de Käerch",
+"nl": "Hier zijn we in Wandhaff bij Käerch"
+},
+"Wandhaff\u00010\u00011": {
+"pt": "Este autocarro vai para Wandhaff?",
+"nl": "Rijdt deze bus naar Wandhaff?"
 }
 }
