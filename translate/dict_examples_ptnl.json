@@ -87298,5 +87298,905 @@
 "Heelwuerzel\u00010\u00010": {
 "pt": "A consolda cresce em prados húmidos ou à beira da água",
 "nl": "Smeerwortel groeit in vochtige weiden of aan de waterkant"
+},
+"heem\u00010\u00010": {
+"pt": "Já falta pouco para casa",
+"nl": "Het is niet ver meer naar huis"
+},
+"heem\u00010\u00011": {
+"pt": "Conheces bem o caminho para casa",
+"nl": "Je kent toch de weg naar huis"
+},
+"Heem\u00010\u00010": {
+"pt": "O casal decorou muito bem a sua nova casa",
+"nl": "Het koppel heeft zijn nieuwe huis echt mooi ingericht"
+},
+"Heem\u00011\u00010": {
+"pt": "Os pais meteram o filho difícil num lar",
+"nl": "De ouders hebben hun moeilijke zoon in een tehuis geplaatst"
+},
+"heem-\u00010\u00010": {
+"pt": "Cada vez mais restaurantes entregam ao domicílio",
+"nl": "Steeds meer restaurants leveren aan huis"
+},
+"heem-\u00010\u00011": {
+"pt": "A minha colega foi cedo para casa porque lhe doía a cabeça",
+"nl": "Mijn collega is vroeg naar huis gegaan omdat ze hoofdpijn had"
+},
+"heembréngen\u00010\u00010": {
+"pt": "O nosso filho trouxe para casa um boletim impecável",
+"nl": "Onze zoon heeft een onberispelijk rapport mee naar huis gebracht"
+},
+"heembréngen\u00010\u00011": {
+"pt": "Trouxe das férias muitas impressões bonitas",
+"nl": "Ik heb veel mooie indrukken van de vakantie mee naar huis gebracht"
+},
+"heembréngen\u00010\u00012": {
+"pt": "A monitora levou as crianças de novo a casa em segurança",
+"nl": "De begeleidster heeft de kinderen weer veilig thuisgebracht"
+},
+"heembréngen\u00010\u00013": {
+"pt": "Já não precisas de trazer uma coisa dessas para casa!",
+"nl": "Zo iemand hoef je niet meer mee naar huis te brengen!"
+},
+"Heemecht\u00010\u00010": {
+"pt": "O escritor deixou a sua terra natal por razões políticas",
+"nl": "De schrijver heeft zijn geboorteland om politieke redenen verlaten"
+},
+"Heemecht\u00010\u00011": {
+"pt": "Os nossos amigos cozinham muitas vezes especialidades da sua terra",
+"nl": "Onze vrienden koken vaak specialiteiten uit hun geboorteland"
+},
+"Heemechtsduerf\u00010\u00010": {
+"pt": "Todos os anos é organizada uma feira de arte na minha aldeia natal",
+"nl": "Elk jaar wordt er in mijn geboortedorp een kunstmarkt georganiseerd"
+},
+"Heemechtshaus\u00010\u00010": {
+"pt": "Os meus filhos gostam de visitar a minha casa natal",
+"nl": "Mijn kinderen gaan graag naar mijn ouderlijk huis"
+},
+"Heemechtsland\u00010\u00010": {
+"pt": "O diploma estrangeiro do estudante não foi reconhecido no seu país de origem",
+"nl": "Het buitenlandse diploma van de student werd in zijn geboorteland niet erkend"
+},
+"Heemechtsstad\u00010\u00010": {
+"pt": "Depois de dez anos no estrangeiro, já não reconhecia a sua cidade natal",
+"nl": "Na tien jaar in het buitenland herkende hij zijn geboortestad niet meer"
+},
+"Heemekipp\u00010\u00010": {
+"pt": "A equipa da casa foi apoiada pelos seus adeptos durante todo o jogo",
+"nl": "Het thuisteam werd de hele wedstrijd door zijn supporters gesteund"
+},
+"heemeleg\u00010\u00010": {
+"pt": "Podes fazer festas à minha gata sem receio, é muito mansa",
+"nl": "Je kunt mijn kat gerust aaien, ze is heel mak"
+},
+"heemeleg\u00011\u00010": {
+"pt": "À noite havia um ambiente acolhedor à volta do fogo",
+"nl": "'s Avonds was er een gezellige sfeer rond het vuur"
+},
+"heemelen\u00010\u00010": {
+"pt": "No jardim zoológico acariciámos burros",
+"nl": "In de dierentuin hebben we ezels geaaid"
+},
+"Heemelmaus\u00010\u00010": {
+"pt": "Um grilo-doméstico chilreou no quarto a noite toda",
+"nl": "De hele nacht heeft een huiscricket in de kamer getsjirpt"
+},
+"heemesch\u00010\u00010": {
+"pt": "Os cangurus são nativos da Austrália",
+"nl": "Kangoeroes zijn inheems in Australië"
+},
+"heemféieren\u00010\u00010": {
+"pt": "Posso acompanhar-vos a casa?",
+"nl": "Zal ik u naar huis brengen?"
+},
+"heemféieren\u00010\u00010~2": {
+"pt": "Depois do jantar levou-nos a casa de carro",
+"nl": "Na het eten reed hij ons naar huis"
+},
+"heemfueren\u00010\u00010": {
+"pt": "Não bebas tanto, ainda tens de conduzir para casa!",
+"nl": "Drink niet zoveel, je moet nog naar huis rijden!"
+},
+"heemfueren\u00010\u00011": {
+"pt": "Nas férias fez tão mau tempo que ao fim de três dias voltámos de carro para casa",
+"nl": "In de vakantie was het zo slecht weer dat we na drie dagen weer naar huis zijn gereden"
+},
+"heemgoen\u00010\u00010": {
+"pt": "A minha colega foi cedo para casa porque lhe doía a cabeça",
+"nl": "Mijn collega is vroeg naar huis gegaan omdat ze hoofdpijn had"
+},
+"heemgoen\u00010\u00011": {
+"pt": "Vai para casa!",
+"nl": "Ga naar huis!"
+},
+"heemgoen\u00010\u00012": {
+"pt": "Ele já não vai para casa",
+"nl": "Hij gaat niet meer naar huis"
+},
+"heemkommen\u00010\u00010": {
+"pt": "Quando chego a casa à noite depois do trabalho, gosto de descansar um pouco",
+"nl": "Als ik 's avonds na het werk thuiskom, rust ik graag een beetje uit"
+},
+"heemkommen\u00010\u00011": {
+"pt": "Ele já não volta para casa",
+"nl": "Hij komt niet meer naar huis"
+},
+"heemlafen\u00010\u00010": {
+"pt": "A menina ficou tão assustada que correu depressa para casa",
+"nl": "Het kleine meisje was zo bang dat ze snel naar huis liep"
+},
+"heemlech\u00010\u00010": {
+"pt": "Aquela bela mulher continuou a ser para sempre o meu amor secreto",
+"nl": "Die mooie vrouw bleef voor altijd mijn heimelijke liefde"
+},
+"heemlech\u00010\u00011": {
+"pt": "A minha tia tem um namorado secreto",
+"nl": "Mijn tante heeft een heimelijke vriend"
+},
+"heemlech\u00010\u00012": {
+"pt": "Fumaste outra vez às escondidas?",
+"nl": "Heb je weer stiekem gerookt?"
+},
+"heemlech\u00010\u00013": {
+"pt": "Ele é daqueles que são reservados",
+"nl": "Hij is een van die geheimzinnige types"
+},
+"Heemlechkeet\u00010\u00010": {
+"pt": "Não tenho segredos para ti!",
+"nl": "Ik heb geen geheimen voor jou!"
+},
+"Heemlechkeet\u00010\u00011": {
+"pt": "Casaram-se em total segredo",
+"nl": "Ze zijn in het grootste geheim getrouwd"
+},
+"heemliwweren\u00010\u00010": {
+"pt": "Desde o confinamento, mais restaurantes fazem entregas ao domicílio",
+"nl": "Sinds de lockdown leveren meer restaurants aan huis"
+},
+"heemmaachen\u00010\u00010": {
+"pt": "Quando começou a chover, as pessoas foram depressa para casa",
+"nl": "Toen het begon te regenen, gingen de mensen snel naar huis"
+},
+"Heemmatch\u00010\u00010": {
+"pt": "A nossa equipa ganhou todos os seus jogos em casa esta época",
+"nl": "Ons team heeft dit seizoen al zijn thuiswedstrijden gewonnen"
+},
+"Heemmatch\u00010\u00011": {
+"pt": "A equipa recém-promovida tem amanhã um jogo em casa contra o atual campeão",
+"nl": "De promovendus heeft morgen een thuiswedstrijd tegen de huidige kampioen"
+},
+"Heemount\u00010\u00010": {
+"pt": "No mês da fenação, o agricultor não tem utilidade para a chuva",
+"nl": "In de hooimaand kan de boer geen regen gebruiken"
+},
+"Heemount\u00010\u00011": {
+"pt": "A época natalícia é o mês da fenação dos comerciantes",
+"nl": "De kerstperiode is voor de handelaars de hooimaand"
+},
+"Heemount\u00011\u00010": {
+"pt": "Antigamente, julho também se chamava Heemount",
+"nl": "Vroeger werd juli ook Heemount genoemd"
+},
+"Heemrees\u00010\u00010": {
+"pt": "A nossa viagem de regresso durou dois dias",
+"nl": "Onze thuisreis duurde twee dagen"
+},
+"Heemrees\u00010\u00011": {
+"pt": "No regresso, o nosso autocarro teve uma avaria",
+"nl": "Op de terugreis had onze bus pech"
+},
+"heemschécken\u00010\u00010": {
+"pt": "A chefe mandou o colaborador doente para casa",
+"nl": "De bazin stuurde de zieke medewerker naar huis"
+},
+"heemschécken\u00011\u00010": {
+"pt": "Enviei-lhe a resposta ao seu pedido pelo correio",
+"nl": "Ik heb u het antwoord op uw aanvraag per post toegestuurd"
+},
+"Heemspill\u00010\u00010": {
+"pt": "A nossa equipa ganhou o jogo em casa",
+"nl": "Ons team won de thuiswedstrijd"
+},
+"Heemwee\u00010\u00010": {
+"pt": "No caminho para casa apanhámos um engarrafamento",
+"nl": "Op de terugweg zijn we in de file terechtgekomen"
+},
+"heemzou\u00010\u00010": {
+"pt": "Estamos a caminho de casa",
+"nl": "We zijn op weg naar huis"
+},
+"heemzou\u00010\u00011": {
+"pt": "Vamos devagar a caminho de casa",
+"nl": "We gaan langzaam huiswaarts"
+},
+"heemzou\u00010\u00012": {
+"pt": "A caminho de casa encontrei o meu cunhado",
+"nl": "Op weg naar huis kwam ik mijn zwager tegen"
+},
+"hees\u00010\u00010": {
+"pt": "De tanto gritar, muitos de nós ficámos roucos",
+"nl": "Van het schreeuwen waren velen van ons hees"
+},
+"hees\u00010\u00011": {
+"pt": "Falo com voz rouca porque estou constipado",
+"nl": "Ik praat heel hees omdat ik verkouden ben"
+},
+"hees\u00010\u00012": {
+"pt": "Com esse podes ficar rouco de falar, ele não te ouve",
+"nl": "Bij die kun je je hees praten, hij luistert niet naar je"
+},
+"Heesberhaff\u00010\u00010": {
+"pt": "Moro em Heesberhaff",
+"nl": "Ik woon op de Heesberhaff"
+},
+"Heesberhaff\u00010\u00011": {
+"pt": "Este autocarro vai para o Heesberhaff?",
+"nl": "Rijdt deze bus naar de Heesberhaff?"
+},
+"Heeschbech\u00010\u00010": {
+"pt": "Moro em Heeschbech",
+"nl": "Ik woon in Heeschbech"
+},
+"Heeschbech\u00010\u00011": {
+"pt": "Este autocarro vai para Heeschbech?",
+"nl": "Rijdt deze bus naar Heeschbech?"
+},
+"Heeschbreg\u00010\u00010": {
+"pt": "Moro em Heeschbreg",
+"nl": "Ik woon in Heeschbreg"
+},
+"Heeschbreg\u00010\u00011": {
+"pt": "Este autocarro vai para Heeschbreg?",
+"nl": "Rijdt deze bus naar Heeschbreg?"
+},
+"Heeschdref\u00010\u00010": {
+"pt": "Moro em Heeschdref",
+"nl": "Ik woon in Heeschdref"
+},
+"Heeschdref\u00010\u00011": {
+"pt": "Este autocarro vai para Heeschdref?",
+"nl": "Rijdt deze bus naar Heeschdref?"
+},
+"Heeschefra\u00010\u00010": {
+"pt": "Dou sempre alguns trocos à pedinte que está sempre à frente do supermercado",
+"nl": "Ik geef de bedelares die altijd voor de supermarkt zit steeds een paar centen"
+},
+"Heescheleit\u00010\u00010": {
+"pt": "Os comerciantes queixaram-se à comuna dos muitos pedintes na zona pedonal",
+"nl": "De handelaars hebben bij de gemeente geklaagd over de vele bedelaars in de voetgangerszone"
+},
+"Heeschemann\u00010\u00010": {
+"pt": "Dou sempre alguns trocos ao pedinte para ele poder comprar algo para comer",
+"nl": "Ik geef de bedelaar altijd een paar centen zodat hij iets te eten kan kopen"
+},
+"Heeschemann\u00010\u00011": {
+"pt": "À frente da catedral está sempre sentado o mesmo pedinte",
+"nl": "Voor de kathedraal zit altijd dezelfde bedelaar"
+},
+"heeschen\u00010\u00010": {
+"pt": "Como te chamas?",
+"nl": "Hoe heet je?"
+},
+"heeschen\u00010\u00011": {
+"pt": "Esta rua tinha antigamente outro nome",
+"nl": "Deze straat heette vroeger anders"
+},
+"heeschen\u00011\u00010": {
+"pt": "O que significa isto?",
+"nl": "Wat betekent dat?"
+},
+"heeschen\u00011\u00011": {
+"pt": "A palavra chave de fendas significa o mesmo que a palavra Schrauwenzéier",
+"nl": "Het woord tournevis betekent hetzelfde als het woord Schrauwenzéier"
+},
+"heeschen\u00011\u00012": {
+"pt": "Isso não quer dizer nada",
+"nl": "Dat wil niets zeggen"
+},
+"heeschen\u00012\u00010": {
+"pt": "Tens consciência do que isso significa?",
+"nl": "Ben je je bewust van wat dat betekent?"
+},
+"heeschen\u00013\u00010": {
+"pt": "No manual de instruções diz-se que a máquina de café deve ser descalcificada uma vez por mês",
+"nl": "In de gebruiksaanwijzing staat dat het koffiezetapparaat één keer per maand ontkalkt moet worden"
+},
+"heeschen\u00014\u00010": {
+"pt": "Diz-se que o presidente da câmara teve um caso extraconjugal",
+"nl": "Het gerucht gaat dat de burgemeester vreemdgegaan is"
+},
+"heeschen\u00015\u00010": {
+"pt": "Aqui é preciso ter cuidado!",
+"nl": "Hier moet je oppassen!"
+},
+"heeschen\u00010\u00010~2": {
+"pt": "À frente da estação estavam alguns sem-abrigo a pedir",
+"nl": "Voor het station stonden enkele daklozen te bedelen"
+},
+"heeschen\u00011\u00010~2": {
+"pt": "As crianças choramingaram e pediram à avó até receberem chocolate",
+"nl": "De kinderen zeurden en bedelden bij oma om chocolade te krijgen"
+},
+"heeschen\u00011\u00011~2": {
+"pt": "Põe o cão no jardim, senão fica constantemente ao pé da mesa a pedir",
+"nl": "Zet de hond in de tuin, anders staat hij de hele tijd bij de tafel te bedelen"
+},
+"heeschen\u00012\u00010~2": {
+"pt": "Havia agora só uma pessoa à porta que tinha pedido dinheiro",
+"nl": "Er stond nu maar één persoon aan de deur die geld had gevraagd"
+},
+"Heeschepak\u00010\u00010": {
+"pt": "Daquele bando de pedintes não recebe um tostão de mim!",
+"nl": "Van mij krijgt die bende bedelaars geen cent!"
+},
+"Heeschepak\u00010\u00011": {
+"pt": "Não te ocupes com esse bando de pedintes!",
+"nl": "Bemoei je niet met die bende bedelaars!"
+},
+"Heescherei\u00010\u00010": {
+"pt": "Na última reunião do conselho municipal discutiu-se de forma controversa a proibição da mendicidade organizada",
+"nl": "In de laatste gemeenteraad werd controversieel gediscussieerd over een verbod op georganiseerde bedelarij"
+},
+"Heeschert\u00010\u00010": {
+"pt": "O pedinte foi mandado embora por todo o lado",
+"nl": "De bedelaar werd overal weggestuurd"
+},
+"Heescheverbuet\u00010\u00010": {
+"pt": "A proibição da mendicidade foi muito discutida no Luxemburgo",
+"nl": "Het bedelverbod werd in Luxemburg heel controversieel besproken"
+},
+"Heescheverbuet\u00010\u00011": {
+"pt": "Devido à proibição da mendicidade, não se pode pedir esmola em certos locais",
+"nl": "Wegens het bedelverbod mag men op bepaalde plaatsen geen aalmoes vragen"
+},
+"Heeschnapp\u00010\u00010": {
+"pt": "Todos os anos tenho febre dos fenos",
+"nl": "Ik krijg elk jaar hooikoorts"
+},
+"Heeschpelt\u00010\u00010": {
+"pt": "Moro em Heeschpelt",
+"nl": "Ik woon in Heeschpelt"
+},
+"Heeschpelt\u00010\u00011": {
+"pt": "Este autocarro vai para Heeschpelt?",
+"nl": "Rijdt deze bus naar Heeschpelt?"
+},
+"Heesdref\u00010\u00010": {
+"pt": "Moro em Heesdref",
+"nl": "Ik woon in Heesdref"
+},
+"Heesdref\u00010\u00011": {
+"pt": "Este autocarro vai para Heesdref?",
+"nl": "Rijdt deze bus naar Heesdref?"
+},
+"Heesprénger\u00010\u00010": {
+"pt": "O gafanhoto saltou um metro",
+"nl": "De sprinkhaan sprong een meter ver"
+},
+"Heet\u00010\u00010": {
+"pt": "Temos de comprar legumes, só resta uma alface no frigorífico",
+"nl": "We moeten groenten kopen, er is nog maar één krop sla in de koelkast"
+},
+"Heet\u00010\u00011": {
+"pt": "Quantos repolhos são necessários para fazer chucrute?",
+"nl": "Hoeveel kolen heb je nodig om zuurkool te maken?"
+},
+"Heewon\u00010\u00010": {
+"pt": "Na curva lá em cima tombou um carro de feno",
+"nl": "Daarboven in de bocht is een hooiwagen omgevallen"
+},
+"Hëft\u00010\u00010": {
+"pt": "As minhas calças novas apertam-me um pouco nas ancas",
+"nl": "Mijn nieuwe broek zit een beetje strak om mijn heupen"
+},
+"Hëft\u00010\u00011": {
+"pt": "O nosso bebé tem de usar uma tala porque tem um desalinhamento da anca",
+"nl": "Onze baby moet een spreidbroekje dragen omdat hij een heupafwijking heeft"
+},
+"Hëft\u00010\u00012": {
+"pt": "O meu avô tem uma anca nova",
+"nl": "Mijn opa heeft een nieuwe heup"
+},
+"Heft\u00010\u00010": {
+"pt": "Esta manhã o professor verificou os cadernos",
+"nl": "Vanochtend heeft de leraar de schriften nagekeken"
+},
+"hefteg\u00010\u00010": {
+"pt": "Ninguém esperava uma reação tão violenta",
+"nl": "Niemand had met zo'n hevige reactie gerekend"
+},
+"hefteg\u00010\u00011": {
+"pt": "Os membros da comissão discutiram longa e acaloradamente",
+"nl": "De commissieleden hebben lang en heftig gediscussieerd"
+},
+"heften\u00010\u00010": {
+"pt": "A professora mandou as crianças agrafar as fotocópias aos seus exercícios de cálculo",
+"nl": "De juf liet de kinderen de fotokopieën aan hun rekenopgaven nieten"
+},
+"heften\u00010\u00011": {
+"pt": "Quer que lhe agrafe o recibo à fatura?",
+"nl": "Zal ik de kwitantie voor u aan de factuur nieten?"
+},
+"Hëftgelenk\u00010\u00010": {
+"pt": "Ele tem artrose nas duas articulações da anca",
+"nl": "Hij heeft artrose in beide heupgewrichten"
+},
+"hei\u00010\u00010": {
+"pt": "Aqui havia antigamente uma capela",
+"nl": "Hier stond vroeger een kapel"
+},
+"hei\u00010\u00011": {
+"pt": "A partir daqui é proibido estacionar",
+"nl": "Vanaf hier is parkeren verboden"
+},
+"hei\u00011\u00010": {
+"pt": "Aqui trata-se de uma questão delicada",
+"nl": "Hier gaat het om een netelige kwestie"
+},
+"hei-\u00010\u00010": {
+"pt": "Já ouviste alguma coisa sobre isto?",
+"nl": "Heb je hier al iets over gehoord?"
+},
+"hei\u00010\u00010~2": {
+"pt": "Esta é uma descrição muito compreensível desse aparelho",
+"nl": "Dit is een heel begrijpelijke beschrijving van dat apparaat"
+},
+"hei\u00011\u00010~2": {
+"pt": "Este carro aqui é o que mais me agrada",
+"nl": "Deze auto hier bevalt me het best"
+},
+"hei\u00011\u00011": {
+"pt": "Apanhei esta camisola aqui na feira da ladra por um preço de saldo",
+"nl": "Ik heb deze trui hier op de rommelmarkt voor een prikkie gekregen"
+},
+"heiansdo\u00010\u00010": {
+"pt": "Às vezes vou andar de bicicleta ao domingo",
+"nl": "Soms ga ik op zondag fietsen"
+},
+"heibannen\u00010\u00010": {
+"pt": "Fica cá dentro, está a chover!",
+"nl": "Blijf binnen, het regent!"
+},
+"heibannen\u00010\u00011": {
+"pt": "Não quero brigas aqui dentro!",
+"nl": "Ik wil hier binnen geen ruzie!"
+},
+"heibaussen\u00010\u00010": {
+"pt": "Traz um cachecol, senão constipas-te aqui fora!",
+"nl": "Neem een sjaal mee, anders vat je hier buiten kou!"
+},
+"Heibleifskärchen\u00010\u00010": {
+"pt": "Este ano eles vão para Espanha, nós ficamos por cá nas nossas férias!",
+"nl": "Zij gaan dit jaar naar Spanje, wij houden een staycation!"
+},
+"heibleiwen\u00010\u00010": {
+"pt": "Preferia que ficasses aqui",
+"nl": "Ik zou liever hebben dat je hier bleef"
+},
+"heibleiwen\u00010\u00011": {
+"pt": "Ninguém fica aqui",
+"nl": "Niemand blijft hier"
+},
+"héich\u00010\u00010": {
+"pt": "Que casa tão alta!",
+"nl": "Wat een hoog huis is dat!"
+},
+"héich\u00010\u00011": {
+"pt": "Aquele muro tem quatro metros de altura",
+"nl": "Die muur is vier meter hoog"
+},
+"héich\u00010\u00012": {
+"pt": "Aqui não se pode construir mais alto do que quatro andares",
+"nl": "Hier mag men niet hoger bouwen dan vier verdiepingen"
+},
+"héich\u00011\u00010": {
+"pt": "Aquelas nuvens altas não trazem chuva",
+"nl": "Die hoge wolken brengen geen regen"
+},
+"héich\u00011\u00011": {
+"pt": "Atira a bola o mais alto que puderes!",
+"nl": "Gooi de bal zo hoog als je kunt!"
+},
+"héich\u00011\u00012": {
+"pt": "Isso é-me demasiado alto!",
+"nl": "Dat gaat mijn pet te boven!"
+},
+"héich\u00012\u00010": {
+"pt": "Era um erudito de alta posição",
+"nl": "Hij was een geleerde van hoog aanzien"
+},
+"héich\u00012\u00011": {
+"pt": "O meu primo ocupa um alto cargo na política",
+"nl": "Mijn neef bekleedt een hoge functie in de politiek"
+},
+"héich\u00013\u00010": {
+"pt": "Os preços do ouro estão neste momento bastante altos",
+"nl": "De goudprijzen zijn op dit moment vrij hoog"
+},
+"héich\u00013\u00011": {
+"pt": "Neste internato são feitas grandes exigências às crianças",
+"nl": "In dit internaat worden hoge eisen aan de kinderen gesteld"
+},
+"héich\u00013\u00012": {
+"pt": "Este país tem um elevado nível social",
+"nl": "Dit land heeft een hoog sociaal niveau"
+},
+"héich\u00013\u00013": {
+"pt": "Já é tempo de alguma coisa mudar!",
+"nl": "Het wordt hoog tijd dat er iets verandert!"
+},
+"héich\u00014\u00010": {
+"pt": "O meu avô já não ouve os sons agudos",
+"nl": "Mijn opa hoort de hoge tonen niet meer"
+},
+"héich\u00014\u00011": {
+"pt": "Já não consigo cantar tão alto como antigamente",
+"nl": "Ik kan niet meer zo hoog zingen als vroeger"
+},
+"héich-\u00010\u00010": {
+"pt": "O nosso contabilista está agora a somar-nos as despesas",
+"nl": "Onze boekhouder rekent ons net de uitgaven uit"
+},
+"héich-\u00010\u00011": {
+"pt": "Queremos manter vivas as nossas velhas tradições",
+"nl": "We willen onze oude tradities hooghouden"
+},
+"héichdoséiert\u00010\u00010": {
+"pt": "Estou a fazer uma terapia com vitamina D em dose elevada",
+"nl": "Ik volg momenteel een therapie met hooggedoseerde vitamine D"
+},
+"Héichdrock\u00010\u00010": {
+"pt": "O pequeno recipiente está sob alta pressão",
+"nl": "Het kleine reservoir staat onder hoge druk"
+},
+"Héichdrock\u00010\u00011": {
+"pt": "Antes das festas, os serviços de catering trabalham sob grande pressão",
+"nl": "Voor de feestdagen werken de traiteurs onder hoge druk"
+},
+"Héichdrock\u00011\u00010": {
+"pt": "Com a alta pressão vem o bom tempo",
+"nl": "Met hoge druk komt mooi weer"
+},
+"Héichdrockgebitt\u00010\u00010": {
+"pt": "Sobre o Atlântico está a formar-se uma zona de alta pressão",
+"nl": "Boven de Atlantische Oceaan ontstaat een hogedrukgebied"
+},
+"Héichform\u00010\u00010": {
+"pt": "Esta corrida difícil só se pode ganhar estando em plena forma",
+"nl": "Deze zware race kun je alleen winnen als je in topvorm bent"
+},
+"héichgeféierlech\u00010\u00010": {
+"pt": "Estes pesticidas são altamente perigosos e já não podem ser usados na agricultura",
+"nl": "Deze pesticiden zijn uiterst gevaarlijk en mogen in de landbouw niet meer worden gebruikt"
+},
+"héichgeféierlech\u00010\u00011": {
+"pt": "Por causa da chuva forte formou-se no rio uma corrente altamente perigosa",
+"nl": "Door de zware regen is in de rivier een uiterst gevaarlijke stroming ontstaan"
+},
+"héichgëfteg\u00010\u00010": {
+"pt": "Os bombeiros bombearam o líquido altamente tóxico",
+"nl": "De brandweer pompte de zeer giftige vloeistof weg"
+},
+"héichgëfteg\u00010\u00011": {
+"pt": "Neste percurso está proibido o transporte de substâncias altamente tóxicas",
+"nl": "Op dit traject is het vervoer van zeer giftige stoffen verboden"
+},
+"héichgëfteg\u00010\u00012": {
+"pt": "Muita gente não sabe que o visco é altamente tóxico",
+"nl": "Veel mensen weten niet dat maretak zeer giftig is"
+},
+"héichhalen\u00010\u00010": {
+"pt": "Queremos manter vivas as nossas velhas tradições",
+"nl": "We willen onze oude tradities hooghouden"
+},
+"Héichhaus\u00010\u00010": {
+"pt": "Ao lado da estação vai ser construído um prédio alto",
+"nl": "Naast het station zal een hoogbouw worden gebouwd"
+},
+"Héichhaus\u00010\u00011": {
+"pt": "No novo bairro, os arranha-céus brotam como cogumelos",
+"nl": "In de nieuwe wijk schieten de hoogbouwtorens als paddenstoelen uit de grond"
+},
+"héichleeën\u00010\u00010": {
+"pt": "Quando alguém está de gesso, deve elevar-se-lhe a perna para reativar a circulação",
+"nl": "Als iemand in het gips zit, moet men zijn been omhoog leggen om de bloedsomloop weer op gang te brengen"
+},
+"Héichleeschtungssport\u00010\u00010": {
+"pt": "No desporto de alta competição não é fácil manter-se entre os favoritos durante muito tempo",
+"nl": "In de topsport is het niet makkelijk om lange tijd tot de favorieten te blijven behoren"
+},
+"Héichleeschtungssportler\u00010\u00010": {
+"pt": "Um atleta de alta competição tem de ter cuidado com o que come",
+"nl": "Een topsporter moet oppassen met wat hij eet"
+},
+"Héichleeschtungssportlerin\u00010\u00010": {
+"pt": "A atleta de alta competição tem um plano de treino rigoroso",
+"nl": "De topsportster heeft een streng trainingsschema"
+},
+"Héichpunkt\u00010\u00010": {
+"pt": "À noite, o ambiente estava no auge",
+"nl": "'s Avonds bereikte de stemming haar hoogtepunt"
+},
+"héichrechnen\u00010\u00010": {
+"pt": "O nosso contabilista fez a soma das despesas",
+"nl": "Onze boekhouder heeft de uitgaven opgeteld"
+},
+"Héichrechnung\u00010\u00010": {
+"pt": "Se podemos acreditar nas projeções, o nosso partido ganhou as eleições",
+"nl": "Als we de projecties mogen geloven, heeft onze partij de verkiezingen gewonnen"
+},
+"Héichschoul\u00010\u00010": {
+"pt": "Para te inscreveres nessa universidade, precisas de uma tradução do teu diploma",
+"nl": "Om je in te schrijven aan die hogeschool heb je een vertaling van je diploma nodig"
+},
+"Héichschoul\u00011\u00010": {
+"pt": "À frente da universidade, membros de uma seita distribuíam panfletos",
+"nl": "Voor de hogeschool deelden leden van een sekte flyers uit"
+},
+"Héichschouldiplom\u00010\u00010": {
+"pt": "Para conseguir este lugar, precisas de um diploma do ensino superior",
+"nl": "Om deze plaats te krijgen heb je een diploma hoger onderwijs nodig"
+},
+"Héichschouldiplom\u00010\u00011": {
+"pt": "Alguns diplomas estrangeiros do ensino superior não são reconhecidos neste país",
+"nl": "Sommige buitenlandse diploma's hoger onderwijs worden hier in het land niet erkend"
+},
+"Héichschouldiplom\u00011\u00010": {
+"pt": "Na tua candidatura tens de juntar uma cópia do teu diploma do ensino superior",
+"nl": "Bij je sollicitatie moet je een kopie van je diploma hoger onderwijs bijvoegen"
+},
+"Héichspannung\u00010\u00010": {
+"pt": "Cuidado, esse cabo está sob alta tensão!",
+"nl": "Pas op, die leiding staat onder hoogspanning!"
+},
+"Héichspannung\u00010\u00011": {
+"pt": "Ele está constantemente sob alta tensão",
+"nl": "Hij staat voortdurend onder hoogspanning"
+},
+"Héichsprénger\u00010\u00010": {
+"pt": "Aquele saltador em altura já bateu três vezes o seu próprio recorde",
+"nl": "Die hoogspringer heeft zijn eigen record al drie keer gebroken"
+},
+"Héichspréngerin\u00010\u00010": {
+"pt": "Nos últimos Jogos Olímpicos, a saltadora em altura bateu o seu próprio recorde",
+"nl": "Bij de laatste Olympische Spelen verbrak de hoogspringster haar eigen record"
+},
+"Héichsprong\u00010\u00010": {
+"pt": "O salto em altura é uma disciplina olímpica",
+"nl": "Het hoogspringen is een olympische discipline"
+},
+"Héicht\u00010\u00010": {
+"pt": "Mede lá a altura da mesa!",
+"nl": "Meet eens de hoogte van de tafel!"
+},
+"Héicht\u00010\u00011": {
+"pt": "Esta casamata tem uma altura de seis metros",
+"nl": "Deze kazemat heeft een hoogte van zes meter"
+},
+"Héicht\u00011\u00010": {
+"pt": "A essas altitudes o ar é mais rarefeito",
+"nl": "Op die hoogten is de lucht ijler"
+},
+"Héicht\u00012\u00010": {
+"pt": "Um vento áspero soprou sobre as alturas do Oesling",
+"nl": "Over de hoogten van het Oesling blies een ruwe wind"
+},
+"Héicht\u00013\u00010": {
+"pt": "Na construção do túnel, a dimensão dos custos não era previsível",
+"nl": "Bij de bouw van de tunnel was de hoogte van de kosten niet te voorzien"
+},
+"Héicht\u00013\u00011": {
+"pt": "Transferimos um donativo na ordem de 200 euros",
+"nl": "We hebben een gift ter hoogte van 200 euro overgemaakt"
+},
+"Héicht\u00014\u00010": {
+"pt": "As duas aldeias situam-se aproximadamente à mesma altura",
+"nl": "De twee dorpen liggen ongeveer op dezelfde hoogte"
+},
+"Héicht\u00014\u00011": {
+"pt": "À altura da estação colidiram dois carros",
+"nl": "Ter hoogte van het station zijn twee auto's op elkaar gebotst"
+},
+"Héicht\u00015\u00010": {
+"pt": "O nosso novo colaborador não está (profissionalmente) à altura",
+"nl": "Onze nieuwe medewerker is (vakkundig) niet op de hoogte"
+},
+"Héicht\u00016\u00010": {
+"pt": "A minha mãe ultimamente já não está nada em forma",
+"nl": "Mijn moeder is de laatste tijd niet meer helemaal in orde"
+},
+"Héichuewen\u00010\u00010": {
+"pt": "O velho alto-forno vai ser demolido",
+"nl": "De oude hoogoven wordt afgebroken"
+},
+"Héichwaasser\u00010\u00010": {
+"pt": "As pessoas que vivem ao longo do rio sofreram muitos danos com as cheias",
+"nl": "De mensen die langs de rivier wonen, hadden veel schade door het hoogwater"
+},
+"Héichwaasser\u00010\u00011": {
+"pt": "As calças dele ficam-lhe curtas",
+"nl": "Zijn broek is te kort"
+},
+"héichwäerteg\u00010\u00010": {
+"pt": "No nosso restaurante só são usados produtos regionais de alta qualidade",
+"nl": "In ons restaurant worden alleen hoogwaardige en regionale levensmiddelen gebruikt"
+},
+"hei elei\u00010\u00010": {
+"pt": "Ora ora, ontem ainda afirmavas o contrário!",
+"nl": "Kijk eens aan, gisteren beweerde je nog het tegendeel!"
+},
+"hei elei\u00010\u00011": {
+"pt": "Ora ora, a ti é que eu não esperava agora!",
+"nl": "Kijk eens aan, jou had ik nu niet verwacht!"
+},
+"heierëmmer\u00010\u00010": {
+"pt": "Sabem se há uma farmácia por aqui?",
+"nl": "Weten jullie of er hier in de buurt een apotheek is?"
+},
+"héieren\u00010\u00010": {
+"pt": "Por causa do barulho, ninguém ouviu o que o orador disse",
+"nl": "Door het lawaai heeft niemand gehoord wat de spreker zei"
+},
+"héieren\u00010\u00011": {
+"pt": "Ouves-me?",
+"nl": "Hoor je me?"
+},
+"héieren\u00010\u00012": {
+"pt": "Esse gosta de se ouvir falar",
+"nl": "Die hoort zichzelf graag praten"
+},
+"héieren\u00011\u00010": {
+"pt": "Ouvi dizer que vais mudar-te para o estrangeiro",
+"nl": "Ik heb gehoord dat je naar het buitenland verhuist"
+},
+"héieren\u00012\u00010": {
+"pt": "Fala mais alto, já não oiço bem!",
+"nl": "Praat harder, ik hoor niet meer goed!"
+},
+"héieren\u00010\u00010~2": {
+"pt": "As duas partes foram ouvidas pelo juiz",
+"nl": "De twee partijen werden door de rechter gehoord"
+},
+"Héierenk\u00010\u00010": {
+"pt": "O arenque encontra-se em quase todos os mares do mundo",
+"nl": "De haring komt in bijna alle zeeën van de wereld voor"
+},
+"Héierenk\u00011\u00010": {
+"pt": "Um arenque fumado designa-se Béckerlek",
+"nl": "Een gerookte haring noemt men een bokking"
+},
+"Héieresoen\u00010\u00010": {
+"pt": "Eu não estava lá, só conheço a história por ouvir dizer",
+"nl": "Ik was er niet bij, ik ken het verhaal alleen van horen zeggen"
+},
+"héiergeschiedegt\u00010\u00010": {
+"pt": "O discurso do chefe de Estado também é traduzido para língua gestual na televisão, para pessoas com deficiência auditiva",
+"nl": "De toespraak van het staatshoofd wordt op tv voor mensen met een gehoorbeperking ook in gebarentaal vertaald"
+},
+"Héierverstoen\u00010\u00010": {
+"pt": "No ensino básico, a compreensão oral é avaliada com a ajuda de testes padronizados",
+"nl": "In de basisschool wordt het luisterbegrip met behulp van gestandaardiseerde tests getoetst"
+},
+"Héierverstoen\u00010\u00011": {
+"pt": "No teste de língua, os candidatos têm de demonstrar a sua compreensão oral",
+"nl": "Bij de taaltest moeten de kandidaten hun luistervaardigheid bewijzen"
+},
+"héiflech\u00010\u00010": {
+"pt": "Recebi uma resposta educada",
+"nl": "Ik kreeg een beleefd antwoord"
+},
+"héiflech\u00010\u00011": {
+"pt": "Ouviram-nos educadamente enquanto contávamos a nossa história",
+"nl": "Ze luisterden beleefd naar ons toen we ons verhaal vertelden"
+},
+"Héiflechkeet\u00010\u00010": {
+"pt": "Deixei-o acabar de falar por educação",
+"nl": "Ik liet hem uit beleefdheid uitpraten"
+},
+"Héiflechkeetsform\u00010\u00010": {
+"pt": "Na forma de cortesia, os pronomes pessoais da segunda pessoa do plural escrevem-se com maiúscula",
+"nl": "In de beleefdheidsvorm worden de persoonlijke voornaamwoorden van de tweede persoon meervoud met een hoofdletter geschreven"
+},
+"heiheem\u00010\u00010": {
+"pt": "Ainda bem que ficámos em casa, não pára de chover",
+"nl": "Het is goed dat we thuis zijn gebleven, het houdt niet op met regenen"
+},
+"heiheem\u00011\u00010": {
+"pt": "Não precisam de correr até ao fim do mundo, em casa é que é mais bonito",
+"nl": "Jullie hoeven niet tot het einde van de wereld te rennen, thuis is het het mooiste"
+},
+"heihin\u00010\u00010": {
+"pt": "Vem cá, tenho de te dizer uma coisa!",
+"nl": "Kom eens hier, ik moet je iets zeggen!"
+},
+"heihin\u00010\u00011": {
+"pt": "Aqui nunca mais volto!",
+"nl": "Hier kom ik nooit meer terug!"
+},
+"héijen\u00010\u00010": {
+"pt": "Se continuarem a aumentar os custos de aquecimento, daqui a pouco ando de casaco dentro de casa!",
+"nl": "Als ze de verwarmingskosten blijven verhogen, draag ik straks mijn jas binnen!"
+},
+"héijen\u00010\u00011": {
+"pt": "O nosso senhorio voltou este mês a aumentar-nos a renda",
+"nl": "Onze huisbaas heeft onze huur deze maand weer verhoogd"
+},
+"héijer\u00010\u00010": {
+"pt": "A iniciativa de cidadãos dirigiu-se de imediato a uma instância superior",
+"nl": "Het burgerinitiatief wendde zich meteen tot een hogere instantie"
+},
+"heikel\u00010\u00010": {
+"pt": "A morte assistida continua a ser um tema sensível",
+"nl": "Euthanasie is nog altijd een gevoelig onderwerp"
+},
+"heikel\u00010\u00011": {
+"pt": "Como jornalista, a perguntas delicadas obtêm-se muitas vezes apenas respostas vagas",
+"nl": "Als journalist krijg je op netelige vragen vaak maar vage antwoorden"
+},
+"Héil\u00010\u00010": {
+"pt": "No museu mostraram às crianças como antigamente os tachos eram pendurados no gancho da lareira",
+"nl": "In het museum kregen de kinderen te zien hoe vroeger de potten aan de ketelhaak werden gehangen"
+},
+"Héil\u00010\u00011": {
+"pt": "Ontem pendurámos o gancho da lareira",
+"nl": "Gisteren hebben we de ketelhaak opgehangen"
+},
+"Heilpraktiker\u00010\u00010": {
+"pt": "A minha amiga recomendou-me um terapeuta alternativo",
+"nl": "Mijn vriendin heeft me een heilpraktiker aanbevolen"
+},
+"Heilpraktikerin\u00010\u00010": {
+"pt": "A minha terapeuta alternativa percebe bem de homeopatia",
+"nl": "Mijn heilpraktikerin kent zich goed uit in homeopathie"
+},
+"Heinenhaff\u00010\u00010": {
+"pt": "Moro em Heinenhaff",
+"nl": "Ik woon op de Heinenhaff"
+},
+"Heinenhaff\u00010\u00011": {
+"pt": "Este autocarro vai para Heinenhaff?",
+"nl": "Rijdt deze bus naar de Heinenhaff?"
+},
+"heinidden\u00010\u00010": {
+"pt": "Quando as crianças estiverem todas cá em baixo, podemos comer",
+"nl": "Als alle kinderen hier beneden zijn, kunnen we eten"
+},
+"heinidden\u00011\u00010": {
+"pt": "Diz-se que estamos cá em baixo para trabalhar",
+"nl": "Er wordt gezegd dat we hier beneden zijn om te werken"
+},
+"Héischdref\u00010\u00010": {
+"pt": "Moro em Héischdref",
+"nl": "Ik woon in Héischdref"
+},
+"Héischdref\u00010\u00011": {
+"pt": "Este autocarro vai para Héischdref?",
+"nl": "Rijdt deze bus naar Héischdref?"
+},
+"Heischent\u00010\u00010": {
+"pt": "Moro em Heischent",
+"nl": "Ik woon in Heischent"
+},
+"Heischent\u00010\u00011": {
+"pt": "Este autocarro vai para Heischent?",
+"nl": "Rijdt deze bus naar Heischent?"
+},
+"Heischtergronn\u00010\u00010": {
+"pt": "Moro em Heischtergronn",
+"nl": "Ik woon in de Heischtergronn"
+},
+"Heischtergronn\u00010\u00011": {
+"pt": "Este autocarro vai para Heischtergronn?",
+"nl": "Rijdt deze bus naar de Heischtergronn?"
+},
+"Héiss\u00010\u00010": {
+"pt": "Encomendei um chispe com chucrute",
+"nl": "Ik heb een varkenspoot met zuurkool besteld"
+},
+"héissen\u00010\u00010": {
+"pt": "Marchámos pela floresta sem mapa e perdemo-nos",
+"nl": "We zijn zonder kaart door het bos getrokken en hebben ons verlopen"
 }
 }
