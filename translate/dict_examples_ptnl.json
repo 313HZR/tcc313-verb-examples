@@ -38928,8 +38928,8 @@
 "nl": "De paarden liepen over het veldpad het bos aan de andere kant in"
 },
 "déi Säit\u00010\u00011": {
-"pt": "Deste lado da vedação há alcachofras, do outro lado não há",
-"nl": "Aan deze kant van de omheining staan artisjokken, aan de andere kant niet"
+"pt": "Deste lado da vedação há couves-flores, do outro lado não há",
+"nl": "Aan deze kant van de omheining staan bloemkolen, aan de andere kant niet"
 },
 "Deisermillen\u00010\u00010": {
 "pt": "Moro em Deisermillen",
@@ -40498,5 +40498,905 @@
 "Dësch\u00011\u00010": {
 "pt": "Como o aluno falta constantemente sem justificação, vai comparecer perante o conselho disciplinar",
 "nl": "Omdat de leerling voortdurend onverontschuldigd ontbreekt, komt hij voor de tuchtraad"
+},
+"Dësch\u00011\u00011": {
+"pt": "O nosso clube de futebol vai comparecer perante o conselho disciplinar porque os adeptos fizeram desacatos no último jogo",
+"nl": "Onze voetbalclub komt voor de tuchtraad omdat de supporters bij de laatste wedstrijd hebben gerandaleerd"
+},
+"Dëschelduch\u00010\u00010": {
+"pt": "Só pomos toalha de mesa aos domingos",
+"nl": "We leggen alleen op zondag een tafelkleed op"
+},
+"Dëschelduch\u00010\u00011": {
+"pt": "Aquela toalha de mesa nunca fica limpa na lavagem",
+"nl": "Dat tafelkleed wordt in de was nooit schoon"
+},
+"Dëschnoper\u00010\u00010": {
+"pt": "No banquete diverti-me muito com os meus dois vizinhos de mesa",
+"nl": "Op het banket heb ik me met mijn twee tafelburen goed vermaakt"
+},
+"Dëschnoper\u00010\u00011": {
+"pt": "Ele roubou uma batata frita do prato do vizinho de mesa",
+"nl": "Hij heeft een friet van het bord van zijn tafelbuur gestolen"
+},
+"Dëschnopesch\u00010\u00010": {
+"pt": "A minha vizinha de mesa tinha-me levado por engano o guardanapo",
+"nl": "Mijn tafelbuurvrouw had per ongeluk mijn servet genomen"
+},
+"Dëschplack\u00010\u00010": {
+"pt": "Um tampo de mesa de vidro fica extremamente depressa sujo",
+"nl": "Een glazen tafelblad wordt razendsnel vuil"
+},
+"Dëschtel\u00010\u00010": {
+"pt": "Cuidado para não te picares no cardo!",
+"nl": "Pas op dat je je niet prikt aan de distel!"
+},
+"Dëschtelpéckchen\u00010\u00010": {
+"pt": "Quanto tempo chocam os pintassilgos?",
+"nl": "Hoe lang broeden putters?"
+},
+"Dëschtennis\u00010\u00010": {
+"pt": "Nos tempos livres joga ténis de mesa",
+"nl": "In zijn vrije tijd speelt hij tafeltennis"
+},
+"Dëschtennisclub\u00010\u00010": {
+"pt": "No clube de ténis de mesa sou responsável pela contabilidade",
+"nl": "In de tafeltennisclub ben ik verantwoordelijk voor de boekhouding"
+},
+"desdeeg\u00010\u00010": {
+"pt": "Encontrei o teu irmão na cidade há dias",
+"nl": "Ik ben je broer onlangs in de stad tegengekomen"
+},
+"desdeeg\u00010\u00011": {
+"pt": "Há dias aconteceu-me uma coisa engraçada",
+"nl": "Onlangs overkwam me iets grappigs"
+},
+"dësem\u00010\u00010": {
+"pt": "Temos de dizer a verdade a este malandro!",
+"nl": "We moeten deze kerel de waarheid zeggen!"
+},
+"dësem\u00010\u00011": {
+"pt": "De todos os meus amigos, é com este que melhor me dou",
+"nl": "Van al mijn vrienden kan ik het best met deze opschieten"
+},
+"dësem\u00011\u00010": {
+"pt": "Nesta cama dorme-se melhor",
+"nl": "In dit bed slaap je het best"
+},
+"dësem\u00011\u00011": {
+"pt": "Pega no outro livro de telefones, neste faltam algumas páginas",
+"nl": "Neem de telefoongids, in deze ontbreken enkele bladzijden"
+},
+"dësen\u00010\u00010": {
+"pt": "Dos três, gosto mais deste pulôver",
+"nl": "Van de drie bevalt me deze trui het best"
+},
+"dësen\u00010\u00011": {
+"pt": "Este é mais barato do que aquele ali",
+"nl": "Deze is goedkoper dan die daar"
+},
+"dësen\u00011\u00010": {
+"pt": "Planeámos uma excursão para este domingo",
+"nl": "We hebben voor deze zondag een uitstap gepland"
+},
+"dësen\u00011\u00011": {
+"pt": "De todos os sábados, escolhemos este para a nossa festa",
+"nl": "Van alle zaterdagen hebben we deze voor ons feest uitgekozen"
+},
+"dësen\u00012\u00010": {
+"pt": "Nestes dias choveu mais do que nos três meses anteriores",
+"nl": "In deze dagen heeft het meer geregend dan in de drie maanden ervoor"
+},
+"dësen\u00012\u00011": {
+"pt": "De todos os meus sapatos, é com estes que me sinto melhor",
+"nl": "Van al mijn schoenen voel ik me het best in deze"
+},
+"dëser\u00010\u00010": {
+"pt": "Neste troço já houve muitas vezes acidentes",
+"nl": "Op dit traject zijn al vaak ongevallen gebeurd"
+},
+"dëser\u00010\u00011": {
+"pt": "Dos meus três gatos, é a este que mais tenho de dar de comer",
+"nl": "Van mijn drie katten moet ik deze het meest te eten geven"
+},
+"dëser\u00011\u00010": {
+"pt": "Estou farto desta discussão",
+"nl": "Ik ben deze discussie beu"
+},
+"dëser\u00011\u00011": {
+"pt": "Esse molho não me agrada, prefiro este",
+"nl": "Die saus bevalt me niet, ik neem liever deze"
+},
+"dëser\u00012\u00010": {
+"pt": "Gostaríamos de duas daquelas maçãs e três destas",
+"nl": "We willen graag twee van die appels en drie van deze"
+},
+"desertéieren\u00010\u00010": {
+"pt": "Alguns soldados foram fuzilados porque queriam desertar",
+"nl": "Een aantal soldaten werd gefusilleerd omdat ze wilden deserteren"
+},
+"Deserteur\u00010\u00010": {
+"pt": "Na guerra, os desertores eram severamente punidos",
+"nl": "In de oorlog werden deserteurs zwaar gestraft"
+},
+"Deserteurin\u00010\u00010": {
+"pt": "Na guerra, uma desertora era severamente punida",
+"nl": "In de oorlog werd een deserteuse zwaar gestraft"
+},
+"dëses\u00010\u00010": {
+"pt": "Não quero mais deste vinho",
+"nl": "Van deze wijn wil ik niets meer"
+},
+"dëses\u00010\u00011": {
+"pt": "Esse sumo não é bom, já não quero mais disto",
+"nl": "Dat sap is niet goed, hiervan wil ik niets meer"
+},
+"dëses\u00011\u00010": {
+"pt": "Estou farto desta comida, não temos mesmo mais nada em casa?",
+"nl": "Ik ben dit eten beu, hebben we echt niets anders in huis?"
+},
+"dëses\u00011\u00011": {
+"pt": "Muda de assunto, estou a ficar farto disto!",
+"nl": "Verander eens van onderwerp, ik word hier zo langzamerhand zat van!"
+},
+"Deshydratatioun\u00010\u00010": {
+"pt": "A desidratação é um problema muito frequente sobretudo nos idosos em pleno verão",
+"nl": "Uitdroging is een probleem dat vooral bij oudere mensen in het hoogseizoen van de zomer heel vaak voorkomt"
+},
+"deshydratéieren\u00010\u00010": {
+"pt": "Como o sentido natural da sede diminui com a idade, há o risco de os doentes desidratarem",
+"nl": "Omdat het natuurlijke dorstgevoel met de leeftijd afneemt, bestaat het risico dat patiënten uitdrogen"
+},
+"Desiderata\u00010\u00010": {
+"pt": "Os professores podem agora entregar os seus desejos para o próximo ano letivo",
+"nl": "De leerkrachten kunnen nu hun wensen voor het volgende schooljaar indienen"
+},
+"Desiderata\u00010\u00011": {
+"pt": "O arquiteto tenta sempre satisfazer todos os desejos dos seus clientes",
+"nl": "De architect probeert altijd aan alle wensen van zijn klanten tegemoet te komen"
+},
+"Design\u00010\u00010": {
+"pt": "Aquele modelo de carro tem mesmo um design desportivo!",
+"nl": "Dat automodel heeft toch een sportieve vormgeving!"
+},
+"Design\u00011\u00010": {
+"pt": "O meu irmão estuda design no primeiro ano",
+"nl": "Mijn broer studeert in het eerste jaar design"
+},
+"Designer\u00010\u00010": {
+"pt": "Trabalho como designer numa conhecida fábrica de móveis",
+"nl": "Ik werk als designer bij een bekende meubelfabrikant"
+},
+"Designerin\u00010\u00010": {
+"pt": "Trabalho como designer numa conhecida fábrica de malas",
+"nl": "Ik werk als designster bij een bekende tassenfabrikant"
+},
+"Designerkleed\u00010\u00010": {
+"pt": "O meu novo vestido de marca é de algodão e seda",
+"nl": "Mijn nieuwe designerjurk is van katoen en zijde"
+},
+"Designerrack\u00010\u00010": {
+"pt": "A minha nova saia de marca é de algodão e seda",
+"nl": "Mijn nieuwe designerrok is van katoen en zijde"
+},
+"Desinfectant\u00010\u00010": {
+"pt": "Para uma ferida dessas, é melhor pores um desinfetante!",
+"nl": "Voor zo'n wond kun je beter een ontsmettingsmiddel gebruiken!"
+},
+"Desinfectant\u00010\u00011": {
+"pt": "O senhor da limpeza pulveriza regularmente as casas de banho com um desinfetante",
+"nl": "De schoonmaker spuit de toiletten regelmatig in met een ontsmettingsmiddel"
+},
+"Desinfektioun\u00010\u00010": {
+"pt": "Uma indicação muito importante durante a crise do coronavírus é lavar ou desinfetar as mãos",
+"nl": "Een heel belangrijke richtlijn tijdens de coronacrisis is het wassen of ontsmetten van de handen"
+},
+"Desinfektiounsgel\u00010\u00010": {
+"pt": "Os géis desinfetantes esgotaram rapidamente no início da crise da covid",
+"nl": "De ontsmettingsgels waren aan het begin van de coronacrisis snel uitverkocht"
+},
+"Desinfektiounsmëttel\u00010\u00010": {
+"pt": "Para uma ferida dessas, é melhor pores um desinfetante!",
+"nl": "Voor zo'n wond kun je beter een ontsmettingsmiddel gebruiken!"
+},
+"Desinfektiounsmëttel\u00010\u00011": {
+"pt": "A senhora da limpeza pulveriza regularmente as casas de banho com um desinfetante",
+"nl": "De schoonmaakster spuit de toiletten regelmatig in met een ontsmettingsmiddel"
+},
+"Desinfektiounsmëttel\u00010\u00012": {
+"pt": "Na primeira fase do desconfinamento, o uso de desinfetantes desempenhou um papel particularmente importante",
+"nl": "In de eerste fase van de afbouw van de lockdown speelde het gebruik van ontsmettingsmiddelen een bijzonder grote rol"
+},
+"Desinfektiounsseef\u00010\u00010": {
+"pt": "No escritório uso um sabão desinfetante para reduzir o risco de infeção",
+"nl": "Op kantoor gebruik ik een ontsmettende zeep om het risico op infectie te verminderen"
+},
+"desinfizéieren\u00010\u00010": {
+"pt": "O cirurgião desinfeta as mãos antes de operar",
+"nl": "De chirurg ontsmet zijn handen voordat hij opereert"
+},
+"desinfizéieren\u00010\u00011": {
+"pt": "Antes de serem deixados entrar na loja, os clientes têm de desinfetar as mãos",
+"nl": "Voordat ze de winkel binnen mogen, moeten klanten hun handen ontsmetten"
+},
+"Desinformatiounscampagne\u00010\u00010": {
+"pt": "Sobretudo em tempos de crise, é preciso ter cuidado para não cair em campanhas de desinformação",
+"nl": "Vooral in crisistijden moet men oppassen dat men niet in desinformatiecampagnes trapt"
+},
+"desinstalléieren\u00010\u00010": {
+"pt": "Desinstalei um programa e agora já não consigo abrir certos ficheiros",
+"nl": "Ik heb een programma gedeïnstalleerd en nu krijg ik bepaalde bestanden niet meer open"
+},
+"desinteresséiert\u00010\u00010": {
+"pt": "Alguns alunos estão totalmente desinteressados",
+"nl": "Een paar leerlingen zijn totaal ongeïnteresseerd"
+},
+"desinteresséiert\u00010\u00011": {
+"pt": "Ele olha para aquilo com ar completamente desinteressado",
+"nl": "Hij kijkt er helemaal ongeïnteresseerd naar"
+},
+"deskriptiv\u00010\u00010": {
+"pt": "Graças ao estilo descritivo do autor, é possível imaginar as personagens de forma vívida",
+"nl": "Dankzij de beschrijvende stijl van de auteur kun je je de personages levendig voorstellen"
+},
+"deskriptiv\u00011\u00010": {
+"pt": "O LOD é um dicionário descritivo que informa sobre o sentido e a ortografia das palavras",
+"nl": "De LOD is een beschrijvend woordenboek dat informeert over de betekenis en de spelling van woorden"
+},
+"Desktop\u00010\u00010": {
+"pt": "Põe um atalho do programa no teu ambiente de trabalho",
+"nl": "Zet een snelkoppeling van het programma op je bureaublad"
+},
+"Desktop\u00010\u00011": {
+"pt": "O ambiente de trabalho do teu computador precisava de ser arrumado",
+"nl": "Het bureaublad van je computer zou moeten worden opgeruimd"
+},
+"deslescht\u00010\u00010": {
+"pt": "Encontrei o teu irmão na cidade há dias",
+"nl": "Ik ben je broer onlangs in de stad tegengekomen"
+},
+"deslescht\u00010\u00011": {
+"pt": "Há dias aconteceu-me uma coisa engraçada",
+"nl": "Onlangs overkwam me iets grappigs"
+},
+"dës Säit\u00010\u00010": {
+"pt": "Toda a gente deste lado da fronteira conhece a pequena localidade",
+"nl": "Iedereen aan deze kant van de grens kent het kleine dorpje"
+},
+"dës Säit\u00010\u00010~2": {
+"pt": "Deste lado do rio as pessoas falam uma língua diferente da do outro lado",
+"nl": "Aan deze kant van de rivier spreken de mensen een andere taal dan aan de andere kant"
+},
+"dës Säit\u00010\u00011": {
+"pt": "Daquele lado da vedação há couves-flores, deste lado não há",
+"nl": "Aan die kant van de omheining staan bloemkolen, aan deze kant niet"
+},
+"Dessert\u00010\u00010": {
+"pt": "Comi demais, já não quero mais sobremesa",
+"nl": "Ik heb te veel gegeten, ik wil geen dessert meer"
+},
+"Dessin animé\u00010\u00010": {
+"pt": "Quando era pequeno, adorava ver desenhos animados",
+"nl": "Toen ik klein was, keek ik ontzettend graag tekenfilms"
+},
+"dëst\u00010\u00010": {
+"pt": "Esta canção teve muito sucesso em todo o lado",
+"nl": "Dit lied had overal veel succes"
+},
+"dëst\u00010\u00011": {
+"pt": "Conheço várias canções desse cantor, mas esta é a mais divertida",
+"nl": "Ik ken een aantal liedjes van die zanger, maar dit is het grappigste"
+},
+"dëst\u00011\u00010": {
+"pt": "Fala-se muito deste tema nos últimos tempos",
+"nl": "Over dit thema is de laatste tijd veel gepraat"
+},
+"dëst\u00011\u00011": {
+"pt": "Essa toalha de mesa tem manchas, pega antes nesta!",
+"nl": "Dat tafelkleed heeft vlekken, neem liever dit!"
+},
+"destabiliséieren\u00010\u00010": {
+"pt": "Com as suas ações, os separatistas querem desestabilizar o governo",
+"nl": "Met hun acties willen de separatisten de regering destabiliseren"
+},
+"Destinatioun\u00010\u00010": {
+"pt": "O avião chega ao seu destino dentro de duas horas",
+"nl": "Het vliegtuig komt over twee uur op zijn bestemming aan"
+},
+"Destinatioun\u00010\u00011": {
+"pt": "A agência de viagens oferece oito novos destinos",
+"nl": "Het reisbureau biedt acht nieuwe bestemmingen aan"
+},
+"Destitutioun\u00010\u00010": {
+"pt": "O Parlamento iniciou o procedimento de destituição do presidente",
+"nl": "Het parlement heeft de procedure voor de afzetting van de president ingeleid"
+},
+"Destitutioun\u00010\u00011": {
+"pt": "Devido à suspeita de corrupção, a oposição exige a destituição do ministro",
+"nl": "Wegens het vermoeden van corruptie eist de oppositie het ontslag van de minister"
+},
+"desto\u00010\u00010": {
+"pt": "Quanto mais se proíbe algo às crianças, mais isso as ocupa",
+"nl": "Hoe meer je kinderen iets verbiedt, des te meer houdt het hen bezig"
+},
+"detachéieren\u00010\u00010": {
+"pt": "O funcionário foi destacado para outro ministério",
+"nl": "De ambtenaar werd gedetacheerd bij een ander ministerie"
+},
+"Detail\u00010\u00010": {
+"pt": "Os nossos amigos tinham planeado o seu casamento até ao mais pequeno detalhe",
+"nl": "Onze vrienden hadden hun huwelijk tot in de kleinste details gepland"
+},
+"Detail\u00010\u00011": {
+"pt": "Não percas tempo com detalhes sem importância!",
+"nl": "Verlies geen tijd met onbelangrijke details!"
+},
+"Detail\u00010\u00012": {
+"pt": "Explica isso em pormenor!",
+"nl": "Leg dat eens in detail uit!"
+},
+"Detail\u00010\u00013": {
+"pt": "Podem entrar nos pormenores do projeto?",
+"nl": "Kunt u ingaan op de details van het project?"
+},
+"Detailfro\u00010\u00010": {
+"pt": "Quando as últimas questões de pormenor forem esclarecidas, o projeto pode ser lançado",
+"nl": "Wanneer de laatste detailvragen opgehelderd zijn, kan het project worden gelanceerd"
+},
+"detailléiert\u00010\u00010": {
+"pt": "O empreiteiro passou ao cliente uma fatura detalhada",
+"nl": "De aannemer schreef de klant een gedetailleerde factuur"
+},
+"detailléiert\u00010\u00011": {
+"pt": "Fizeram-nos uma descrição muito pormenorizada disso",
+"nl": "Het werd ons zeer gedetailleerd beschreven"
+},
+"Detektioun\u00010\u00010": {
+"pt": "É preciso informar melhor a população sobre a deteção e a prevenção da diabetes",
+"nl": "Men moet de bevolking nog beter voorlichten over de opsporing en de preventie van diabetes"
+},
+"Detektioun\u00010\u00011": {
+"pt": "Depois de detetada a fuga, a comuna cortou imediatamente a água",
+"nl": "Nadat het lek was opgespoord, sloot de gemeente meteen het water af"
+},
+"Detektiv\u00010\u00010": {
+"pt": "Em criança sempre sonhei ser detetive um dia",
+"nl": "Als kind heb ik altijd gedroomd om later detective te worden"
+},
+"Detektivin\u00010\u00010": {
+"pt": "Como se rouba tanto, a loja contratou agora uma detetive",
+"nl": "Omdat er zoveel gestolen wordt, heeft de winkel nu een detective aangenomen"
+},
+"Deuxième\u00010\u00010": {
+"pt": "No penúltimo ano do liceu tive um professor de Francês muito empenhado",
+"nl": "In het voorlaatste jaar had ik een zeer toegewijde leraar Frans"
+},
+"Deuxième\u00010\u00011": {
+"pt": "No nosso liceu há oito turmas do penúltimo ano",
+"nl": "Op ons lyceum zijn er acht klassen in het voorlaatste jaar"
+},
+"Deux-pièces\u00010\u00010": {
+"pt": "A avó usou no casamento um elegante tailleur azul-claro",
+"nl": "Oma droeg op de bruiloft een chic lichtblauw mantelpak"
+},
+"Deux-pièces\u00010\u00011": {
+"pt": "Nos saldos comprei dois tailleurs",
+"nl": "In de solden heb ik twee mantelpakjes gekocht"
+},
+"developpéieren\u00010\u00010": {
+"pt": "Foi desenvolvido um novo sistema de travagem para comboios",
+"nl": "Er is een nieuw remsysteem voor treinen ontwikkeld"
+},
+"developpéieren\u00011\u00010": {
+"pt": "Os alunos devem desenvolver as suas ideias numa redação",
+"nl": "De leerlingen moeten hun ideeën in een opstel uitwerken"
+},
+"developpéieren\u00012\u00010": {
+"pt": "Mandei revelar os rolos de filme das férias",
+"nl": "Ik heb de filmrolletjes van de vakantie laten ontwikkelen"
+},
+"developpéieren\u00013\u00010": {
+"pt": "Essa questão ainda tem de se desenvolver bem",
+"nl": "Die zaak moet zich nog goed ontwikkelen"
+},
+"Developpement\u00010\u00010": {
+"pt": "O desenvolvimento desse conceito demorou muito tempo",
+"nl": "De ontwikkeling van dat concept heeft lang geduurd"
+},
+"Deviatioun\u00010\u00010": {
+"pt": "Perdemo-nos porque o desvio não estava bem sinalizado",
+"nl": "We zijn verdwaald omdat de omleiding niet goed bewegwijzerd was"
+},
+"Deviatioun\u00010\u00011": {
+"pt": "Por causa de tantos desvios, chegámos muito tarde",
+"nl": "Door al die omleidingen zijn we veel te laat gekomen"
+},
+"Deviatiounsschëld\u00010\u00010": {
+"pt": "Quando não conheço o caminho, prefiro seguir os sinais de desvio",
+"nl": "Als ik de weg niet ken, volg ik liever de omleidingsborden"
+},
+"deviéieren\u00010\u00010": {
+"pt": "Por causa das obras, o trânsito da autoestrada é desviado para a estrada nacional",
+"nl": "Wegens de werken wordt het verkeer van de autosnelweg over de provinciale weg omgeleid"
+},
+"deviéieren\u00010\u00011": {
+"pt": "Todas as chamadas para o telefone da diretora são desviadas para o secretariado",
+"nl": "Alle oproepen naar de telefoon van de directrice worden doorgeschakeld naar het secretariaat"
+},
+"deviéieren\u00011\u00010": {
+"pt": "Quando a bola é desviada involuntariamente para a baliza, fala-se de autogolo",
+"nl": "Wanneer de bal onbedoeld in het eigen doel wordt afgeweken, spreekt men van een eigen doelpunt"
+},
+"Devis\u00010\u00010": {
+"pt": "Pedi a dois telhadores um orçamento para um telhado novo",
+"nl": "Ik heb bij twee dakdekkers een offerte voor een nieuw dak gevraagd"
+},
+"Devis\u00011\u00010": {
+"pt": "Arquiva esses três orçamentos no mesmo dossiê!",
+"nl": "Klasseer die drie offertes in dezelfde ringmap!"
+},
+"Devise\u00010\u00010": {
+"pt": "Conheces o lema dos escuteiros?",
+"nl": "Ken je het motto van de scouts?"
+},
+"Devise\u00011\u00010": {
+"pt": "Aceitam o euro como moeda?",
+"nl": "Aanvaardt u de euro als betaalmiddel?"
+},
+"Dezember\u00010\u00010": {
+"pt": "Os vizinhos vão em dezembro para os desportos de inverno",
+"nl": "De buren gaan in december op wintersport"
+},
+"dezent\u00010\u00010": {
+"pt": "Ele tem uma maneira discreta de se vestir",
+"nl": "Hij kleedt zich op een discrete manier"
+},
+"dezent\u00010\u00011": {
+"pt": "Os quartos daquele novo hotel estão decorados com discrição",
+"nl": "De kamers in dat nieuwe hotel zijn sober ingericht"
+},
+"Deziliter\u00010\u00010": {
+"pt": "Este remédio só se compra em frascos de cinco decilitros",
+"nl": "Dit middel koop je alleen in flessen van vijf deciliter"
+},
+"Dezimalzuel\u00010\u00010": {
+"pt": "Como trabalho de casa, as crianças tiveram de converter números decimais em frações",
+"nl": "Als huiswerk moesten de kinderen decimale getallen in breuken omzetten"
+},
+"Dezimeter\u00010\u00010": {
+"pt": "A professora explicou às crianças que um metro corresponde a dez decímetros",
+"nl": "De lerares legde de kinderen uit dat één meter overeenkomt met tien decimeter"
+},
+"Dezimeterkaree\u00010\u00010": {
+"pt": "Quantos decímetros quadrados tem este pedaço de tecido?",
+"nl": "Hoeveel vierkante decimeter heeft dit stuk stof?"
+},
+"Dezimeterkibb\u00010\u00010": {
+"pt": "Quantos decímetros cúbicos de água cabem neste balde?",
+"nl": "Hoeveel kubieke decimeter water gaat er in deze emmer?"
+},
+"Dhaka\u00010\u00010": {
+"pt": "Daca é a capital do Bangladeche",
+"nl": "Dhaka is de hoofdstad van Bangladesh"
+},
+"Dia\u00010\u00010": {
+"pt": "Comprei no mercado das pulgas um projetor para ver os meus velhos diapositivos",
+"nl": "Op de rommelmarkt heb ik een projector gekocht om mijn oude dia's te bekijken"
+},
+"Diabeetes\u00010\u00010": {
+"pt": "Por causa da diabetes, ele tem de seguir um regime estrito",
+"nl": "Wegens zijn diabetes moet hij een streng dieet volgen"
+},
+"Diabeetes\u00010\u00011": {
+"pt": "Há pouco tempo o médico descobriu que o meu tio tem diabetes",
+"nl": "Onlangs heeft de dokter ontdekt dat mijn oom diabetes heeft"
+},
+"Diabeetiker\u00010\u00010": {
+"pt": "O diabético tem de dar a si próprio três injeções de insulina por dia",
+"nl": "De diabeet moet zichzelf elke dag drie insulinespuiten geven"
+},
+"Diabeetikerin\u00010\u00010": {
+"pt": "Como diabética, tenho de medir regularmente o meu açúcar no sangue",
+"nl": "Als diabetica moet ik regelmatig mijn bloedsuiker meten"
+},
+"Diagnos\u00010\u00010": {
+"pt": "O médico tem de esperar pela análise ao sangue antes de poder fazer um diagnóstico",
+"nl": "De dokter moet de bloedanalyse afwachten voordat hij een diagnose kan stellen"
+},
+"diagnostizéieren\u00010\u00010": {
+"pt": "A doença dele foi diagnosticada demasiado tarde",
+"nl": "Zijn ziekte werd te laat gediagnosticeerd"
+},
+"diagonal\u00010\u00010": {
+"pt": "Diz-me uma bandeira com riscas diagonais!",
+"nl": "Noem me een vlag met diagonale strepen!"
+},
+"diagonal\u00010\u00011": {
+"pt": "A farmácia fica diagonalmente em frente à escola",
+"nl": "De apotheek ligt diagonaal tegenover de school"
+},
+"diagonal\u00010\u00012": {
+"pt": "Li o texto apenas na diagonal",
+"nl": "Ik heb de tekst maar diagonaal gelezen"
+},
+"Diagonal\u00010\u00010": {
+"pt": "Vamos traçar duas diagonais neste retângulo!",
+"nl": "Laten we twee diagonalen door die rechthoek trekken!"
+},
+"Diagonal\u00010\u00011": {
+"pt": "Se se cortar um quadrado na diagonal, obtêm-se dois triângulos",
+"nl": "Als men een vierkant volgens de diagonaal doorsnijdt, krijgt men twee driehoeken"
+},
+"Diagramm\u00010\u00010": {
+"pt": "No seu artigo, o cientista ilustrou os seus resultados com vários diagramas",
+"nl": "In zijn artikel illustreerde de wetenschapper zijn resultaten met verschillende diagrammen"
+},
+"Diakon\u00010\u00010": {
+"pt": "Ao meio-dia, dois jovens são ordenados diáconos pelo arcebispo na catedral",
+"nl": "Vanmiddag worden in de kathedraal twee jonge mannen door de aartsbisschop tot diaken gewijd"
+},
+"Diakon\u00011\u00010": {
+"pt": "Desde há pouco trabalha meio dia como diácono e gere os projetos caritativos da nossa comunidade paroquial",
+"nl": "Sinds kort werkt hij halftijds als diaken en beheert hij de caritatieve projecten van onze kerkgemeenschap"
+},
+"Diakonin\u00010\u00010": {
+"pt": "A minha cunhada é diaconisa na Igreja Anglicana",
+"nl": "Mijn schoonzus is diakones in de Anglicaanse Kerk"
+},
+"Diakonin\u00011\u00010": {
+"pt": "A minha mulher trabalha desde há pouco a meio tempo como diaconisa na nossa comunidade paroquial",
+"nl": "Mijn vrouw werkt sinds kort halftijds als diakones in onze kerkgemeenschap"
+},
+"diakritesch\u00010\u00010": {
+"pt": "O acento e o circunflexo são sinais diacríticos",
+"nl": "Het accent en het circumflex zijn diakritische tekens"
+},
+"Dialekt\u00010\u00010": {
+"pt": "A minha avó ainda fala um dialeto que já não percebo",
+"nl": "Mijn oma spreekt nog een dialect dat ik niet meer versta"
+},
+"Dialekt\u00010\u00011": {
+"pt": "Muitos dialetos têm a sua própria literatura",
+"nl": "Veel dialecten hebben hun eigen literatuur"
+},
+"Dialog\u00010\u00010": {
+"pt": "Os sindicatos defendem o diálogo social",
+"nl": "De vakbonden zetten zich in voor de sociale dialoog"
+},
+"Dialog\u00010\u00011": {
+"pt": "Com aquele tipo transtornado não é possível diálogo",
+"nl": "Met die verknipte kerel is geen dialoog mogelijk"
+},
+"Dialog\u00011\u00010": {
+"pt": "Gosto de ler peças com diálogos absurdos",
+"nl": "Ik lees graag stukken met absurde dialogen"
+},
+"Diamant\u00010\u00010": {
+"pt": "O diamante é o mineral mais duro",
+"nl": "De diamant is het hardste mineraal"
+},
+"Diamant\u00010\u00011": {
+"pt": "Uma vez ofereceram-me um anel com um diamante",
+"nl": "Ik kreeg eens een ring met een diamant cadeau"
+},
+"Diänjen\u00010\u00010": {
+"pt": "Moro em Doennange",
+"nl": "Ik woon in Doennange"
+},
+"Diänjen\u00010\u00011": {
+"pt": "Este autocarro vai para Doennange?",
+"nl": "Rijdt deze bus naar Doennange?"
+},
+"Diaphragma\u00010\u00010": {
+"pt": "Se uma mulher não tolerar a pílula, um diafragma pode ser uma alternativa contracetiva",
+"nl": "Als een vrouw de pil niet verdraagt, kan een pessarium een alternatief voor anticonceptie zijn"
+},
+"Diasprojekter\u00010\u00010": {
+"pt": "No fim de semana tive de limpar a lente do meu velho projetor de diapositivos",
+"nl": "Dit weekend moest ik de lens van mijn oude diaprojector reinigen"
+},
+"Dibbelchen\u00010\u00010": {
+"pt": "Já não tinha um tostão na carteira",
+"nl": "Ze had geen rooie cent meer in haar portemonnee"
+},
+"Dibbelchen\u00010\u00011": {
+"pt": "Tinha gasto toda a sua fortuna até ao último tostão",
+"nl": "Hij had zijn hele vermogen tot de laatste cent uitgegeven"
+},
+"Dibbelchen\u00010\u00012": {
+"pt": "O projeto foi elaborado até ao último pormenor",
+"nl": "Het project werd tot in de kleinste details uitgewerkt"
+},
+"Dibbelchen\u00010\u00013": {
+"pt": "Isso não me interessa nem um bocadinho!",
+"nl": "Dat interesseert me geen zier!"
+},
+"dicht\u00010\u00010": {
+"pt": "A janela não está estanque, a chuva entra",
+"nl": "Het raam sluit niet goed, de regen komt naar binnen"
+},
+"dicht\u00010\u00011": {
+"pt": "Tenho os pés molhados porque os meus sapatos já não são impermeáveis",
+"nl": "Ik heb natte voeten omdat mijn schoenen niet meer waterdicht zijn"
+},
+"dicht\u00011\u00010": {
+"pt": "Através da sebe densa ninguém vê o nosso jardim",
+"nl": "Door de dichte haag kan niemand in onze tuin kijken"
+},
+"dicht\u00011\u00011": {
+"pt": "Com trânsito intenso, é especialmente importante manter distância suficiente do veículo da frente",
+"nl": "Bij druk verkeer is het bijzonder belangrijk voldoende afstand te houden tot het voorliggende voertuig"
+},
+"dicht\u00011\u00012": {
+"pt": "Aquela região é particularmente densamente povoada",
+"nl": "Die streek is bijzonder dichtbevolkt"
+},
+"dichteg\u00010\u00010": {
+"pt": "O nosso genro é um cirurgião competente",
+"nl": "Onze schoonzoon is een bekwaam chirurg"
+},
+"dichteg\u00010\u00011": {
+"pt": "O meu primo é bom a jogar ténis",
+"nl": "Mijn neef is goed in tennis"
+},
+"dichteg\u00010\u00012": {
+"pt": "O bebé já consegue balbuciar bastante bem",
+"nl": "De baby kan al behoorlijk goed brabbelen"
+},
+"dichteg\u00011\u00010": {
+"pt": "O advogado trabalha num escritório de renome",
+"nl": "De advocaat werkt in een gerenommeerd kantoor"
+},
+"dichteg\u00011\u00011": {
+"pt": "Amanhã à noite, uma cirurgiã de renome dá uma conferência",
+"nl": "Morgenavond geeft een vooraanstaande chirurge een lezing"
+},
+"dichteg\u00011\u00012": {
+"pt": "Algumas pessoas julgam-se muito importantes",
+"nl": "Sommige mensen vinden zichzelf erg belangrijk"
+},
+"dichteg\u00012\u00010": {
+"pt": "Daquele bebé franzino fez-se um rapaz robusto",
+"nl": "Uit dat tengere baby'tje is een stevige jongen gegroeid"
+},
+"dichten\u00010\u00010": {
+"pt": "Ele sempre pintou, agora começa também a escrever poesia",
+"nl": "Hij heeft altijd geschilderd, nu begint hij er ook nog poëzie bij te schrijven"
+},
+"dichten\u00011\u00010": {
+"pt": "Para o Dia da Mãe, as crianças aprenderam um texto que a professora tinha escrito ela própria",
+"nl": "Voor Moederdag leerden de kinderen een tekst die de lerares zelf had gedicht"
+},
+"Dichter\u00010\u00010": {
+"pt": "Os dois poetas publicaram um livro em conjunto",
+"nl": "De twee dichters hebben samen een boek uitgegeven"
+},
+"Dichterin\u00010\u00010": {
+"pt": "A poetisa publicou um novo poema",
+"nl": "De dichteres heeft een nieuw gedicht gepubliceerd"
+},
+"Dichtung\u00010\u00010": {
+"pt": "A vedação da torneira tem de ser substituída",
+"nl": "De dichting van de kraan moet worden vervangen"
+},
+"Dickdarm\u00010\u00010": {
+"pt": "O cólon rodeia como uma moldura o intestino delgado",
+"nl": "De dikke darm ligt als een lijst om de dunne darm"
+},
+"Dickelchen\u00010\u00010": {
+"pt": "Na quinta, as crianças foram ver os pintainhos e os gansos",
+"nl": "Op de boerderij zijn de kinderen de kuikens en de ganzen gaan bekijken"
+},
+"Dickelchen\u00011\u00010": {
+"pt": "Pergunto-me o que é que aquela jovem vê naquele velho",
+"nl": "Ik vraag me af wat dat jonge ding in die oude kerel ziet"
+},
+"Dickeschbur\u00010\u00010": {
+"pt": "Moro em Dickeschbur",
+"nl": "Ik woon op Dickeschbur"
+},
+"Dickeschbur\u00010\u00011": {
+"pt": "Este autocarro vai para Dickeschbur?",
+"nl": "Rijdt deze bus naar Dickeschbur?"
+},
+"Dickweiler\u00010\u00010": {
+"pt": "Moro em Dickweiler",
+"nl": "Ik woon in Dickweiler"
+},
+"Dickweiler\u00010\u00011": {
+"pt": "Este autocarro vai para Dickweiler?",
+"nl": "Rijdt deze bus naar Dickweiler?"
+},
+"Dictée\u00010\u00010": {
+"pt": "A nossa professora fez hoje connosco um ditado muito difícil",
+"nl": "Onze lerares heeft vandaag een zeer moeilijk dictee met ons gedaan"
+},
+"Dictée\u00011\u00010": {
+"pt": "Os alunos têm de arquivar os ditados no seu dossiê",
+"nl": "De leerlingen moeten de dictees in hun ringmap steken"
+},
+"Dictionnaire\u00010\u00010": {
+"pt": "Podes procurar essa palavra no dicionário?",
+"nl": "Kun je dat woord in het woordenboek opzoeken?"
+},
+"Dictionnaire\u00010\u00011": {
+"pt": "Ele é uma espécie de dicionário vivo",
+"nl": "Hij is zoiets als een levend woordenboek"
+},
+"didaktesch\u00010\u00010": {
+"pt": "Os conhecimentos especializados nada dizem sobre as capacidades didáticas do candidato",
+"nl": "Vakkennis zegt niets over de didactische vaardigheden van de kandidaat"
+},
+"didaktesch\u00010\u00011": {
+"pt": "A nossa escola recebeu novo material didático",
+"nl": "Onze school heeft nieuw didactisch materiaal gekregen"
+},
+"didaktesch\u00010\u00012": {
+"pt": "Esse livro tem valor didático",
+"nl": "Dat boek is didactisch waardevol"
+},
+"Didaktik\u00010\u00010": {
+"pt": "Se queres ser professor, também precisas de uma sólida formação em didática",
+"nl": "Als je leraar wilt worden, heb je ook een stevige opleiding in didactiek nodig"
+},
+"Diddeleng\u00010\u00010": {
+"pt": "Moro em Dudelange",
+"nl": "Ik woon in Dudelange"
+},
+"Diddeleng\u00010\u00011": {
+"pt": "Este autocarro vai para Dudelange?",
+"nl": "Rijdt deze bus naar Dudelange?"
+},
+"Diddelenger Baach\u00010\u00010": {
+"pt": "O Diddelenger Baach desagua no Alzette perto de Bettembourg",
+"nl": "De Diddelenger Baach mondt bij Bettembourg uit in de Alzette"
+},
+"Diddenuewen\u00010\u00010": {
+"pt": "Moro em Thionville",
+"nl": "Ik woon in Thionville"
+},
+"Diddenuewen\u00010\u00011": {
+"pt": "Este autocarro vai para Thionville?",
+"nl": "Rijdt deze bus naar Thionville?"
+},
+"diebelen\u00010\u00010": {
+"pt": "O ferreiro dobrou a chapa com as mãos",
+"nl": "De smid heeft de plaat met zijn handen gebogen"
+},
+"diebelen\u00010\u00011": {
+"pt": "Amolguei o meu carro novo",
+"nl": "Ik heb mijn nieuwe auto gedeukt"
+},
+"diebelen\u00011\u00010": {
+"pt": "O ferido contorcia-se com dores",
+"nl": "De gewonde kronkelde van de pijn"
+},
+"diebelen\u00011\u00011": {
+"pt": "As pessoas torciam-se a rir com a atuação do palhaço",
+"nl": "De mensen kronkelden van het lachen bij het optreden van de clown"
+},
+"diedegen\u00010\u00010": {
+"pt": "As minhas tias discutiam animadamente sobre política na sala",
+"nl": "Mijn tantes discussieerden in de woonkamer druk over politiek"
+},
+"Dier\u00010\u00010": {
+"pt": "Quando eu estiver fora, não abras a porta a ninguém!",
+"nl": "Als ik weg ben, mag je voor niemand de deur opendoen!"
+},
+"Dier\u00010\u00011": {
+"pt": "Na porta do frigorífico há duas garrafas de vinho",
+"nl": "In de deur van de koelkast staan twee flessen wijn"
+},
+"Dier\u00010\u00012": {
+"pt": "Só quero um carro com quatro portas",
+"nl": "Ik wil alleen een auto met vier deuren"
+},
+"Dier\u00010\u00013": {
+"pt": "Isso não fica ao virar da esquina",
+"nl": "Dat is niet om de hoek"
+},
+"Dier\u00010\u00014": {
+"pt": "Ontem não me atrevi a sair",
+"nl": "Gisteren durfde ik niet naar buiten"
+},
+"Dier\u00010\u00015": {
+"pt": "Têm de passar mais uma porta",
+"nl": "U moet nog één deur verder gaan"
+},
+"Dier\u00010\u00016": {
+"pt": "O Natal está à porta",
+"nl": "Kerstmis staat voor de deur"
+},
+"Dier\u00010\u00017": {
+"pt": "Puseram-me na rua",
+"nl": "Ik werd op straat gezet"
+},
+"Dier\u00010\u00018": {
+"pt": "Na nossa empresa, três pessoas foram postas na rua",
+"nl": "Bij ons in het bedrijf zijn drie mensen ontslagen"
+},
+"Dier\u00010\u00019": {
+"pt": "Com os teus argumentos, estás a bater à porta aberta comigo",
+"nl": "Met je argumenten loop je bij mij open deuren in"
+},
+"Dier\u00010\u000110": {
+"pt": "Queríamos ir ao museu, mas encontrámos as portas fechadas",
+"nl": "We wilden naar het museum gaan, maar stonden voor gesloten deuren"
+},
+"Dier\u00010\u000111": {
+"pt": "As conversações decorrem à porta fechada",
+"nl": "De gesprekken worden achter gesloten deuren gevoerd"
+},
+"Dier\u00010\u000112": {
+"pt": "Deixa-te uma porta dos fundos!",
+"nl": "Laat een achterdeurtje voor jezelf open!"
+},
+"Dier\u00010\u000113": {
+"pt": "Com esse diploma abrem-se-te todas as portas",
+"nl": "Met dat diploma staan alle deuren voor je open"
+},
+"Dier\u00011\u00010": {
+"pt": "Nunca vais passar esse armário largo pela porta!",
+"nl": "Je krijgt die brede kast nooit door de deur!"
+},
+"Dier\u00011\u00011": {
+"pt": "As crianças estavam a saltar nas camas e de repente o pai apareceu à porta",
+"nl": "De kinderen sprongen op de bedden en plots stond pa in de deur"
+},
+"Dier\u00012\u00010": {
+"pt": "Muita gente estava à porta ou à janela quando o cortejo passou",
+"nl": "Veel mensen stonden voor de deur of lagen uit het raam toen de stoet voorbijkwam"
+},
+"Dier\u00012\u00011": {
+"pt": "A carteira deixou-nos um pacote à porta",
+"nl": "De postbode heeft een pakket voor onze deur gezet"
+},
+"Dier\u00013\u00010": {
+"pt": "Porque é que vais de carro ao supermercado comprar carne, se tens o talho à porta!",
+"nl": "Waarom rij je met de auto naar de supermarkt om vlees te kopen, je hebt de slager toch voor de deur!"
+},
+"dier\u00010\u00010": {
+"pt": "Vai buscar uns ramos secos para acender o fogo!",
+"nl": "Ga een paar droge takken zoeken om het vuur aan te steken!"
+},
+"dierängelen\u00010\u00010": {
+"pt": "Basta, já me aborreceste durante tempo suficiente!",
+"nl": "Het is genoeg, je hebt me lang genoeg lastiggevallen!"
+},
+"dierängelen\u00010\u00011": {
+"pt": "As crianças pediram-me o dia inteiro para ir ao parque infantil",
+"nl": "De kinderen zeurden me de hele dag aan mijn hoofd om naar de speelplaats te gaan"
+},
+"dierängelen\u00011\u00010": {
+"pt": "Na escola ele era sempre gozado pelos colegas",
+"nl": "Op school werd hij altijd door zijn klasgenoten gepest"
+},
+"Dierbech\u00010\u00010": {
+"pt": "Moro em Dirbach",
+"nl": "Ik woon in Dirbach"
+},
+"Dierbech\u00010\u00011": {
+"pt": "Este autocarro vai para Dirbach?",
+"nl": "Rijdt deze bus naar Dirbach?"
+},
+"Dierwiechter\u00010\u00010": {
+"pt": "Por ordem do tribunal, o oficial de justiça apreendeu o carro",
+"nl": "In opdracht van de rechtbank heeft de deurwaarder de auto in beslag genomen"
+},
+"Dierwiechterin\u00010\u00010": {
+"pt": "A segurança da porta não me quis deixar entrar na discoteca porque não gostou dos meus sapatos",
+"nl": "De portierster wilde me niet in de disco laten omdat ze mijn schoenen niet mooi vond"
+},
+"dierzen\u00010\u00010": {
+"pt": "O meu colega, até há pouco, ainda me tratava com formalidade",
+"nl": "Mijn collega zei tot voor kort nog 'u' tegen me"
+},
+"dierzen\u00010\u00011": {
+"pt": "Ele trata-se a si próprio com cerimónia!",
+"nl": "Hij zegt 'u' tegen zichzelf!"
+},
+"Dièse\u00010\u00010": {
+"pt": "O sustenido é notado numa partitura com ♯",
+"nl": "Het kruis wordt in een partituur genoteerd met ♯"
 }
 }
