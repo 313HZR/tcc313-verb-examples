@@ -100798,5 +100798,905 @@
 "Käfeg\u00010\u00010": {
 "pt": "Quem deixou o papagaio sair da gaiola?",
 "nl": "Wie heeft de papegaai uit de kooi gelaten?"
+},
+"Käfeg\u00010\u00011": {
+"pt": "Alguém te provocou?",
+"nl": "Heeft iemand je getreiterd?"
+},
+"kafen\u00010\u00010": {
+"pt": "Vou comprar agora uma boa Mettwurst!",
+"nl": "Ik ga nu een lekkere metworst kopen!"
+},
+"kafen\u00010\u00011": {
+"pt": "Não temos dinheiro suficiente para comprar uma casa",
+"nl": "We hebben niet genoeg geld om een huis te kopen"
+},
+"kafen\u00010\u00012": {
+"pt": "Dos teus bons conselhos não tiro proveito nenhum",
+"nl": "Van je goede raad kan ik niets kopen"
+},
+"Kaff\u00010\u00010": {
+"pt": "Os nossos colegas moram numa terriola qualquer perto da fronteira",
+"nl": "Onze collega's wonen in een of ander gat bij de grens"
+},
+"Käffer\u00010\u00010": {
+"pt": "O carpinteiro cortou os caibros à medida certa",
+"nl": "De timmerman zaagde de spanten op de juiste maat"
+},
+"Kaffi\u00010\u00010": {
+"pt": "Aqui não cresce café",
+"nl": "Bij ons groeit geen koffie"
+},
+"Kaffi\u00011\u00010": {
+"pt": "Quando o café é torrado, desenvolve-se o aroma",
+"nl": "Wanneer de koffie wordt gebrand, komt het aroma vrij"
+},
+"Kaffi\u00012\u00010": {
+"pt": "Põe-me só uma pequena colher de café na chávena",
+"nl": "Doe maar een klein lepeltje koffie in mijn kopje"
+},
+"Kaffi\u00013\u00010": {
+"pt": "Bebemos uma chávena de café",
+"nl": "We dronken een kopje koffie"
+},
+"Kaffi\u00013\u00011": {
+"pt": "Ele só bebe café preto",
+"nl": "Hij drinkt alleen zwarte koffie"
+},
+"Kaffi\u00013\u00012": {
+"pt": "Essa história é notícia velha",
+"nl": "Dat verhaal is oud nieuws"
+},
+"Kaffi\u00014\u00010": {
+"pt": "Pede-nos mais dois cafés!",
+"nl": "Bestel nog twee koffie voor ons!"
+},
+"Kaffi\u00015\u00010": {
+"pt": "De manhã, ao pequeno-almoço, como muitas vezes uma fatia de pão com mel",
+"nl": "'s Ochtends bij het ontbijt eet ik vaak een boterham met honing"
+},
+"Kaffi\u00015\u00011": {
+"pt": "Se tomarmos um bom pequeno-almoço, não precisamos de muito ao almoço",
+"nl": "Als we goed ontbijten, hebben we tussen de middag niet veel nodig"
+},
+"Kaffi\u00016\u00010": {
+"pt": "À noite, ao jantar, como muitas vezes uma fatia de pão com fiambre",
+"nl": "'s Avonds bij het avondeten eet ik vaak een boterham met ham"
+},
+"Kaffi\u00016\u00011": {
+"pt": "Bebemos café esta noite ou devo fazer-nos qualquer coisa leve?",
+"nl": "Drinken we vanavond koffie of zal ik iets kleins voor ons koken?"
+},
+"Kaffi\u00017\u00010": {
+"pt": "Todas as semanas, uma vizinha diferente convida para o café",
+"nl": "Elke week nodigt een andere buurvrouw uit voor koffie"
+},
+"Kaffi\u00017\u00011": {
+"pt": "Todas as quartas-feiras as duas amigas vão às compras e depois tomam café",
+"nl": "Elke woensdag gaan de twee vriendinnen samen winkelen en daarna koffie drinken"
+},
+"Kaffidrénken\u00010\u00010": {
+"pt": "De manhã, ao pequeno-almoço, ouço sempre as notícias",
+"nl": "'s Ochtends bij het ontbijt luister ik altijd naar het nieuws"
+},
+"Kaffisbiz\u00010\u00010": {
+"pt": "Antigamente, a minha avó tinha sempre a cafeteira pronta no fogão",
+"nl": "Vroeger stond bij mijn oma altijd de koffiepot klaar op het fornuis"
+},
+"Kaffisboun\u00010\u00010": {
+"pt": "Moo eu próprio os meus grãos de café",
+"nl": "Ik maal mijn koffiebonen zelf"
+},
+"Kaffisbräch\u00010\u00010": {
+"pt": "A minha avó faz de manhã, na maior parte das vezes, pão duro embebido em café",
+"nl": "Mijn oma maakt zich 's ochtends meestal oud brood in koffie"
+},
+"Kaffisdësch\u00010\u00010": {
+"pt": "Estou mesmo a pôr a mesa do pequeno-almoço",
+"nl": "Ik ben net de ontbijttafel aan het dekken"
+},
+"Kaffisdësch\u00010\u00011": {
+"pt": "Ainda temos alguns ovos para a mesa do pequeno-almoço?",
+"nl": "Hebben we nog een paar eieren voor op de ontbijttafel?"
+},
+"Kaffisdësch\u00010\u00012": {
+"pt": "Estávamos sentados à mesa do pequeno-almoço quando tocou à porta",
+"nl": "We zaten net aan de ontbijttafel toen er aan de deur gebeld werd"
+},
+"Kaffishaff\u00010\u00010": {
+"pt": "Moro em Kaffishaff",
+"nl": "Ik woon op Kaffishaff"
+},
+"Kaffishaff\u00010\u00011": {
+"pt": "Este autocarro vai para Kaffishaff?",
+"nl": "Rijdt deze bus naar Kaffishaff?"
+},
+"Kaffiskichelchen\u00010\u00010": {
+"pt": "Todas as manhãs vou à padaria buscar um bolinho",
+"nl": "Elke ochtend ga ik bij de bakker een koffiekoekje halen"
+},
+"Kaffiskränzchen\u00010\u00010": {
+"pt": "A minha avó espera todas as semanas pelo seu convívio do café com as amigas",
+"nl": "Mijn oma kijkt elke week uit naar haar koffiekransje met haar vriendinnen"
+},
+"Kaffiskränzchen\u00010\u00011": {
+"pt": "Não estamos aqui num convívio de café!",
+"nl": "We zijn hier niet op een koffiekransje!"
+},
+"Kaffiskränzchen\u00011\u00010": {
+"pt": "No fim de semana vou a Paris com o meu grupo de amigas",
+"nl": "Dit weekend ga ik met mijn koffiekransje naar Parijs"
+},
+"Kaffiskrou\u00010\u00010": {
+"pt": "Ainda nem sequer tínhamos usado a cafeteira do nosso serviço de domingo",
+"nl": "We hadden de koffiekan van ons zondagse servies nog niet eens in gebruik genomen"
+},
+"Kaffisläffel\u00010\u00010": {
+"pt": "As colheres de café de lata não combinam de todo com as tuas bonitas chávenas de porcelana",
+"nl": "Die blikken koffielepeltjes passen absoluut niet bij je mooie porseleinen kopjes"
+},
+"Kaffisläffel\u00010\u00011": {
+"pt": "Antigamente, muita gente colecionava colheres de café de prata",
+"nl": "Vroeger verzamelden veel mensen zilveren koffielepeltjes"
+},
+"Kaffisläffel\u00011\u00010": {
+"pt": "Põe mais uma colher de café de mostarda na vinagreta!",
+"nl": "Doe nog een koffielepel mosterd in de vinaigrette!"
+},
+"Kaffisläffel\u00011\u00011": {
+"pt": "As crianças não devem tomar mais de três colheres de café deste xarope por dia",
+"nl": "Kinderen mogen niet meer dan drie koffielepels van deze siroop per dag nemen"
+},
+"Kaffismaschinn\u00010\u00010": {
+"pt": "No escritório temos uma máquina de café muito eficiente",
+"nl": "Op kantoor hebben we een heel performante koffiemachine"
+},
+"Kaffismillen\u00010\u00010": {
+"pt": "Encontrei este velho moinho de café na feira da ladra",
+"nl": "Dit oude koffiemolentje heb ik op de rommelmarkt gevonden"
+},
+"Kaffismillen\u00010\u00011": {
+"pt": "Com o meu novo moinho de café pode regular-se a finura com que se quer o café moído",
+"nl": "Bij mijn nieuwe koffiemolen kun je instellen hoe fijn je je koffie gemalen wilt"
+},
+"Kaffispaus\u00010\u00010": {
+"pt": "Para a pausa do café, vou à padaria buscar croissants",
+"nl": "Voor de koffiepauze ga ik bij de bakker croissants halen"
+},
+"Kaffispaus\u00010\u00011": {
+"pt": "Às dez horas fazemos normalmente uma pausa para café no escritório",
+"nl": "Om tien uur nemen we op kantoor gewoonlijk een koffiepauze"
+},
+"Kaffisstuff\u00010\u00010": {
+"pt": "Também este ano haverá na feira a tradicional banca de café e bolos",
+"nl": "Ook dit jaar is er op de bazaar weer de traditionele koffiestube"
+},
+"Kaffistaass\u00010\u00010": {
+"pt": "A asa da chávena de café partiu-se na máquina de lavar louça",
+"nl": "Het oor van het koffiekopje is in de vaatwasser afgebroken"
+},
+"Kaffistaass\u00010\u00011": {
+"pt": "Também se pode beber chá de uma chávena de café?",
+"nl": "Kun je uit een koffiekopje ook thee drinken?"
+},
+"Kaffistut\u00010\u00010": {
+"pt": "Aquela viciada em café bebe quase dois litros de café por dia!",
+"nl": "Die koffieverslaafde drinkt bijna twee liter koffie per dag!"
+},
+"Kafkraaft\u00010\u00010": {
+"pt": "O poder de compra no nosso país não diminuiu",
+"nl": "De koopkracht in ons land is niet gedaald"
+},
+"Kafvertrag\u00010\u00010": {
+"pt": "Amanhã assinamos o contrato de compra do nosso novo veleiro",
+"nl": "Morgen ondertekenen we het koopcontract van onze nieuwe zeilboot"
+},
+"Kagull\u00010\u00010": {
+"pt": "Um gorro balaclava mantém a cabeça e o pescoço bem quentes",
+"nl": "Een bivakmuts houdt hoofd en hals lekker warm"
+},
+"käichen\u00010\u00010": {
+"pt": "Chegámos ao cimo da montanha a arfar bem",
+"nl": "We hijgden flink toen we boven op de berg aankwamen"
+},
+"Käicher\u00010\u00010": {
+"pt": "Quantos grãos-de-bico são precisos para fazer húmus para quatro pessoas?",
+"nl": "Hoeveel kikkererwten heb je nodig om hummus voor vier personen te maken?"
+},
+"Käil\u00010\u00010": {
+"pt": "Perdi no bosque uma das minhas cunhas",
+"nl": "Ik heb in het bos een van mijn wiggen verloren"
+},
+"Käil\u00010\u00011": {
+"pt": "Mete uma cunha no cabo, senão a cabeça sai do cabo!",
+"nl": "Sla een wig in de steel, anders schiet hij uit de steel!"
+},
+"Kailchen\u00011\u00010": {
+"pt": "Aquela rapariga tem uma covinha encantadora no queixo",
+"nl": "Dat meisje heeft een lief kuiltje in haar kin"
+},
+"Kailchen\u00011\u00011": {
+"pt": "Quando ris, vêem-se ainda melhor as tuas covinhas nas bochechas",
+"nl": "Als je lacht, zie je je kuiltjes in je wangen nog beter"
+},
+"Kailchen\u00011\u00012": {
+"pt": "Faz lá uma covinha!",
+"nl": "Maak eens een kuiltje!"
+},
+"Käilrimm\u00010\u00010": {
+"pt": "Na última revisão foi substituída a correia trapezoidal",
+"nl": "Bij de laatste onderhoudsbeurt werd de V-snaar vervangen"
+},
+"käipen\u00010\u00010": {
+"pt": "Se o nosso galo não começa depressa a cobrir as galinhas, vai parar ao tacho!",
+"nl": "Als onze haan niet snel de kippen begint te dekken, belandt hij in de pot!"
+},
+"käipen\u00011\u00010": {
+"pt": "Podes foder com quantas pessoas quiseres, mas não te esqueças dos preservativos!",
+"nl": "Je kunt met zoveel mensen neuken als je wilt, maar vergeet de condooms niet!"
+},
+"käipen\u00012\u00010": {
+"pt": "Nenhum de nós andava à procura de uma relação séria, só queríamos foder",
+"nl": "Niemand van ons was op zoek naar een vaste relatie, we wilden gewoon neuken"
+},
+"Kairo\u00010\u00010": {
+"pt": "O Cairo é a capital do Egito",
+"nl": "Caïro is de hoofdstad van Egypte"
+},
+"Kajak\u00010\u00010": {
+"pt": "Sabes a diferença entre uma canoa e um caiaque?",
+"nl": "Ken je het verschil tussen een kano en een kajak?"
+},
+"Kakao\u00010\u00010": {
+"pt": "Este cacau só cresce numa região específica de África",
+"nl": "Deze cacao groeit alleen in een bepaalde streek in Afrika"
+},
+"Kakao\u00011\u00010": {
+"pt": "O nosso grossista recebe o cacau em grandes sacos",
+"nl": "Onze groothandelaar krijgt de cacao in grote zakken geleverd"
+},
+"Kakao\u00012\u00010": {
+"pt": "Põe mais uma colher de cacau no leite!",
+"nl": "Doe nog een lepel cacao in de melk!"
+},
+"Kakao\u00013\u00010": {
+"pt": "De manhã bebo por vezes uma chávena de cacau",
+"nl": "'s Ochtends drink ik soms een kopje cacao"
+},
+"Kakao\u00014\u00010": {
+"pt": "Vou pedir outro cacau, queres também um?",
+"nl": "Ik bestel nog een cacao, wil jij er ook een?"
+},
+"Kakerlack\u00010\u00010": {
+"pt": "Se tens baratas na cozinha, estás metido em sarilhos",
+"nl": "Als je kakkerlakken in de keuken hebt, zit je lelijk in de knoei"
+},
+"Kaki\u00010\u00010": {
+"pt": "Os dióspiros ainda não estão maduros para comer",
+"nl": "De kaki's zijn nog niet rijp genoeg om te eten"
+},
+"Kaktus\u00010\u00010": {
+"pt": "Um cato precisa de extremamente pouca rega",
+"nl": "Een cactus hoeft extreem weinig water"
+},
+"Kakuett\u00010\u00010": {
+"pt": "No aperitivo foram servidos amendoins",
+"nl": "Bij het aperitief werden pinda's geserveerd"
+},
+"Kakuett\u00011\u00010": {
+"pt": "Eu sempre fui um nabo em cálculo mental",
+"nl": "Ik was altijd een onbenul in hoofdrekenen"
+},
+"Kakuett\u00011\u00011": {
+"pt": "Que nabo é que apregoou esta tolice aqui?",
+"nl": "Welke onbenul heeft hier deze onzin verkocht?"
+},
+"kal\u00010\u00010": {
+"pt": "Hoje sopra um vento frio",
+"nl": "Vandaag waait er een koude wind"
+},
+"kal\u00010\u00011": {
+"pt": "Está frio lá fora, põe um gorro!",
+"nl": "Het is koud buiten, zet een muts op!"
+},
+"kal\u00010\u00012": {
+"pt": "Come a tua sopa antes que arrefeça!",
+"nl": "Eet je soep voordat ze koud wordt!"
+},
+"kal\u00010\u00013": {
+"pt": "Isso deixa-me indiferente",
+"nl": "Dat laat me koud"
+},
+"kal\u00010\u00014": {
+"pt": "Estou habituado a todo o tipo de tempo!",
+"nl": "Ik ben aan alle weer gewend!"
+},
+"kal\u00010\u00015": {
+"pt": "O marido dela ainda nem estava frio e já tinha outro!",
+"nl": "Haar man was nog niet eens koud of ze had al een ander!"
+},
+"kal\u00011\u00010": {
+"pt": "Fecha a janela, por favor, tenho frio!",
+"nl": "Doe het raam dicht, alsjeblieft, ik heb het koud!"
+},
+"Kalamar\u00010\u00010": {
+"pt": "No jardim zoológico há um tanque com mais de cem pequenas lulas",
+"nl": "In de dierentuin is er een bassin met meer dan honderd kleine inktvissen"
+},
+"Kalamar\u00010\u00011": {
+"pt": "Não gosto de lulas, são demasiado rijas para mim",
+"nl": "Ik hou niet van inktvis, die is me te taai"
+},
+"Kalanderléierchen\u00010\u00010": {
+"pt": "Quanto tempo chocam as calhandras?",
+"nl": "Hoe lang broeden kalanderleeuweriken?"
+},
+"Kalbass\u00010\u00010": {
+"pt": "No mercado comprámos alhos-franceses, cenouras e uma abóbora",
+"nl": "Op de markt hebben we prei, wortelen en een pompoen gekocht"
+},
+"Kalbass\u00010\u00011": {
+"pt": "Ele tem uma cabeça como uma abóbora",
+"nl": "Hij heeft een kop als een pompoen"
+},
+"kalbliddeg\u00010\u00010": {
+"pt": "No filme ele faz de um advogado de sangue frio",
+"nl": "In de film speelt hij een koelbloedige advocaat"
+},
+"kalbliddeg\u00010\u00011": {
+"pt": "A vítima foi morta a sangue-frio",
+"nl": "Het slachtoffer werd in koelen bloede vermoord"
+},
+"Kalchesbréck\u00010\u00010": {
+"pt": "Moro em Kalchesbréck",
+"nl": "Ik woon op de Kalchesbréck"
+},
+"Kalchesbréck\u00010\u00011": {
+"pt": "Este autocarro vai para Kalchesbréck?",
+"nl": "Rijdt deze bus naar de Kalchesbréck?"
+},
+"kalendaresch\u00010\u00010": {
+"pt": "O início do verão pelo calendário pode calhar a 20 ou a 21 de junho",
+"nl": "De kalendarische zomerbegin kan op 20 of 21 juni vallen"
+},
+"Kalenner\u00010\u00010": {
+"pt": "Vê no calendário se estamos em casa na próxima sexta-feira!",
+"nl": "Kijk op de kalender of we volgende vrijdag thuis zijn!"
+},
+"Kalenner\u00010\u00011": {
+"pt": "No início de setembro imprimem-se os calendários novos",
+"nl": "Begin september worden de nieuwe kalenders gedrukt"
+},
+"Kalenner\u00010\u00012": {
+"pt": "A nossa agenda está bem cheia",
+"nl": "Onze agenda zit goed vol"
+},
+"Kalenner\u00011\u00010": {
+"pt": "Em 1582 foi introduzido o calendário gregoriano",
+"nl": "In 1582 werd de Gregoriaanse kalender ingevoerd"
+},
+"Kalenner\u00011\u00011": {
+"pt": "Segundo o calendário centenário, devíamos ter um agosto quente",
+"nl": "Volgens de honderdjarige kalender zouden we een warme augustus moeten krijgen"
+},
+"Kalenner\u00012\u00010": {
+"pt": "Já encomendaste ao padeiro um bolo de Ano Novo?",
+"nl": "Heb je bij de bakker al een nieuwjaarskoek besteld?"
+},
+"Kalenner\u00012\u00011": {
+"pt": "Num bolo de Ano Novo não podem faltar as ferraduras, o limpa-chaminés e os porquinhos de maçapão ou chocolate!",
+"nl": "Op een nieuwjaarskoek mogen de hoefijzers, de schoorsteenveger en de varkentjes van marsepein of chocolade niet ontbreken!"
+},
+"Kalennerblat\u00010\u00010": {
+"pt": "Esqueceste-te de arrancar uma folha do calendário",
+"nl": "Je bent vergeten een kalenderblad af te scheuren"
+},
+"kalenneren\u00010\u00010": {
+"pt": "Pensei muito tempo em como poderia resolver o problema",
+"nl": "Ik heb lang nagedacht over hoe ik het probleem kon oplossen"
+},
+"Kalennerjoer\u00010\u00010": {
+"pt": "O ano letivo não coincide com o ano civil",
+"nl": "Het schooljaar valt niet samen met het kalenderjaar"
+},
+"Kaliber\u00010\u00010": {
+"pt": "Ele coleciona armas de vários calibres",
+"nl": "Hij verzamelt wapens van verschillende kalibers"
+},
+"Kaliber\u00011\u00010": {
+"pt": "Era um desportista de um calibre completamente diferente",
+"nl": "Hij was een sportman van een heel ander kaliber"
+},
+"Kalium\u00010\u00010": {
+"pt": "O elemento potássio pertence ao grupo dos metais alcalinos",
+"nl": "Het element kalium behoort tot de groep van de alkalimetalen"
+},
+"Kalkesbaach\u00010\u00010": {
+"pt": "Moro em Kalkesbach",
+"nl": "Ik woon in Kalkesbach"
+},
+"Kalkesbaach\u00010\u00011": {
+"pt": "Este autocarro vai para Kalkesbach?",
+"nl": "Rijdt deze bus naar Kalkesbach?"
+},
+"Kalkulatioun\u00010\u00010": {
+"pt": "O perito fez logo no local um primeiro cálculo do prejuízo",
+"nl": "De expert maakte ter plaatse meteen een eerste berekening van de schade"
+},
+"Kallef\u00010\u00010": {
+"pt": "A camponesa deu de beber aos vitelos com um balde",
+"nl": "De boerin gaf de kalveren met een emmer te drinken"
+},
+"Kallef\u00010\u00011": {
+"pt": "Pára de te comportar como o último dos tolos!",
+"nl": "Houd toch op je te gedragen als het grootste kalf!"
+},
+"Kallef\u00010\u00012": {
+"pt": "Fica a olhar para aquilo como um vitelo acabado de nascer",
+"nl": "Hij kijkt ernaar als een pasgeboren kalf"
+},
+"Kallef\u00011\u00010": {
+"pt": "Contigo não se pode contar para nada, seu tolo!",
+"nl": "Jou kun je ook niets toevertrouwen, jij kalf!"
+},
+"Kallef\u00011\u00011": {
+"pt": "Que idiota me estacionou o carro à frente?",
+"nl": "Welk kalf heeft mij ingeparkeerd?"
+},
+"Kalleffleesch\u00010\u00010": {
+"pt": "A carne de porco é normalmente mais barata do que a de vitela",
+"nl": "Varkensvlees is gewoonlijk goedkoper dan kalfsvlees"
+},
+"Kallefsbrëschtchen\u00010\u00010": {
+"pt": "O nosso talhante faz um recheio especial para o seu peito de vitela recheado",
+"nl": "Onze slager maakt een speciale farce voor zijn gevulde kalfsborst"
+},
+"Kallefsbrot\u00010\u00010": {
+"pt": "Quanto tempo deve ir ao forno por quilo um assado de vitela na caçarola?",
+"nl": "Hoe lang moet een kalfsgebraad per kilo in de braadpan?"
+},
+"Kallefsliewer\u00010\u00010": {
+"pt": "Para o patê, preparei dois fígados de vitela inteiros",
+"nl": "Voor de paté heb ik twee hele kalfslevers verwerkt"
+},
+"Kallefsliewer\u00011\u00010": {
+"pt": "Não te esqueças de encomendar no talho meio quilo de fígado de vitela!",
+"nl": "Vergeet niet bij de slager een pond kalfslever te bestellen!"
+},
+"Kallefsschnitzel\u00010\u00010": {
+"pt": "Ainda tenho de ir ao talho comprar três escalopes de vitela",
+"nl": "Ik moet nog drie kalfsschnitzels bij de slager gaan kopen"
+},
+"Kallefszong\u00010\u00010": {
+"pt": "Encomendei no talho duas línguas de vitela",
+"nl": "Ik heb bij de slager twee kalfstongen besteld"
+},
+"Kallefszong\u00011\u00010": {
+"pt": "Para que a língua de vitela fique bem macia, tens de a deixar ferver em lume brando até três horas",
+"nl": "Opdat de kalfstong lekker mals is, moet je ze tot drie uur op het fornuis laten sudderen"
+},
+"Kallefszong\u00011\u00011": {
+"pt": "Há muita gente que não gosta de língua de vitela",
+"nl": "Er zijn veel mensen die geen kalfstong lusten"
+},
+"Kallefzegkeet\u00010\u00010": {
+"pt": "Se ainda me vens com mais uma tolice dessas, vou-me embora!",
+"nl": "Als je me nog eens zo'n stommiteit komt vertellen, ga ik naar huis!"
+},
+"Kallek\u00010\u00010": {
+"pt": "A nossa máquina de lavar avariou por causa do muito calcário na água",
+"nl": "Onze wasmachine is stukgegaan door de vele kalk in het water"
+},
+"Kallek\u00011\u00010": {
+"pt": "A cal das paredes está a descascar",
+"nl": "De kalk aan de muren brokkelt af"
+},
+"kalleken\u00010\u00010": {
+"pt": "As paredes têm de ser caiadas de novo",
+"nl": "De muren moeten opnieuw worden gekalkt"
+},
+"kalleken\u00011\u00010": {
+"pt": "No outono, aplica-se cal nos campos",
+"nl": "In de herfst worden de velden gekalkt"
+},
+"Kalligramm\u00010\u00010": {
+"pt": "Este caligrama fala de um círculo, mas o texto também foi composto de modo que o leitor reconhece nele um círculo",
+"nl": "Dit kalligram gaat over een cirkel, maar de tekst is ook zo gezet dat de lezer er een cirkel in herkent"
+},
+"Källwin\u00010\u00010": {
+"pt": "O agricultor não levou a novilha para o pasto",
+"nl": "De boer heeft de vaars niet mee naar de weide genomen"
+},
+"kalmaachen\u00010\u00010": {
+"pt": "O traficante terá liquidado o seu concorrente",
+"nl": "De dealer zou zijn concurrent hebben koud gemaakt"
+},
+"Kalorie\u00010\u00010": {
+"pt": "O chocolate de leite tem muitas calorias",
+"nl": "Melkchocolade bevat veel calorieën"
+},
+"Kalorie\u00011\u00010": {
+"pt": "O calor necessário para aquecer a água exprime-se em calorias",
+"nl": "De warmte die nodig is om water op te warmen, wordt in calorieën uitgedrukt"
+},
+"Kaloriëbomm\u00010\u00010": {
+"pt": "Esta sobremesa é uma bomba calórica!",
+"nl": "Dit dessert is een caloriebom!"
+},
+"Kalscheier\u00010\u00010": {
+"pt": "Moro em Kalscheier",
+"nl": "Ik woon in Kalscheier"
+},
+"Kalscheier\u00010\u00011": {
+"pt": "Este autocarro vai para Kalscheier?",
+"nl": "Rijdt deze bus naar Kalscheier?"
+},
+"Kalschlag\u00010\u00010": {
+"pt": "Nesta parte da floresta está prevista uma derrubada total, porque as árvores estão doentes",
+"nl": "In dit deel van het bos is een kaalslag gepland omdat de bomen ziek zijn"
+},
+"Kalzium\u00010\u00010": {
+"pt": "Especialmente durante o crescimento, as crianças precisam de muito cálcio",
+"nl": "Vooral tijdens de groei hebben kinderen veel calcium nodig"
+},
+"Kalzium\u00010\u00011": {
+"pt": "Os produtos lácteos contêm muitíssimo cálcio",
+"nl": "In zuivelproducten zit heel veel calcium"
+},
+"Kalzong\u00010\u00010": {
+"pt": "Lava tu próprio as tuas cuecas sujas, por favor!",
+"nl": "Was je vuile onderbroeken alsjeblieft zelf!"
+},
+"Kalzong\u00010\u00011": {
+"pt": "No inverno uso ceroulas",
+"nl": "In de winter draag ik een lange onderbroek"
+},
+"Kamäin\u00010\u00010": {
+"pt": "Usamos ramos secos para acender o lume na lareira",
+"nl": "We gebruiken takkenbossen om het vuur in de open haard aan te steken"
+},
+"Kamäin\u00011\u00010": {
+"pt": "As chaminés da fábrica fumegam dia e noite",
+"nl": "De schoorstenen van de fabriek roken dag en nacht"
+},
+"Kambodja\u00010\u00010": {
+"pt": "Já estive três vezes no Camboja",
+"nl": "Ik ben al drie keer in Cambodja geweest"
+},
+"Kambodja\u00010\u00011": {
+"pt": "Vou ao Camboja na próxima semana",
+"nl": "Volgende week ga ik naar Cambodja"
+},
+"Kambodja\u00010\u00012": {
+"pt": "Venho do Camboja",
+"nl": "Ik kom uit Cambodja"
+},
+"Kambodjaner\u00010\u00010": {
+"pt": "O meu melhor amigo é cambojano",
+"nl": "Mijn beste vriend is Cambodjaan"
+},
+"Kambodjanerin\u00010\u00010": {
+"pt": "A minha melhor amiga é cambojana",
+"nl": "Mijn beste vriendin is Cambodjaanse"
+},
+"kambodjanesch\u00010\u00010": {
+"pt": "Na nossa viagem conhecemos a cultura cambojana",
+"nl": "Op onze reis hebben we de Cambodjaanse cultuur leren kennen"
+},
+"Kaméidi\u00010\u00010": {
+"pt": "O escape do meu carro faz um barulho terrível",
+"nl": "De uitlaat van mijn auto maakt een vreselijk lawaai"
+},
+"Kaméidi\u00010\u00011": {
+"pt": "Não faças tanto alarido por uma ninharia!",
+"nl": "Maak niet zo'n heisa om zo'n kleinigheid!"
+},
+"Kaméidi\u00011\u00010": {
+"pt": "Aqueles dois andam sempre à bulha",
+"nl": "Die twee hebben altijd ruzie met elkaar"
+},
+"Kaméidi\u00011\u00011": {
+"pt": "Com esse tipo arranja-se facilmente confusão",
+"nl": "Met die kerel krijg je gemakkelijk ruzie"
+},
+"Kaméidismécher\u00010\u00010": {
+"pt": "Os moradores ao lado do bar irritam-se com os desordeiros",
+"nl": "De bewoners naast het café ergeren zich aan de herrieschoppers"
+},
+"Kaméil\u00010\u00010": {
+"pt": "Fomos ao jardim zoológico ver os camelos",
+"nl": "We zijn naar de dierentuin gegaan om de kamelen te bekijken"
+},
+"Kaméil\u00010\u00011": {
+"pt": "Ele bebe como um camelo",
+"nl": "Hij drinkt als een kameel"
+},
+"Kaméileblumm\u00010\u00010": {
+"pt": "Com as flores secas da camomila pode fazer-se chá",
+"nl": "Van de gedroogde bloemen van de kamille kun je thee maken"
+},
+"Kamell\u00010\u00010": {
+"pt": "As crianças comeram os doces todos juntos",
+"nl": "De kinderen hebben de snoepjes allemaal samen opgegeten"
+},
+"Kamelott\u00010\u00010": {
+"pt": "Cuidado para não te impingirem mercadoria sem valor!",
+"nl": "Pas op dat je geen waardeloze rommel aangesmeerd krijgt!"
+},
+"Kamera\u00010\u00010": {
+"pt": "Não gosto de ser vigiado por câmaras",
+"nl": "Ik laat me niet graag door camera's bewaken"
+},
+"Kamera\u00010\u00011": {
+"pt": "Levo a minha câmara em todas as viagens",
+"nl": "Op elke reis neem ik mijn camera mee"
+},
+"Kamerafra\u00010\u00010": {
+"pt": "A operadora de câmara segue exatamente as instruções do realizador",
+"nl": "De cameravrouw volgt precies de instructies van de regisseur op"
+},
+"Kameramann\u00010\u00010": {
+"pt": "O operador de câmara filmou a cena de cima",
+"nl": "De cameraman filmde de scène van boven"
+},
+"Kamerun\u00010\u00010": {
+"pt": "Já estive três vezes nos Camarões",
+"nl": "Ik ben al drie keer in Kameroen geweest"
+},
+"Kamerun\u00010\u00011": {
+"pt": "Vou aos Camarões na próxima semana",
+"nl": "Volgende week ga ik naar Kameroen"
+},
+"Kamerun\u00010\u00012": {
+"pt": "Venho dos Camarões",
+"nl": "Ik kom uit Kameroen"
+},
+"Kameruner\u00010\u00010": {
+"pt": "O meu melhor amigo é camaronês",
+"nl": "Mijn beste vriend is Kameroener"
+},
+"Kamerunerin\u00010\u00010": {
+"pt": "A minha melhor amiga é camaronesa",
+"nl": "Mijn beste vriendin is Kameroense"
+},
+"kamerunesch\u00010\u00010": {
+"pt": "Na nossa viagem conhecemos a cultura camaronesa",
+"nl": "Op onze reis hebben we de Kameroense cultuur leren kennen"
+},
+"kamëss\u00010\u00010": {
+"pt": "Aquela escola precisava de um diretor mais severo!",
+"nl": "Die school zou een strengere directeur nodig hebben!"
+},
+"kamëss\u00010\u00011": {
+"pt": "Como são tão severos aqueles pais com os filhos!",
+"nl": "Wat zijn die ouders streng voor hun kinderen!"
+},
+"kamëss\u00010\u00012": {
+"pt": "No exército as coisas são muitas vezes geridas com rigor",
+"nl": "In het leger gaat het er vaak streng aan toe"
+},
+"Kamill\u00010\u00010": {
+"pt": "Com as flores secas da camomila pode fazer-se chá",
+"nl": "Van de gedroogde bloemen van de kamille kun je thee maken"
+},
+"Kamillentéi\u00010\u00010": {
+"pt": "Antes de dormir, gosto de beber chá de camomila",
+"nl": "Voor ik ga slapen, drink ik graag kamillethee"
+},
+"Kamillentéi\u00010\u00011": {
+"pt": "Quando tem dores de garganta, o meu pai faz gargarejos com chá de camomila",
+"nl": "Als hij keelpijn heeft, gorgelt mijn vader met kamillethee"
+},
+"Kamillentéi\u00011\u00010": {
+"pt": "Podes pedir-me um chá de camomila, por favor?",
+"nl": "Kun je alsjeblieft een kamillethee voor mij bestellen?"
+},
+"kämmen\u00010\u00010": {
+"pt": "Antes de sairmos, ainda tenho de me pentear",
+"nl": "Voordat we gaan, moet ik me nog kammen"
+},
+"kämmen\u00010\u00011": {
+"pt": "Escovo o meu cão todos os dias",
+"nl": "Ik borstel mijn hond elke dag"
+},
+"kämmen\u00010\u00012": {
+"pt": "Esse artigo de jornal estava bem limado e polido!",
+"nl": "Dat krantenartikel was tot in de puntjes verzorgd!"
+},
+"kämmen\u00010\u00013": {
+"pt": "Na tasca, o governo foi passado a pente fino",
+"nl": "In het stamcafé werd de regering onder handen genomen"
+},
+"Kammerchouer\u00010\u00010": {
+"pt": "O nosso coro ganhou o segundo prémio no concurso de coros de câmara",
+"nl": "Ons koor won de tweede prijs op de wedstrijd voor kamerkoren"
+},
+"Kammermusek\u00010\u00010": {
+"pt": "Com o nosso conjunto tocamos sobretudo música de câmara",
+"nl": "Met ons ensemble spelen we vooral kamermuziek"
+},
+"kamoud\u00010\u00010": {
+"pt": "É mais cómodo para nós ir a Paris de comboio do que de carro",
+"nl": "Het is voor ons gemakkelijker om met de trein naar Parijs te gaan dan met de auto"
+},
+"kamoud\u00010\u00011": {
+"pt": "Cuidado, ele não é nenhum molengas!",
+"nl": "Pas op, hij is geen doetje!"
+},
+"kamoud\u00011\u00010": {
+"pt": "Ele é preguiçoso demais para ir a pé",
+"nl": "Hij is te gemakzuchtig om te voet te gaan"
+},
+"Kamoudheet\u00010\u00010": {
+"pt": "Por pura comodidade, usa o carro para tudo",
+"nl": "Uit pure gemakzucht neemt hij voor alles de auto"
+},
+"Kamouditéit\u00010\u00010": {
+"pt": "O chalé tem todas as comodidades de que se precisa",
+"nl": "Het chalet heeft alle gemakken die je nodig hebt"
+},
+"Kamouditéit\u00011\u00010": {
+"pt": "Por pura preguiça, usa o carro para tudo",
+"nl": "Uit pure gemakzucht gebruikt hij voor alles de auto"
+},
+"Kamp\u00010\u00010": {
+"pt": "Trago sempre um pequeno pente no bolso",
+"nl": "Ik heb altijd een kleine kam in mijn zak"
+},
+"Kamp\u00010\u00011": {
+"pt": "Esses pentes são feitos à mão",
+"nl": "Die kammen zijn handgemaakt"
+},
+"Kamp\u00010\u00012": {
+"pt": "A equipa inteira é farinha do mesmo saco!",
+"nl": "Het hele team is uit hetzelfde hout gesneden!"
+},
+"Kamp\u00011\u00010": {
+"pt": "A crista do galo era vermelha como o fogo",
+"nl": "De kam van de haan was vuurrood"
+},
+"Kamp\u00012\u00010": {
+"pt": "Os criadores entrelaçaram lã colorida na crina dos seus cavalos",
+"nl": "De fokkers vlochten gekleurde wol in de manen van hun paarden"
+},
+"Kampala\u00010\u00010": {
+"pt": "Kampala é a capital do Uganda",
+"nl": "Kampala is de hoofdstad van Oeganda"
+},
+"Kampf\u00010\u00010": {
+"pt": "Na batalha pelo porto morreram centenas de soldados",
+"nl": "Bij de strijd om de haven kwamen honderden soldaten om"
+},
+"Kampf\u00010\u00011": {
+"pt": "Em alguns bairros houve confrontos violentos entre a polícia e manifestantes radicais",
+"nl": "In sommige wijken kwam het tot hevige gevechten tussen de politie en radicale betogers"
+},
+"Kampf\u00010\u00012": {
+"pt": "A direção declarou guerra ao consumo de droga no liceu",
+"nl": "De directie heeft de strijd aangezegd aan het druggebruik op het lyceum"
+},
+"Kampf\u00010\u00013": {
+"pt": "Que luta foi conseguir uma licença de construção!",
+"nl": "Wat een strijd was het om een bouwvergunning te krijgen!"
+},
+"kämpfen\u00010\u00010": {
+"pt": "A equipa lutou arduamente pelo primeiro lugar",
+"nl": "Het team heeft hard gevochten voor de eerste plaats"
+},
+"kämpfen\u00010\u00011": {
+"pt": "Estamos prontos a lutar pela paz!",
+"nl": "We zijn bereid voor de vrede te strijden!"
+},
+"kämpfen\u00010\u00012": {
+"pt": "As pessoas lutam com todos os meios contra a cheia",
+"nl": "De mensen strijden met alle middelen tegen het hoogwater"
+},
+"Kampfleefer\u00010\u00010": {
+"pt": "Quanto tempo chocam os combatentes?",
+"nl": "Hoe lang broeden kemphanen?"
+},
+"Kampfsport\u00010\u00010": {
+"pt": "O karaté é um desporto de combate muito popular",
+"nl": "Karate is een populaire vechtsport"
+},
+"Kan\u00010\u00010": {
+"pt": "Antigamente o leite era posto em bilhas e levado para a leitaria",
+"nl": "Vroeger werd de melk in bussen gevuld en naar de zuivelfabriek gebracht"
+},
+"Kan\u00011\u00010": {
+"pt": "É proibido encher gasolina em jerricãs no posto de abastecimento",
+"nl": "Het is verboden aan het tankstation benzine in jerrycans te tappen"
+},
+"Kanada\u00010\u00010": {
+"pt": "Já estive três vezes no Canadá",
+"nl": "Ik ben al drie keer in Canada geweest"
+},
+"Kanada\u00010\u00011": {
+"pt": "Vou ao Canadá na próxima semana",
+"nl": "Volgende week ga ik naar Canada"
+},
+"Kanada\u00010\u00012": {
+"pt": "Venho do Canadá",
+"nl": "Ik kom uit Canada"
+},
+"Kanadagäns\u00010\u00010": {
+"pt": "Quanto tempo chocam os gansos-do-canadá?",
+"nl": "Hoe lang broeden Canadese ganzen?"
+},
+"kanadesch\u00010\u00010": {
+"pt": "Na nossa viagem conhecemos a cultura canadiana",
+"nl": "Op onze reis hebben we de Canadese cultuur leren kennen"
+},
+"Kanadesche Biber\u00010\u00010": {
+"pt": "Os castores americanos são animais invasores que, pela forte reprodução, poderiam substituir o castor autóctone",
+"nl": "De Noord-Amerikaanse bevers zijn invasieve dieren die door hun sterke voortplanting de inheemse bever zouden kunnen verdringen"
+},
+"Kanadeschen Dollar\u00010\u00010": {
+"pt": "No Canadá paga-se com dólares canadianos",
+"nl": "In Canada wordt met Canadese dollars betaald"
+},
+"Kanadeschen Dollar\u00010\u00011": {
+"pt": "Com quantos dólares canadianos se deve contar para uma noite de hotel?",
+"nl": "Op hoeveel Canadese dollars moet men voor een hotelovernachting rekenen?"
+},
+"Kanadeschen Dollar\u00010\u00012": {
+"pt": "Ainda tens alguns dólares canadianos na carteira?",
+"nl": "Heb je nog een paar Canadese dollars in je portemonnee?"
+},
+"Kanadier\u00010\u00010": {
+"pt": "O meu melhor amigo é canadiano",
+"nl": "Mijn beste vriend is Canadees"
+},
+"Kanadierin\u00010\u00010": {
+"pt": "A minha melhor amiga é canadiana",
+"nl": "Mijn beste vriendin is Canadese"
+},
+"Kanal\u00010\u00010": {
+"pt": "Esse canal tem cinco eclusas no primeiro quilómetro",
+"nl": "Dat kanaal heeft op de eerste kilometer vijf sluizen"
+},
+"Kanal\u00011\u00010": {
+"pt": "No nosso bairro a canalização está a ser refeita",
+"nl": "In onze wijk wordt het riool opnieuw aangelegd"
+},
+"Kanal\u00012\u00010": {
+"pt": "Agora recebo o programa noutro canal",
+"nl": "Ik krijg het programma nu op een ander kanaal"
+},
+"Kanaldeckel\u00010\u00010": {
+"pt": "Quando se passa de mota por cima de uma tampa de esgoto, há perigo de derrapar",
+"nl": "Als je met de motor over een rioolputdeksel rijdt, bestaat er slipgevaar"
+},
+"Kanaldeckel\u00010\u00011": {
+"pt": "As tampas de esgoto são de ferro fundido",
+"nl": "De rioolputdeksels zijn van gietijzer"
+},
+"Kanalisatioun\u00010\u00010": {
+"pt": "Do esgoto sobe um cheiro nojento",
+"nl": "Uit de riolering komt een walgelijke stank"
+},
+"Kanalisatioun\u00011\u00010": {
+"pt": "Desde a canalização circulam mais navios no Mosela",
+"nl": "Sinds de kanalisatie varen er meer schepen op de Moezel"
+},
+"kanaliséieren\u00010\u00010": {
+"pt": "Este rio foi canalizado nos anos sessenta",
+"nl": "Deze rivier werd in de jaren zestig gekanaliseerd"
+},
+"kanaliséieren\u00010\u00011": {
+"pt": "Tens de canalizar a tua agressividade",
+"nl": "Je moet je agressiviteit kanaliseren"
+},
+"Kanaliséierung\u00010\u00010": {
+"pt": "Depois da canalização do Mosela, foi construído um porto em Mertert",
+"nl": "Na de kanalisering van de Moezel werd in Mertert een haven gebouwd"
+},
+"Kanälli\u00010\u00010": {
+"pt": "O nosso vizinho tinha bebido um copo a mais na festa do churrasco",
+"nl": "Onze buurman had op het barbecuefeest een glaasje te veel op"
+},
+"Kanarievillchen\u00010\u00010": {
+"pt": "O nosso canário canta de manhã à noite",
+"nl": "Onze kanarie zingt van 's ochtends tot 's avonds"
 }
 }
