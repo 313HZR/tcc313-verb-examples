@@ -68398,5 +68398,905 @@
 "fort\u00010\u00012": {
 "pt": "Fora com isso!",
 "nl": "Weg ermee!"
+},
+"fort\u00010\u00013": {
+"pt": "Esse comboio já partiu!",
+"nl": "Die trein is vertrokken!"
+},
+"fort\u00010\u00014": {
+"pt": "O nosso pequeno está sempre a tossir!",
+"nl": "Onze kleine zit aan één stuk te hoesten!"
+},
+"fort\u00011\u00010": {
+"pt": "Estão longe de mais, já não os conseguimos apanhar",
+"nl": "Ze zijn te ver weg, we krijgen ze niet meer terug"
+},
+"fort\u00011\u00011": {
+"pt": "Ele estava longe!",
+"nl": "Hij was ver weg!"
+},
+"fort-\u00010\u00010": {
+"pt": "A minha mulher viaja no fim de semana",
+"nl": "Mijn vrouw vertrekt dit weekend"
+},
+"fort-\u00010\u00011": {
+"pt": "O assaltante fugiu da polícia",
+"nl": "De inbreker is voor de politie weggelopen"
+},
+"fortbeweegen\u00010\u00010": {
+"pt": "Uma cadeira de rodas ajuda as pessoas que não se podem deslocar autonomamente",
+"nl": "Een rolstoel helpt mensen die zich niet zelfstandig kunnen verplaatsen"
+},
+"fortdoen\u00010\u00010": {
+"pt": "A nossa mãe precisa de tantos cuidados que tivemos de a internar",
+"nl": "Onze moeder heeft zoveel zorg nodig dat we haar in een tehuis hebben moeten laten opnemen"
+},
+"fortdroen\u00010\u00010": {
+"pt": "Podes ajudar-me a levar estas caixas, por favor?",
+"nl": "Kun je me alsjeblieft helpen deze dozen weg te dragen?"
+},
+"fortdroen\u00010\u00011": {
+"pt": "A doente não reteve muito das explicações do médico",
+"nl": "De patiënte heeft niet veel onthouden van de uitleg van de dokter"
+},
+"fortféieren\u00010\u00010": {
+"pt": "Já levaste o lixo?",
+"nl": "Heb je het vuilnis al weggebracht?"
+},
+"fortféieren\u00010\u00011": {
+"pt": "A ambulância levou a aluna ferida",
+"nl": "De ziekenwagen heeft de gewonde leerlinge weggebracht"
+},
+"fortfléien\u00010\u00010": {
+"pt": "Quando bati palmas, o corvo voou",
+"nl": "Toen ik in mijn handen klapte, vloog de raaf weg"
+},
+"fortfléien\u00010\u00011": {
+"pt": "Põe uma pedra sobre as tuas folhas para que não voem!",
+"nl": "Leg een steen op je bladen zodat ze niet wegwaaien!"
+},
+"fortfléien\u00011\u00010": {
+"pt": "Voamos por volta das três",
+"nl": "We vliegen omstreeks drie uur weg"
+},
+"fortfueren\u00010\u00010": {
+"pt": "Tenho de partir o mais tardar às sete para chegar a horas ao trabalho",
+"nl": "Ik moet uiterlijk om zeven uur vertrekken om op tijd op het werk te zijn"
+},
+"fortfueren\u00011\u00010": {
+"pt": "Como a segunda-feira de Pentecostes é feriado, muita gente aproveita o fim de semana prolongado para viajar",
+"nl": "Omdat Pinkstermaandag een vrije dag is, profiteren veel mensen van het lange weekend om weg te gaan"
+},
+"Fortgang\u00010\u00010": {
+"pt": "O proprietário do edifício novo está satisfeito com o andamento das obras",
+"nl": "De eigenaar van het nieuwbouwproject is tevreden over de voortgang van de werken"
+},
+"fortgeschratt\u00010\u00010": {
+"pt": "Por causa da sua demência avançada, o meu avô está desde há pouco num lar",
+"nl": "Door zijn gevorderde dementie verblijft mijn opa sinds kort in een verzorgingstehuis"
+},
+"fortgeschratt\u00010\u00011": {
+"pt": "Os trabalhos na obra já estão muito adiantados",
+"nl": "De werken op de werf zijn al ver gevorderd"
+},
+"fortgoen\u00010\u00010": {
+"pt": "Quando quis sair, já não encontrei as chaves do carro",
+"nl": "Toen ik wilde vertrekken, vond ik mijn autosleutels niet meer"
+},
+"fortjoen\u00010\u00010": {
+"pt": "O criado foi despedido porque durante anos roubou o agricultor",
+"nl": "De knecht werd weggestuurd omdat hij de boer jarenlang bestolen had"
+},
+"fortkommen\u00010\u00010": {
+"pt": "Tenho tanto trabalho que não saio antes das seis!",
+"nl": "Ik heb zoveel werk dat ik voor zes uur niet weg kan!"
+},
+"fortkommen\u00010\u00011": {
+"pt": "Parte da população conseguiu fugir antes de as bombas caírem",
+"nl": "Een deel van de bevolking kon nog weg voordat de bommen vielen"
+},
+"fortkommen\u00010\u00012": {
+"pt": "Já é tempo de partires, senão não estás de volta a tempo para o almoço!",
+"nl": "Het wordt tijd dat je vertrekt, anders ben je niet op tijd terug voor het middageten!"
+},
+"fortkommen\u00011\u00010": {
+"pt": "O velho armário da cave vai ser levado ao meio-dia",
+"nl": "De oude kast in de kelder wordt vanmiddag weggehaald"
+},
+"fortkommen\u00012\u00010": {
+"pt": "Os meus brincos desapareceram de alguma forma",
+"nl": "Mijn oorbellen zijn op de een of andere manier zoekgeraakt"
+},
+"fortlafen\u00010\u00010": {
+"pt": "As crianças fogem quando veem o papão",
+"nl": "De kinderen lopen weg als ze de boeman zien"
+},
+"fortlafen\u00010\u00011": {
+"pt": "O assaltante fugiu da polícia",
+"nl": "De inbreker is voor de politie weggelopen"
+},
+"fortlafen\u00010\u00012": {
+"pt": "O rapaz fugiu de casa",
+"nl": "De jongen is van huis weggelopen"
+},
+"fortlafen\u00010\u00013": {
+"pt": "Não fujas, ainda tenho de falar contigo!",
+"nl": "Loop niet weg, ik moet nog met je praten!"
+},
+"fortlafen\u00010\u00014": {
+"pt": "Os refugiados tiveram de fugir da guerra",
+"nl": "De vluchtelingen moesten voor de oorlog vluchten"
+},
+"fortlafen\u00010\u00015": {
+"pt": "Ontem dois reclusos fugiram da prisão",
+"nl": "Gisteren zijn twee gevangenen uit de gevangenis ontsnapt"
+},
+"fortlafen\u00010\u00016": {
+"pt": "Esse trabalho não foge!",
+"nl": "Dat werk loopt niet weg!"
+},
+"fortlafen\u00010\u00017": {
+"pt": "A namorada dele fugiu dele",
+"nl": "Zijn vriendin is bij hem weggelopen"
+},
+"fortlafen\u00010\u00018": {
+"pt": "O tempo foge-me!",
+"nl": "De tijd raast voorbij!"
+},
+"fortlafen\u00010\u00019": {
+"pt": "Essa música é de pôr qualquer um em fuga!",
+"nl": "Die muziek is om van weg te lopen!"
+},
+"fortrennen\u00010\u00010": {
+"pt": "Quando começou a trovejar, fugiram depressa",
+"nl": "Toen het begon te onweren, zijn ze snel weggerend"
+},
+"fortschécken\u00010\u00010": {
+"pt": "Enviei o postal esta manhã",
+"nl": "Ik heb de postkaart vanochtend weggestuurd"
+},
+"fortschécken\u00011\u00010": {
+"pt": "A minha mulher despachou o caixeiro-viajante",
+"nl": "Mijn vrouw heeft de handelsreiziger weggestuurd"
+},
+"fortschécken\u00011\u00011": {
+"pt": "Manda o cão embora quando ele vier pedir à mesa",
+"nl": "Stuur de hond weg als hij aan tafel komt bedelen"
+},
+"fortschläichen\u00010\u00010": {
+"pt": "Escapulimo-nos do filme",
+"nl": "We zijn uit de film weggeslopen"
+},
+"fortschläichen\u00011\u00010": {
+"pt": "Depois de o gato ter comido o peixe, esgueirou-se",
+"nl": "Nadat de kat de vis had opgegeten, sloop hij weg"
+},
+"fortschleefen\u00010\u00010": {
+"pt": "Os rapazes levaram à força todas as caixas pesadas com os jornais",
+"nl": "De jongens hebben de zware kisten met kranten allemaal weggesleept"
+},
+"fortschleefen\u00010\u00011": {
+"pt": "Daquela conferência não retive grande coisa",
+"nl": "Van die voordracht heb ik niet veel opgestoken"
+},
+"Fortschrëtt\u00010\u00010": {
+"pt": "O progresso não se pode deter",
+"nl": "De vooruitgang is niet te stoppen"
+},
+"Fortschrëtt\u00010\u00011": {
+"pt": "A minha irmã faz grandes progressos no ballet",
+"nl": "Mijn zus maakt grote vorderingen in het ballet"
+},
+"fortschrëttlech\u00010\u00010": {
+"pt": "Comparado com o resto do mundo, esse país tem leis progressistas",
+"nl": "In vergelijking met de rest van de wereld heeft dat land progressieve wetten"
+},
+"fortschrëttlech\u00010\u00011": {
+"pt": "Apesar da sua idade avançada, o meu pai ainda pensa de forma muito progressista",
+"nl": "Ondanks zijn hoge leeftijd denkt mijn vader nog heel progressief"
+},
+"Fortsetzung\u00010\u00010": {
+"pt": "A continuação dos debates é hoje à tarde",
+"nl": "De voortzetting van de debatten is vanmiddag"
+},
+"Fortsetzung\u00011\u00010": {
+"pt": "Ainda não vi o último episódio",
+"nl": "Ik heb de laatste aflevering nog niet gezien"
+},
+"Fort Thüngen\u00010\u00010": {
+"pt": "No Forte Thüngen há agora um museu sobre a história das fortificações",
+"nl": "In Fort Thüngen is nu een museum over de geschiedenis van de vestingwerken"
+},
+"Forum\u00010\u00010": {
+"pt": "No fórum foram tratados os direitos humanos",
+"nl": "In het forum werden de mensenrechten behandeld"
+},
+"Forum\u00011\u00010": {
+"pt": "No meu tempo livre modero um fórum na Internet",
+"nl": "In mijn vrije tijd modereer ik een forum op het internet"
+},
+"Forum\u00011\u00011": {
+"pt": "O programa de rádio desta noite oferece um fórum a todos os que se queiram pronunciar sobre o tema da energia atómica",
+"nl": "De radio-uitzending van vanavond biedt een forum aan iedereen die zich over het thema kernenergie wil uitspreken"
+},
+"Foss\u00010\u00010": {
+"pt": "O mecânico desce à fossa para verificar o chassis do carro",
+"nl": "De monteur klimt in de put om het chassis van de auto te controleren"
+},
+"Foss\u00010\u00011": {
+"pt": "Cuidado quando passares com o carro sobre a fossa!",
+"nl": "Pas op als je over de put rijdt!"
+},
+"Foss\u00011\u00010": {
+"pt": "Na ópera, os músicos sentam-se num fosso diante do palco",
+"nl": "In de opera zitten de muzikanten in een put voor het podium"
+},
+"Foss\u00012\u00010": {
+"pt": "Como a nossa casa não está ligada ao saneamento, as águas residuais vão para uma fossa",
+"nl": "Omdat ons huis niet op het riool is aangesloten, loopt het afvalwater in een put"
+},
+"Fossenhaff\u00010\u00010": {
+"pt": "Moro em Fossenhaff",
+"nl": "Ik woon in Fossenhaff"
+},
+"Fossenhaff\u00010\u00011": {
+"pt": "Este autocarro vai para Fossenhaff?",
+"nl": "Rijdt deze bus naar Fossenhaff?"
+},
+"Fossil\u00010\u00010": {
+"pt": "A nossa professora de História coleciona fósseis de todo o mundo",
+"nl": "Onze lerares geschiedenis verzamelt fossielen uit de hele wereld"
+},
+"Fossil\u00010\u00011": {
+"pt": "Ele é um fóssil",
+"nl": "Hij is een fossiel"
+},
+"fossil\u00010\u00010": {
+"pt": "Há cada vez menos combustíveis fósseis no mundo",
+"nl": "Er zijn steeds minder fossiele brandstoffen in de wereld"
+},
+"Fotell\u00010\u00010": {
+"pt": "Ele passa o dia todo na poltrona a ver televisão",
+"nl": "Hij zit de hele dag in de fauteuil naar tv te kijken"
+},
+"Fotell\u00010\u00011": {
+"pt": "Comprámos um sofá e duas poltronas para a sala",
+"nl": "We hebben een sofa en twee fauteuils voor de woonkamer gekocht"
+},
+"Foto\u00010\u00010": {
+"pt": "Ele tem sempre uma fotografia dos filhos na carteira",
+"nl": "Hij heeft altijd een foto van zijn kinderen in zijn portemonnee"
+},
+"Foto\u00010\u00011": {
+"pt": "Quem tira as fotografias no vosso casamento?",
+"nl": "Wie neemt de foto's op jullie huwelijk?"
+},
+"Foto\u00010\u00012": {
+"pt": "Gostavas de uma fotografia minha?",
+"nl": "Zou je graag een foto van mij hebben?"
+},
+"Fotoapparat\u00010\u00010": {
+"pt": "Quando vou de viagem, levo sempre a máquina fotográfica",
+"nl": "Als ik op reis ga, neem ik altijd het fototoestel mee"
+},
+"fotogeen\u00010\u00010": {
+"pt": "A tua irmã é muito fotogénica",
+"nl": "Je zus is heel fotogeniek"
+},
+"Fotograf\u00010\u00010": {
+"pt": "Para o seu casamento, o meu irmão contratou um fotógrafo profissional",
+"nl": "Voor zijn huwelijk heeft mijn broer een professionele fotograaf ingehuurd"
+},
+"fotograféieren\u00010\u00010": {
+"pt": "É difícil fotografar os animais na natureza",
+"nl": "Het is moeilijk de dieren in de natuur te fotograferen"
+},
+"fotograféieren\u00011\u00010": {
+"pt": "Neste museu não é permitido fotografar",
+"nl": "In dit museum mag men niet fotograferen"
+},
+"Fotografie\u00010\u00010": {
+"pt": "Ele estuda fotografia em França",
+"nl": "Hij studeert fotografie in Frankrijk"
+},
+"Fotografin\u00010\u00010": {
+"pt": "Contratei uma fotógrafa para tirar fotografias do meu cavalo",
+"nl": "Ik heb een fotografe ingehuurd om foto's van mijn paard te maken"
+},
+"fotokopéieren\u00010\u00010": {
+"pt": "A secretária está a fotocopiar documentos",
+"nl": "De secretaresse is bezig documenten te fotokopiëren"
+},
+"Fotokopie\u00010\u00010": {
+"pt": "O professor esqueceu-se de distribuir as fotocópias aos alunos",
+"nl": "De meester is vergeten de fotokopieën aan de leerlingen uit te delen"
+},
+"Fotokopiesmaschinn\u00010\u00010": {
+"pt": "Recebemos uma fotocopiadora nova",
+"nl": "We hebben een nieuwe fotokopieermachine gekregen"
+},
+"Fotomodell\u00010\u00010": {
+"pt": "No meu tempo de estudante, posei algumas vezes como modelo fotográfico",
+"nl": "In mijn studententijd heb ik een paar keer als fotomodel geposeerd"
+},
+"Fotoreporter\u00010\u00010": {
+"pt": "O fotojornalista conseguiu um bom instantâneo",
+"nl": "De fotoreporter is een goed kiekje gelukt"
+},
+"Fotoreporterin\u00010\u00010": {
+"pt": "Aquela fotojornalista tira há anos fotografias para um jornal diário",
+"nl": "Die fotoreporter maakt al jaren foto's voor een dagblad"
+},
+"Fotosbuttek\u00010\u00010": {
+"pt": "Uma máquina fotográfica realmente boa compra-se melhor numa loja de fotografia",
+"nl": "Een echt goed fototoestel koopt men best in een fotozaak"
+},
+"Fotosrumm\u00010\u00010": {
+"pt": "Nessa loja encontras molduras de todos os tamanhos e preços",
+"nl": "In die winkel vind je fotolijsten in alle maten en prijzen"
+},
+"Fotovoltaik\u00011\u00010": {
+"pt": "As energias renováveis, como a fotovoltaica e a eólica, têm de ser promovidas",
+"nl": "De hernieuwbare energie, zoals fotovoltaïsche en windenergie, moet worden bevorderd"
+},
+"Fotovoltaikanlag\u00010\u00010": {
+"pt": "No telhado da escola está a ser instalada uma instalação fotovoltaica",
+"nl": "Op het dak van de school wordt een fotovoltaïsche installatie geplaatst"
+},
+"Fotovoltaikanlag\u00010\u00011": {
+"pt": "Quanta eletricidade produz num ano a tua instalação fotovoltaica?",
+"nl": "Hoeveel elektriciteit produceert je fotovoltaïsche installatie in een jaar?"
+},
+"Fötus\u00010\u00010": {
+"pt": "No fim do 3.º mês de gravidez, um feto tem aproximadamente 10 centímetros de comprimento",
+"nl": "Aan het einde van de derde maand van de zwangerschap is een foetus ongeveer 10 centimeter lang"
+},
+"Fotz\u00010\u00010": {
+"pt": "O nosso pequeno malandro quis saber se também os rapazes têm uma cona",
+"nl": "Ons deugnietje wilde weten of jongens ook een kut hebben"
+},
+"Fotz\u00011\u00010": {
+"pt": "Chamaram-me cona e mostraram-me o dedo do meio",
+"nl": "Ik werd kut genoemd en kreeg de middelvinger te zien"
+},
+"Fou\u00010\u00010": {
+"pt": "Temos de tapar as fendas na parede",
+"nl": "We moeten de voegen in de muur dichtsmeren"
+},
+"Fou\u00011\u00010": {
+"pt": "Essas juntas não são regulares",
+"nl": "Die voegen zijn niet regelmatig"
+},
+"fouen\u00010\u00010": {
+"pt": "Na casa de banho, os azulejos têm de ser rejuntados",
+"nl": "In de badkamer moeten de tegels opnieuw gevoegd worden"
+},
+"Fouen-s\u00010\u00010": {
+"pt": "As palavras Schofspelz e Äerdbiersglace têm ambas um s de ligação",
+"nl": "De woorden Schofspelz en Äerdbiersglace hebben allebei een tussen-s"
+},
+"Fouer\u00010\u00010": {
+"pt": "O agricultor recolheu ainda uma carga de feno antes da chuva",
+"nl": "De boer heeft voor de regen nog een voer hooi binnengehaald"
+},
+"Fouerzäit\u00010\u00010": {
+"pt": "Durante a Schueberfouer não se encontra estacionamento no Lampertsbierg",
+"nl": "Tijdens de kermisperiode vind je op de Lampertsbierg geen parkeerplaats"
+},
+"Foul\u00010\u00010": {
+"pt": "Depois da segunda falta, o avançado viu o cartão amarelo",
+"nl": "Na zijn tweede overtreding kreeg de spits de gele kaart te zien"
+},
+"Foulard\u00010\u00010": {
+"pt": "Comprei um lenço novo nos saldos",
+"nl": "Ik heb in de solden een nieuwe sjaal gekocht"
+},
+"foulen\u00010\u00010": {
+"pt": "O defesa fez falta sobre o avançado",
+"nl": "De verdediger heeft de spits gefault"
+},
+"foulen\u00011\u00010": {
+"pt": "As duas equipas cometeram muitas faltas na segunda parte",
+"nl": "Beide ploegen hebben in de tweede helft veel gefault"
+},
+"Fournisseur\u00010\u00010": {
+"pt": "O fornecedor não me soube dizer ao certo quando poderia entregar",
+"nl": "De leverancier kon me niet precies zeggen wanneer hij kon leveren"
+},
+"Fournisseur\u00010\u00011": {
+"pt": "Não pagamos logo aos nossos fornecedores, acertamos contas no fim do mês",
+"nl": "We betalen onze leveranciers niet meteen, we rekenen eind van de maand af"
+},
+"Fournisseur\u00010\u00012": {
+"pt": "O nosso fornecedor de momento não tem este produto em stock",
+"nl": "Onze leverancier heeft dit product momenteel niet in voorraad"
+},
+"Fourrière\u00010\u00010": {
+"pt": "O meu carro foi rebocado e tive de o ir buscar ao depósito",
+"nl": "Mijn auto werd weggesleept en ik moest hem gaan ophalen bij het depot"
+},
+"Fouss\u00010\u00010": {
+"pt": "Torci o pé",
+"nl": "Ik heb mijn voet verstuikt"
+},
+"Fouss\u00010\u00011": {
+"pt": "Ele não tinha sapatos nos pés",
+"nl": "Hij had geen schoenen aan zijn voeten"
+},
+"Fouss\u00010\u00012": {
+"pt": "Alguém lhe fez uma rasteira",
+"nl": "Iemand heeft hem een beentje gelicht"
+},
+"Fouss\u00010\u00013": {
+"pt": "Isso fica bem longe do alcance!",
+"nl": "Dat is veraf!"
+},
+"Fouss\u00010\u00014": {
+"pt": "Não tropeces nos teus próprios pés!",
+"nl": "Struikel toch niet over je eigen voeten!"
+},
+"Fouss\u00010\u00015": {
+"pt": "Naquela casa não ponho os pés!",
+"nl": "In dat huis zet ik geen voet!"
+},
+"Fouss\u00010\u00016": {
+"pt": "Levantaste-te hoje com o pé esquerdo?",
+"nl": "Ben je vandaag met je linkervoet uit bed gestapt?"
+},
+"Fouss\u00010\u00017": {
+"pt": "O compromisso está em pés de barro",
+"nl": "Het compromis staat op wankele voeten"
+},
+"Fouss\u00010\u00018": {
+"pt": "Eu sempre me desvio desse tipo",
+"nl": "Ik ga die kerel altijd uit de weg"
+},
+"Fouss\u00010\u00019": {
+"pt": "Depois da excursão, tinha os pés cheios de bolhas",
+"nl": "Na de uitstap had ik mijn voeten vol blaren"
+},
+"Fouss\u00010\u000110": {
+"pt": "Pára de fazer palhaçadas com os teus pés!",
+"nl": "Hou op met die gekheid met je voeten!"
+},
+"Fouss\u00010\u000111": {
+"pt": "Depois de ser despedido, perdeu o chão debaixo dos pés",
+"nl": "Na zijn ontslag verloor hij de grond onder zijn voeten"
+},
+"Fouss\u00010\u000112": {
+"pt": "Lutei com unhas e dentes contra esse trabalho!",
+"nl": "Ik heb me met hand en tand tegen dat werk verzet!"
+},
+"Fouss\u00010\u000113": {
+"pt": "Pouco antes do casamento, o noivo ficou com os pés frios",
+"nl": "Kort voor de bruiloft kreeg de bruidegom koude voeten"
+},
+"Fouss\u00010\u000114": {
+"pt": "O meu pai pragueja contra todo o automobilista que não lhe sai depressa do caminho",
+"nl": "Mijn vader vloekt op elke automobilist die niet snel genoeg uit zijn weg gaat"
+},
+"Fouss\u00011\u00010": {
+"pt": "Teria dado de bom grado um pontapé no rabo àquele atrevido!",
+"nl": "Ik had die brutale kerel het liefst een schop onder zijn kont gegeven!"
+},
+"Fouss\u00011\u00011": {
+"pt": "Ganhou na lotaria, foi um grande pontapé de sorte",
+"nl": "Hij heeft in de loterij gewonnen, dat was een gelukstreffer"
+},
+"Fouss\u00012\u00010": {
+"pt": "Fizemos o resto do caminho a pé",
+"nl": "We hebben de rest van de weg te voet afgelegd"
+},
+"Fouss\u00012\u00011": {
+"pt": "Dá-me isso a pé",
+"nl": "Geef het me te voet"
+},
+"Fouss\u00013\u00010": {
+"pt": "Um pé tem cerca de 30 centímetros",
+"nl": "Eén voet is ongeveer 30 centimeter"
+},
+"Fouss\u00013\u00011": {
+"pt": "O piloto disse que neste momento voávamos a uma altitude de 30 000 pés",
+"nl": "De piloot zei dat we momenteel op een hoogte van 30.000 voet vlogen"
+},
+"Foussbad\u00010\u00010": {
+"pt": "Contra a minha erupção nos pés faço todos os dias um escalda-pés",
+"nl": "Tegen mijn uitslag aan de voeten doe ik elke dag een voetbad"
+},
+"Foussgänger\u00010\u00010": {
+"pt": "Os peões atravessam a rua quando está verde",
+"nl": "De voetgangers steken over bij groen"
+},
+"Foussgängerwee\u00010\u00010": {
+"pt": "Um novo caminho pedonal deve ligar o parque de estacionamento à estação",
+"nl": "Een nieuw voetpad moet de parking met het station verbinden"
+},
+"Foussgängerwee\u00010\u00011": {
+"pt": "Um adulto pode andar de bicicleta num caminho pedonal?",
+"nl": "Mag een volwassene op een voetpad fietsen?"
+},
+"Foussgängerzon\u00010\u00010": {
+"pt": "Os comerciantes da cidade pronunciaram-se por uma zona pedonal maior",
+"nl": "De zakenlui uit de stad hebben zich uitgesproken voor een grotere voetgangerszone"
+},
+"Foussgängerzon\u00010\u00011": {
+"pt": "Na zona pedonal, ativistas distribuíram panfletos",
+"nl": "In de voetgangerszone hebben activisten pamfletten uitgedeeld"
+},
+"Foussgelenk\u00010\u00010": {
+"pt": "Depois de ter torcido o pé, o meu tornozelo doeu-me durante muito tempo",
+"nl": "Nadat ik mijn voet had omgeslagen, deed mijn enkel lang pijn"
+},
+"Foussläischt\u00010\u00010": {
+"pt": "Ele fixou o rodapé com parafusos",
+"nl": "Hij heeft de plint met schroeven vastgemaakt"
+},
+"Foussnolpilz\u00010\u00010": {
+"pt": "Uma vez por semana aplico um remédio contra fungos nas unhas dos pés",
+"nl": "Eenmaal per week smeer ik een middel tegen nagelschimmel op mijn teennagels"
+},
+"Foussnott\u00010\u00010": {
+"pt": "Este autor gosta de trabalhar com notas de rodapé",
+"nl": "Deze auteur werkt graag met voetnoten"
+},
+"Fousspilz\u00010\u00010": {
+"pt": "Apanhei pé de atleta na piscina",
+"nl": "Ik heb in het zwembad voetschimmel opgelopen"
+},
+"Foussréck\u00010\u00010": {
+"pt": "Tenho uma saliência feia no peito do pé",
+"nl": "Ik heb zo'n lelijke bult op mijn wreef"
+},
+"Foussspuer\u00010\u00010": {
+"pt": "As crianças seguiram as pegadas na neve",
+"nl": "De kinderen volgden de voetsporen in de sneeuw"
+},
+"Foussspuer\u00010\u00011": {
+"pt": "A polícia não pôde fazer nada com as pegadas",
+"nl": "De politie kon niets met de voetsporen beginnen"
+},
+"Fousssuel\u00010\u00010": {
+"pt": "Ele fez-lhe cócegas nas solas dos pés",
+"nl": "Hij kietelde haar onder de voetzolen"
+},
+"Fousssuel\u00010\u00011": {
+"pt": "Hoje vou mandar queimar algumas verrugas da planta do pé",
+"nl": "Vandaag laat ik meteen een paar wratten op mijn voetzool wegbranden"
+},
+"Fousstour\u00010\u00010": {
+"pt": "Nas nossas férias fizemos algumas belas caminhadas",
+"nl": "Op vakantie hebben we een paar mooie wandelingen gemaakt"
+},
+"foutéieren\u00010\u00010": {
+"pt": "Aquele preguiçoso não faz nada o dia todo",
+"nl": "Die luie kerel doet de hele dag niets"
+},
+"foutéieren\u00010\u00011": {
+"pt": "Espero que tenham feito hoje mais do que ontem!",
+"nl": "Ik hoop dat jullie vandaag meer gedaan hebben dan gisteren!"
+},
+"foutéieren\u00011\u00010": {
+"pt": "Ele está-se nas tintas para isso!",
+"nl": "Hij trekt zich daar helemaal niets van aan!"
+},
+"Foyer\u00010\u00010": {
+"pt": "Ele trabalha num centro de acolhimento para crianças com deficiência",
+"nl": "Hij werkt in een opvangtehuis voor kinderen met een beperking"
+},
+"Foyer\u00010\u00011": {
+"pt": "Durante o inverno, a comuna montou um abrigo provisório para toxicodependentes",
+"nl": "De gemeente heeft de winter over een voorlopig onthaaltehuis voor junkies ingericht"
+},
+"Foyer\u00011\u00010": {
+"pt": "O escultor tem uma exposição no foyer do teatro",
+"nl": "De beeldhouwer heeft een tentoonstelling in de foyer van de schouwburg"
+},
+"Fra\u00010\u00010": {
+"pt": "Inscrevi-me numa aula de ioga para mulheres",
+"nl": "Ik heb me ingeschreven voor een yogales voor vrouwen"
+},
+"Fra\u00010\u00011": {
+"pt": "O vestiário das mulheres fica do lado esquerdo",
+"nl": "De kleedkamer voor de vrouwen is aan de linkerkant"
+},
+"Fra\u00010\u00012": {
+"pt": "Chove a cântaros",
+"nl": "Het regent pijpenstelen"
+},
+"Fra\u00011\u00010": {
+"pt": "O meu patrão está casado com a mulher há trinta anos",
+"nl": "Mijn baas is al dertig jaar met zijn vrouw getrouwd"
+},
+"Fra\u00011\u00011": {
+"pt": "Ele divorciou-se da mulher",
+"nl": "Hij is van zijn vrouw gescheiden"
+},
+"Fra\u00011\u00012": {
+"pt": "Tenho mulher e filhos",
+"nl": "Ik heb vrouw en kinderen"
+},
+"Frächen\u00011\u00010": {
+"pt": "No fim de semana passado fiz um bom passeio com a minha mulherzinha",
+"nl": "Vorig weekend heb ik met mijn vrouwtje een mooie tocht gemaakt"
+},
+"Frächen\u00012\u00010": {
+"pt": "Nos melros, a fêmea é castanha e o macho preto",
+"nl": "Bij merels is het vrouwtje bruin en het mannetje zwart"
+},
+"Fracht\u00010\u00010": {
+"pt": "O camionista perdeu a carga no acidente",
+"nl": "De vrachtwagenchauffeur verloor bij het ongeluk zijn lading"
+},
+"Fracht\u00010\u00011": {
+"pt": "Os trabalhadores descarregam a carga no porto",
+"nl": "De arbeiders lossen de lading in de haven"
+},
+"Frachtgesellschaft\u00010\u00010": {
+"pt": "A companhia de transporte de carga transporta mercadorias perigosas em contentores especialmente equipados",
+"nl": "Het vrachtbedrijf vervoert gevaarlijke goederen in speciaal uitgeruste containers"
+},
+"Frachtschëff\u00010\u00010": {
+"pt": "O nosso conhecido era antigamente capitão de um cargueiro",
+"nl": "Onze kennis was vroeger kapitein op een vrachtschip"
+},
+"Frack\u00010\u00010": {
+"pt": "O diretor do circo apresentou-se de casaca preta",
+"nl": "De circusdirecteur trad op in een zwarte rok"
+},
+"Frack\u00010\u00011": {
+"pt": "Ele sente-se apanhado",
+"nl": "Hij voelt zich betrapt"
+},
+"Fraebeweegung\u00010\u00010": {
+"pt": "O movimento das mulheres defende a igualdade de direitos entre homens e mulheres",
+"nl": "De vrouwenbeweging zet zich in voor de gelijkberechtiging van man en vrouw"
+},
+"fraefeindlech\u00010\u00010": {
+"pt": "O homem pediu desculpa pelo seu comentário misógino",
+"nl": "De man heeft zich verontschuldigd voor zijn vrouwvijandige opmerking"
+},
+"Fraefeindlechkeet\u00010\u00010": {
+"pt": "Os feminicídios remontam muitas vezes à misoginia",
+"nl": "Feminicides zijn vaak terug te voeren op vrouwenhaat"
+},
+"Fraefeindlechkeet\u00010\u00011": {
+"pt": "Afirmar que os homens são melhores chefes do que as mulheres é misoginia pura!",
+"nl": "Beweren dat mannen betere bazen zijn dan vrouwen is pure vrouwenhaat!"
+},
+"Fraendokter\u00010\u00010": {
+"pt": "Por causa de uma inflamação no baixo-ventre, estou em tratamento com o meu ginecologista",
+"nl": "Wegens een ontsteking in mijn onderbuik word ik door mijn gynaecoloog behandeld"
+},
+"Fraendoktesch\u00010\u00010": {
+"pt": "A minha ginecologista apalpa-me o peito em cada consulta, para detetar atempadamente eventuais alterações",
+"nl": "Mijn gynaecologe tast bij elke afspraak mijn borst af om eventuele veranderingen tijdig vast te stellen"
+},
+"Fraenhaus\u00010\u00010": {
+"pt": "A jovem mãe encontrou ajuda na casa de abrigo para mulheres",
+"nl": "De jonge moeder vond hulp in het vrouwenhuis"
+},
+"Fraenzäitschrëft\u00010\u00010": {
+"pt": "No cabeleireiro, vi numa revista feminina uma reportagem sobre o casamento principesco",
+"nl": "Bij de kapper keek ik in een vrouwenblad naar een reportage over het prinselijke huwelijk"
+},
+"Fraerecht\u00010\u00010": {
+"pt": "Infelizmente ainda há países em que os direitos das mulheres são inexistentes",
+"nl": "Er zijn helaas nog altijd landen waar vrouwenrechten niet bestaan"
+},
+"Fragezeichen\u00010\u00010": {
+"pt": "O aluno só se tinha esquecido de dois pontos de interrogação na sua redação",
+"nl": "De leerling was in zijn opstel maar twee vraagtekens vergeten"
+},
+"fragil\u00010\u00010": {
+"pt": "Esses copos são frágeis de mais para ir à máquina de lavar loiça",
+"nl": "Die glazen zijn te fragiel om in de vaatwasser te zetten"
+},
+"fragil\u00011\u00010": {
+"pt": "Os pacientes mais frágeis recebem cuidados especiais",
+"nl": "Patiënten die kwetsbaarder zijn, krijgen speciale zorg"
+},
+"fragil\u00011\u00011": {
+"pt": "Já em criança tinha sempre uma saúde frágil",
+"nl": "Zelfs als kind had ik altijd een zwakke gezondheid"
+},
+"fragil\u00012\u00010": {
+"pt": "Devido à crise financeira, a economia do país continua frágil",
+"nl": "Door de financiële crisis is de economie van het land nog altijd fragiel"
+},
+"fragil\u00012\u00011": {
+"pt": "Na natureza encontra-se muitas vezes um equilíbrio muito frágil",
+"nl": "In de natuur vindt men vaak een heel fragiel evenwicht"
+},
+"Fragment\u00010\u00010": {
+"pt": "Os arqueólogos encontraram fragmentos de uma estátua romana",
+"nl": "Archeologen hebben fragmenten van een Romeins standbeeld gevonden"
+},
+"Fragment\u00011\u00010": {
+"pt": "O último romance da escritora só existe como fragmento",
+"nl": "De laatste roman van de schrijfster bestaat slechts als fragment"
+},
+"fragmentaresch\u00010\u00010": {
+"pt": "Nessa área tenho apenas conhecimentos fragmentários",
+"nl": "Op dat gebied heb ik slechts fragmentarische kennis"
+},
+"fragmentaresch\u00010\u00011": {
+"pt": "Alguns textos romanos foram transmitidos apenas de forma fragmentária",
+"nl": "Sommige Romeinse teksten zijn slechts fragmentarisch overgeleverd"
+},
+"fräi\u00010\u00010": {
+"pt": "Ele é livre de fazer o que quer",
+"nl": "Hij is vrij om te doen wat hij wil"
+},
+"fräi\u00010\u00011": {
+"pt": "Deram-me carta branca",
+"nl": "Ik kreeg een vrije hand"
+},
+"fräi\u00011\u00010": {
+"pt": "As galinhas andam à solta",
+"nl": "De kippen lopen vrij rond"
+},
+"fräi\u00011\u00011": {
+"pt": "As crianças brincam ao ar livre",
+"nl": "De kinderen spelen buiten in de open lucht"
+},
+"fräi\u00012\u00010": {
+"pt": "Este lugar ainda está livre?",
+"nl": "Is deze plaats nog vrij?"
+},
+"fräi\u00012\u00011": {
+"pt": "Ainda há quatro lugares de estacionamento livres",
+"nl": "Er zijn nog vier parkeerplaatsen vrij"
+},
+"fräi\u00012\u00012": {
+"pt": "Agora a estrada voltou a estar livre",
+"nl": "Nu is de weg weer vrij"
+},
+"fräi\u00012\u00013": {
+"pt": "Tens uma mão livre?",
+"nl": "Heb je een hand vrij?"
+},
+"fräi\u00012\u00014": {
+"pt": "Já não tenho um minuto livre!",
+"nl": "Ik heb geen vrije minuut meer!"
+},
+"fräi\u00013\u00010": {
+"pt": "Na sua tarde livre, as crianças vão ao solfejo",
+"nl": "Op haar vrije namiddag gaan de kinderen naar het solfège"
+},
+"fräi\u00013\u00011": {
+"pt": "No meu dia de folga, o meu patrão que me deixe em paz",
+"nl": "Op mijn vrije dag kan mijn baas me gestolen worden"
+},
+"fräi\u00013\u00012": {
+"pt": "A segunda-feira é dia de folga",
+"nl": "Maandag is een vrije dag"
+},
+"fräi\u00014\u00010": {
+"pt": "Isto é uma tradução livre do texto",
+"nl": "Dit is een vrije vertaling van de tekst"
+},
+"fräi\u00015\u00010": {
+"pt": "Recebemos uma entrada livre para o cinema",
+"nl": "We kregen een vrijkaartje voor de bioscoop"
+},
+"fräi\u00016\u00010": {
+"pt": "As profissões liberais têm a sua própria representação de interesses",
+"nl": "De vrije beroepen hebben hun eigen belangenvertegenwoordiging"
+},
+"fräi\u00017\u00010": {
+"pt": "A maioria dos clubes da cidade tem horário alargado aos fins de semana",
+"nl": "De meeste clubs in de stad hebben in het weekend een vrije nacht"
+},
+"fräi\u00017\u00011": {
+"pt": "Para a nossa festa da aldeia, ainda temos de pedir à comuna um alargamento do horário",
+"nl": "Voor ons dorpsfeest moeten we bij de gemeente nog een vrije nacht aanvragen"
+},
+"fräi-\u00010\u00010": {
+"pt": "À tarde os alunos têm folga",
+"nl": "'s Middags hebben de leerlingen vrij"
+},
+"fräi-\u00010\u00011": {
+"pt": "O chefe de Estado conseguiu finalmente libertar os reféns",
+"nl": "Het staatshoofd heeft de gijzelaars eindelijk vrijgekregen"
+},
+"Fräibéier\u00010\u00010": {
+"pt": "Depois da meia-noite há cerveja grátis na tenda",
+"nl": "Na middernacht is er gratis bier in de tent"
+},
+"fräiberufflech\u00010\u00010": {
+"pt": "O meu irmão esteve na polícia e trabalha agora como detetive independente",
+"nl": "Mijn broer was bij de politie en werkt nu als zelfstandig detective"
+},
+"fräiberufflech\u00010\u00011": {
+"pt": "Se trabalhas como independente, tens de fazer o teu próprio seguro",
+"nl": "Als je zelfstandig werkt, moet je zelf een verzekering afsluiten"
+},
+"Fräiberuffler\u00010\u00010": {
+"pt": "Como independente, não tenho horários de trabalho regulares",
+"nl": "Als zelfstandige heb ik geen vaste werkuren"
+},
+"Fräiberufflerin\u00010\u00010": {
+"pt": "A freelancer empenhada trabalha para muitos meios de comunicação diferentes",
+"nl": "De gedreven freelancer werkt voor veel verschillende media"
+},
+"Fräibetrag\u00010\u00010": {
+"pt": "Qual é o montante isento do imposto predial?",
+"nl": "Hoe hoog is de vrijstelling bij de grondbelasting?"
+},
+"Fräibilljee\u00010\u00010": {
+"pt": "Ele recebeu um bilhete grátis para o circo",
+"nl": "Hij kreeg een vrijkaartje voor het circus"
+},
+"fräifroen\u00010\u00010": {
+"pt": "O empregado pediu a tarde livre",
+"nl": "De werknemer heeft de namiddag vrijaf gevraagd"
+},
+"fräiginn\u00010\u00010": {
+"pt": "O tribunal ainda não libertou o corpo",
+"nl": "De rechtbank heeft het lijk nog niet vrijgegeven"
+},
+"fräiginn\u00011\u00010": {
+"pt": "O patrão deu hoje de manhã folga ao aprendiz",
+"nl": "De baas heeft de leerjongen vanochtend vrijaf gegeven"
+},
+"fräihalen\u00010\u00010": {
+"pt": "Guardo-te um lugar",
+"nl": "Ik hou een plaats voor je vrij"
+},
+"fräihalen\u00010\u00011": {
+"pt": "Reservou o sábado para ir às compras",
+"nl": "Hij heeft zaterdag vrijgehouden om te gaan winkelen"
+},
+"fräihänneg\u00010\u00010": {
+"pt": "Ele andou de bicicleta sem mãos",
+"nl": "Hij fietste zonder handen"
+},
+"fräihänneg\u00011\u00010": {
+"pt": "Aprenderam no curso noturno a pintar à mão livre",
+"nl": "Ze leerden in de avondcursus uit de losse hand tekenen"
+},
+"Fräiheet\u00010\u00010": {
+"pt": "Desde que me reformei, desfruto da minha liberdade",
+"nl": "Sinds ik met pensioen ben, geniet ik van mijn vrijheid"
+},
+"Fräiheet\u00010\u00011": {
+"pt": "Esse tirano retira ao povo todas as liberdades",
+"nl": "Die tiran neemt het volk alle vrijheden af"
+},
+"Fräiheet\u00011\u00010": {
+"pt": "A tua liberdade não pode ser à custa da de outro",
+"nl": "Je vrijheid mag niet ten koste van die van een ander gaan"
+},
+"Fräiheet\u00011\u00011": {
+"pt": "Estás mesmo a tomar muitas liberdades!",
+"nl": "Jij neemt je toch wel veel vrijheden!"
+},
+"Fräiheetsbam\u00010\u00010": {
+"pt": "A banda de Stroossen organiza a sua festa de verão junto à Árvore da Liberdade",
+"nl": "De muziekvereniging van Stroossen organiseert haar zomerfeest bij de Vrijheidsboom"
+},
+"Fräiheetsbam\u00010\u00011": {
+"pt": "Uma carreira leva as pessoas de Stroossen até à Árvore da Liberdade",
+"nl": "Een pendelbus brengt de mensen van Stroossen naar de Vrijheidsboom"
+},
+"fräihuelen\u00010\u00010": {
+"pt": "Terei todo o gosto em tirar amanhã um dia de folga",
+"nl": "Ik neem morgen graag vrij"
+},
+"fräihunn\u00010\u00010": {
+"pt": "À tarde os alunos têm folga",
+"nl": "'s Middags hebben de leerlingen vrij"
+},
+"fräihunn\u00010\u00011": {
+"pt": "Há muito tempo que não tinha folga",
+"nl": "Ik had al lang geen vrij meer"
+},
+"fräikafen\u00010\u00010": {
+"pt": "O governo pagou o resgate do refém",
+"nl": "De regering heeft de gijzelaar vrijgekocht"
+},
+"fräikommen\u00010\u00010": {
+"pt": "Os reféns foram libertados",
+"nl": "De gijzelaars zijn vrijgekomen"
 }
 }
