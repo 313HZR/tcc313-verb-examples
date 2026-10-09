@@ -62098,5 +62098,905 @@
 "Fakultéit\u00010\u00010": {
 "pt": "Na universidade, cada faculdade tem a sua própria biblioteca especializada",
 "nl": "Aan de universiteit heeft elke faculteit haar eigen vakbibliotheek"
+},
+"Fal\u00010\u00010": {
+"pt": "Montei armadilhas na cave porque tenho ratos",
+"nl": "Ik heb vallen in de kelder geplaatst omdat ik muizen heb"
+},
+"Fal\u00010\u00011": {
+"pt": "Ontem um ratinho-do-campo caiu na minha armadilha",
+"nl": "Gisteren is er een woelmuis in de val gelopen"
+},
+"Fal\u00010\u00012": {
+"pt": "O meu colega queria armar-me uma armadilha, mas eu percebi-lhe o jogo",
+"nl": "Mijn collega wilde me in de val laten lopen, maar ik doorzag hem"
+},
+"Fal\u00010\u00010~2": {
+"pt": "Na lavandaria fizeram-me um vinco nas calças",
+"nl": "Bij de stomerij hebben ze een vouw in mijn broek gestreken"
+},
+"Fal\u00010\u00011~2": {
+"pt": "A tua camisa está cheia de vincos!",
+"nl": "Je hemd zit vol kreukels!"
+},
+"Fal\u00011\u00010": {
+"pt": "Aquele homem já tinha o rosto cheio de rugas cedo",
+"nl": "Die man had al vroeg zijn gezicht vol rimpels"
+},
+"Falbréck\u00010\u00010": {
+"pt": "Os turistas têm de atravessar uma ponte levadiça para entrar no castelo",
+"nl": "De toeristen moeten over een ophaalbrug om het kasteel binnen te komen"
+},
+"Faldier\u00010\u00010": {
+"pt": "O ladrão subiu a escada, empurrou a escotilha e remexeu também tudo no sótão",
+"nl": "De dief klom de ladder op, duwde het luik open en doorzocht ook op zolder alles"
+},
+"Faldier\u00010\u00011": {
+"pt": "Debaixo da heroína abriu-se um alçapão e ela caiu num buraco profundo",
+"nl": "Onder de heldin ging een valluik open en ze viel in een diepe put"
+},
+"faleloossen\u00010\u00010": {
+"pt": "Por razões orçamentais, a comuna abandonou o projeto de uma piscina ao ar livre",
+"nl": "Om budgettaire redenen liet de gemeente het project van een openluchtzwembad vallen"
+},
+"faleloossen\u00011\u00010": {
+"pt": "Assim que ele deixou de estar politicamente ativo, muitos dos seus supostos colegas largaram-no",
+"nl": "Zodra hij politiek niet meer actief was, lieten veel van zijn zogenaamde collega's hem vallen"
+},
+"faleloossen\u00012\u00010": {
+"pt": "Por favor, não digas uma observação tão estúpida quando os nossos convidados chegarem!",
+"nl": "Laat alsjeblieft geen zo'n domme opmerking vallen wanneer onze gasten er straks zijn!"
+},
+"falen\u00010\u00010": {
+"pt": "Cuidado, a cinza do teu cigarro cai no chão!",
+"nl": "Pas op, de as van je sigaret valt op de grond!"
+},
+"falen\u00010\u00011": {
+"pt": "Esta noite nevou",
+"nl": "Vannacht is er sneeuw gevallen"
+},
+"falen\u00010\u00012": {
+"pt": "Olha só o que cai lá fora!",
+"nl": "Kijk eens wat daar buiten neervalt!"
+},
+"falen\u00011\u00010": {
+"pt": "Está escorregadio, cuidado para não caíres!",
+"nl": "Het is glad, pas op dat je niet valt!"
+},
+"falen\u00011\u00011": {
+"pt": "A doente caiu muito mal e partiu o braço e a clavícula",
+"nl": "De patiënte is heel ongelukkig gevallen en heeft haar arm en sleutelbeen gebroken"
+},
+"falen\u00011\u00012": {
+"pt": "Na última etapa, três ciclistas tiveram uma queda grave",
+"nl": "In de laatste etappe zijn drie renners zwaar gevallen"
+},
+"falen\u00011\u00013": {
+"pt": "Aquele tipo podia tropeçar em ti e nem sequer diz bom dia!",
+"nl": "Die kerel zou over je struikelen en niet eens goeiedag zeggen!"
+},
+"falen\u00011\u00014": {
+"pt": "É caindo que as crianças aprendem a andar!",
+"nl": "Door te vallen leren kinderen lopen!"
+},
+"falen\u00012\u00010": {
+"pt": "O cabelo cai-lhe sempre para a cara",
+"nl": "Zijn haar valt altijd in zijn gezicht"
+},
+"falen\u00012\u00011": {
+"pt": "O cetim é um tecido que cai bem",
+"nl": "Satijn is een stof die mooi valt"
+},
+"falen\u00013\u00010": {
+"pt": "Pelas janelas coloridas entra pouca luz",
+"nl": "Door de gekleurde ramen valt er weinig licht"
+},
+"falen\u00014\u00010": {
+"pt": "O Natal calha este ano a um domingo",
+"nl": "Kerstmis valt dit jaar op een zondag"
+},
+"falen\u00015\u00010": {
+"pt": "A nossa decisão será tomada ainda esta semana",
+"nl": "Onze beslissing valt nog deze week"
+},
+"falen\u00015\u00011": {
+"pt": "A decisão foi tomada depressa",
+"nl": "De beslissing was snel gevallen"
+},
+"falen\u00016\u00010": {
+"pt": "O meu avô caiu na última guerra",
+"nl": "Mijn opa is in de laatste oorlog gesneuveld"
+},
+"falen\u00017\u00010": {
+"pt": "Ouviu-se um tiro",
+"nl": "Er is een schot gevallen"
+},
+"falen\u00017\u00011": {
+"pt": "Foram proferidas algumas observações estúpidas",
+"nl": "Er zijn een paar domme opmerkingen gevallen"
+},
+"falen\u00018\u00010": {
+"pt": "O nível da água desceu",
+"nl": "Het waterpeil is gedaald"
+},
+"falen\u00018\u00011": {
+"pt": "A cotação das ações continua a cair",
+"nl": "De koers van de aandelen blijft dalen"
+},
+"falen\u00019\u00010": {
+"pt": "Depois da sua morte, toda a fortuna passa para a família da sua mulher",
+"nl": "Na zijn dood valt het hele vermogen toe aan de familie van zijn vrouw"
+},
+"falen\u000110\u00010": {
+"pt": "Esse trabalho cabe na tua competência",
+"nl": "Dat werk valt onder jouw bevoegdheid"
+},
+"falen\u00010\u00010~2": {
+"pt": "A mãe dobrou a roupa e guardou-a no armário",
+"nl": "Moeder heeft de was gevouwen en in de kast gelegd"
+},
+"falen\u00011\u00010~2": {
+"pt": "Juntei as mãos e rezei um Pai-Nosso",
+"nl": "Ik heb mijn handen gevouwen en een Onze Vader gebeden"
+},
+"Fall\u00010\u00010": {
+"pt": "Nesse caso, tem de apresentar uma reclamação por escrito",
+"nl": "In dat geval moet u een schriftelijke klacht indienen"
+},
+"Fall\u00010\u00011": {
+"pt": "No pior dos casos, teremos de recomeçar do princípio",
+"nl": "In het slechtste geval moeten we nog eens van voren af aan beginnen"
+},
+"Fall\u00010\u00012": {
+"pt": "Para celebrar este contrato, tens de ter 18 anos; caso contrário, os teus pais têm de assinar também",
+"nl": "Om dit contract af te sluiten moet je 18 jaar zijn, in het andere geval moeten je ouders mee ondertekenen"
+},
+"Fall\u00010\u00013": {
+"pt": "Isso tem de ser visto caso a caso",
+"nl": "Dat moet je geval per geval bekijken"
+},
+"Fall\u00011\u00010": {
+"pt": "O médico teve hoje alguns casos com os mesmos sintomas",
+"nl": "De dokter had vandaag een paar gevallen met dezelfde symptomen"
+},
+"Fall\u00011\u00011": {
+"pt": "As urgências receberam durante a noite um caso grave",
+"nl": "De spoeddienst kreeg 's nachts een ernstig geval binnen"
+},
+"Fall\u00011\u00012": {
+"pt": "Na nossa turma há um caso em que o juiz de menores teve de intervir",
+"nl": "In onze klas is er een geval waarin de jeugdrechter heeft moeten ingrijpen"
+},
+"Fall\u00012\u00010": {
+"pt": "Os dois casos ainda não foram esclarecidos",
+"nl": "De twee gevallen zijn nog altijd niet opgehelderd"
+},
+"Fall\u00013\u00010": {
+"pt": "Na aula de Física tratou-se hoje da lei da queda livre",
+"nl": "In de les fysica ging het vandaag over de wet van de vrije val"
+},
+"Fall\u00014\u00010": {
+"pt": "Num trabalho destes tens de usar luvas em qualquer caso",
+"nl": "Bij zo'n werk moet je in elk geval handschoenen dragen"
+},
+"Fall\u00015\u00010": {
+"pt": "Mesmo que eu não seja afetado, espero em todo o caso que se encontre depressa uma solução",
+"nl": "Ook al ben ik niet getroffen, ik hoop in elk geval dat er snel een oplossing wordt gevonden"
+},
+"Fall\u00016\u00010": {
+"pt": "Em caso algum cliques no link desse e-mail, de certeza que é uma fraude!",
+"nl": "Klik in geen geval op de link in die e-mail, het is vast een oplichting!"
+},
+"Fall\u00017\u00010": {
+"pt": "No luxemburguês há três casos usuais: o nominativo, o acusativo e o dativo",
+"nl": "In het Luxemburgs zijn er drie gebruikelijke naamvallen: de nominatief, de accusatief en de datief"
+},
+"fälleg\u00010\u00010": {
+"pt": "No fim da semana vence a renda",
+"nl": "Eind van de week is de huur verschuldigd"
+},
+"fälleg\u00011\u00010": {
+"pt": "Já é tempo de finalmente tomar a decisão há muito devida",
+"nl": "Het is tijd om eindelijk de beslissing te nemen die allang aan de orde is"
+},
+"fälleg\u00011\u00011": {
+"pt": "Como passei um sinal vermelho, era de esperar uma multa!",
+"nl": "Omdat ik door het rood gereden ben, was er een proces-verbaal fout!"
+},
+"Fällegkeetsdatum\u00010\u00010": {
+"pt": "Em baixo, na fatura, está a data de vencimento",
+"nl": "Onderaan op de factuur staat de vervaldatum"
+},
+"Fallek\u00010\u00010": {
+"pt": "Nos países árabes, os falcões são treinados para a caça",
+"nl": "In Arabische landen worden valken voor de jacht afgericht"
+},
+"Fallek\u00010\u00011": {
+"pt": "O falcão pertence mesmo às aves de rapina?",
+"nl": "Behoort de valk eigenlijk tot de roofvogels?"
+},
+"Fallrückziher\u00010\u00010": {
+"pt": "Com um pontapé de bicicleta, ela marcou o golo decisivo para a sua equipa",
+"nl": "Met een omhaal kon ze het beslissende doelpunt voor haar ploeg scoren"
+},
+"falls\u00010\u00010": {
+"pt": "Se chover, mudamos a festa para a tenda",
+"nl": "Mocht het regenen, dan verplaatsen we het feest naar de tent"
+},
+"Fallschierm\u00010\u00010": {
+"pt": "O paraquedas não abriu",
+"nl": "De valscherm is niet opengegaan"
+},
+"Fallschiermsprénger\u00010\u00010": {
+"pt": "Antes do primeiro salto, o paraquedista sentiu-se inquieto durante muito tempo",
+"nl": "Voor de eerste sprong was de parachutist nog lang niet op zijn gemak"
+},
+"Fallschiermsprénger\u00010\u00011": {
+"pt": "Os dois paraquedistas saltaram de uma altura de 3000 metros",
+"nl": "De twee parachutisten sprongen van een hoogte van 3000 meter"
+},
+"Fallschiermspréngerin\u00010\u00010": {
+"pt": "Antes do seu primeiro salto, a paraquedista não se sentia à vontade",
+"nl": "Voor haar eerste sprong was de parachutiste niet op haar gemak"
+},
+"Fallschiermsprong\u00010\u00010": {
+"pt": "Arriscarias fazer um salto de paraquedas?",
+"nl": "Zou jij een parachutesprong durven wagen?"
+},
+"falsch\u00010\u00010": {
+"pt": "Esta conta está errada",
+"nl": "Deze rekening klopt niet"
+},
+"falsch\u00010\u00011": {
+"pt": "O clarinetista tocou completamente desafinado",
+"nl": "De klarinettist speelde helemaal vals"
+},
+"falsch\u00011\u00010": {
+"pt": "Na estação subimos para o autocarro errado",
+"nl": "Op het station zijn we in de verkeerde bus gestapt"
+},
+"falsch\u00011\u00011": {
+"pt": "Aqui está no sítio errado!",
+"nl": "Hier bent u verkeerd!"
+},
+"falsch\u00011\u00012": {
+"pt": "Ele fez um movimento errado",
+"nl": "Hij maakte een verkeerde beweging"
+},
+"falsch\u00012\u00010": {
+"pt": "Como é que se pode ser tão falso!",
+"nl": "Hoe kan iemand zo vals zijn!"
+},
+"falsch\u00012\u00011": {
+"pt": "É um cão falso!",
+"nl": "Hij is een valse hond!"
+},
+"falsch\u00012\u00012": {
+"pt": "Não há um osso falso nele",
+"nl": "Er zit geen greintje valsheid in hem"
+},
+"falsch\u00013\u00010": {
+"pt": "Não alimentes falsas esperanças!",
+"nl": "Maak je geen valse hoop!"
+},
+"falsch\u00013\u00011": {
+"pt": "Foi um falso alarme",
+"nl": "Het was vals alarm"
+},
+"falsch\u00014\u00010": {
+"pt": "Desde o seu acidente, o jovem tem dentes postiços",
+"nl": "Sinds zijn ongeluk heeft de jonge man een vals gebit"
+},
+"falsch\u00014\u00011": {
+"pt": "De vez em quando aparecem notas falsas",
+"nl": "Af en toe duiken er valse bankbiljetten op"
+},
+"fälschen\u00010\u00010": {
+"pt": "O rapaz falsificou a assinatura do pai",
+"nl": "De jongen heeft de handtekening van zijn vader vervalst"
+},
+"fälschen\u00010\u00011": {
+"pt": "Circula dinheiro falso",
+"nl": "Er is vals geld in omloop"
+},
+"Fälscher\u00010\u00010": {
+"pt": "O falsificador foi apanhado com uma mala cheia de notas falsas",
+"nl": "De vervalser werd betrapt met een koffer vol nagemaakte bankbiljetten"
+},
+"Fälscherin\u00010\u00010": {
+"pt": "A falsificadora procurada pela polícia queria de novo pôr em circulação um grande lote de notas falsas",
+"nl": "De door de politie gezochte vervalster wilde opnieuw een hele hoop valse biljetten in omloop brengen"
+},
+"Falschheet\u00010\u00010": {
+"pt": "Com a sua falsidade, não faz amigos",
+"nl": "Met zijn valsheid maakt hij geen vrienden"
+},
+"Falschheet\u00010\u00011": {
+"pt": "Ela é cheia de falsidade",
+"nl": "Ze zit vol valsheid"
+},
+"Fälschung\u00010\u00010": {
+"pt": "Num mercado de rua vendem-se muitas vezes toda a espécie de falsificações",
+"nl": "Op een straatmarkt worden vaak allerlei vervalsingen verkocht"
+},
+"Falz\u00010\u00010": {
+"pt": "A linha tracejada na folha indica onde vai a dobra",
+"nl": "De gestreepte lijn op het blad geeft aan waar de vouw komt"
+},
+"Falz\u00010\u00011": {
+"pt": "Na folha está marcado onde vai a dobra",
+"nl": "Op het blad staat aangeduid waar de vouw komt"
+},
+"Falz\u00010\u00012": {
+"pt": "Não consigo abrir bem a lata de ervilhas porque o rebordo está amolgado",
+"nl": "Ik krijg het blik erwten niet goed open omdat de rand gedeukt is"
+},
+"faméis\u00010\u00010": {
+"pt": "O meu cunhado tem um apetite formidável!",
+"nl": "Mijn zwager heeft een geweldige eetlust!"
+},
+"faméis\u00010\u00011": {
+"pt": "Esse barulho dá-me mesmo nos nervos",
+"nl": "Dat lawaai werkt me echt op de zenuwen"
+},
+"faméis\u00010\u00012": {
+"pt": "O sol hoje esteve a bater com força",
+"nl": "De zon scheen vandaag verschrikkelijk fel"
+},
+"faméis\u00010\u00013": {
+"pt": "Esses resultados estão longe de ser formidáveis",
+"nl": "Die resultaten zijn lang niet geweldig"
+},
+"faméis\u00010\u00014": {
+"pt": "É esse o teu colega formidável?",
+"nl": "Is dat je geweldige collega?"
+},
+"familiär\u00010\u00010": {
+"pt": "Por motivos familiares, a nossa colega tirou três dias de licença",
+"nl": "Om familiale redenen nam onze collega drie dagen verlof"
+},
+"familiär\u00011\u00010": {
+"pt": "Com os anos desenvolveu-se entre os vizinhos uma relação familiar",
+"nl": "Met de jaren is er tussen de buren een vertrouwelijke relatie ontstaan"
+},
+"familiär\u00011\u00011": {
+"pt": "O reitor falou com os estudantes de forma muito descontraída",
+"nl": "De rector sprak heel vertrouwelijk met de studenten"
+},
+"familiariséieren\u00010\u00010": {
+"pt": "As crianças estrangeiras devem ser familiarizadas o mais cedo possível com o nosso sistema escolar",
+"nl": "De buitenlandse kinderen moeten zo vroeg mogelijk vertrouwd worden gemaakt met ons schoolsysteem"
+},
+"familiariséieren\u00010\u00011": {
+"pt": "É difícil familiarizar-se com a ideia",
+"nl": "Het is moeilijk zich met het idee vertrouwd te maken"
+},
+"Famill\u00010\u00010": {
+"pt": "No parque infantil havia muitas famílias com crianças pequenas",
+"nl": "Op de speelplaats waren veel gezinnen met kleine kinderen"
+},
+"Famill\u00010\u00011": {
+"pt": "Com oito filhos, somos uma família excecionalmente grande",
+"nl": "Met acht kinderen zijn we een buitengewoon groot gezin"
+},
+"Famill\u00011\u00010": {
+"pt": "Tenho família na Suíça",
+"nl": "Ik heb familie in Zwitserland"
+},
+"Famill\u00011\u00011": {
+"pt": "O talento musical é de família",
+"nl": "Muzikaal talent zit bij ons in de familie"
+},
+"Famill\u00011\u00012": {
+"pt": "Isso acontece nas melhores famílias!",
+"nl": "Dat kan in de beste families gebeuren!"
+},
+"Famill\u00012\u00010": {
+"pt": "Naquela aldeia são todos parentes uns dos outros",
+"nl": "In dat dorp zijn ze allemaal familie van elkaar"
+},
+"Familljebetrib\u00010\u00010": {
+"pt": "A nossa vizinha continua a gerir a empresa familiar com os irmãos",
+"nl": "Onze buurvrouw zet het familiebedrijf samen met haar broers en zussen voort"
+},
+"Familljebijou\u00010\u00010": {
+"pt": "Sem pensar duas vezes, a nossa cunhada vendeu as joias de família",
+"nl": "Zonder om te kijken heeft onze schoonzus de familiejuwelen verkocht"
+},
+"Familljebuch\u00010\u00010": {
+"pt": "Não te esqueças de levar o livro de família à comuna quando fores registar o nosso bebé!",
+"nl": "Vergeet niet het trouwboekje mee te nemen naar het gemeentehuis wanneer je onze baby gaat aangeven!"
+},
+"Familljefeier\u00010\u00010": {
+"pt": "Para as nossas bodas de prata organizámos uma grande festa de família",
+"nl": "Voor ons zilveren huwelijksfeest hebben we een groot familiefeest georganiseerd"
+},
+"Familljefest\u00010\u00010": {
+"pt": "Para as nossas bodas de prata organizámos uma grande festa de família",
+"nl": "Voor ons zilveren huwelijksfeest hebben we een groot familiefeest georganiseerd"
+},
+"Familljefoto\u00010\u00010": {
+"pt": "O meu avô falta nesta fotografia de família porque foi ele que a tirou!",
+"nl": "Mijn opa ontbreekt op deze familiefoto omdat hij haar genomen heeft!"
+},
+"Familljegraf\u00010\u00010": {
+"pt": "Os meus pais mandaram selar o nosso jazigo de família",
+"nl": "Mijn ouders hebben ons familiegraf laten dichtmaken"
+},
+"Familljekrees\u00010\u00010": {
+"pt": "O funeral foi em círculo familiar restrito",
+"nl": "De begrafenis vond plaats in besloten familiekring"
+},
+"Familljeliewen\u00010\u00010": {
+"pt": "Devido ao muito trabalho na nossa empresa, a vida familiar fica muitas vezes em segundo plano",
+"nl": "Door het vele werk in ons bedrijf komt het gezinsleven vaak te kort"
+},
+"Familljemember\u00010\u00010": {
+"pt": "Muitos familiares vieram ao 95.º aniversário da avó",
+"nl": "Veel familieleden kwamen naar de 95e verjaardag van oma"
+},
+"Familljemënsch\u00010\u00010": {
+"pt": "Como pessoa de família, gosto de passar muito tempo com os meus filhos e netos",
+"nl": "Als familiemens breng ik graag veel tijd door met mijn kinderen en kleinkinderen"
+},
+"Familljeminister\u00010\u00010": {
+"pt": "O ministro da Família inaugurou ontem o novo lar de idosos",
+"nl": "De minister van Gezin heeft gisteren het nieuwe rusthuis ingehuldigd"
+},
+"Familljeministère\u00010\u00010": {
+"pt": "O Ministério da Família lançou uma campanha contra os estereótipos sexistas",
+"nl": "Het ministerie van Gezin heeft een campagne tegen seksistische stereotypen gelanceerd"
+},
+"Familljeministère\u00011\u00010": {
+"pt": "O Ministério da Família vai ser renovado muito em breve",
+"nl": "Het ministerie van Gezin wordt binnenkort gerenoveerd"
+},
+"Familljenënnerstëtzung\u00010\u00010": {
+"pt": "Que critérios é preciso cumprir para beneficiar dos apoios familiares?",
+"nl": "Aan welke criteria moet men voldoen om van gezinssteun te kunnen profiteren?"
+},
+"Familljennumm\u00010\u00010": {
+"pt": "Os nossos filhos têm o apelido da mãe",
+"nl": "Onze kinderen hebben de familienaam van hun moeder"
+},
+"Familljennumm\u00010\u00011": {
+"pt": "O nosso apelido deriva de uma profissão",
+"nl": "Onze familienaam is afgeleid van een beroep"
+},
+"Familljennumm\u00010\u00012": {
+"pt": "Escreva o seu nome próprio na primeira coluna e o seu apelido na segunda!",
+"nl": "Schrijf uw voornaam in de eerste kolom en uw familienaam in de tweede!"
+},
+"Familljentraditioun\u00010\u00010": {
+"pt": "Na nossa família é tradição irmos juntos à missa do galo na Consoada",
+"nl": "Bij ons is het een familietraditie om op kerstavond samen naar de nachtmis te gaan"
+},
+"Familljesituatioun\u00010\u00010": {
+"pt": "A nova lei sobre o abono de família deve responder melhor às situações familiares de hoje",
+"nl": "De nieuwe wet op het kindergeld moet beter inspelen op de gezinssituaties van vandaag"
+},
+"Familljestand\u00010\u00010": {
+"pt": "No formulário pergunta-se pelo estado civil",
+"nl": "Op het formulier wordt naar de burgerlijke staat gevraagd"
+},
+"Familljestruktur\u00010\u00010": {
+"pt": "A universidade fez um estudo sobre as estruturas familiares no país",
+"nl": "De universiteit heeft een studie over de gezinsstructuren in het land uitgevoerd"
+},
+"Familljeverhältnisser\u00010\u00010": {
+"pt": "As crianças oriundas de contextos familiares difíceis têm mais frequentemente problemas na escola",
+"nl": "Kinderen uit moeilijke gezinsomstandigheden hebben vaker problemen op school"
+},
+"Fan\u00010\u00010": {
+"pt": "Sou grande fã de humor negro",
+"nl": "Ik ben een grote fan van zwarte humor"
+},
+"Fan\u00010\u00011": {
+"pt": "No futebol, os adeptos de ambas as equipas podem por vezes desentender-se",
+"nl": "In het voetbal kunnen fans van beide ploegen soms slaags raken"
+},
+"fanatesch\u00010\u00010": {
+"pt": "É um opositor fanático dessa abordagem",
+"nl": "Hij is een fanatieke tegenstander van die aanpak"
+},
+"fanatesch\u00010\u00011": {
+"pt": "Opõem-se fanaticamente a uma nova lixeira",
+"nl": "Ze verzetten zich fanatiek tegen een nieuwe stortplaats"
+},
+"Fanatiker\u00010\u00010": {
+"pt": "Não te metas com esses fanáticos, são perigosos!",
+"nl": "Laat je niet in met die fanatiekelingen, ze zijn gevaarlijk!"
+},
+"Fanatiker\u00010\u00011": {
+"pt": "É um fanático por ténis",
+"nl": "Hij is een tennisfanaat"
+},
+"Fanatikerin\u00010\u00010": {
+"pt": "A uma verdadeira fanática dificilmente a farás mudar de opinião com argumentos objetivos",
+"nl": "Een echte fanatica krijg je met zakelijke argumenten nauwelijks van haar mening af"
+},
+"fanatiséieren\u00010\u00010": {
+"pt": "O ditador fez tudo para fanatizar o povo",
+"nl": "De dictator deed alles om het volk te fanatiseren"
+},
+"Fanatismus\u00010\u00010": {
+"pt": "O ódio cego e o fanatismo religioso fizeram dele um terrorista",
+"nl": "Blinde haat en religieus fanatisme hebben van hem een terrorist gemaakt"
+},
+"Fanclub\u00010\u00010": {
+"pt": "O clube de fãs tornou o hotel inteiro inseguro",
+"nl": "De fanclub heeft het hele hotel onveilig gemaakt"
+},
+"Fanclub\u00010\u00011": {
+"pt": "Este ano vais outra vez ver com o clube de fãs o último jogo da época?",
+"nl": "Ga je dit jaar weer met de fanclub naar de laatste wedstrijd van het seizoen kijken?"
+},
+"fancy\u00010\u00010": {
+"pt": "Passámos o nosso dia de casamento num hotel elegante",
+"nl": "Onze trouwdag hebben we in een chique hotel doorgebracht"
+},
+"fancy\u00010\u00011": {
+"pt": "Não gosto de ir a esse restaurante, a ementa é elegante de mais para mim",
+"nl": "Ik ga niet graag naar dat restaurant, hun menu is me te fancy"
+},
+"Fändel\u00010\u00010": {
+"pt": "O coro recebeu uma nova bandeira para o seu centenário",
+"nl": "Het koor kreeg voor zijn honderdjarig bestaan een nieuwe vlag"
+},
+"Fändel\u00010\u00011": {
+"pt": "O meu marido vinha bem bebido quando saiu do café",
+"nl": "Mijn man was aangeschoten toen hij uit de herberg kwam"
+},
+"fändelen\u00010\u00010": {
+"pt": "Andaram o dia inteiro a vaguear pela cidade",
+"nl": "Ze hebben de hele dag door de stad gezworven"
+},
+"Fändelsstaang\u00010\u00010": {
+"pt": "A comuna retirou os dois mastros ferrugentos ao lado do monumento",
+"nl": "De gemeente heeft de twee verroeste vlaggenmasten naast het monument weggehaald"
+},
+"Fanfare\u00010\u00010": {
+"pt": "Toco bateria numa fanfarra",
+"nl": "Ik speel drums in een fanfare"
+},
+"Fanfare\u00010\u00011": {
+"pt": "As duas fanfarras dão todos os anos um concerto em conjunto",
+"nl": "De twee fanfares geven elk jaar samen een concert"
+},
+"Fang\u00010\u00010": {
+"pt": "O meu pai chegou a casa da pesca com uma grande captura",
+"nl": "Mijn vader kwam van het vissen thuis met een grote vangst"
+},
+"Fanger\u00010\u00010": {
+"pt": "O operário cortou um dedo com a serra",
+"nl": "De arbeider heeft zich met de zaag een vinger afgesneden"
+},
+"Fanger\u00010\u00011": {
+"pt": "O ciclista caiu e partiu o dedo mindinho",
+"nl": "De renner is gevallen en heeft zijn pink gebroken"
+},
+"Fanger\u00010\u00012": {
+"pt": "Se tiveres azar, partes um dedo no bolso do colete!",
+"nl": "Als je pech hebt, kun je je vinger breken in je vestzak!"
+},
+"Fanger\u00010\u00013": {
+"pt": "Tens de levantar o dedo quando queres dizer alguma coisa!",
+"nl": "Je moet je vinger opsteken wanneer je iets wilt zeggen!"
+},
+"Fanger\u00010\u00014": {
+"pt": "Não se aponta o dedo às pessoas!",
+"nl": "Men wijst niet met de vinger naar mensen!"
+},
+"Fanger\u00010\u00015": {
+"pt": "Tira os teus dedos (sujos) daí!",
+"nl": "Blijf met je (vuile) vingers daarvan af!"
+},
+"Fanger\u00010\u00016": {
+"pt": "Isso levantas com o dedo mindinho",
+"nl": "Dat til je met je pink op"
+},
+"Fanger\u00010\u00017": {
+"pt": "Tens de vigiar o estagiário!",
+"nl": "Je moet de stagiair op de vingers kijken!"
+},
+"Fanger\u00010\u00018": {
+"pt": "A esse vamos dar-lhe uma reprimenda!",
+"nl": "Die gaan we op de vingers tikken!"
+},
+"Fanger\u00010\u00019": {
+"pt": "O caixa também tinha as mãos metidas no negócio!",
+"nl": "De kassier had er ook zijn vingers in!"
+},
+"Fanger\u00010\u000110": {
+"pt": "Por ti já não mexo um dedo!",
+"nl": "Voor jou doe ik geen vinger meer uit!"
+},
+"Fanger\u00010\u000111": {
+"pt": "O presidente não suja as mãos!",
+"nl": "De president maakt zijn handen niet vuil!"
+},
+"Fanger\u00010\u000112": {
+"pt": "A aluna inventou aquilo do nada!",
+"nl": "De leerlinge heeft dat uit haar duim gezogen!"
+},
+"Fanger\u00010\u000113": {
+"pt": "Não queimes os dedos nisso!",
+"nl": "Brand je vingers er niet aan!"
+},
+"Fanger\u00010\u000114": {
+"pt": "A criança tem o pai completamente na mão!",
+"nl": "Het kind heeft zijn vader mooi om zijn pink gewikkeld!"
+},
+"Fanger\u00010\u000115": {
+"pt": "Não mexeste um dedo o dia inteiro!",
+"nl": "Je hebt de hele dag geen vinger uitgestoken!"
+},
+"Fanger\u00010\u000116": {
+"pt": "Tira as mãos daí!",
+"nl": "Blijf met je vingers daarvan af!"
+},
+"Fanger\u00010\u000117": {
+"pt": "Se se der o dedo mindinho à minha irmã, ela quer logo a mão toda!",
+"nl": "Geef je mijn zus een vinger, dan wil ze de hele hand!"
+},
+"Fanger\u00010\u000118": {
+"pt": "Não me deixo enganar!",
+"nl": "Ik laat me niet beetnemen!"
+},
+"Fanger\u00010\u000119": {
+"pt": "Estão-me a fazer comichão as mãos!",
+"nl": "De vingers jeuken me!"
+},
+"Fanger\u00010\u000120": {
+"pt": "Ela tem toda a gente na mão!",
+"nl": "Ze heeft iedereen om haar vinger gewonden!"
+},
+"Fanger\u00010\u000121": {
+"pt": "Isso calculas pelos dedos de uma mão",
+"nl": "Dat kun je op de vingers van één hand uitrekenen"
+},
+"Fanger\u00010\u000122": {
+"pt": "Aqueles pais fecharam demasiadas vezes os olhos",
+"nl": "Die ouders keken veel te vaak door de vingers"
+},
+"Fanger\u00010\u000123": {
+"pt": "Foi o meu passarinho que me contou",
+"nl": "Dat heeft een vogeltje me verteld"
+},
+"Fanger\u00010\u000124": {
+"pt": "Tudo lhe escapa por entre os dedos",
+"nl": "Alles glipt hem door de vingers"
+},
+"Fanger\u00010\u000125": {
+"pt": "Então ficas aí a olhar com cara de parvo!",
+"nl": "Dan sta je daar met je vingers in je mond!"
+},
+"Fanger\u00010\u000126": {
+"pt": "Tens os dedos com chocolate?",
+"nl": "Heb je chocoladevingers?"
+},
+"Fanger\u00011\u00010": {
+"pt": "O meu dedo mindinho direito está inchado há alguns dias",
+"nl": "Mijn rechterpink is al een paar dagen gezwollen"
+},
+"Fanger\u00012\u00010": {
+"pt": "Como se tinha portado mal, o professor chamou à atenção a aluna",
+"nl": "Omdat ze zich niet behoorlijk gedragen had, wees de meester de leerlinge terecht"
+},
+"Fanger\u00012\u00011": {
+"pt": "A UE repreendeu dois Estados-Membros por ainda não terem transposto a diretiva",
+"nl": "De EU heeft twee lidstaten op de vingers getikt omdat ze de richtlijn nog niet hebben omgezet"
+},
+"Fanger\u00013\u00010": {
+"pt": "Pai, no recreio uma criança mostrou-me o dedo do meio e pôs-me a língua de fora!",
+"nl": "Papa, in de pauze toonde een kind mij zijn middelvinger en stak zijn tong uit!"
+},
+"Fanger\u00014\u00010": {
+"pt": "Os dedos das minhas luvas estão rotos à frente",
+"nl": "De vingers van mijn handschoenen zijn vooraan versleten"
+},
+"Fangerhutt\u00010\u00010": {
+"pt": "Para coser, tenho de comprar um dedal novo",
+"nl": "Om te naaien moet ik een nieuwe vingerhoed kopen"
+},
+"Fangerhutt\u00010\u00010~2": {
+"pt": "A dedaleira cresce bem no meu solo",
+"nl": "Het vingerhoedskruid groeit goed in mijn grond"
+},
+"Fangernol\u00010\u00010": {
+"pt": "Ele partiu uma unha",
+"nl": "Hij heeft een vingernagel afgebroken"
+},
+"Fangernol\u00010\u00011": {
+"pt": "Ela pintou as unhas de vermelho",
+"nl": "Ze heeft haar vingernagels rood gelakt"
+},
+"Fangernol\u00010\u00012": {
+"pt": "Com essa unha encravada eu iria ao médico",
+"nl": "Met die ingegroeide nagel zou ik naar de dokter gaan"
+},
+"Fangerofdrock\u00010\u00010": {
+"pt": "Na carta, a polícia não encontrou nenhuma impressão digital",
+"nl": "Op de enveloppe vond de politie geen vingerafdruk"
+},
+"Fangerofdrock\u00010\u00011": {
+"pt": "O suspeito teve as suas impressões digitais tiradas na esquadra",
+"nl": "De verdachte liet op het politiebureau zijn vingerafdrukken nemen"
+},
+"Fangerspëtzegefill\u00010\u00010": {
+"pt": "Para esta missão precisamos de um colaborador com muito tato",
+"nl": "Voor deze missie hebben we een medewerker met veel fijngevoeligheid nodig"
+},
+"Fangerspëtzt\u00010\u00010": {
+"pt": "Ele fez cócegas à lebre com a ponta dos dedos, com cuidado",
+"nl": "Hij kietelde de haas zachtjes met zijn vingertoppen"
+},
+"Fangerspëtzt\u00010\u00011": {
+"pt": "Chegas com a ponta dos dedos ao chão?",
+"nl": "Reik je met je vingertoppen tot op de grond?"
+},
+"Fangerspëtzt\u00010\u00012": {
+"pt": "Põe só uma pitada de sal no molho!",
+"nl": "Doe er nog een snuifje zout in de saus!"
+},
+"Fangerspëtzt\u00010\u00013": {
+"pt": "Os alunos sabiam as regras na ponta da língua",
+"nl": "De leerlingen kenden hun regels op hun duimpje"
+},
+"Fänkches\u00010\u00010": {
+"pt": "As crianças brincaram ao apanha no recreio",
+"nl": "De kinderen speelden tijdens de pauze tikkertje"
+},
+"Fänkches\u00010\u00011": {
+"pt": "Quem for apanhado no jogo do apanha já não pode continuar a jogar",
+"nl": "Wie getikt wordt bij het tikkertje, mag niet meer meespelen"
+},
+"fänken\u00010\u00010": {
+"pt": "Os soldados capturaram três guerrilheiros",
+"nl": "De soldaten hebben drie partizanen gevangen"
+},
+"fänken\u00010\u00011": {
+"pt": "A nossa gata apanha um rato quase todos os dias",
+"nl": "Onze kat vangt bijna elke dag een muis"
+},
+"fannen\u00010\u00010": {
+"pt": "Encontrei um relógio na floresta",
+"nl": "Ik heb in het bos een horloge gevonden"
+},
+"fannen\u00010\u00011": {
+"pt": "Há sempre pessoas que caem nos seus truques",
+"nl": "Er zijn altijd mensen die in zijn trucs trappen"
+},
+"fannen\u00010\u00012": {
+"pt": "Não te preocupes, isso resolve-se (por si)!",
+"nl": "Maak je geen zorgen, dat komt wel goed!"
+},
+"fannen\u00010\u00013": {
+"pt": "Aí encontraram-se os dois",
+"nl": "Daar hebben die twee elkaar gevonden"
+},
+"fannen\u00011\u00010": {
+"pt": "Assim nunca encontras emprego!",
+"nl": "Zo vind je nooit een baan!"
+},
+"fannen\u00011\u00011": {
+"pt": "Não encontrámos lugar de estacionamento",
+"nl": "We hebben geen parkeerplaats gevonden"
+},
+"fannen\u00011\u00012": {
+"pt": "A vossa casa foi fácil de encontrar",
+"nl": "Uw huis was makkelijk te vinden"
+},
+"fannen\u00011\u00013": {
+"pt": "Ainda não encontrámos solução para o nosso problema",
+"nl": "We hebben nog geen oplossing voor ons probleem gevonden"
+},
+"fannen\u00012\u00010": {
+"pt": "Não achei mal que tivéssemos de ir a pé",
+"nl": "Ik vond het niet erg dat we te voet moesten gaan"
+},
+"fannen\u00012\u00011": {
+"pt": "Acho-me gordo de mais",
+"nl": "Ik vind mezelf te dik"
+},
+"fannen\u00012\u00012": {
+"pt": "Porque é que não achas bom aquele filme?",
+"nl": "Waarom vind je die film niet goed?"
+},
+"fannen\u00012\u00013": {
+"pt": "Acho feio da tua parte que me apunhales sempre pelas costas!",
+"nl": "Ik vind het niet leuk van je dat je me altijd in de rug valt!"
+},
+"fannen\u00012\u00014": {
+"pt": "(Ah,) achas?",
+"nl": "(O,) vind je?"
+},
+"fannen\u00012\u00015": {
+"pt": "Ele de certeza que não se importa se chegares tarde",
+"nl": "Hij vindt het vast niet erg als je te laat komt"
+},
+"Fanshop\u00010\u00010": {
+"pt": "Antes do jogo ainda vou comprar uma camisola nova na loja de fãs",
+"nl": "Voor de wedstrijd ga ik nog een nieuw truitje kopen in de fanshop"
+},
+"fantaséieren\u00010\u00010": {
+"pt": "Os teus primeiros argumentos eram bons, mas agora estás a começar a fantasiar",
+"nl": "Je eerste argumenten waren goed, maar nu begin je te fantaseren"
+},
+"fantaséieren\u00010\u00011": {
+"pt": "O nosso pequeno teve ontem à noite tanta febre que delirava",
+"nl": "Ons kleintje had gisternacht zoveel koorts dat het ijlde"
+},
+"Fantasie\u00010\u00010": {
+"pt": "Para escrever um bom romance é preciso muita imaginação",
+"nl": "Om een goede roman te schrijven heeft men veel fantasie nodig"
+},
+"Fantasie\u00010\u00011": {
+"pt": "Nesta tarefa os alunos podem dar largas à sua imaginação",
+"nl": "De leerlingen kunnen bij deze opdracht hun fantasie de vrije loop laten"
+},
+"fantasielos\u00010\u00010": {
+"pt": "Aquela casa é uma caixa sem imaginação",
+"nl": "Dat huis is een fantasieloze doos"
+},
+"Fantasielosegkeet\u00010\u00010": {
+"pt": "Esse romance tem uma falta de imaginação sem igual",
+"nl": "Die roman is van een ongeëvenaarde fantasieloosheid"
+},
+"Fantast\u00010\u00010": {
+"pt": "As ideias daquele sonhador não têm absolutamente nada a ver com a realidade!",
+"nl": "De ideeën van die dromer hebben absoluut niets met de realiteit te maken!"
+},
+"fantastesch\u00010\u00010": {
+"pt": "A cantora tem uma voz fantástica",
+"nl": "De zangeres heeft een fantastische stem"
+},
+"fantastesch\u00010\u00011": {
+"pt": "O meu irmão pinta de forma fantástica",
+"nl": "Mijn broer kan fantastisch schilderen"
+},
+"Fantastin\u00010\u00010": {
+"pt": "Não ouças as ideias dela, é uma sonhadora!",
+"nl": "Luister niet naar haar ideeën, ze is een fantaste!"
+},
+"Far\u00010\u00010": {
+"pt": "O feto não dá flores",
+"nl": "De varen bloeit niet"
+},
+"Fär\u00010\u00010": {
+"pt": "Uma dúzia de carros vai para o ferry",
+"nl": "Een dozijn auto's gaat op de veerboot"
+},
+"Farce\u00010\u00010": {
+"pt": "A nossa companhia de teatro apresenta este ano uma farsa",
+"nl": "Ons toneelgezelschap voert dit jaar een klucht op"
+},
+"Farce\u00010\u00011": {
+"pt": "Aquela disputa de vizinhos é uma verdadeira farsa!",
+"nl": "Die burenruzie is één grote klucht!"
+},
+"Farce\u00010\u00010~2": {
+"pt": "O nosso talhante põe um recheio especial nos seus rolinhos de vitela",
+"nl": "Onze slager doet een speciale vulling in zijn kalfsrolletjes"
+},
+"Fard\u00010\u00010": {
+"pt": "A secretária já me deixou pronta a pasta com os documentos",
+"nl": "De secretaresse heeft de map met de documenten al voor me klaargelegd"
+},
+"Fard\u00011\u00010": {
+"pt": "Tenho de comprar um maço de folhas A4",
+"nl": "Ik moet een pak A4-bladen kopen"
+},
+"Fard\u00012\u00010": {
+"pt": "No exame escrevi duas folhas duplas",
+"nl": "Tijdens het examen heb ik twee dubbele bladen volgeschreven"
+},
+"Fardeblat\u00010\u00010": {
+"pt": "No exame escrevi duas folhas duplas",
+"nl": "Tijdens het examen heb ik twee dubbele bladen volgeschreven"
+},
+"Farerflucht\u00010\u00010": {
+"pt": "Atropelou um homem e depois fugiu",
+"nl": "Hij heeft een man aangereden en is daarna gevlucht"
 }
 }
