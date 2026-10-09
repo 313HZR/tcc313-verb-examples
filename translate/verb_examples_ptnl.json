@@ -196126,5 +196126,5405 @@
 "dout maachen\u0001subjunctive\u00013p": {
 "pt": "que eles matem o mosquito",
 "nl": "dat zij de mug doodmaken"
+},
+"downloaden\u0001present\u00011s": {
+"pt": "Eu descarrego a aplicação.",
+"nl": "Ik download de app."
+},
+"downloaden\u0001present\u00012s": {
+"pt": "Tu descarregas a aplicação.",
+"nl": "Jij downloadt de app."
+},
+"downloaden\u0001present\u00013s": {
+"pt": "Ele descarrega a aplicação.",
+"nl": "Hij downloadt de app."
+},
+"downloaden\u0001present\u00011p": {
+"pt": "Nós descarregamos a aplicação.",
+"nl": "Wij downloaden de app."
+},
+"downloaden\u0001present\u00012p": {
+"pt": "Vocês descarregam a aplicação.",
+"nl": "Jullie downloaden de app."
+},
+"downloaden\u0001present\u00013p": {
+"pt": "Eles descarregam a aplicação.",
+"nl": "Zij downloaden de app."
+},
+"downloaden\u0001perfect\u00011s": {
+"pt": "Eu descarreguei a aplicação.",
+"nl": "Ik heb de app gedownload."
+},
+"downloaden\u0001perfect\u00012s": {
+"pt": "Tu descarregaste a aplicação.",
+"nl": "Jij hebt de app gedownload."
+},
+"downloaden\u0001perfect\u00013s": {
+"pt": "Ele descarregou a aplicação.",
+"nl": "Hij heeft de app gedownload."
+},
+"downloaden\u0001perfect\u00011p": {
+"pt": "Nós descarregámos a aplicação.",
+"nl": "Wij hebben de app gedownload."
+},
+"downloaden\u0001perfect\u00012p": {
+"pt": "Vocês descarregaram a aplicação.",
+"nl": "Jullie hebben de app gedownload."
+},
+"downloaden\u0001perfect\u00013p": {
+"pt": "Eles descarregaram a aplicação.",
+"nl": "Zij hebben de app gedownload."
+},
+"downloaden\u0001past\u00011s": {
+"pt": "Eu descarreguei a aplicação ontem.",
+"nl": "Ik downloadde de app gisteren."
+},
+"downloaden\u0001past\u00012s": {
+"pt": "Tu descarregaste a aplicação ontem.",
+"nl": "Jij downloadde de app gisteren."
+},
+"downloaden\u0001past\u00013s": {
+"pt": "Ele descarregou a aplicação ontem.",
+"nl": "Hij downloadde de app gisteren."
+},
+"downloaden\u0001past\u00011p": {
+"pt": "Nós descarregámos a aplicação ontem.",
+"nl": "Wij downloadden de app gisteren."
+},
+"downloaden\u0001past\u00012p": {
+"pt": "Vocês descarregaram a aplicação ontem.",
+"nl": "Jullie downloadden de app gisteren."
+},
+"downloaden\u0001past\u00013p": {
+"pt": "Eles descarregaram a aplicação ontem.",
+"nl": "Zij downloadden de app gisteren."
+},
+"downloaden\u0001imperfect\u00011s": {
+"pt": "Eu estava a descarregar a aplicação.",
+"nl": "Ik was de app aan het downloaden."
+},
+"downloaden\u0001imperfect\u00012s": {
+"pt": "Tu estavas a descarregar a aplicação.",
+"nl": "Jij was de app aan het downloaden."
+},
+"downloaden\u0001imperfect\u00013s": {
+"pt": "Ele estava a descarregar a aplicação.",
+"nl": "Hij was de app aan het downloaden."
+},
+"downloaden\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a descarregar a aplicação.",
+"nl": "Wij waren de app aan het downloaden."
+},
+"downloaden\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a descarregar a aplicação.",
+"nl": "Jullie waren de app aan het downloaden."
+},
+"downloaden\u0001imperfect\u00013p": {
+"pt": "Eles estavam a descarregar a aplicação.",
+"nl": "Zij waren de app aan het downloaden."
+},
+"downloaden\u0001pluperfect\u00011s": {
+"pt": "Eu tinha descarregado a aplicação.",
+"nl": "Ik had de app gedownload."
+},
+"downloaden\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas descarregado a aplicação.",
+"nl": "Jij had de app gedownload."
+},
+"downloaden\u0001pluperfect\u00013s": {
+"pt": "Ele tinha descarregado a aplicação.",
+"nl": "Hij had de app gedownload."
+},
+"downloaden\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos descarregado a aplicação.",
+"nl": "Wij hadden de app gedownload."
+},
+"downloaden\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham descarregado a aplicação.",
+"nl": "Jullie hadden de app gedownload."
+},
+"downloaden\u0001pluperfect\u00013p": {
+"pt": "Eles tinham descarregado a aplicação.",
+"nl": "Zij hadden de app gedownload."
+},
+"downloaden\u0001future\u00011s": {
+"pt": "Eu descarregarei a aplicação.",
+"nl": "Ik zal de app downloaden."
+},
+"downloaden\u0001future\u00012s": {
+"pt": "Tu descarregarás a aplicação.",
+"nl": "Jij zult de app downloaden."
+},
+"downloaden\u0001future\u00013s": {
+"pt": "Ele descarregará a aplicação.",
+"nl": "Hij zal de app downloaden."
+},
+"downloaden\u0001future\u00011p": {
+"pt": "Nós descarregaremos a aplicação.",
+"nl": "Wij zullen de app downloaden."
+},
+"downloaden\u0001future\u00012p": {
+"pt": "Vocês descarregarão a aplicação.",
+"nl": "Jullie zullen de app downloaden."
+},
+"downloaden\u0001future\u00013p": {
+"pt": "Eles descarregarão a aplicação.",
+"nl": "Zij zullen de app downloaden."
+},
+"downloaden\u0001conditional\u00011s": {
+"pt": "Eu descarregaria a aplicação.",
+"nl": "Ik zou de app downloaden."
+},
+"downloaden\u0001conditional\u00012s": {
+"pt": "Tu descarregarias a aplicação.",
+"nl": "Jij zou de app downloaden."
+},
+"downloaden\u0001conditional\u00013s": {
+"pt": "Ele descarregaria a aplicação.",
+"nl": "Hij zou de app downloaden."
+},
+"downloaden\u0001conditional\u00011p": {
+"pt": "Nós descarregaríamos a aplicação.",
+"nl": "Wij zouden de app downloaden."
+},
+"downloaden\u0001conditional\u00012p": {
+"pt": "Vocês descarregariam a aplicação.",
+"nl": "Jullie zouden de app downloaden."
+},
+"downloaden\u0001conditional\u00013p": {
+"pt": "Eles descarregariam a aplicação.",
+"nl": "Zij zouden de app downloaden."
+},
+"downloaden\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria descarregado a aplicação.",
+"nl": "Ik zou de app hebben gedownload."
+},
+"downloaden\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias descarregado a aplicação.",
+"nl": "Jij zou de app hebben gedownload."
+},
+"downloaden\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria descarregado a aplicação.",
+"nl": "Hij zou de app hebben gedownload."
+},
+"downloaden\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos descarregado a aplicação.",
+"nl": "Wij zouden de app hebben gedownload."
+},
+"downloaden\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam descarregado a aplicação.",
+"nl": "Jullie zouden de app hebben gedownload."
+},
+"downloaden\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam descarregado a aplicação.",
+"nl": "Zij zouden de app hebben gedownload."
+},
+"downloaden\u0001subjunctive\u00011s": {
+"pt": "que eu descarregue a aplicação",
+"nl": "dat ik de app download"
+},
+"downloaden\u0001subjunctive\u00012s": {
+"pt": "que tu descarregues a aplicação",
+"nl": "dat jij de app downloadt"
+},
+"downloaden\u0001subjunctive\u00013s": {
+"pt": "que ele descarregue a aplicação",
+"nl": "dat hij de app downloadt"
+},
+"downloaden\u0001subjunctive\u00011p": {
+"pt": "que nós descarreguemos a aplicação",
+"nl": "dat wij de app downloaden"
+},
+"downloaden\u0001subjunctive\u00012p": {
+"pt": "que vocês descarreguem a aplicação",
+"nl": "dat jullie de app downloaden"
+},
+"downloaden\u0001subjunctive\u00013p": {
+"pt": "que eles descarreguem a aplicação",
+"nl": "dat zij de app downloaden"
+},
+"drafachen\u0001present\u00011s": {
+"pt": "Eu explodo no café depois da discussão.",
+"nl": "Ik ga in het café na de ruzie tekeer."
+},
+"drafachen\u0001present\u00012s": {
+"pt": "Tu explodes no café depois da discussão.",
+"nl": "Jij gaat in het café na de ruzie tekeer."
+},
+"drafachen\u0001present\u00013s": {
+"pt": "Ele explode no café depois da discussão.",
+"nl": "Hij gaat in het café na de ruzie tekeer."
+},
+"drafachen\u0001present\u00011p": {
+"pt": "Nós explodimos no café depois da discussão.",
+"nl": "Wij gaan in het café na de ruzie tekeer."
+},
+"drafachen\u0001present\u00012p": {
+"pt": "Vocês explodem no café depois da discussão.",
+"nl": "Jullie gaan in het café na de ruzie tekeer."
+},
+"drafachen\u0001present\u00013p": {
+"pt": "Eles explodem no café depois da discussão.",
+"nl": "Zij gaan in het café na de ruzie tekeer."
+},
+"drafachen\u0001perfect\u00011s": {
+"pt": "Eu explodi no café depois da discussão.",
+"nl": "Ik ben in het café na de ruzie tekeergegaan."
+},
+"drafachen\u0001perfect\u00012s": {
+"pt": "Tu explodiste no café depois da discussão.",
+"nl": "Jij bent in het café na de ruzie tekeergegaan."
+},
+"drafachen\u0001perfect\u00013s": {
+"pt": "Ele explodiu no café depois da discussão.",
+"nl": "Hij is in het café na de ruzie tekeergegaan."
+},
+"drafachen\u0001perfect\u00011p": {
+"pt": "Nós explodimos no café depois da discussão.",
+"nl": "Wij zijn in het café na de ruzie tekeergegaan."
+},
+"drafachen\u0001perfect\u00012p": {
+"pt": "Vocês explodiram no café depois da discussão.",
+"nl": "Jullie zijn in het café na de ruzie tekeergegaan."
+},
+"drafachen\u0001perfect\u00013p": {
+"pt": "Eles explodiram no café depois da discussão.",
+"nl": "Zij zijn in het café na de ruzie tekeergegaan."
+},
+"drafachen\u0001past\u00011s": {
+"pt": "Eu explodi no café depois da discussão.",
+"nl": "Ik ging in het café na de ruzie tekeer."
+},
+"drafachen\u0001past\u00012s": {
+"pt": "Tu explodiste no café depois da discussão.",
+"nl": "Jij ging in het café na de ruzie tekeer."
+},
+"drafachen\u0001past\u00013s": {
+"pt": "Ele explodiu no café depois da discussão.",
+"nl": "Hij ging in het café na de ruzie tekeer."
+},
+"drafachen\u0001past\u00011p": {
+"pt": "Nós explodimos no café depois da discussão.",
+"nl": "Wij gingen in het café na de ruzie tekeer."
+},
+"drafachen\u0001past\u00012p": {
+"pt": "Vocês explodiram no café depois da discussão.",
+"nl": "Jullie gingen in het café na de ruzie tekeer."
+},
+"drafachen\u0001past\u00013p": {
+"pt": "Eles explodiram no café depois da discussão.",
+"nl": "Zij gingen in het café na de ruzie tekeer."
+},
+"drafachen\u0001imperfect\u00011s": {
+"pt": "Eu estava a explodir no café depois da discussão.",
+"nl": "Ik was in het café na de ruzie aan het tekeergaan."
+},
+"drafachen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a explodir no café depois da discussão.",
+"nl": "Jij was in het café na de ruzie aan het tekeergaan."
+},
+"drafachen\u0001imperfect\u00013s": {
+"pt": "Ele estava a explodir no café depois da discussão.",
+"nl": "Hij was in het café na de ruzie aan het tekeergaan."
+},
+"drafachen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a explodir no café depois da discussão.",
+"nl": "Wij waren in het café na de ruzie aan het tekeergaan."
+},
+"drafachen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a explodir no café depois da discussão.",
+"nl": "Jullie waren in het café na de ruzie aan het tekeergaan."
+},
+"drafachen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a explodir no café depois da discussão.",
+"nl": "Zij waren in het café na de ruzie aan het tekeergaan."
+},
+"drafachen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha explodido no café depois da discussão.",
+"nl": "Ik was in het café na de ruzie tekeergegaan."
+},
+"drafachen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas explodido no café depois da discussão.",
+"nl": "Jij was in het café na de ruzie tekeergegaan."
+},
+"drafachen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha explodido no café depois da discussão.",
+"nl": "Hij was in het café na de ruzie tekeergegaan."
+},
+"drafachen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos explodido no café depois da discussão.",
+"nl": "Wij waren in het café na de ruzie tekeergegaan."
+},
+"drafachen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham explodido no café depois da discussão.",
+"nl": "Jullie waren in het café na de ruzie tekeergegaan."
+},
+"drafachen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham explodido no café depois da discussão.",
+"nl": "Zij waren in het café na de ruzie tekeergegaan."
+},
+"drafachen\u0001future\u00011s": {
+"pt": "Eu explodirei no café depois da discussão.",
+"nl": "Ik zal in het café na de ruzie tekeergaan."
+},
+"drafachen\u0001future\u00012s": {
+"pt": "Tu explodirás no café depois da discussão.",
+"nl": "Jij zult in het café na de ruzie tekeergaan."
+},
+"drafachen\u0001future\u00013s": {
+"pt": "Ele explodirá no café depois da discussão.",
+"nl": "Hij zal in het café na de ruzie tekeergaan."
+},
+"drafachen\u0001future\u00011p": {
+"pt": "Nós explodiremos no café depois da discussão.",
+"nl": "Wij zullen in het café na de ruzie tekeergaan."
+},
+"drafachen\u0001future\u00012p": {
+"pt": "Vocês explodirão no café depois da discussão.",
+"nl": "Jullie zullen in het café na de ruzie tekeergaan."
+},
+"drafachen\u0001future\u00013p": {
+"pt": "Eles explodirão no café depois da discussão.",
+"nl": "Zij zullen in het café na de ruzie tekeergaan."
+},
+"drafachen\u0001conditional\u00011s": {
+"pt": "Eu explodiria no café depois da discussão.",
+"nl": "Ik zou in het café na de ruzie tekeergaan."
+},
+"drafachen\u0001conditional\u00012s": {
+"pt": "Tu explodirias no café depois da discussão.",
+"nl": "Jij zou in het café na de ruzie tekeergaan."
+},
+"drafachen\u0001conditional\u00013s": {
+"pt": "Ele explodiria no café depois da discussão.",
+"nl": "Hij zou in het café na de ruzie tekeergaan."
+},
+"drafachen\u0001conditional\u00011p": {
+"pt": "Nós explodiríamos no café depois da discussão.",
+"nl": "Wij zouden in het café na de ruzie tekeergaan."
+},
+"drafachen\u0001conditional\u00012p": {
+"pt": "Vocês explodiriam no café depois da discussão.",
+"nl": "Jullie zouden in het café na de ruzie tekeergaan."
+},
+"drafachen\u0001conditional\u00013p": {
+"pt": "Eles explodiriam no café depois da discussão.",
+"nl": "Zij zouden in het café na de ruzie tekeergaan."
+},
+"drafachen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria explodido no café depois da discussão.",
+"nl": "Ik zou in het café na de ruzie zijn tekeergegaan."
+},
+"drafachen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias explodido no café depois da discussão.",
+"nl": "Jij zou in het café na de ruzie zijn tekeergegaan."
+},
+"drafachen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria explodido no café depois da discussão.",
+"nl": "Hij zou in het café na de ruzie zijn tekeergegaan."
+},
+"drafachen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos explodido no café depois da discussão.",
+"nl": "Wij zouden in het café na de ruzie zijn tekeergegaan."
+},
+"drafachen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam explodido no café depois da discussão.",
+"nl": "Jullie zouden in het café na de ruzie zijn tekeergegaan."
+},
+"drafachen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam explodido no café depois da discussão.",
+"nl": "Zij zouden in het café na de ruzie zijn tekeergegaan."
+},
+"drafachen\u0001subjunctive\u00011s": {
+"pt": "que eu exploda no café depois da discussão",
+"nl": "dat ik in het café na de ruzie tekeerga"
+},
+"drafachen\u0001subjunctive\u00012s": {
+"pt": "que tu explodas no café depois da discussão",
+"nl": "dat jij in het café na de ruzie tekeergaat"
+},
+"drafachen\u0001subjunctive\u00013s": {
+"pt": "que ele exploda no café depois da discussão",
+"nl": "dat hij in het café na de ruzie tekeergaat"
+},
+"drafachen\u0001subjunctive\u00011p": {
+"pt": "que nós explodamos no café depois da discussão",
+"nl": "dat wij in het café na de ruzie tekeergaan"
+},
+"drafachen\u0001subjunctive\u00012p": {
+"pt": "que vocês explodam no café depois da discussão",
+"nl": "dat jullie in het café na de ruzie tekeergaan"
+},
+"drafachen\u0001subjunctive\u00013p": {
+"pt": "que eles explodam no café depois da discussão",
+"nl": "dat zij in het café na de ruzie tekeergaan"
+},
+"dragéieren\u0001present\u00011s": {
+"pt": "Eu engato a rapariga na festa.",
+"nl": "Ik versier het meisje op het feest."
+},
+"dragéieren\u0001present\u00012s": {
+"pt": "Tu engatas a rapariga na festa.",
+"nl": "Jij versiert het meisje op het feest."
+},
+"dragéieren\u0001present\u00013s": {
+"pt": "Ele engata a rapariga na festa.",
+"nl": "Hij versiert het meisje op het feest."
+},
+"dragéieren\u0001present\u00011p": {
+"pt": "Nós engatamos a rapariga na festa.",
+"nl": "Wij versieren het meisje op het feest."
+},
+"dragéieren\u0001present\u00012p": {
+"pt": "Vocês engatam a rapariga na festa.",
+"nl": "Jullie versieren het meisje op het feest."
+},
+"dragéieren\u0001present\u00013p": {
+"pt": "Eles engatam a rapariga na festa.",
+"nl": "Zij versieren het meisje op het feest."
+},
+"dragéieren\u0001perfect\u00011s": {
+"pt": "Eu engatei a rapariga na festa.",
+"nl": "Ik heb het meisje op het feest versierd."
+},
+"dragéieren\u0001perfect\u00012s": {
+"pt": "Tu engataste a rapariga na festa.",
+"nl": "Jij hebt het meisje op het feest versierd."
+},
+"dragéieren\u0001perfect\u00013s": {
+"pt": "Ele engatou a rapariga na festa.",
+"nl": "Hij heeft het meisje op het feest versierd."
+},
+"dragéieren\u0001perfect\u00011p": {
+"pt": "Nós engatámos a rapariga na festa.",
+"nl": "Wij hebben het meisje op het feest versierd."
+},
+"dragéieren\u0001perfect\u00012p": {
+"pt": "Vocês engataram a rapariga na festa.",
+"nl": "Jullie hebben het meisje op het feest versierd."
+},
+"dragéieren\u0001perfect\u00013p": {
+"pt": "Eles engataram a rapariga na festa.",
+"nl": "Zij hebben het meisje op het feest versierd."
+},
+"dragéieren\u0001past\u00011s": {
+"pt": "Eu engatei a rapariga na festa.",
+"nl": "Ik versierde het meisje op het feest."
+},
+"dragéieren\u0001past\u00012s": {
+"pt": "Tu engataste a rapariga na festa.",
+"nl": "Jij versierde het meisje op het feest."
+},
+"dragéieren\u0001past\u00013s": {
+"pt": "Ele engatou a rapariga na festa.",
+"nl": "Hij versierde het meisje op het feest."
+},
+"dragéieren\u0001past\u00011p": {
+"pt": "Nós engatámos a rapariga na festa.",
+"nl": "Wij versierden het meisje op het feest."
+},
+"dragéieren\u0001past\u00012p": {
+"pt": "Vocês engataram a rapariga na festa.",
+"nl": "Jullie versierden het meisje op het feest."
+},
+"dragéieren\u0001past\u00013p": {
+"pt": "Eles engataram a rapariga na festa.",
+"nl": "Zij versierden het meisje op het feest."
+},
+"dragéieren\u0001imperfect\u00011s": {
+"pt": "Eu estava a engatar a rapariga na festa.",
+"nl": "Ik was het meisje op het feest aan het versieren."
+},
+"dragéieren\u0001imperfect\u00012s": {
+"pt": "Tu estavas a engatar a rapariga na festa.",
+"nl": "Jij was het meisje op het feest aan het versieren."
+},
+"dragéieren\u0001imperfect\u00013s": {
+"pt": "Ele estava a engatar a rapariga na festa.",
+"nl": "Hij was het meisje op het feest aan het versieren."
+},
+"dragéieren\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a engatar a rapariga na festa.",
+"nl": "Wij waren het meisje op het feest aan het versieren."
+},
+"dragéieren\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a engatar a rapariga na festa.",
+"nl": "Jullie waren het meisje op het feest aan het versieren."
+},
+"dragéieren\u0001imperfect\u00013p": {
+"pt": "Eles estavam a engatar a rapariga na festa.",
+"nl": "Zij waren het meisje op het feest aan het versieren."
+},
+"dragéieren\u0001pluperfect\u00011s": {
+"pt": "Eu tinha engatado a rapariga na festa.",
+"nl": "Ik had het meisje op het feest versierd."
+},
+"dragéieren\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas engatado a rapariga na festa.",
+"nl": "Jij had het meisje op het feest versierd."
+},
+"dragéieren\u0001pluperfect\u00013s": {
+"pt": "Ele tinha engatado a rapariga na festa.",
+"nl": "Hij had het meisje op het feest versierd."
+},
+"dragéieren\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos engatado a rapariga na festa.",
+"nl": "Wij hadden het meisje op het feest versierd."
+},
+"dragéieren\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham engatado a rapariga na festa.",
+"nl": "Jullie hadden het meisje op het feest versierd."
+},
+"dragéieren\u0001pluperfect\u00013p": {
+"pt": "Eles tinham engatado a rapariga na festa.",
+"nl": "Zij hadden het meisje op het feest versierd."
+},
+"dragéieren\u0001future\u00011s": {
+"pt": "Eu engatarei a rapariga na festa.",
+"nl": "Ik zal het meisje op het feest versieren."
+},
+"dragéieren\u0001future\u00012s": {
+"pt": "Tu engatarás a rapariga na festa.",
+"nl": "Jij zult het meisje op het feest versieren."
+},
+"dragéieren\u0001future\u00013s": {
+"pt": "Ele engatará a rapariga na festa.",
+"nl": "Hij zal het meisje op het feest versieren."
+},
+"dragéieren\u0001future\u00011p": {
+"pt": "Nós engataremos a rapariga na festa.",
+"nl": "Wij zullen het meisje op het feest versieren."
+},
+"dragéieren\u0001future\u00012p": {
+"pt": "Vocês engatarão a rapariga na festa.",
+"nl": "Jullie zullen het meisje op het feest versieren."
+},
+"dragéieren\u0001future\u00013p": {
+"pt": "Eles engatarão a rapariga na festa.",
+"nl": "Zij zullen het meisje op het feest versieren."
+},
+"dragéieren\u0001conditional\u00011s": {
+"pt": "Eu engataria a rapariga na festa.",
+"nl": "Ik zou het meisje op het feest versieren."
+},
+"dragéieren\u0001conditional\u00012s": {
+"pt": "Tu engatarias a rapariga na festa.",
+"nl": "Jij zou het meisje op het feest versieren."
+},
+"dragéieren\u0001conditional\u00013s": {
+"pt": "Ele engataria a rapariga na festa.",
+"nl": "Hij zou het meisje op het feest versieren."
+},
+"dragéieren\u0001conditional\u00011p": {
+"pt": "Nós engataríamos a rapariga na festa.",
+"nl": "Wij zouden het meisje op het feest versieren."
+},
+"dragéieren\u0001conditional\u00012p": {
+"pt": "Vocês engatariam a rapariga na festa.",
+"nl": "Jullie zouden het meisje op het feest versieren."
+},
+"dragéieren\u0001conditional\u00013p": {
+"pt": "Eles engatariam a rapariga na festa.",
+"nl": "Zij zouden het meisje op het feest versieren."
+},
+"dragéieren\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria engatado a rapariga na festa.",
+"nl": "Ik zou het meisje op het feest hebben versierd."
+},
+"dragéieren\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias engatado a rapariga na festa.",
+"nl": "Jij zou het meisje op het feest hebben versierd."
+},
+"dragéieren\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria engatado a rapariga na festa.",
+"nl": "Hij zou het meisje op het feest hebben versierd."
+},
+"dragéieren\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos engatado a rapariga na festa.",
+"nl": "Wij zouden het meisje op het feest hebben versierd."
+},
+"dragéieren\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam engatado a rapariga na festa.",
+"nl": "Jullie zouden het meisje op het feest hebben versierd."
+},
+"dragéieren\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam engatado a rapariga na festa.",
+"nl": "Zij zouden het meisje op het feest hebben versierd."
+},
+"dragéieren\u0001subjunctive\u00011s": {
+"pt": "que eu engate a rapariga na festa",
+"nl": "dat ik het meisje op het feest versier"
+},
+"dragéieren\u0001subjunctive\u00012s": {
+"pt": "que tu engates a rapariga na festa",
+"nl": "dat jij het meisje op het feest versiert"
+},
+"dragéieren\u0001subjunctive\u00013s": {
+"pt": "que ele engate a rapariga na festa",
+"nl": "dat hij het meisje op het feest versiert"
+},
+"dragéieren\u0001subjunctive\u00011p": {
+"pt": "que nós engatemos a rapariga na festa",
+"nl": "dat wij het meisje op het feest versieren"
+},
+"dragéieren\u0001subjunctive\u00012p": {
+"pt": "que vocês engatem a rapariga na festa",
+"nl": "dat jullie het meisje op het feest versieren"
+},
+"dragéieren\u0001subjunctive\u00013p": {
+"pt": "que eles engatem a rapariga na festa",
+"nl": "dat zij het meisje op het feest versieren"
+},
+"dramatiséieren\u0001present\u00011s": {
+"pt": "Eu dramatizo a história do autocarro perdido.",
+"nl": "Ik dramatiseer het verhaal van de gemiste bus."
+},
+"dramatiséieren\u0001present\u00012s": {
+"pt": "Tu dramatizas a história do autocarro perdido.",
+"nl": "Jij dramatiseert het verhaal van de gemiste bus."
+},
+"dramatiséieren\u0001present\u00013s": {
+"pt": "Ele dramatiza a história do autocarro perdido.",
+"nl": "Hij dramatiseert het verhaal van de gemiste bus."
+},
+"dramatiséieren\u0001present\u00011p": {
+"pt": "Nós dramatizamos a história do autocarro perdido.",
+"nl": "Wij dramatiseren het verhaal van de gemiste bus."
+},
+"dramatiséieren\u0001present\u00012p": {
+"pt": "Vocês dramatizam a história do autocarro perdido.",
+"nl": "Jullie dramatiseren het verhaal van de gemiste bus."
+},
+"dramatiséieren\u0001present\u00013p": {
+"pt": "Eles dramatizam a história do autocarro perdido.",
+"nl": "Zij dramatiseren het verhaal van de gemiste bus."
+},
+"dramatiséieren\u0001perfect\u00011s": {
+"pt": "Eu dramatizei a história do autocarro perdido.",
+"nl": "Ik heb het verhaal van de gemiste bus gedramatiseerd."
+},
+"dramatiséieren\u0001perfect\u00012s": {
+"pt": "Tu dramatizaste a história do autocarro perdido.",
+"nl": "Jij hebt het verhaal van de gemiste bus gedramatiseerd."
+},
+"dramatiséieren\u0001perfect\u00013s": {
+"pt": "Ele dramatizou a história do autocarro perdido.",
+"nl": "Hij heeft het verhaal van de gemiste bus gedramatiseerd."
+},
+"dramatiséieren\u0001perfect\u00011p": {
+"pt": "Nós dramatizámos a história do autocarro perdido.",
+"nl": "Wij hebben het verhaal van de gemiste bus gedramatiseerd."
+},
+"dramatiséieren\u0001perfect\u00012p": {
+"pt": "Vocês dramatizaram a história do autocarro perdido.",
+"nl": "Jullie hebben het verhaal van de gemiste bus gedramatiseerd."
+},
+"dramatiséieren\u0001perfect\u00013p": {
+"pt": "Eles dramatizaram a história do autocarro perdido.",
+"nl": "Zij hebben het verhaal van de gemiste bus gedramatiseerd."
+},
+"dramatiséieren\u0001past\u00011s": {
+"pt": "Eu dramatizei ontem a história do autocarro perdido.",
+"nl": "Ik dramatiseerde gisteren het verhaal van de gemiste bus."
+},
+"dramatiséieren\u0001past\u00012s": {
+"pt": "Tu dramatizaste ontem a história do autocarro perdido.",
+"nl": "Jij dramatiseerde gisteren het verhaal van de gemiste bus."
+},
+"dramatiséieren\u0001past\u00013s": {
+"pt": "Ele dramatizou ontem a história do autocarro perdido.",
+"nl": "Hij dramatiseerde gisteren het verhaal van de gemiste bus."
+},
+"dramatiséieren\u0001past\u00011p": {
+"pt": "Nós dramatizámos ontem a história do autocarro perdido.",
+"nl": "Wij dramatiseerden gisteren het verhaal van de gemiste bus."
+},
+"dramatiséieren\u0001past\u00012p": {
+"pt": "Vocês dramatizaram ontem a história do autocarro perdido.",
+"nl": "Jullie dramatiseerden gisteren het verhaal van de gemiste bus."
+},
+"dramatiséieren\u0001past\u00013p": {
+"pt": "Eles dramatizaram ontem a história do autocarro perdido.",
+"nl": "Zij dramatiseerden gisteren het verhaal van de gemiste bus."
+},
+"dramatiséieren\u0001imperfect\u00011s": {
+"pt": "Eu estava sempre a dramatizar a história do autocarro perdido.",
+"nl": "Ik was altijd het verhaal van de gemiste bus aan het dramatiseren."
+},
+"dramatiséieren\u0001imperfect\u00012s": {
+"pt": "Tu estavas sempre a dramatizar a história do autocarro perdido.",
+"nl": "Jij was altijd het verhaal van de gemiste bus aan het dramatiseren."
+},
+"dramatiséieren\u0001imperfect\u00013s": {
+"pt": "Ele estava sempre a dramatizar a história do autocarro perdido.",
+"nl": "Hij was altijd het verhaal van de gemiste bus aan het dramatiseren."
+},
+"dramatiséieren\u0001imperfect\u00011p": {
+"pt": "Nós estávamos sempre a dramatizar a história do autocarro perdido.",
+"nl": "Wij waren altijd het verhaal van de gemiste bus aan het dramatiseren."
+},
+"dramatiséieren\u0001imperfect\u00012p": {
+"pt": "Vocês estavam sempre a dramatizar a história do autocarro perdido.",
+"nl": "Jullie waren altijd het verhaal van de gemiste bus aan het dramatiseren."
+},
+"dramatiséieren\u0001imperfect\u00013p": {
+"pt": "Eles estavam sempre a dramatizar a história do autocarro perdido.",
+"nl": "Zij waren altijd het verhaal van de gemiste bus aan het dramatiseren."
+},
+"dramatiséieren\u0001pluperfect\u00011s": {
+"pt": "Eu tinha dramatizado a história do autocarro perdido.",
+"nl": "Ik had het verhaal van de gemiste bus gedramatiseerd."
+},
+"dramatiséieren\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas dramatizado a história do autocarro perdido.",
+"nl": "Jij had het verhaal van de gemiste bus gedramatiseerd."
+},
+"dramatiséieren\u0001pluperfect\u00013s": {
+"pt": "Ele tinha dramatizado a história do autocarro perdido.",
+"nl": "Hij had het verhaal van de gemiste bus gedramatiseerd."
+},
+"dramatiséieren\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos dramatizado a história do autocarro perdido.",
+"nl": "Wij hadden het verhaal van de gemiste bus gedramatiseerd."
+},
+"dramatiséieren\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham dramatizado a história do autocarro perdido.",
+"nl": "Jullie hadden het verhaal van de gemiste bus gedramatiseerd."
+},
+"dramatiséieren\u0001pluperfect\u00013p": {
+"pt": "Eles tinham dramatizado a história do autocarro perdido.",
+"nl": "Zij hadden het verhaal van de gemiste bus gedramatiseerd."
+},
+"dramatiséieren\u0001future\u00011s": {
+"pt": "Eu dramatizarei a história do autocarro perdido.",
+"nl": "Ik zal het verhaal van de gemiste bus dramatiseren."
+},
+"dramatiséieren\u0001future\u00012s": {
+"pt": "Tu dramatizarás a história do autocarro perdido.",
+"nl": "Jij zult het verhaal van de gemiste bus dramatiseren."
+},
+"dramatiséieren\u0001future\u00013s": {
+"pt": "Ele dramatizará a história do autocarro perdido.",
+"nl": "Hij zal het verhaal van de gemiste bus dramatiseren."
+},
+"dramatiséieren\u0001future\u00011p": {
+"pt": "Nós dramatizaremos a história do autocarro perdido.",
+"nl": "Wij zullen het verhaal van de gemiste bus dramatiseren."
+},
+"dramatiséieren\u0001future\u00012p": {
+"pt": "Vocês dramatizarão a história do autocarro perdido.",
+"nl": "Jullie zullen het verhaal van de gemiste bus dramatiseren."
+},
+"dramatiséieren\u0001future\u00013p": {
+"pt": "Eles dramatizarão a história do autocarro perdido.",
+"nl": "Zij zullen het verhaal van de gemiste bus dramatiseren."
+},
+"dramatiséieren\u0001conditional\u00011s": {
+"pt": "Eu dramatizaria a história do autocarro perdido.",
+"nl": "Ik zou het verhaal van de gemiste bus dramatiseren."
+},
+"dramatiséieren\u0001conditional\u00012s": {
+"pt": "Tu dramatizarias a história do autocarro perdido.",
+"nl": "Jij zou het verhaal van de gemiste bus dramatiseren."
+},
+"dramatiséieren\u0001conditional\u00013s": {
+"pt": "Ele dramatizaria a história do autocarro perdido.",
+"nl": "Hij zou het verhaal van de gemiste bus dramatiseren."
+},
+"dramatiséieren\u0001conditional\u00011p": {
+"pt": "Nós dramatizaríamos a história do autocarro perdido.",
+"nl": "Wij zouden het verhaal van de gemiste bus dramatiseren."
+},
+"dramatiséieren\u0001conditional\u00012p": {
+"pt": "Vocês dramatizariam a história do autocarro perdido.",
+"nl": "Jullie zouden het verhaal van de gemiste bus dramatiseren."
+},
+"dramatiséieren\u0001conditional\u00013p": {
+"pt": "Eles dramatizariam a história do autocarro perdido.",
+"nl": "Zij zouden het verhaal van de gemiste bus dramatiseren."
+},
+"dramatiséieren\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria dramatizado a história do autocarro perdido.",
+"nl": "Ik zou het verhaal van de gemiste bus hebben gedramatiseerd."
+},
+"dramatiséieren\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias dramatizado a história do autocarro perdido.",
+"nl": "Jij zou het verhaal van de gemiste bus hebben gedramatiseerd."
+},
+"dramatiséieren\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria dramatizado a história do autocarro perdido.",
+"nl": "Hij zou het verhaal van de gemiste bus hebben gedramatiseerd."
+},
+"dramatiséieren\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos dramatizado a história do autocarro perdido.",
+"nl": "Wij zouden het verhaal van de gemiste bus hebben gedramatiseerd."
+},
+"dramatiséieren\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam dramatizado a história do autocarro perdido.",
+"nl": "Jullie zouden het verhaal van de gemiste bus hebben gedramatiseerd."
+},
+"dramatiséieren\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam dramatizado a história do autocarro perdido.",
+"nl": "Zij zouden het verhaal van de gemiste bus hebben gedramatiseerd."
+},
+"dramatiséieren\u0001subjunctive\u00011s": {
+"pt": "que eu dramatize a história do autocarro perdido",
+"nl": "dat ik het verhaal van de gemiste bus dramatiseer"
+},
+"dramatiséieren\u0001subjunctive\u00012s": {
+"pt": "que tu dramatizes a história do autocarro perdido",
+"nl": "dat jij het verhaal van de gemiste bus dramatiseert"
+},
+"dramatiséieren\u0001subjunctive\u00013s": {
+"pt": "que ele dramatize a história do autocarro perdido",
+"nl": "dat hij het verhaal van de gemiste bus dramatiseert"
+},
+"dramatiséieren\u0001subjunctive\u00011p": {
+"pt": "que nós dramatizemos a história do autocarro perdido",
+"nl": "dat wij het verhaal van de gemiste bus dramatiseren"
+},
+"dramatiséieren\u0001subjunctive\u00012p": {
+"pt": "que vocês dramatizem a história do autocarro perdido",
+"nl": "dat jullie het verhaal van de gemiste bus dramatiseren"
+},
+"dramatiséieren\u0001subjunctive\u00013p": {
+"pt": "que eles dramatizem a história do autocarro perdido",
+"nl": "dat zij het verhaal van de gemiste bus dramatiseren"
+},
+"dramaulen\u0001present\u00011s": {
+"pt": "Eu interrompo o chefe na reunião",
+"nl": "Ik val de baas tijdens de vergadering in de rede"
+},
+"dramaulen\u0001present\u00012s": {
+"pt": "Tu interrompes o chefe na reunião",
+"nl": "Jij valt de baas tijdens de vergadering in de rede"
+},
+"dramaulen\u0001present\u00013s": {
+"pt": "Ele interrompe o chefe na reunião",
+"nl": "Hij valt de baas tijdens de vergadering in de rede"
+},
+"dramaulen\u0001present\u00011p": {
+"pt": "Nós interrompemos o chefe na reunião",
+"nl": "Wij vallen de baas tijdens de vergadering in de rede"
+},
+"dramaulen\u0001present\u00012p": {
+"pt": "Vocês interrompem o chefe na reunião",
+"nl": "Jullie vallen de baas tijdens de vergadering in de rede"
+},
+"dramaulen\u0001present\u00013p": {
+"pt": "Eles interrompem o chefe na reunião",
+"nl": "Zij vallen de baas tijdens de vergadering in de rede"
+},
+"dramaulen\u0001perfect\u00011s": {
+"pt": "Eu interrompi o chefe na reunião",
+"nl": "Ik heb de baas tijdens de vergadering in de rede gevallen"
+},
+"dramaulen\u0001perfect\u00012s": {
+"pt": "Tu interrompeste o chefe na reunião",
+"nl": "Jij hebt de baas tijdens de vergadering in de rede gevallen"
+},
+"dramaulen\u0001perfect\u00013s": {
+"pt": "Ele interrompeu o chefe na reunião",
+"nl": "Hij heeft de baas tijdens de vergadering in de rede gevallen"
+},
+"dramaulen\u0001perfect\u00011p": {
+"pt": "Nós interrompemos o chefe na reunião",
+"nl": "Wij hebben de baas tijdens de vergadering in de rede gevallen"
+},
+"dramaulen\u0001perfect\u00012p": {
+"pt": "Vocês interromperam o chefe na reunião",
+"nl": "Jullie hebben de baas tijdens de vergadering in de rede gevallen"
+},
+"dramaulen\u0001perfect\u00013p": {
+"pt": "Eles interromperam o chefe na reunião",
+"nl": "Zij hebben de baas tijdens de vergadering in de rede gevallen"
+},
+"dramaulen\u0001past\u00011s": {
+"pt": "Eu interrompi o chefe na reunião",
+"nl": "Ik viel de baas tijdens de vergadering in de rede"
+},
+"dramaulen\u0001past\u00012s": {
+"pt": "Tu interrompeste o chefe na reunião",
+"nl": "Jij viel de baas tijdens de vergadering in de rede"
+},
+"dramaulen\u0001past\u00013s": {
+"pt": "Ele interrompeu o chefe na reunião",
+"nl": "Hij viel de baas tijdens de vergadering in de rede"
+},
+"dramaulen\u0001past\u00011p": {
+"pt": "Nós interrompemos o chefe na reunião",
+"nl": "Wij vielen de baas tijdens de vergadering in de rede"
+},
+"dramaulen\u0001past\u00012p": {
+"pt": "Vocês interromperam o chefe na reunião",
+"nl": "Jullie vielen de baas tijdens de vergadering in de rede"
+},
+"dramaulen\u0001past\u00013p": {
+"pt": "Eles interromperam o chefe na reunião",
+"nl": "Zij vielen de baas tijdens de vergadering in de rede"
+},
+"dramaulen\u0001imperfect\u00011s": {
+"pt": "Eu estava sempre a interromper o chefe na reunião",
+"nl": "Ik was de baas tijdens de vergadering in de rede altijd aan het vallen"
+},
+"dramaulen\u0001imperfect\u00012s": {
+"pt": "Tu estavas sempre a interromper o chefe na reunião",
+"nl": "Jij was de baas tijdens de vergadering in de rede altijd aan het vallen"
+},
+"dramaulen\u0001imperfect\u00013s": {
+"pt": "Ele estava sempre a interromper o chefe na reunião",
+"nl": "Hij was de baas tijdens de vergadering in de rede altijd aan het vallen"
+},
+"dramaulen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos sempre a interromper o chefe na reunião",
+"nl": "Wij waren de baas tijdens de vergadering in de rede altijd aan het vallen"
+},
+"dramaulen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam sempre a interromper o chefe na reunião",
+"nl": "Jullie waren de baas tijdens de vergadering in de rede altijd aan het vallen"
+},
+"dramaulen\u0001imperfect\u00013p": {
+"pt": "Eles estavam sempre a interromper o chefe na reunião",
+"nl": "Zij waren de baas tijdens de vergadering in de rede altijd aan het vallen"
+},
+"dramaulen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha interrompido o chefe na reunião",
+"nl": "Ik had de baas tijdens de vergadering in de rede gevallen"
+},
+"dramaulen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas interrompido o chefe na reunião",
+"nl": "Jij had de baas tijdens de vergadering in de rede gevallen"
+},
+"dramaulen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha interrompido o chefe na reunião",
+"nl": "Hij had de baas tijdens de vergadering in de rede gevallen"
+},
+"dramaulen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos interrompido o chefe na reunião",
+"nl": "Wij hadden de baas tijdens de vergadering in de rede gevallen"
+},
+"dramaulen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham interrompido o chefe na reunião",
+"nl": "Jullie hadden de baas tijdens de vergadering in de rede gevallen"
+},
+"dramaulen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham interrompido o chefe na reunião",
+"nl": "Zij hadden de baas tijdens de vergadering in de rede gevallen"
+},
+"dramaulen\u0001future\u00011s": {
+"pt": "Eu interromperei o chefe na reunião",
+"nl": "Ik zal de baas tijdens de vergadering in de rede vallen"
+},
+"dramaulen\u0001future\u00012s": {
+"pt": "Tu interromperás o chefe na reunião",
+"nl": "Jij zult de baas tijdens de vergadering in de rede vallen"
+},
+"dramaulen\u0001future\u00013s": {
+"pt": "Ele interromperá o chefe na reunião",
+"nl": "Hij zal de baas tijdens de vergadering in de rede vallen"
+},
+"dramaulen\u0001future\u00011p": {
+"pt": "Nós interromperemos o chefe na reunião",
+"nl": "Wij zullen de baas tijdens de vergadering in de rede vallen"
+},
+"dramaulen\u0001future\u00012p": {
+"pt": "Vocês interromperão o chefe na reunião",
+"nl": "Jullie zullen de baas tijdens de vergadering in de rede vallen"
+},
+"dramaulen\u0001future\u00013p": {
+"pt": "Eles interromperão o chefe na reunião",
+"nl": "Zij zullen de baas tijdens de vergadering in de rede vallen"
+},
+"dramaulen\u0001conditional\u00011s": {
+"pt": "Eu interromperia o chefe na reunião",
+"nl": "Ik zou de baas tijdens de vergadering in de rede vallen"
+},
+"dramaulen\u0001conditional\u00012s": {
+"pt": "Tu interromperias o chefe na reunião",
+"nl": "Jij zou de baas tijdens de vergadering in de rede vallen"
+},
+"dramaulen\u0001conditional\u00013s": {
+"pt": "Ele interromperia o chefe na reunião",
+"nl": "Hij zou de baas tijdens de vergadering in de rede vallen"
+},
+"dramaulen\u0001conditional\u00011p": {
+"pt": "Nós interromperíamos o chefe na reunião",
+"nl": "Wij zouden de baas tijdens de vergadering in de rede vallen"
+},
+"dramaulen\u0001conditional\u00012p": {
+"pt": "Vocês interromperiam o chefe na reunião",
+"nl": "Jullie zouden de baas tijdens de vergadering in de rede vallen"
+},
+"dramaulen\u0001conditional\u00013p": {
+"pt": "Eles interromperiam o chefe na reunião",
+"nl": "Zij zouden de baas tijdens de vergadering in de rede vallen"
+},
+"dramaulen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria interrompido o chefe na reunião",
+"nl": "Ik zou de baas tijdens de vergadering in de rede hebben gevallen"
+},
+"dramaulen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias interrompido o chefe na reunião",
+"nl": "Jij zou de baas tijdens de vergadering in de rede hebben gevallen"
+},
+"dramaulen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria interrompido o chefe na reunião",
+"nl": "Hij zou de baas tijdens de vergadering in de rede hebben gevallen"
+},
+"dramaulen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos interrompido o chefe na reunião",
+"nl": "Wij zouden de baas tijdens de vergadering in de rede hebben gevallen"
+},
+"dramaulen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam interrompido o chefe na reunião",
+"nl": "Jullie zouden de baas tijdens de vergadering in de rede hebben gevallen"
+},
+"dramaulen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam interrompido o chefe na reunião",
+"nl": "Zij zouden de baas tijdens de vergadering in de rede hebben gevallen"
+},
+"dramaulen\u0001subjunctive\u00011s": {
+"pt": "que eu interrompa o chefe na reunião",
+"nl": "dat ik de baas tijdens de vergadering in de rede val"
+},
+"dramaulen\u0001subjunctive\u00012s": {
+"pt": "que tu interrompas o chefe na reunião",
+"nl": "dat jij de baas tijdens de vergadering in de rede valt"
+},
+"dramaulen\u0001subjunctive\u00013s": {
+"pt": "que ele interrompa o chefe na reunião",
+"nl": "dat hij de baas tijdens de vergadering in de rede valt"
+},
+"dramaulen\u0001subjunctive\u00011p": {
+"pt": "que nós interrompamos o chefe na reunião",
+"nl": "dat wij de baas tijdens de vergadering in de rede vallen"
+},
+"dramaulen\u0001subjunctive\u00012p": {
+"pt": "que vocês interrompam o chefe na reunião",
+"nl": "dat jullie de baas tijdens de vergadering in de rede vallen"
+},
+"dramaulen\u0001subjunctive\u00013p": {
+"pt": "que eles interrompam o chefe na reunião",
+"nl": "dat zij de baas tijdens de vergadering in de rede vallen"
+},
+"drängen\u0001present\u00011s": {
+"pt": "Eu apresso a Anna antes da partida do comboio.",
+"nl": "Ik haast Anna voor het vertrek van de trein."
+},
+"drängen\u0001present\u00012s": {
+"pt": "Tu apressas a Anna antes da partida do comboio.",
+"nl": "Jij haast Anna voor het vertrek van de trein."
+},
+"drängen\u0001present\u00013s": {
+"pt": "Ele apressa a Anna antes da partida do comboio.",
+"nl": "Hij haast Anna voor het vertrek van de trein."
+},
+"drängen\u0001present\u00011p": {
+"pt": "Nós apressamos a Anna antes da partida do comboio.",
+"nl": "Wij haasten Anna voor het vertrek van de trein."
+},
+"drängen\u0001present\u00012p": {
+"pt": "Vocês apressam a Anna antes da partida do comboio.",
+"nl": "Jullie haasten Anna voor het vertrek van de trein."
+},
+"drängen\u0001present\u00013p": {
+"pt": "Eles apressam a Anna antes da partida do comboio.",
+"nl": "Zij haasten Anna voor het vertrek van de trein."
+},
+"drängen\u0001perfect\u00011s": {
+"pt": "Eu apressei a Anna antes da partida do comboio.",
+"nl": "Ik heb Anna voor het vertrek van de trein gehaast."
+},
+"drängen\u0001perfect\u00012s": {
+"pt": "Tu apressaste a Anna antes da partida do comboio.",
+"nl": "Jij hebt Anna voor het vertrek van de trein gehaast."
+},
+"drängen\u0001perfect\u00013s": {
+"pt": "Ele apressou a Anna antes da partida do comboio.",
+"nl": "Hij heeft Anna voor het vertrek van de trein gehaast."
+},
+"drängen\u0001perfect\u00011p": {
+"pt": "Nós apressámos a Anna antes da partida do comboio.",
+"nl": "Wij hebben Anna voor het vertrek van de trein gehaast."
+},
+"drängen\u0001perfect\u00012p": {
+"pt": "Vocês apressaram a Anna antes da partida do comboio.",
+"nl": "Jullie hebben Anna voor het vertrek van de trein gehaast."
+},
+"drängen\u0001perfect\u00013p": {
+"pt": "Eles apressaram a Anna antes da partida do comboio.",
+"nl": "Zij hebben Anna voor het vertrek van de trein gehaast."
+},
+"drängen\u0001past\u00011s": {
+"pt": "Eu apressei a Anna antes da partida do comboio.",
+"nl": "Ik haastte Anna voor het vertrek van de trein."
+},
+"drängen\u0001past\u00012s": {
+"pt": "Tu apressaste a Anna antes da partida do comboio.",
+"nl": "Jij haastte Anna voor het vertrek van de trein."
+},
+"drängen\u0001past\u00013s": {
+"pt": "Ele apressou a Anna antes da partida do comboio.",
+"nl": "Hij haastte Anna voor het vertrek van de trein."
+},
+"drängen\u0001past\u00011p": {
+"pt": "Nós apressámos a Anna antes da partida do comboio.",
+"nl": "Wij haastten Anna voor het vertrek van de trein."
+},
+"drängen\u0001past\u00012p": {
+"pt": "Vocês apressaram a Anna antes da partida do comboio.",
+"nl": "Jullie haastten Anna voor het vertrek van de trein."
+},
+"drängen\u0001past\u00013p": {
+"pt": "Eles apressaram a Anna antes da partida do comboio.",
+"nl": "Zij haastten Anna voor het vertrek van de trein."
+},
+"drängen\u0001imperfect\u00011s": {
+"pt": "Eu estava a apressar a Anna antes da partida do comboio.",
+"nl": "Ik was Anna voor het vertrek van de trein aan het haasten."
+},
+"drängen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a apressar a Anna antes da partida do comboio.",
+"nl": "Jij was Anna voor het vertrek van de trein aan het haasten."
+},
+"drängen\u0001imperfect\u00013s": {
+"pt": "Ele estava a apressar a Anna antes da partida do comboio.",
+"nl": "Hij was Anna voor het vertrek van de trein aan het haasten."
+},
+"drängen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a apressar a Anna antes da partida do comboio.",
+"nl": "Wij waren Anna voor het vertrek van de trein aan het haasten."
+},
+"drängen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a apressar a Anna antes da partida do comboio.",
+"nl": "Jullie waren Anna voor het vertrek van de trein aan het haasten."
+},
+"drängen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a apressar a Anna antes da partida do comboio.",
+"nl": "Zij waren Anna voor het vertrek van de trein aan het haasten."
+},
+"drängen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha apressado a Anna antes da partida do comboio.",
+"nl": "Ik had Anna voor het vertrek van de trein gehaast."
+},
+"drängen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas apressado a Anna antes da partida do comboio.",
+"nl": "Jij had Anna voor het vertrek van de trein gehaast."
+},
+"drängen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha apressado a Anna antes da partida do comboio.",
+"nl": "Hij had Anna voor het vertrek van de trein gehaast."
+},
+"drängen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos apressado a Anna antes da partida do comboio.",
+"nl": "Wij hadden Anna voor het vertrek van de trein gehaast."
+},
+"drängen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham apressado a Anna antes da partida do comboio.",
+"nl": "Jullie hadden Anna voor het vertrek van de trein gehaast."
+},
+"drängen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham apressado a Anna antes da partida do comboio.",
+"nl": "Zij hadden Anna voor het vertrek van de trein gehaast."
+},
+"drängen\u0001future\u00011s": {
+"pt": "Eu apressarei a Anna antes da partida do comboio.",
+"nl": "Ik zal Anna voor het vertrek van de trein haasten."
+},
+"drängen\u0001future\u00012s": {
+"pt": "Tu apressarás a Anna antes da partida do comboio.",
+"nl": "Jij zult Anna voor het vertrek van de trein haasten."
+},
+"drängen\u0001future\u00013s": {
+"pt": "Ele apressará a Anna antes da partida do comboio.",
+"nl": "Hij zal Anna voor het vertrek van de trein haasten."
+},
+"drängen\u0001future\u00011p": {
+"pt": "Nós apressaremos a Anna antes da partida do comboio.",
+"nl": "Wij zullen Anna voor het vertrek van de trein haasten."
+},
+"drängen\u0001future\u00012p": {
+"pt": "Vocês apressarão a Anna antes da partida do comboio.",
+"nl": "Jullie zullen Anna voor het vertrek van de trein haasten."
+},
+"drängen\u0001future\u00013p": {
+"pt": "Eles apressarão a Anna antes da partida do comboio.",
+"nl": "Zij zullen Anna voor het vertrek van de trein haasten."
+},
+"drängen\u0001conditional\u00011s": {
+"pt": "Eu apressaria a Anna antes da partida do comboio.",
+"nl": "Ik zou Anna voor het vertrek van de trein haasten."
+},
+"drängen\u0001conditional\u00012s": {
+"pt": "Tu apressarias a Anna antes da partida do comboio.",
+"nl": "Jij zou Anna voor het vertrek van de trein haasten."
+},
+"drängen\u0001conditional\u00013s": {
+"pt": "Ele apressaria a Anna antes da partida do comboio.",
+"nl": "Hij zou Anna voor het vertrek van de trein haasten."
+},
+"drängen\u0001conditional\u00011p": {
+"pt": "Nós apressaríamos a Anna antes da partida do comboio.",
+"nl": "Wij zouden Anna voor het vertrek van de trein haasten."
+},
+"drängen\u0001conditional\u00012p": {
+"pt": "Vocês apressariam a Anna antes da partida do comboio.",
+"nl": "Jullie zouden Anna voor het vertrek van de trein haasten."
+},
+"drängen\u0001conditional\u00013p": {
+"pt": "Eles apressariam a Anna antes da partida do comboio.",
+"nl": "Zij zouden Anna voor het vertrek van de trein haasten."
+},
+"drängen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria apressado a Anna antes da partida do comboio.",
+"nl": "Ik zou Anna voor het vertrek van de trein hebben gehaast."
+},
+"drängen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias apressado a Anna antes da partida do comboio.",
+"nl": "Jij zou Anna voor het vertrek van de trein hebben gehaast."
+},
+"drängen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria apressado a Anna antes da partida do comboio.",
+"nl": "Hij zou Anna voor het vertrek van de trein hebben gehaast."
+},
+"drängen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos apressado a Anna antes da partida do comboio.",
+"nl": "Wij zouden Anna voor het vertrek van de trein hebben gehaast."
+},
+"drängen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam apressado a Anna antes da partida do comboio.",
+"nl": "Jullie zouden Anna voor het vertrek van de trein hebben gehaast."
+},
+"drängen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam apressado a Anna antes da partida do comboio.",
+"nl": "Zij zouden Anna voor het vertrek van de trein hebben gehaast."
+},
+"drängen\u0001subjunctive\u00011s": {
+"pt": "que eu apresse a Anna antes da partida do comboio",
+"nl": "dat ik Anna voor het vertrek van de trein haast"
+},
+"drängen\u0001subjunctive\u00012s": {
+"pt": "que tu apresses a Anna antes da partida do comboio",
+"nl": "dat jij Anna voor het vertrek van de trein haast"
+},
+"drängen\u0001subjunctive\u00013s": {
+"pt": "que ele apresse a Anna antes da partida do comboio",
+"nl": "dat hij Anna voor het vertrek van de trein haast"
+},
+"drängen\u0001subjunctive\u00011p": {
+"pt": "que nós apressemos a Anna antes da partida do comboio",
+"nl": "dat wij Anna voor het vertrek van de trein haasten"
+},
+"drängen\u0001subjunctive\u00012p": {
+"pt": "que vocês apressem a Anna antes da partida do comboio",
+"nl": "dat jullie Anna voor het vertrek van de trein haasten"
+},
+"drängen\u0001subjunctive\u00013p": {
+"pt": "que eles apressem a Anna antes da partida do comboio",
+"nl": "dat zij Anna voor het vertrek van de trein haasten"
+},
+"dränken\u0001present\u00011s": {
+"pt": "Eu abebero os cavalos no ribeiro",
+"nl": "Ik drenk de paarden bij de beek"
+},
+"dränken\u0001present\u00012s": {
+"pt": "Tu abeberas os cavalos no ribeiro",
+"nl": "Jij drenkt de paarden bij de beek"
+},
+"dränken\u0001present\u00013s": {
+"pt": "Ele abebera os cavalos no ribeiro",
+"nl": "Hij drenkt de paarden bij de beek"
+},
+"dränken\u0001present\u00011p": {
+"pt": "Nós abeberamos os cavalos no ribeiro",
+"nl": "Wij drenken de paarden bij de beek"
+},
+"dränken\u0001present\u00012p": {
+"pt": "Vocês abeberam os cavalos no ribeiro",
+"nl": "Jullie drenken de paarden bij de beek"
+},
+"dränken\u0001present\u00013p": {
+"pt": "Eles abeberam os cavalos no ribeiro",
+"nl": "Zij drenken de paarden bij de beek"
+},
+"dränken\u0001perfect\u00011s": {
+"pt": "Eu abeberei os cavalos no ribeiro",
+"nl": "Ik heb de paarden bij de beek gedrenkt"
+},
+"dränken\u0001perfect\u00012s": {
+"pt": "Tu abeberaste os cavalos no ribeiro",
+"nl": "Jij hebt de paarden bij de beek gedrenkt"
+},
+"dränken\u0001perfect\u00013s": {
+"pt": "Ele abeberou os cavalos no ribeiro",
+"nl": "Hij heeft de paarden bij de beek gedrenkt"
+},
+"dränken\u0001perfect\u00011p": {
+"pt": "Nós abeberámos os cavalos no ribeiro",
+"nl": "Wij hebben de paarden bij de beek gedrenkt"
+},
+"dränken\u0001perfect\u00012p": {
+"pt": "Vocês abeberaram os cavalos no ribeiro",
+"nl": "Jullie hebben de paarden bij de beek gedrenkt"
+},
+"dränken\u0001perfect\u00013p": {
+"pt": "Eles abeberaram os cavalos no ribeiro",
+"nl": "Zij hebben de paarden bij de beek gedrenkt"
+},
+"dränken\u0001past\u00011s": {
+"pt": "Eu abeberei os cavalos no ribeiro",
+"nl": "Ik drenkte de paarden bij de beek"
+},
+"dränken\u0001past\u00012s": {
+"pt": "Tu abeberaste os cavalos no ribeiro",
+"nl": "Jij drenkte de paarden bij de beek"
+},
+"dränken\u0001past\u00013s": {
+"pt": "Ele abeberou os cavalos no ribeiro",
+"nl": "Hij drenkte de paarden bij de beek"
+},
+"dränken\u0001past\u00011p": {
+"pt": "Nós abeberámos os cavalos no ribeiro",
+"nl": "Wij drenkten de paarden bij de beek"
+},
+"dränken\u0001past\u00012p": {
+"pt": "Vocês abeberaram os cavalos no ribeiro",
+"nl": "Jullie drenkten de paarden bij de beek"
+},
+"dränken\u0001past\u00013p": {
+"pt": "Eles abeberaram os cavalos no ribeiro",
+"nl": "Zij drenkten de paarden bij de beek"
+},
+"dränken\u0001imperfect\u00011s": {
+"pt": "Eu estava a abeberar os cavalos no ribeiro",
+"nl": "Ik was de paarden bij de beek aan het drenken"
+},
+"dränken\u0001imperfect\u00012s": {
+"pt": "Tu estavas a abeberar os cavalos no ribeiro",
+"nl": "Jij was de paarden bij de beek aan het drenken"
+},
+"dränken\u0001imperfect\u00013s": {
+"pt": "Ele estava a abeberar os cavalos no ribeiro",
+"nl": "Hij was de paarden bij de beek aan het drenken"
+},
+"dränken\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a abeberar os cavalos no ribeiro",
+"nl": "Wij waren de paarden bij de beek aan het drenken"
+},
+"dränken\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a abeberar os cavalos no ribeiro",
+"nl": "Jullie waren de paarden bij de beek aan het drenken"
+},
+"dränken\u0001imperfect\u00013p": {
+"pt": "Eles estavam a abeberar os cavalos no ribeiro",
+"nl": "Zij waren de paarden bij de beek aan het drenken"
+},
+"dränken\u0001pluperfect\u00011s": {
+"pt": "Eu tinha abeberado os cavalos no ribeiro",
+"nl": "Ik had de paarden bij de beek gedrenkt"
+},
+"dränken\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas abeberado os cavalos no ribeiro",
+"nl": "Jij had de paarden bij de beek gedrenkt"
+},
+"dränken\u0001pluperfect\u00013s": {
+"pt": "Ele tinha abeberado os cavalos no ribeiro",
+"nl": "Hij had de paarden bij de beek gedrenkt"
+},
+"dränken\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos abeberado os cavalos no ribeiro",
+"nl": "Wij hadden de paarden bij de beek gedrenkt"
+},
+"dränken\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham abeberado os cavalos no ribeiro",
+"nl": "Jullie hadden de paarden bij de beek gedrenkt"
+},
+"dränken\u0001pluperfect\u00013p": {
+"pt": "Eles tinham abeberado os cavalos no ribeiro",
+"nl": "Zij hadden de paarden bij de beek gedrenkt"
+},
+"dränken\u0001future\u00011s": {
+"pt": "Eu abeberarei os cavalos no ribeiro",
+"nl": "Ik zal de paarden bij de beek drenken"
+},
+"dränken\u0001future\u00012s": {
+"pt": "Tu abeberarás os cavalos no ribeiro",
+"nl": "Jij zult de paarden bij de beek drenken"
+},
+"dränken\u0001future\u00013s": {
+"pt": "Ele abeberará os cavalos no ribeiro",
+"nl": "Hij zal de paarden bij de beek drenken"
+},
+"dränken\u0001future\u00011p": {
+"pt": "Nós abeberaremos os cavalos no ribeiro",
+"nl": "Wij zullen de paarden bij de beek drenken"
+},
+"dränken\u0001future\u00012p": {
+"pt": "Vocês abeberarão os cavalos no ribeiro",
+"nl": "Jullie zullen de paarden bij de beek drenken"
+},
+"dränken\u0001future\u00013p": {
+"pt": "Eles abeberarão os cavalos no ribeiro",
+"nl": "Zij zullen de paarden bij de beek drenken"
+},
+"dränken\u0001conditional\u00011s": {
+"pt": "Eu abeberaria os cavalos no ribeiro",
+"nl": "Ik zou de paarden bij de beek drenken"
+},
+"dränken\u0001conditional\u00012s": {
+"pt": "Tu abeberarias os cavalos no ribeiro",
+"nl": "Jij zou de paarden bij de beek drenken"
+},
+"dränken\u0001conditional\u00013s": {
+"pt": "Ele abeberaria os cavalos no ribeiro",
+"nl": "Hij zou de paarden bij de beek drenken"
+},
+"dränken\u0001conditional\u00011p": {
+"pt": "Nós abeberaríamos os cavalos no ribeiro",
+"nl": "Wij zouden de paarden bij de beek drenken"
+},
+"dränken\u0001conditional\u00012p": {
+"pt": "Vocês abeberariam os cavalos no ribeiro",
+"nl": "Jullie zouden de paarden bij de beek drenken"
+},
+"dränken\u0001conditional\u00013p": {
+"pt": "Eles abeberariam os cavalos no ribeiro",
+"nl": "Zij zouden de paarden bij de beek drenken"
+},
+"dränken\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria abeberado os cavalos no ribeiro",
+"nl": "Ik zou de paarden bij de beek hebben gedrenkt"
+},
+"dränken\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias abeberado os cavalos no ribeiro",
+"nl": "Jij zou de paarden bij de beek hebben gedrenkt"
+},
+"dränken\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria abeberado os cavalos no ribeiro",
+"nl": "Hij zou de paarden bij de beek hebben gedrenkt"
+},
+"dränken\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos abeberado os cavalos no ribeiro",
+"nl": "Wij zouden de paarden bij de beek hebben gedrenkt"
+},
+"dränken\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam abeberado os cavalos no ribeiro",
+"nl": "Jullie zouden de paarden bij de beek hebben gedrenkt"
+},
+"dränken\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam abeberado os cavalos no ribeiro",
+"nl": "Zij zouden de paarden bij de beek hebben gedrenkt"
+},
+"dränken\u0001subjunctive\u00011s": {
+"pt": "que eu abebere os cavalos no ribeiro",
+"nl": "dat ik de paarden bij de beek drenk"
+},
+"dränken\u0001subjunctive\u00012s": {
+"pt": "que tu abeberes os cavalos no ribeiro",
+"nl": "dat jij de paarden bij de beek drenkt"
+},
+"dränken\u0001subjunctive\u00013s": {
+"pt": "que ele abebere os cavalos no ribeiro",
+"nl": "dat hij de paarden bij de beek drenkt"
+},
+"dränken\u0001subjunctive\u00011p": {
+"pt": "que nós abeberemos os cavalos no ribeiro",
+"nl": "dat wij de paarden bij de beek drenken"
+},
+"dränken\u0001subjunctive\u00012p": {
+"pt": "que vocês abeberem os cavalos no ribeiro",
+"nl": "dat jullie de paarden bij de beek drenken"
+},
+"dränken\u0001subjunctive\u00013p": {
+"pt": "que eles abeberem os cavalos no ribeiro",
+"nl": "dat zij de paarden bij de beek drenken"
+},
+"dréchnen\u0001present\u00011s": {
+"pt": "Eu seco as toalhas no jardim.",
+"nl": "Ik droog de handdoeken in de tuin."
+},
+"dréchnen\u0001present\u00012s": {
+"pt": "Tu secas as toalhas no jardim.",
+"nl": "Jij droogt de handdoeken in de tuin."
+},
+"dréchnen\u0001present\u00013s": {
+"pt": "Ele seca as toalhas no jardim.",
+"nl": "Hij droogt de handdoeken in de tuin."
+},
+"dréchnen\u0001present\u00011p": {
+"pt": "Nós secamos as toalhas no jardim.",
+"nl": "Wij drogen de handdoeken in de tuin."
+},
+"dréchnen\u0001present\u00012p": {
+"pt": "Vocês secam as toalhas no jardim.",
+"nl": "Jullie drogen de handdoeken in de tuin."
+},
+"dréchnen\u0001present\u00013p": {
+"pt": "Eles secam as toalhas no jardim.",
+"nl": "Zij drogen de handdoeken in de tuin."
+},
+"dréchnen\u0001perfect\u00011s": {
+"pt": "Eu sequei as toalhas no jardim.",
+"nl": "Ik heb de handdoeken in de tuin gedroogd."
+},
+"dréchnen\u0001perfect\u00012s": {
+"pt": "Tu secaste as toalhas no jardim.",
+"nl": "Jij hebt de handdoeken in de tuin gedroogd."
+},
+"dréchnen\u0001perfect\u00013s": {
+"pt": "Ele secou as toalhas no jardim.",
+"nl": "Hij heeft de handdoeken in de tuin gedroogd."
+},
+"dréchnen\u0001perfect\u00011p": {
+"pt": "Nós secámos as toalhas no jardim.",
+"nl": "Wij hebben de handdoeken in de tuin gedroogd."
+},
+"dréchnen\u0001perfect\u00012p": {
+"pt": "Vocês secaram as toalhas no jardim.",
+"nl": "Jullie hebben de handdoeken in de tuin gedroogd."
+},
+"dréchnen\u0001perfect\u00013p": {
+"pt": "Eles secaram as toalhas no jardim.",
+"nl": "Zij hebben de handdoeken in de tuin gedroogd."
+},
+"dréchnen\u0001past\u00011s": {
+"pt": "Eu sequei as toalhas no jardim.",
+"nl": "Ik droogde de handdoeken in de tuin."
+},
+"dréchnen\u0001past\u00012s": {
+"pt": "Tu secaste as toalhas no jardim.",
+"nl": "Jij droogde de handdoeken in de tuin."
+},
+"dréchnen\u0001past\u00013s": {
+"pt": "Ele secou as toalhas no jardim.",
+"nl": "Hij droogde de handdoeken in de tuin."
+},
+"dréchnen\u0001past\u00011p": {
+"pt": "Nós secámos as toalhas no jardim.",
+"nl": "Wij droogden de handdoeken in de tuin."
+},
+"dréchnen\u0001past\u00012p": {
+"pt": "Vocês secaram as toalhas no jardim.",
+"nl": "Jullie droogden de handdoeken in de tuin."
+},
+"dréchnen\u0001past\u00013p": {
+"pt": "Eles secaram as toalhas no jardim.",
+"nl": "Zij droogden de handdoeken in de tuin."
+},
+"dréchnen\u0001imperfect\u00011s": {
+"pt": "Eu estava a secar as toalhas no jardim.",
+"nl": "Ik was de handdoeken in de tuin aan het drogen."
+},
+"dréchnen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a secar as toalhas no jardim.",
+"nl": "Jij was de handdoeken in de tuin aan het drogen."
+},
+"dréchnen\u0001imperfect\u00013s": {
+"pt": "Ele estava a secar as toalhas no jardim.",
+"nl": "Hij was de handdoeken in de tuin aan het drogen."
+},
+"dréchnen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a secar as toalhas no jardim.",
+"nl": "Wij waren de handdoeken in de tuin aan het drogen."
+},
+"dréchnen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a secar as toalhas no jardim.",
+"nl": "Jullie waren de handdoeken in de tuin aan het drogen."
+},
+"dréchnen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a secar as toalhas no jardim.",
+"nl": "Zij waren de handdoeken in de tuin aan het drogen."
+},
+"dréchnen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha secado as toalhas no jardim.",
+"nl": "Ik had de handdoeken in de tuin gedroogd."
+},
+"dréchnen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas secado as toalhas no jardim.",
+"nl": "Jij had de handdoeken in de tuin gedroogd."
+},
+"dréchnen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha secado as toalhas no jardim.",
+"nl": "Hij had de handdoeken in de tuin gedroogd."
+},
+"dréchnen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos secado as toalhas no jardim.",
+"nl": "Wij hadden de handdoeken in de tuin gedroogd."
+},
+"dréchnen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham secado as toalhas no jardim.",
+"nl": "Jullie hadden de handdoeken in de tuin gedroogd."
+},
+"dréchnen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham secado as toalhas no jardim.",
+"nl": "Zij hadden de handdoeken in de tuin gedroogd."
+},
+"dréchnen\u0001future\u00011s": {
+"pt": "Eu secarei as toalhas no jardim.",
+"nl": "Ik zal de handdoeken in de tuin drogen."
+},
+"dréchnen\u0001future\u00012s": {
+"pt": "Tu secarás as toalhas no jardim.",
+"nl": "Jij zult de handdoeken in de tuin drogen."
+},
+"dréchnen\u0001future\u00013s": {
+"pt": "Ele secará as toalhas no jardim.",
+"nl": "Hij zal de handdoeken in de tuin drogen."
+},
+"dréchnen\u0001future\u00011p": {
+"pt": "Nós secaremos as toalhas no jardim.",
+"nl": "Wij zullen de handdoeken in de tuin drogen."
+},
+"dréchnen\u0001future\u00012p": {
+"pt": "Vocês secarão as toalhas no jardim.",
+"nl": "Jullie zullen de handdoeken in de tuin drogen."
+},
+"dréchnen\u0001future\u00013p": {
+"pt": "Eles secarão as toalhas no jardim.",
+"nl": "Zij zullen de handdoeken in de tuin drogen."
+},
+"dréchnen\u0001conditional\u00011s": {
+"pt": "Eu secaria as toalhas no jardim.",
+"nl": "Ik zou de handdoeken in de tuin drogen."
+},
+"dréchnen\u0001conditional\u00012s": {
+"pt": "Tu secarias as toalhas no jardim.",
+"nl": "Jij zou de handdoeken in de tuin drogen."
+},
+"dréchnen\u0001conditional\u00013s": {
+"pt": "Ele secaria as toalhas no jardim.",
+"nl": "Hij zou de handdoeken in de tuin drogen."
+},
+"dréchnen\u0001conditional\u00011p": {
+"pt": "Nós secaríamos as toalhas no jardim.",
+"nl": "Wij zouden de handdoeken in de tuin drogen."
+},
+"dréchnen\u0001conditional\u00012p": {
+"pt": "Vocês secariam as toalhas no jardim.",
+"nl": "Jullie zouden de handdoeken in de tuin drogen."
+},
+"dréchnen\u0001conditional\u00013p": {
+"pt": "Eles secariam as toalhas no jardim.",
+"nl": "Zij zouden de handdoeken in de tuin drogen."
+},
+"dréchnen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria secado as toalhas no jardim.",
+"nl": "Ik zou de handdoeken in de tuin hebben gedroogd."
+},
+"dréchnen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias secado as toalhas no jardim.",
+"nl": "Jij zou de handdoeken in de tuin hebben gedroogd."
+},
+"dréchnen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria secado as toalhas no jardim.",
+"nl": "Hij zou de handdoeken in de tuin hebben gedroogd."
+},
+"dréchnen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos secado as toalhas no jardim.",
+"nl": "Wij zouden de handdoeken in de tuin hebben gedroogd."
+},
+"dréchnen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam secado as toalhas no jardim.",
+"nl": "Jullie zouden de handdoeken in de tuin hebben gedroogd."
+},
+"dréchnen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam secado as toalhas no jardim.",
+"nl": "Zij zouden de handdoeken in de tuin hebben gedroogd."
+},
+"dréchnen\u0001subjunctive\u00011s": {
+"pt": "que eu seque as toalhas no jardim",
+"nl": "dat ik de handdoeken in de tuin droog"
+},
+"dréchnen\u0001subjunctive\u00012s": {
+"pt": "que tu seques as toalhas no jardim",
+"nl": "dat jij de handdoeken in de tuin droogt"
+},
+"dréchnen\u0001subjunctive\u00013s": {
+"pt": "que ele seque as toalhas no jardim",
+"nl": "dat hij de handdoeken in de tuin droogt"
+},
+"dréchnen\u0001subjunctive\u00011p": {
+"pt": "que nós sequemos as toalhas no jardim",
+"nl": "dat wij de handdoeken in de tuin drogen"
+},
+"dréchnen\u0001subjunctive\u00012p": {
+"pt": "que vocês sequem as toalhas no jardim",
+"nl": "dat jullie de handdoeken in de tuin drogen"
+},
+"dréchnen\u0001subjunctive\u00013p": {
+"pt": "que eles sequem as toalhas no jardim",
+"nl": "dat zij de handdoeken in de tuin drogen"
+},
+"drécken\u0001present\u00011s": {
+"pt": "Eu empurro a porta.",
+"nl": "Ik duw de deur open."
+},
+"drécken\u0001present\u00012s": {
+"pt": "Tu empurras a porta.",
+"nl": "Jij duwt de deur open."
+},
+"drécken\u0001present\u00013s": {
+"pt": "Ele empurra a porta.",
+"nl": "Hij duwt de deur open."
+},
+"drécken\u0001present\u00011p": {
+"pt": "Nós empurramos a porta.",
+"nl": "Wij duwen de deur open."
+},
+"drécken\u0001present\u00012p": {
+"pt": "Vocês empurram a porta.",
+"nl": "Jullie duwen de deur open."
+},
+"drécken\u0001present\u00013p": {
+"pt": "Eles empurram a porta.",
+"nl": "Zij duwen de deur open."
+},
+"drécken\u0001perfect\u00011s": {
+"pt": "Eu empurrei a porta.",
+"nl": "Ik heb de deur opengeduwd."
+},
+"drécken\u0001perfect\u00012s": {
+"pt": "Tu empurraste a porta.",
+"nl": "Jij hebt de deur opengeduwd."
+},
+"drécken\u0001perfect\u00013s": {
+"pt": "Ele empurrou a porta.",
+"nl": "Hij heeft de deur opengeduwd."
+},
+"drécken\u0001perfect\u00011p": {
+"pt": "Nós empurrámos a porta.",
+"nl": "Wij hebben de deur opengeduwd."
+},
+"drécken\u0001perfect\u00012p": {
+"pt": "Vocês empurraram a porta.",
+"nl": "Jullie hebben de deur opengeduwd."
+},
+"drécken\u0001perfect\u00013p": {
+"pt": "Eles empurraram a porta.",
+"nl": "Zij hebben de deur opengeduwd."
+},
+"drécken\u0001past\u00011s": {
+"pt": "Eu empurrei a porta.",
+"nl": "Ik duwde de deur open."
+},
+"drécken\u0001past\u00012s": {
+"pt": "Tu empurraste a porta.",
+"nl": "Jij duwde de deur open."
+},
+"drécken\u0001past\u00013s": {
+"pt": "Ele empurrou a porta.",
+"nl": "Hij duwde de deur open."
+},
+"drécken\u0001past\u00011p": {
+"pt": "Nós empurrámos a porta.",
+"nl": "Wij duwden de deur open."
+},
+"drécken\u0001past\u00012p": {
+"pt": "Vocês empurraram a porta.",
+"nl": "Jullie duwden de deur open."
+},
+"drécken\u0001past\u00013p": {
+"pt": "Eles empurraram a porta.",
+"nl": "Zij duwden de deur open."
+},
+"drécken\u0001imperfect\u00011s": {
+"pt": "Eu estava a empurrar a porta.",
+"nl": "Ik was de deur aan het openduwen."
+},
+"drécken\u0001imperfect\u00012s": {
+"pt": "Tu estavas a empurrar a porta.",
+"nl": "Jij was de deur aan het openduwen."
+},
+"drécken\u0001imperfect\u00013s": {
+"pt": "Ele estava a empurrar a porta.",
+"nl": "Hij was de deur aan het openduwen."
+},
+"drécken\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a empurrar a porta.",
+"nl": "Wij waren de deur aan het openduwen."
+},
+"drécken\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a empurrar a porta.",
+"nl": "Jullie waren de deur aan het openduwen."
+},
+"drécken\u0001imperfect\u00013p": {
+"pt": "Eles estavam a empurrar a porta.",
+"nl": "Zij waren de deur aan het openduwen."
+},
+"drécken\u0001pluperfect\u00011s": {
+"pt": "Eu tinha empurrado a porta.",
+"nl": "Ik had de deur opengeduwd."
+},
+"drécken\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas empurrado a porta.",
+"nl": "Jij had de deur opengeduwd."
+},
+"drécken\u0001pluperfect\u00013s": {
+"pt": "Ele tinha empurrado a porta.",
+"nl": "Hij had de deur opengeduwd."
+},
+"drécken\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos empurrado a porta.",
+"nl": "Wij hadden de deur opengeduwd."
+},
+"drécken\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham empurrado a porta.",
+"nl": "Jullie hadden de deur opengeduwd."
+},
+"drécken\u0001pluperfect\u00013p": {
+"pt": "Eles tinham empurrado a porta.",
+"nl": "Zij hadden de deur opengeduwd."
+},
+"drécken\u0001future\u00011s": {
+"pt": "Eu empurrarei a porta.",
+"nl": "Ik zal de deur openduwen."
+},
+"drécken\u0001future\u00012s": {
+"pt": "Tu empurrarás a porta.",
+"nl": "Jij zult de deur openduwen."
+},
+"drécken\u0001future\u00013s": {
+"pt": "Ele empurrará a porta.",
+"nl": "Hij zal de deur openduwen."
+},
+"drécken\u0001future\u00011p": {
+"pt": "Nós empurraremos a porta.",
+"nl": "Wij zullen de deur openduwen."
+},
+"drécken\u0001future\u00012p": {
+"pt": "Vocês empurrarão a porta.",
+"nl": "Jullie zullen de deur openduwen."
+},
+"drécken\u0001future\u00013p": {
+"pt": "Eles empurrarão a porta.",
+"nl": "Zij zullen de deur openduwen."
+},
+"drécken\u0001conditional\u00011s": {
+"pt": "Eu empurraria a porta.",
+"nl": "Ik zou de deur openduwen."
+},
+"drécken\u0001conditional\u00012s": {
+"pt": "Tu empurrarias a porta.",
+"nl": "Jij zou de deur openduwen."
+},
+"drécken\u0001conditional\u00013s": {
+"pt": "Ele empurraria a porta.",
+"nl": "Hij zou de deur openduwen."
+},
+"drécken\u0001conditional\u00011p": {
+"pt": "Nós empurraríamos a porta.",
+"nl": "Wij zouden de deur openduwen."
+},
+"drécken\u0001conditional\u00012p": {
+"pt": "Vocês empurrariam a porta.",
+"nl": "Jullie zouden de deur openduwen."
+},
+"drécken\u0001conditional\u00013p": {
+"pt": "Eles empurrariam a porta.",
+"nl": "Zij zouden de deur openduwen."
+},
+"drécken\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria empurrado a porta.",
+"nl": "Ik zou de deur hebben opengeduwd."
+},
+"drécken\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias empurrado a porta.",
+"nl": "Jij zou de deur hebben opengeduwd."
+},
+"drécken\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria empurrado a porta.",
+"nl": "Hij zou de deur hebben opengeduwd."
+},
+"drécken\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos empurrado a porta.",
+"nl": "Wij zouden de deur hebben opengeduwd."
+},
+"drécken\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam empurrado a porta.",
+"nl": "Jullie zouden de deur hebben opengeduwd."
+},
+"drécken\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam empurrado a porta.",
+"nl": "Zij zouden de deur hebben opengeduwd."
+},
+"drécken\u0001subjunctive\u00011s": {
+"pt": "que eu empurre a porta",
+"nl": "dat ik de deur openduw"
+},
+"drécken\u0001subjunctive\u00012s": {
+"pt": "que tu empurres a porta",
+"nl": "dat jij de deur openduwt"
+},
+"drécken\u0001subjunctive\u00013s": {
+"pt": "que ele empurre a porta",
+"nl": "dat hij de deur openduwt"
+},
+"drécken\u0001subjunctive\u00011p": {
+"pt": "que nós empurremos a porta",
+"nl": "dat wij de deur openduwen"
+},
+"drécken\u0001subjunctive\u00012p": {
+"pt": "que vocês empurrem a porta",
+"nl": "dat jullie de deur openduwen"
+},
+"drécken\u0001subjunctive\u00013p": {
+"pt": "que eles empurrem a porta",
+"nl": "dat zij de deur openduwen"
+},
+"drecksen\u0001present\u00011s": {
+"pt": "Eu sujo o chão da cozinha com lama.",
+"nl": "Ik bevuil de keukenvloer met modder."
+},
+"drecksen\u0001present\u00012s": {
+"pt": "Tu sujas o chão da cozinha com lama.",
+"nl": "Jij bevuilt de keukenvloer met modder."
+},
+"drecksen\u0001present\u00013s": {
+"pt": "Ele suja o chão da cozinha com lama.",
+"nl": "Hij bevuilt de keukenvloer met modder."
+},
+"drecksen\u0001present\u00011p": {
+"pt": "Nós sujamos o chão da cozinha com lama.",
+"nl": "Wij bevuilen de keukenvloer met modder."
+},
+"drecksen\u0001present\u00012p": {
+"pt": "Vocês sujam o chão da cozinha com lama.",
+"nl": "Jullie bevuilen de keukenvloer met modder."
+},
+"drecksen\u0001present\u00013p": {
+"pt": "Eles sujam o chão da cozinha com lama.",
+"nl": "Zij bevuilen de keukenvloer met modder."
+},
+"drecksen\u0001perfect\u00011s": {
+"pt": "Eu sujei o chão da cozinha com lama.",
+"nl": "Ik heb de keukenvloer met modder bevuild."
+},
+"drecksen\u0001perfect\u00012s": {
+"pt": "Tu sujaste o chão da cozinha com lama.",
+"nl": "Jij hebt de keukenvloer met modder bevuild."
+},
+"drecksen\u0001perfect\u00013s": {
+"pt": "Ele sujou o chão da cozinha com lama.",
+"nl": "Hij heeft de keukenvloer met modder bevuild."
+},
+"drecksen\u0001perfect\u00011p": {
+"pt": "Nós sujámos o chão da cozinha com lama.",
+"nl": "Wij hebben de keukenvloer met modder bevuild."
+},
+"drecksen\u0001perfect\u00012p": {
+"pt": "Vocês sujaram o chão da cozinha com lama.",
+"nl": "Jullie hebben de keukenvloer met modder bevuild."
+},
+"drecksen\u0001perfect\u00013p": {
+"pt": "Eles sujaram o chão da cozinha com lama.",
+"nl": "Zij hebben de keukenvloer met modder bevuild."
+},
+"drecksen\u0001past\u00011s": {
+"pt": "Eu sujei o chão da cozinha com lama.",
+"nl": "Ik bevuilde de keukenvloer met modder."
+},
+"drecksen\u0001past\u00012s": {
+"pt": "Tu sujaste o chão da cozinha com lama.",
+"nl": "Jij bevuilde de keukenvloer met modder."
+},
+"drecksen\u0001past\u00013s": {
+"pt": "Ele sujou o chão da cozinha com lama.",
+"nl": "Hij bevuilde de keukenvloer met modder."
+},
+"drecksen\u0001past\u00011p": {
+"pt": "Nós sujámos o chão da cozinha com lama.",
+"nl": "Wij bevuilden de keukenvloer met modder."
+},
+"drecksen\u0001past\u00012p": {
+"pt": "Vocês sujaram o chão da cozinha com lama.",
+"nl": "Jullie bevuilden de keukenvloer met modder."
+},
+"drecksen\u0001past\u00013p": {
+"pt": "Eles sujaram o chão da cozinha com lama.",
+"nl": "Zij bevuilden de keukenvloer met modder."
+},
+"drecksen\u0001imperfect\u00011s": {
+"pt": "Eu estava a sujar o chão da cozinha com lama.",
+"nl": "Ik was de keukenvloer met modder aan het bevuilen."
+},
+"drecksen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a sujar o chão da cozinha com lama.",
+"nl": "Jij was de keukenvloer met modder aan het bevuilen."
+},
+"drecksen\u0001imperfect\u00013s": {
+"pt": "Ele estava a sujar o chão da cozinha com lama.",
+"nl": "Hij was de keukenvloer met modder aan het bevuilen."
+},
+"drecksen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a sujar o chão da cozinha com lama.",
+"nl": "Wij waren de keukenvloer met modder aan het bevuilen."
+},
+"drecksen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a sujar o chão da cozinha com lama.",
+"nl": "Jullie waren de keukenvloer met modder aan het bevuilen."
+},
+"drecksen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a sujar o chão da cozinha com lama.",
+"nl": "Zij waren de keukenvloer met modder aan het bevuilen."
+},
+"drecksen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha sujado o chão da cozinha com lama.",
+"nl": "Ik had de keukenvloer met modder bevuild."
+},
+"drecksen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas sujado o chão da cozinha com lama.",
+"nl": "Jij had de keukenvloer met modder bevuild."
+},
+"drecksen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha sujado o chão da cozinha com lama.",
+"nl": "Hij had de keukenvloer met modder bevuild."
+},
+"drecksen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos sujado o chão da cozinha com lama.",
+"nl": "Wij hadden de keukenvloer met modder bevuild."
+},
+"drecksen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham sujado o chão da cozinha com lama.",
+"nl": "Jullie hadden de keukenvloer met modder bevuild."
+},
+"drecksen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham sujado o chão da cozinha com lama.",
+"nl": "Zij hadden de keukenvloer met modder bevuild."
+},
+"drecksen\u0001future\u00011s": {
+"pt": "Eu sujarei o chão da cozinha com lama.",
+"nl": "Ik zal de keukenvloer met modder bevuilen."
+},
+"drecksen\u0001future\u00012s": {
+"pt": "Tu sujarás o chão da cozinha com lama.",
+"nl": "Jij zult de keukenvloer met modder bevuilen."
+},
+"drecksen\u0001future\u00013s": {
+"pt": "Ele sujará o chão da cozinha com lama.",
+"nl": "Hij zal de keukenvloer met modder bevuilen."
+},
+"drecksen\u0001future\u00011p": {
+"pt": "Nós sujaremos o chão da cozinha com lama.",
+"nl": "Wij zullen de keukenvloer met modder bevuilen."
+},
+"drecksen\u0001future\u00012p": {
+"pt": "Vocês sujarão o chão da cozinha com lama.",
+"nl": "Jullie zullen de keukenvloer met modder bevuilen."
+},
+"drecksen\u0001future\u00013p": {
+"pt": "Eles sujarão o chão da cozinha com lama.",
+"nl": "Zij zullen de keukenvloer met modder bevuilen."
+},
+"drecksen\u0001conditional\u00011s": {
+"pt": "Eu sujaria o chão da cozinha com lama.",
+"nl": "Ik zou de keukenvloer met modder bevuilen."
+},
+"drecksen\u0001conditional\u00012s": {
+"pt": "Tu sujarias o chão da cozinha com lama.",
+"nl": "Jij zou de keukenvloer met modder bevuilen."
+},
+"drecksen\u0001conditional\u00013s": {
+"pt": "Ele sujaria o chão da cozinha com lama.",
+"nl": "Hij zou de keukenvloer met modder bevuilen."
+},
+"drecksen\u0001conditional\u00011p": {
+"pt": "Nós sujaríamos o chão da cozinha com lama.",
+"nl": "Wij zouden de keukenvloer met modder bevuilen."
+},
+"drecksen\u0001conditional\u00012p": {
+"pt": "Vocês sujariam o chão da cozinha com lama.",
+"nl": "Jullie zouden de keukenvloer met modder bevuilen."
+},
+"drecksen\u0001conditional\u00013p": {
+"pt": "Eles sujariam o chão da cozinha com lama.",
+"nl": "Zij zouden de keukenvloer met modder bevuilen."
+},
+"drecksen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria sujado o chão da cozinha com lama.",
+"nl": "Ik zou de keukenvloer met modder hebben bevuild."
+},
+"drecksen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias sujado o chão da cozinha com lama.",
+"nl": "Jij zou de keukenvloer met modder hebben bevuild."
+},
+"drecksen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria sujado o chão da cozinha com lama.",
+"nl": "Hij zou de keukenvloer met modder hebben bevuild."
+},
+"drecksen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos sujado o chão da cozinha com lama.",
+"nl": "Wij zouden de keukenvloer met modder hebben bevuild."
+},
+"drecksen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam sujado o chão da cozinha com lama.",
+"nl": "Jullie zouden de keukenvloer met modder hebben bevuild."
+},
+"drecksen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam sujado o chão da cozinha com lama.",
+"nl": "Zij zouden de keukenvloer met modder hebben bevuild."
+},
+"drecksen\u0001subjunctive\u00011s": {
+"pt": "que eu suje o chão da cozinha com lama",
+"nl": "dat ik de keukenvloer met modder bevuil"
+},
+"drecksen\u0001subjunctive\u00012s": {
+"pt": "que tu sujes o chão da cozinha com lama",
+"nl": "dat jij de keukenvloer met modder bevuilt"
+},
+"drecksen\u0001subjunctive\u00013s": {
+"pt": "que ele suje o chão da cozinha com lama",
+"nl": "dat hij de keukenvloer met modder bevuilt"
+},
+"drecksen\u0001subjunctive\u00011p": {
+"pt": "que nós sujemos o chão da cozinha com lama",
+"nl": "dat wij de keukenvloer met modder bevuilen"
+},
+"drecksen\u0001subjunctive\u00012p": {
+"pt": "que vocês sujem o chão da cozinha com lama",
+"nl": "dat jullie de keukenvloer met modder bevuilen"
+},
+"drecksen\u0001subjunctive\u00013p": {
+"pt": "que eles sujem o chão da cozinha com lama",
+"nl": "dat zij de keukenvloer met modder bevuilen"
+},
+"dreeën\u0001present\u00011s": {
+"pt": "Eu ameaço o meu vizinho com um processo.",
+"nl": "Ik bedreig mijn buurman met een rechtszaak."
+},
+"dreeën\u0001present\u00012s": {
+"pt": "Tu ameaças o teu vizinho com um processo.",
+"nl": "Jij bedreigt jouw buurman met een rechtszaak."
+},
+"dreeën\u0001present\u00013s": {
+"pt": "Ele ameaça o seu vizinho com um processo.",
+"nl": "Hij bedreigt zijn buurman met een rechtszaak."
+},
+"dreeën\u0001present\u00011p": {
+"pt": "Nós ameaçamos o nosso vizinho com um processo.",
+"nl": "Wij bedreigen onze buurman met een rechtszaak."
+},
+"dreeën\u0001present\u00012p": {
+"pt": "Vocês ameaçam o vosso vizinho com um processo.",
+"nl": "Jullie bedreigen jullie buurman met een rechtszaak."
+},
+"dreeën\u0001present\u00013p": {
+"pt": "Eles ameaçam o seu vizinho com um processo.",
+"nl": "Zij bedreigen hun buurman met een rechtszaak."
+},
+"dreeën\u0001perfect\u00011s": {
+"pt": "Eu ameacei o meu vizinho com um processo.",
+"nl": "Ik heb mijn buurman met een rechtszaak bedreigd."
+},
+"dreeën\u0001perfect\u00012s": {
+"pt": "Tu ameaçaste o teu vizinho com um processo.",
+"nl": "Jij hebt jouw buurman met een rechtszaak bedreigd."
+},
+"dreeën\u0001perfect\u00013s": {
+"pt": "Ele ameaçou o seu vizinho com um processo.",
+"nl": "Hij heeft zijn buurman met een rechtszaak bedreigd."
+},
+"dreeën\u0001perfect\u00011p": {
+"pt": "Nós ameaçámos o nosso vizinho com um processo.",
+"nl": "Wij hebben onze buurman met een rechtszaak bedreigd."
+},
+"dreeën\u0001perfect\u00012p": {
+"pt": "Vocês ameaçaram o vosso vizinho com um processo.",
+"nl": "Jullie hebben jullie buurman met een rechtszaak bedreigd."
+},
+"dreeën\u0001perfect\u00013p": {
+"pt": "Eles ameaçaram o seu vizinho com um processo.",
+"nl": "Zij hebben hun buurman met een rechtszaak bedreigd."
+},
+"dreeën\u0001past\u00011s": {
+"pt": "Eu ameacei o meu vizinho com um processo.",
+"nl": "Ik bedreigde mijn buurman met een rechtszaak."
+},
+"dreeën\u0001past\u00012s": {
+"pt": "Tu ameaçaste o teu vizinho com um processo.",
+"nl": "Jij bedreigde jouw buurman met een rechtszaak."
+},
+"dreeën\u0001past\u00013s": {
+"pt": "Ele ameaçou o seu vizinho com um processo.",
+"nl": "Hij bedreigde zijn buurman met een rechtszaak."
+},
+"dreeën\u0001past\u00011p": {
+"pt": "Nós ameaçámos o nosso vizinho com um processo.",
+"nl": "Wij bedreigden onze buurman met een rechtszaak."
+},
+"dreeën\u0001past\u00012p": {
+"pt": "Vocês ameaçaram o vosso vizinho com um processo.",
+"nl": "Jullie bedreigden jullie buurman met een rechtszaak."
+},
+"dreeën\u0001past\u00013p": {
+"pt": "Eles ameaçaram o seu vizinho com um processo.",
+"nl": "Zij bedreigden hun buurman met een rechtszaak."
+},
+"dreeën\u0001imperfect\u00011s": {
+"pt": "Eu estava a ameaçar o meu vizinho com um processo.",
+"nl": "Ik was mijn buurman met een rechtszaak aan het bedreigen."
+},
+"dreeën\u0001imperfect\u00012s": {
+"pt": "Tu estavas a ameaçar o teu vizinho com um processo.",
+"nl": "Jij was jouw buurman met een rechtszaak aan het bedreigen."
+},
+"dreeën\u0001imperfect\u00013s": {
+"pt": "Ele estava a ameaçar o seu vizinho com um processo.",
+"nl": "Hij was zijn buurman met een rechtszaak aan het bedreigen."
+},
+"dreeën\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a ameaçar o nosso vizinho com um processo.",
+"nl": "Wij waren onze buurman met een rechtszaak aan het bedreigen."
+},
+"dreeën\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a ameaçar o vosso vizinho com um processo.",
+"nl": "Jullie waren jullie buurman met een rechtszaak aan het bedreigen."
+},
+"dreeën\u0001imperfect\u00013p": {
+"pt": "Eles estavam a ameaçar o seu vizinho com um processo.",
+"nl": "Zij waren hun buurman met een rechtszaak aan het bedreigen."
+},
+"dreeën\u0001pluperfect\u00011s": {
+"pt": "Eu tinha ameaçado o meu vizinho com um processo.",
+"nl": "Ik had mijn buurman met een rechtszaak bedreigd."
+},
+"dreeën\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas ameaçado o teu vizinho com um processo.",
+"nl": "Jij had jouw buurman met een rechtszaak bedreigd."
+},
+"dreeën\u0001pluperfect\u00013s": {
+"pt": "Ele tinha ameaçado o seu vizinho com um processo.",
+"nl": "Hij had zijn buurman met een rechtszaak bedreigd."
+},
+"dreeën\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos ameaçado o nosso vizinho com um processo.",
+"nl": "Wij hadden onze buurman met een rechtszaak bedreigd."
+},
+"dreeën\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham ameaçado o vosso vizinho com um processo.",
+"nl": "Jullie hadden jullie buurman met een rechtszaak bedreigd."
+},
+"dreeën\u0001pluperfect\u00013p": {
+"pt": "Eles tinham ameaçado o seu vizinho com um processo.",
+"nl": "Zij hadden hun buurman met een rechtszaak bedreigd."
+},
+"dreeën\u0001future\u00011s": {
+"pt": "Eu ameaçarei o meu vizinho com um processo.",
+"nl": "Ik zal mijn buurman met een rechtszaak bedreigen."
+},
+"dreeën\u0001future\u00012s": {
+"pt": "Tu ameaçarás o teu vizinho com um processo.",
+"nl": "Jij zult jouw buurman met een rechtszaak bedreigen."
+},
+"dreeën\u0001future\u00013s": {
+"pt": "Ele ameaçará o seu vizinho com um processo.",
+"nl": "Hij zal zijn buurman met een rechtszaak bedreigen."
+},
+"dreeën\u0001future\u00011p": {
+"pt": "Nós ameaçaremos o nosso vizinho com um processo.",
+"nl": "Wij zullen onze buurman met een rechtszaak bedreigen."
+},
+"dreeën\u0001future\u00012p": {
+"pt": "Vocês ameaçarão o vosso vizinho com um processo.",
+"nl": "Jullie zullen jullie buurman met een rechtszaak bedreigen."
+},
+"dreeën\u0001future\u00013p": {
+"pt": "Eles ameaçarão o seu vizinho com um processo.",
+"nl": "Zij zullen hun buurman met een rechtszaak bedreigen."
+},
+"dreeën\u0001conditional\u00011s": {
+"pt": "Eu ameaçaria o meu vizinho com um processo.",
+"nl": "Ik zou mijn buurman met een rechtszaak bedreigen."
+},
+"dreeën\u0001conditional\u00012s": {
+"pt": "Tu ameaçarias o teu vizinho com um processo.",
+"nl": "Jij zou jouw buurman met een rechtszaak bedreigen."
+},
+"dreeën\u0001conditional\u00013s": {
+"pt": "Ele ameaçaria o seu vizinho com um processo.",
+"nl": "Hij zou zijn buurman met een rechtszaak bedreigen."
+},
+"dreeën\u0001conditional\u00011p": {
+"pt": "Nós ameaçaríamos o nosso vizinho com um processo.",
+"nl": "Wij zouden onze buurman met een rechtszaak bedreigen."
+},
+"dreeën\u0001conditional\u00012p": {
+"pt": "Vocês ameaçariam o vosso vizinho com um processo.",
+"nl": "Jullie zouden jullie buurman met een rechtszaak bedreigen."
+},
+"dreeën\u0001conditional\u00013p": {
+"pt": "Eles ameaçariam o seu vizinho com um processo.",
+"nl": "Zij zouden hun buurman met een rechtszaak bedreigen."
+},
+"dreeën\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria ameaçado o meu vizinho com um processo.",
+"nl": "Ik zou mijn buurman met een rechtszaak hebben bedreigd."
+},
+"dreeën\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias ameaçado o teu vizinho com um processo.",
+"nl": "Jij zou jouw buurman met een rechtszaak hebben bedreigd."
+},
+"dreeën\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria ameaçado o seu vizinho com um processo.",
+"nl": "Hij zou zijn buurman met een rechtszaak hebben bedreigd."
+},
+"dreeën\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos ameaçado o nosso vizinho com um processo.",
+"nl": "Wij zouden onze buurman met een rechtszaak hebben bedreigd."
+},
+"dreeën\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam ameaçado o vosso vizinho com um processo.",
+"nl": "Jullie zouden jullie buurman met een rechtszaak hebben bedreigd."
+},
+"dreeën\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam ameaçado o seu vizinho com um processo.",
+"nl": "Zij zouden hun buurman met een rechtszaak hebben bedreigd."
+},
+"dreeën\u0001subjunctive\u00011s": {
+"pt": "que eu ameace o meu vizinho com um processo",
+"nl": "dat ik mijn buurman met een rechtszaak bedreig"
+},
+"dreeën\u0001subjunctive\u00012s": {
+"pt": "que tu ameaces o teu vizinho com um processo",
+"nl": "dat jij jouw buurman met een rechtszaak bedreigt"
+},
+"dreeën\u0001subjunctive\u00013s": {
+"pt": "que ele ameace o seu vizinho com um processo",
+"nl": "dat hij zijn buurman met een rechtszaak bedreigt"
+},
+"dreeën\u0001subjunctive\u00011p": {
+"pt": "que nós ameacemos o nosso vizinho com um processo",
+"nl": "dat wij onze buurman met een rechtszaak bedreigen"
+},
+"dreeën\u0001subjunctive\u00012p": {
+"pt": "que vocês ameacem o vosso vizinho com um processo",
+"nl": "dat jullie jullie buurman met een rechtszaak bedreigen"
+},
+"dreeën\u0001subjunctive\u00013p": {
+"pt": "que eles ameacem o seu vizinho com um processo",
+"nl": "dat zij hun buurman met een rechtszaak bedreigen"
+},
+"dreemen\u0001present\u00011s": {
+"pt": "Eu sonho com o mar todas as noites.",
+"nl": "Ik droom elke nacht van de zee."
+},
+"dreemen\u0001present\u00012s": {
+"pt": "Tu sonhas com o mar todas as noites.",
+"nl": "Jij droomt elke nacht van de zee."
+},
+"dreemen\u0001present\u00013s": {
+"pt": "Ele sonha com o mar todas as noites.",
+"nl": "Hij droomt elke nacht van de zee."
+},
+"dreemen\u0001present\u00011p": {
+"pt": "Nós sonhamos com o mar todas as noites.",
+"nl": "Wij dromen elke nacht van de zee."
+},
+"dreemen\u0001present\u00012p": {
+"pt": "Vocês sonham com o mar todas as noites.",
+"nl": "Jullie dromen elke nacht van de zee."
+},
+"dreemen\u0001present\u00013p": {
+"pt": "Eles sonham com o mar todas as noites.",
+"nl": "Zij dromen elke nacht van de zee."
+},
+"dreemen\u0001perfect\u00011s": {
+"pt": "Eu sonhei com o mar esta noite.",
+"nl": "Ik heb vannacht van de zee gedroomd."
+},
+"dreemen\u0001perfect\u00012s": {
+"pt": "Tu sonhaste com o mar esta noite.",
+"nl": "Jij hebt vannacht van de zee gedroomd."
+},
+"dreemen\u0001perfect\u00013s": {
+"pt": "Ele sonhou com o mar esta noite.",
+"nl": "Hij heeft vannacht van de zee gedroomd."
+},
+"dreemen\u0001perfect\u00011p": {
+"pt": "Nós sonhámos com o mar esta noite.",
+"nl": "Wij hebben vannacht van de zee gedroomd."
+},
+"dreemen\u0001perfect\u00012p": {
+"pt": "Vocês sonharam com o mar esta noite.",
+"nl": "Jullie hebben vannacht van de zee gedroomd."
+},
+"dreemen\u0001perfect\u00013p": {
+"pt": "Eles sonharam com o mar esta noite.",
+"nl": "Zij hebben vannacht van de zee gedroomd."
+},
+"dreemen\u0001past\u00011s": {
+"pt": "Eu sonhei com o mar ontem.",
+"nl": "Ik droomde gisteren van de zee."
+},
+"dreemen\u0001past\u00012s": {
+"pt": "Tu sonhaste com o mar ontem.",
+"nl": "Jij droomde gisteren van de zee."
+},
+"dreemen\u0001past\u00013s": {
+"pt": "Ele sonhou com o mar ontem.",
+"nl": "Hij droomde gisteren van de zee."
+},
+"dreemen\u0001past\u00011p": {
+"pt": "Nós sonhámos com o mar ontem.",
+"nl": "Wij droomden gisteren van de zee."
+},
+"dreemen\u0001past\u00012p": {
+"pt": "Vocês sonharam com o mar ontem.",
+"nl": "Jullie droomden gisteren van de zee."
+},
+"dreemen\u0001past\u00013p": {
+"pt": "Eles sonharam com o mar ontem.",
+"nl": "Zij droomden gisteren van de zee."
+},
+"dreemen\u0001imperfect\u00011s": {
+"pt": "Em criança, eu costumava sonhar com o mar.",
+"nl": "Als kind droomde ik altijd van de zee."
+},
+"dreemen\u0001imperfect\u00012s": {
+"pt": "Em criança, tu costumavas sonhar com o mar.",
+"nl": "Als kind droomde jij altijd van de zee."
+},
+"dreemen\u0001imperfect\u00013s": {
+"pt": "Em criança, ele costumava sonhar com o mar.",
+"nl": "Als kind droomde hij altijd van de zee."
+},
+"dreemen\u0001imperfect\u00011p": {
+"pt": "Em criança, nós costumávamos sonhar com o mar.",
+"nl": "Als kind droomden wij altijd van de zee."
+},
+"dreemen\u0001imperfect\u00012p": {
+"pt": "Em criança, vocês costumavam sonhar com o mar.",
+"nl": "Als kind droomden jullie altijd van de zee."
+},
+"dreemen\u0001imperfect\u00013p": {
+"pt": "Em criança, eles costumavam sonhar com o mar.",
+"nl": "Als kind droomden zij altijd van de zee."
+},
+"dreemen\u0001pluperfect\u00011s": {
+"pt": "Eu já tinha sonhado com o mar antes.",
+"nl": "Ik had al eerder van de zee gedroomd."
+},
+"dreemen\u0001pluperfect\u00012s": {
+"pt": "Tu já tinhas sonhado com o mar antes.",
+"nl": "Jij had al eerder van de zee gedroomd."
+},
+"dreemen\u0001pluperfect\u00013s": {
+"pt": "Ele já tinha sonhado com o mar antes.",
+"nl": "Hij had al eerder van de zee gedroomd."
+},
+"dreemen\u0001pluperfect\u00011p": {
+"pt": "Nós já tínhamos sonhado com o mar antes.",
+"nl": "Wij hadden al eerder van de zee gedroomd."
+},
+"dreemen\u0001pluperfect\u00012p": {
+"pt": "Vocês já tinham sonhado com o mar antes.",
+"nl": "Jullie hadden al eerder van de zee gedroomd."
+},
+"dreemen\u0001pluperfect\u00013p": {
+"pt": "Eles já tinham sonhado com o mar antes.",
+"nl": "Zij hadden al eerder van de zee gedroomd."
+},
+"dreemen\u0001future\u00011s": {
+"pt": "Eu sonharei com o mar amanhã.",
+"nl": "Morgen zal ik van de zee dromen."
+},
+"dreemen\u0001future\u00012s": {
+"pt": "Tu sonharás com o mar amanhã.",
+"nl": "Morgen zult jij van de zee dromen."
+},
+"dreemen\u0001future\u00013s": {
+"pt": "Ele sonhará com o mar amanhã.",
+"nl": "Morgen zal hij van de zee dromen."
+},
+"dreemen\u0001future\u00011p": {
+"pt": "Nós sonharemos com o mar amanhã.",
+"nl": "Morgen zullen wij van de zee dromen."
+},
+"dreemen\u0001future\u00012p": {
+"pt": "Vocês sonharão com o mar amanhã.",
+"nl": "Morgen zullen jullie van de zee dromen."
+},
+"dreemen\u0001future\u00013p": {
+"pt": "Eles sonharão com o mar amanhã.",
+"nl": "Morgen zullen zij van de zee dromen."
+},
+"dreemen\u0001conditional\u00011s": {
+"pt": "Eu gostaria de sonhar com o mar.",
+"nl": "Ik zou graag van de zee dromen."
+},
+"dreemen\u0001conditional\u00012s": {
+"pt": "Tu gostarias de sonhar com o mar.",
+"nl": "Jij zou graag van de zee dromen."
+},
+"dreemen\u0001conditional\u00013s": {
+"pt": "Ele gostaria de sonhar com o mar.",
+"nl": "Hij zou graag van de zee dromen."
+},
+"dreemen\u0001conditional\u00011p": {
+"pt": "Nós gostaríamos de sonhar com o mar.",
+"nl": "Wij zouden graag van de zee dromen."
+},
+"dreemen\u0001conditional\u00012p": {
+"pt": "Vocês gostariam de sonhar com o mar.",
+"nl": "Jullie zouden graag van de zee dromen."
+},
+"dreemen\u0001conditional\u00013p": {
+"pt": "Eles gostariam de sonhar com o mar.",
+"nl": "Zij zouden graag van de zee dromen."
+},
+"dreemen\u0001conditional_perfect\u00011s": {
+"pt": "Eu gostaria de ter sonhado com o mar.",
+"nl": "Ik zou graag van de zee hebben gedroomd."
+},
+"dreemen\u0001conditional_perfect\u00012s": {
+"pt": "Tu gostarias de ter sonhado com o mar.",
+"nl": "Jij zou graag van de zee hebben gedroomd."
+},
+"dreemen\u0001conditional_perfect\u00013s": {
+"pt": "Ele gostaria de ter sonhado com o mar.",
+"nl": "Hij zou graag van de zee hebben gedroomd."
+},
+"dreemen\u0001conditional_perfect\u00011p": {
+"pt": "Nós gostaríamos de ter sonhado com o mar.",
+"nl": "Wij zouden graag van de zee hebben gedroomd."
+},
+"dreemen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês gostariam de ter sonhado com o mar.",
+"nl": "Jullie zouden graag van de zee hebben gedroomd."
+},
+"dreemen\u0001conditional_perfect\u00013p": {
+"pt": "Eles gostariam de ter sonhado com o mar.",
+"nl": "Zij zouden graag van de zee hebben gedroomd."
+},
+"dreemen\u0001subjunctive\u00011s": {
+"pt": "É bom que eu sonhe com o mar.",
+"nl": "Het is fijn dat ik van de zee droom."
+},
+"dreemen\u0001subjunctive\u00012s": {
+"pt": "É bom que tu sonhes com o mar.",
+"nl": "Het is fijn dat jij van de zee droomt."
+},
+"dreemen\u0001subjunctive\u00013s": {
+"pt": "É bom que ele sonhe com o mar.",
+"nl": "Het is fijn dat hij van de zee droomt."
+},
+"dreemen\u0001subjunctive\u00011p": {
+"pt": "É bom que nós sonhemos com o mar.",
+"nl": "Het is fijn dat wij van de zee dromen."
+},
+"dreemen\u0001subjunctive\u00012p": {
+"pt": "É bom que vocês sonhem com o mar.",
+"nl": "Het is fijn dat jullie van de zee dromen."
+},
+"dreemen\u0001subjunctive\u00013p": {
+"pt": "É bom que eles sonhem com o mar.",
+"nl": "Het is fijn dat zij van de zee dromen."
+},
+"dréien\u0001present\u00011s": {
+"pt": "Eu rodo a chave na fechadura.",
+"nl": "Ik draai de sleutel in het slot."
+},
+"dréien\u0001present\u00012s": {
+"pt": "Tu rodas a chave na fechadura.",
+"nl": "Jij draait de sleutel in het slot."
+},
+"dréien\u0001present\u00013s": {
+"pt": "Ele roda a chave na fechadura.",
+"nl": "Hij draait de sleutel in het slot."
+},
+"dréien\u0001present\u00011p": {
+"pt": "Nós rodamos a chave na fechadura.",
+"nl": "Wij draaien de sleutel in het slot."
+},
+"dréien\u0001present\u00012p": {
+"pt": "Vocês rodam a chave na fechadura.",
+"nl": "Jullie draaien de sleutel in het slot."
+},
+"dréien\u0001present\u00013p": {
+"pt": "Eles rodam a chave na fechadura.",
+"nl": "Zij draaien de sleutel in het slot."
+},
+"dréien\u0001perfect\u00011s": {
+"pt": "Eu rodei a chave na fechadura.",
+"nl": "Ik heb de sleutel in het slot gedraaid."
+},
+"dréien\u0001perfect\u00012s": {
+"pt": "Tu rodaste a chave na fechadura.",
+"nl": "Jij hebt de sleutel in het slot gedraaid."
+},
+"dréien\u0001perfect\u00013s": {
+"pt": "Ele rodou a chave na fechadura.",
+"nl": "Hij heeft de sleutel in het slot gedraaid."
+},
+"dréien\u0001perfect\u00011p": {
+"pt": "Nós rodámos a chave na fechadura.",
+"nl": "Wij hebben de sleutel in het slot gedraaid."
+},
+"dréien\u0001perfect\u00012p": {
+"pt": "Vocês rodaram a chave na fechadura.",
+"nl": "Jullie hebben de sleutel in het slot gedraaid."
+},
+"dréien\u0001perfect\u00013p": {
+"pt": "Eles rodaram a chave na fechadura.",
+"nl": "Zij hebben de sleutel in het slot gedraaid."
+},
+"dréien\u0001past\u00011s": {
+"pt": "Eu rodei a chave na fechadura.",
+"nl": "Ik draaide de sleutel in het slot."
+},
+"dréien\u0001past\u00012s": {
+"pt": "Tu rodaste a chave na fechadura.",
+"nl": "Jij draaide de sleutel in het slot."
+},
+"dréien\u0001past\u00013s": {
+"pt": "Ele rodou a chave na fechadura.",
+"nl": "Hij draaide de sleutel in het slot."
+},
+"dréien\u0001past\u00011p": {
+"pt": "Nós rodámos a chave na fechadura.",
+"nl": "Wij draaiden de sleutel in het slot."
+},
+"dréien\u0001past\u00012p": {
+"pt": "Vocês rodaram a chave na fechadura.",
+"nl": "Jullie draaiden de sleutel in het slot."
+},
+"dréien\u0001past\u00013p": {
+"pt": "Eles rodaram a chave na fechadura.",
+"nl": "Zij draaiden de sleutel in het slot."
+},
+"dréien\u0001imperfect\u00011s": {
+"pt": "Eu estava a rodar a chave na fechadura.",
+"nl": "Ik was de sleutel in het slot aan het draaien."
+},
+"dréien\u0001imperfect\u00012s": {
+"pt": "Tu estavas a rodar a chave na fechadura.",
+"nl": "Jij was de sleutel in het slot aan het draaien."
+},
+"dréien\u0001imperfect\u00013s": {
+"pt": "Ele estava a rodar a chave na fechadura.",
+"nl": "Hij was de sleutel in het slot aan het draaien."
+},
+"dréien\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a rodar a chave na fechadura.",
+"nl": "Wij waren de sleutel in het slot aan het draaien."
+},
+"dréien\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a rodar a chave na fechadura.",
+"nl": "Jullie waren de sleutel in het slot aan het draaien."
+},
+"dréien\u0001imperfect\u00013p": {
+"pt": "Eles estavam a rodar a chave na fechadura.",
+"nl": "Zij waren de sleutel in het slot aan het draaien."
+},
+"dréien\u0001pluperfect\u00011s": {
+"pt": "Eu tinha rodado a chave na fechadura.",
+"nl": "Ik had de sleutel in het slot gedraaid."
+},
+"dréien\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas rodado a chave na fechadura.",
+"nl": "Jij had de sleutel in het slot gedraaid."
+},
+"dréien\u0001pluperfect\u00013s": {
+"pt": "Ele tinha rodado a chave na fechadura.",
+"nl": "Hij had de sleutel in het slot gedraaid."
+},
+"dréien\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos rodado a chave na fechadura.",
+"nl": "Wij hadden de sleutel in het slot gedraaid."
+},
+"dréien\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham rodado a chave na fechadura.",
+"nl": "Jullie hadden de sleutel in het slot gedraaid."
+},
+"dréien\u0001pluperfect\u00013p": {
+"pt": "Eles tinham rodado a chave na fechadura.",
+"nl": "Zij hadden de sleutel in het slot gedraaid."
+},
+"dréien\u0001future\u00011s": {
+"pt": "Eu rodarei a chave na fechadura.",
+"nl": "Ik zal de sleutel in het slot draaien."
+},
+"dréien\u0001future\u00012s": {
+"pt": "Tu rodarás a chave na fechadura.",
+"nl": "Jij zult de sleutel in het slot draaien."
+},
+"dréien\u0001future\u00013s": {
+"pt": "Ele rodará a chave na fechadura.",
+"nl": "Hij zal de sleutel in het slot draaien."
+},
+"dréien\u0001future\u00011p": {
+"pt": "Nós rodaremos a chave na fechadura.",
+"nl": "Wij zullen de sleutel in het slot draaien."
+},
+"dréien\u0001future\u00012p": {
+"pt": "Vocês rodarão a chave na fechadura.",
+"nl": "Jullie zullen de sleutel in het slot draaien."
+},
+"dréien\u0001future\u00013p": {
+"pt": "Eles rodarão a chave na fechadura.",
+"nl": "Zij zullen de sleutel in het slot draaien."
+},
+"dréien\u0001conditional\u00011s": {
+"pt": "Eu rodaria a chave na fechadura.",
+"nl": "Ik zou de sleutel in het slot draaien."
+},
+"dréien\u0001conditional\u00012s": {
+"pt": "Tu rodarias a chave na fechadura.",
+"nl": "Jij zou de sleutel in het slot draaien."
+},
+"dréien\u0001conditional\u00013s": {
+"pt": "Ele rodaria a chave na fechadura.",
+"nl": "Hij zou de sleutel in het slot draaien."
+},
+"dréien\u0001conditional\u00011p": {
+"pt": "Nós rodaríamos a chave na fechadura.",
+"nl": "Wij zouden de sleutel in het slot draaien."
+},
+"dréien\u0001conditional\u00012p": {
+"pt": "Vocês rodariam a chave na fechadura.",
+"nl": "Jullie zouden de sleutel in het slot draaien."
+},
+"dréien\u0001conditional\u00013p": {
+"pt": "Eles rodariam a chave na fechadura.",
+"nl": "Zij zouden de sleutel in het slot draaien."
+},
+"dréien\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria rodado a chave na fechadura.",
+"nl": "Ik zou de sleutel in het slot hebben gedraaid."
+},
+"dréien\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias rodado a chave na fechadura.",
+"nl": "Jij zou de sleutel in het slot hebben gedraaid."
+},
+"dréien\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria rodado a chave na fechadura.",
+"nl": "Hij zou de sleutel in het slot hebben gedraaid."
+},
+"dréien\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos rodado a chave na fechadura.",
+"nl": "Wij zouden de sleutel in het slot hebben gedraaid."
+},
+"dréien\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam rodado a chave na fechadura.",
+"nl": "Jullie zouden de sleutel in het slot hebben gedraaid."
+},
+"dréien\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam rodado a chave na fechadura.",
+"nl": "Zij zouden de sleutel in het slot hebben gedraaid."
+},
+"dréien\u0001subjunctive\u00011s": {
+"pt": "que eu rode a chave na fechadura",
+"nl": "dat ik de sleutel in het slot draai"
+},
+"dréien\u0001subjunctive\u00012s": {
+"pt": "que tu rodes a chave na fechadura",
+"nl": "dat jij de sleutel in het slot draait"
+},
+"dréien\u0001subjunctive\u00013s": {
+"pt": "que ele rode a chave na fechadura",
+"nl": "dat hij de sleutel in het slot draait"
+},
+"dréien\u0001subjunctive\u00011p": {
+"pt": "que nós rodemos a chave na fechadura",
+"nl": "dat wij de sleutel in het slot draaien"
+},
+"dréien\u0001subjunctive\u00012p": {
+"pt": "que vocês rodem a chave na fechadura",
+"nl": "dat jullie de sleutel in het slot draaien"
+},
+"dréien\u0001subjunctive\u00013p": {
+"pt": "que eles rodem a chave na fechadura",
+"nl": "dat zij de sleutel in het slot draaien"
+},
+"dreiwen\u0001present\u00011s": {
+"pt": "Eu conduzo as vacas ao pasto.",
+"nl": "Ik drijf de koeien naar de weide."
+},
+"dreiwen\u0001present\u00012s": {
+"pt": "Tu conduzes as vacas ao pasto.",
+"nl": "Jij drijft de koeien naar de weide."
+},
+"dreiwen\u0001present\u00013s": {
+"pt": "Ele conduze as vacas ao pasto.",
+"nl": "Hij drijft de koeien naar de weide."
+},
+"dreiwen\u0001present\u00011p": {
+"pt": "Nós conduzimos as vacas ao pasto.",
+"nl": "Wij drijven de koeien naar de weide."
+},
+"dreiwen\u0001present\u00012p": {
+"pt": "Vocês conduzem as vacas ao pasto.",
+"nl": "Jullie drijven de koeien naar de weide."
+},
+"dreiwen\u0001present\u00013p": {
+"pt": "Eles conduzem as vacas ao pasto.",
+"nl": "Zij drijven de koeien naar de weide."
+},
+"dreiwen\u0001perfect\u00011s": {
+"pt": "Eu conduzi as vacas ao pasto.",
+"nl": "Ik heb de koeien naar de weide gedreven."
+},
+"dreiwen\u0001perfect\u00012s": {
+"pt": "Tu conduziste as vacas ao pasto.",
+"nl": "Jij hebt de koeien naar de weide gedreven."
+},
+"dreiwen\u0001perfect\u00013s": {
+"pt": "Ele conduziu as vacas ao pasto.",
+"nl": "Hij heeft de koeien naar de weide gedreven."
+},
+"dreiwen\u0001perfect\u00011p": {
+"pt": "Nós conduzimos as vacas ao pasto.",
+"nl": "Wij hebben de koeien naar de weide gedreven."
+},
+"dreiwen\u0001perfect\u00012p": {
+"pt": "Vocês conduziram as vacas ao pasto.",
+"nl": "Jullie hebben de koeien naar de weide gedreven."
+},
+"dreiwen\u0001perfect\u00013p": {
+"pt": "Eles conduziram as vacas ao pasto.",
+"nl": "Zij hebben de koeien naar de weide gedreven."
+},
+"dreiwen\u0001past\u00011s": {
+"pt": "Eu conduzi as vacas ao pasto ontem.",
+"nl": "Ik dreef de koeien naar de weide gisteren."
+},
+"dreiwen\u0001past\u00012s": {
+"pt": "Tu conduziste as vacas ao pasto ontem.",
+"nl": "Jij dreef de koeien naar de weide gisteren."
+},
+"dreiwen\u0001past\u00013s": {
+"pt": "Ele conduziu as vacas ao pasto ontem.",
+"nl": "Hij dreef de koeien naar de weide gisteren."
+},
+"dreiwen\u0001past\u00011p": {
+"pt": "Nós conduzimos as vacas ao pasto ontem.",
+"nl": "Wij dreven de koeien naar de weide gisteren."
+},
+"dreiwen\u0001past\u00012p": {
+"pt": "Vocês conduziram as vacas ao pasto ontem.",
+"nl": "Jullie dreven de koeien naar de weide gisteren."
+},
+"dreiwen\u0001past\u00013p": {
+"pt": "Eles conduziram as vacas ao pasto ontem.",
+"nl": "Zij dreven de koeien naar de weide gisteren."
+},
+"dreiwen\u0001imperfect\u00011s": {
+"pt": "Eu estava a conduzir as vacas ao pasto.",
+"nl": "Ik was de koeien naar de weide aan het drijven."
+},
+"dreiwen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a conduzir as vacas ao pasto.",
+"nl": "Jij was de koeien naar de weide aan het drijven."
+},
+"dreiwen\u0001imperfect\u00013s": {
+"pt": "Ele estava a conduzir as vacas ao pasto.",
+"nl": "Hij was de koeien naar de weide aan het drijven."
+},
+"dreiwen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a conduzir as vacas ao pasto.",
+"nl": "Wij waren de koeien naar de weide aan het drijven."
+},
+"dreiwen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a conduzir as vacas ao pasto.",
+"nl": "Jullie waren de koeien naar de weide aan het drijven."
+},
+"dreiwen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a conduzir as vacas ao pasto.",
+"nl": "Zij waren de koeien naar de weide aan het drijven."
+},
+"dreiwen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha conduzido as vacas ao pasto.",
+"nl": "Ik had de koeien naar de weide gedreven."
+},
+"dreiwen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas conduzido as vacas ao pasto.",
+"nl": "Jij had de koeien naar de weide gedreven."
+},
+"dreiwen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha conduzido as vacas ao pasto.",
+"nl": "Hij had de koeien naar de weide gedreven."
+},
+"dreiwen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos conduzido as vacas ao pasto.",
+"nl": "Wij hadden de koeien naar de weide gedreven."
+},
+"dreiwen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham conduzido as vacas ao pasto.",
+"nl": "Jullie hadden de koeien naar de weide gedreven."
+},
+"dreiwen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham conduzido as vacas ao pasto.",
+"nl": "Zij hadden de koeien naar de weide gedreven."
+},
+"dreiwen\u0001future\u00011s": {
+"pt": "Eu conduzirei as vacas ao pasto.",
+"nl": "Ik zal de koeien naar de weide drijven."
+},
+"dreiwen\u0001future\u00012s": {
+"pt": "Tu conduzirás as vacas ao pasto.",
+"nl": "Jij zult de koeien naar de weide drijven."
+},
+"dreiwen\u0001future\u00013s": {
+"pt": "Ele conduzirá as vacas ao pasto.",
+"nl": "Hij zal de koeien naar de weide drijven."
+},
+"dreiwen\u0001future\u00011p": {
+"pt": "Nós conduziremos as vacas ao pasto.",
+"nl": "Wij zullen de koeien naar de weide drijven."
+},
+"dreiwen\u0001future\u00012p": {
+"pt": "Vocês conduzirão as vacas ao pasto.",
+"nl": "Jullie zullen de koeien naar de weide drijven."
+},
+"dreiwen\u0001future\u00013p": {
+"pt": "Eles conduzirão as vacas ao pasto.",
+"nl": "Zij zullen de koeien naar de weide drijven."
+},
+"dreiwen\u0001conditional\u00011s": {
+"pt": "Eu conduziria as vacas ao pasto.",
+"nl": "Ik zou de koeien naar de weide drijven."
+},
+"dreiwen\u0001conditional\u00012s": {
+"pt": "Tu conduzirias as vacas ao pasto.",
+"nl": "Jij zou de koeien naar de weide drijven."
+},
+"dreiwen\u0001conditional\u00013s": {
+"pt": "Ele conduziria as vacas ao pasto.",
+"nl": "Hij zou de koeien naar de weide drijven."
+},
+"dreiwen\u0001conditional\u00011p": {
+"pt": "Nós conduziríamos as vacas ao pasto.",
+"nl": "Wij zouden de koeien naar de weide drijven."
+},
+"dreiwen\u0001conditional\u00012p": {
+"pt": "Vocês conduziriam as vacas ao pasto.",
+"nl": "Jullie zouden de koeien naar de weide drijven."
+},
+"dreiwen\u0001conditional\u00013p": {
+"pt": "Eles conduziriam as vacas ao pasto.",
+"nl": "Zij zouden de koeien naar de weide drijven."
+},
+"dreiwen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria conduzido as vacas ao pasto.",
+"nl": "Ik zou de koeien naar de weide hebben gedreven."
+},
+"dreiwen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias conduzido as vacas ao pasto.",
+"nl": "Jij zou de koeien naar de weide hebben gedreven."
+},
+"dreiwen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria conduzido as vacas ao pasto.",
+"nl": "Hij zou de koeien naar de weide hebben gedreven."
+},
+"dreiwen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos conduzido as vacas ao pasto.",
+"nl": "Wij zouden de koeien naar de weide hebben gedreven."
+},
+"dreiwen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam conduzido as vacas ao pasto.",
+"nl": "Jullie zouden de koeien naar de weide hebben gedreven."
+},
+"dreiwen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam conduzido as vacas ao pasto.",
+"nl": "Zij zouden de koeien naar de weide hebben gedreven."
+},
+"dreiwen\u0001subjunctive\u00011s": {
+"pt": "que eu conduza as vacas ao pasto",
+"nl": "dat ik de koeien naar de weide drijf"
+},
+"dreiwen\u0001subjunctive\u00012s": {
+"pt": "que tu conduzas as vacas ao pasto",
+"nl": "dat jij de koeien naar de weide drijft"
+},
+"dreiwen\u0001subjunctive\u00013s": {
+"pt": "que ele conduza as vacas ao pasto",
+"nl": "dat hij de koeien naar de weide drijft"
+},
+"dreiwen\u0001subjunctive\u00011p": {
+"pt": "que nós conduzamos as vacas ao pasto",
+"nl": "dat wij de koeien naar de weide drijven"
+},
+"dreiwen\u0001subjunctive\u00012p": {
+"pt": "que vocês conduzam as vacas ao pasto",
+"nl": "dat jullie de koeien naar de weide drijven"
+},
+"dreiwen\u0001subjunctive\u00013p": {
+"pt": "que eles conduzam as vacas ao pasto",
+"nl": "dat zij de koeien naar de weide drijven"
+},
+"drénken\u0001present\u00011s": {
+"pt": "Eu bebo um copo de água.",
+"nl": "Ik drink een glas water."
+},
+"drénken\u0001present\u00012s": {
+"pt": "Tu bebes um copo de água.",
+"nl": "Jij drinkt een glas water."
+},
+"drénken\u0001present\u00013s": {
+"pt": "Ele bebe um copo de água.",
+"nl": "Hij drinkt een glas water."
+},
+"drénken\u0001present\u00011p": {
+"pt": "Nós bebemos um copo de água.",
+"nl": "Wij drinken een glas water."
+},
+"drénken\u0001present\u00012p": {
+"pt": "Vocês bebem um copo de água.",
+"nl": "Jullie drinken een glas water."
+},
+"drénken\u0001present\u00013p": {
+"pt": "Eles bebem um copo de água.",
+"nl": "Zij drinken een glas water."
+},
+"drénken\u0001perfect\u00011s": {
+"pt": "Eu bebi um copo de água.",
+"nl": "Ik heb een glas water gedronken."
+},
+"drénken\u0001perfect\u00012s": {
+"pt": "Tu bebeste um copo de água.",
+"nl": "Jij hebt een glas water gedronken."
+},
+"drénken\u0001perfect\u00013s": {
+"pt": "Ele bebeu um copo de água.",
+"nl": "Hij heeft een glas water gedronken."
+},
+"drénken\u0001perfect\u00011p": {
+"pt": "Nós bebemos um copo de água.",
+"nl": "Wij hebben een glas water gedronken."
+},
+"drénken\u0001perfect\u00012p": {
+"pt": "Vocês beberam um copo de água.",
+"nl": "Jullie hebben een glas water gedronken."
+},
+"drénken\u0001perfect\u00013p": {
+"pt": "Eles beberam um copo de água.",
+"nl": "Zij hebben een glas water gedronken."
+},
+"drénken\u0001past\u00011s": {
+"pt": "Eu bebi um copo de água.",
+"nl": "Ik dronk een glas water."
+},
+"drénken\u0001past\u00012s": {
+"pt": "Tu bebeste um copo de água.",
+"nl": "Jij dronk een glas water."
+},
+"drénken\u0001past\u00013s": {
+"pt": "Ele bebeu um copo de água.",
+"nl": "Hij dronk een glas water."
+},
+"drénken\u0001past\u00011p": {
+"pt": "Nós bebemos um copo de água.",
+"nl": "Wij dronken een glas water."
+},
+"drénken\u0001past\u00012p": {
+"pt": "Vocês beberam um copo de água.",
+"nl": "Jullie dronken een glas water."
+},
+"drénken\u0001past\u00013p": {
+"pt": "Eles beberam um copo de água.",
+"nl": "Zij dronken een glas water."
+},
+"drénken\u0001imperfect\u00011s": {
+"pt": "Eu estava a beber um copo de água.",
+"nl": "Ik was een glas water aan het drinken."
+},
+"drénken\u0001imperfect\u00012s": {
+"pt": "Tu estavas a beber um copo de água.",
+"nl": "Jij was een glas water aan het drinken."
+},
+"drénken\u0001imperfect\u00013s": {
+"pt": "Ele estava a beber um copo de água.",
+"nl": "Hij was een glas water aan het drinken."
+},
+"drénken\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a beber um copo de água.",
+"nl": "Wij waren een glas water aan het drinken."
+},
+"drénken\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a beber um copo de água.",
+"nl": "Jullie waren een glas water aan het drinken."
+},
+"drénken\u0001imperfect\u00013p": {
+"pt": "Eles estavam a beber um copo de água.",
+"nl": "Zij waren een glas water aan het drinken."
+},
+"drénken\u0001pluperfect\u00011s": {
+"pt": "Eu tinha bebido um copo de água.",
+"nl": "Ik had een glas water gedronken."
+},
+"drénken\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas bebido um copo de água.",
+"nl": "Jij had een glas water gedronken."
+},
+"drénken\u0001pluperfect\u00013s": {
+"pt": "Ele tinha bebido um copo de água.",
+"nl": "Hij had een glas water gedronken."
+},
+"drénken\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos bebido um copo de água.",
+"nl": "Wij hadden een glas water gedronken."
+},
+"drénken\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham bebido um copo de água.",
+"nl": "Jullie hadden een glas water gedronken."
+},
+"drénken\u0001pluperfect\u00013p": {
+"pt": "Eles tinham bebido um copo de água.",
+"nl": "Zij hadden een glas water gedronken."
+},
+"drénken\u0001future\u00011s": {
+"pt": "Eu beberei um copo de água.",
+"nl": "Ik zal een glas water drinken."
+},
+"drénken\u0001future\u00012s": {
+"pt": "Tu beberás um copo de água.",
+"nl": "Jij zult een glas water drinken."
+},
+"drénken\u0001future\u00013s": {
+"pt": "Ele beberá um copo de água.",
+"nl": "Hij zal een glas water drinken."
+},
+"drénken\u0001future\u00011p": {
+"pt": "Nós beberemos um copo de água.",
+"nl": "Wij zullen een glas water drinken."
+},
+"drénken\u0001future\u00012p": {
+"pt": "Vocês beberão um copo de água.",
+"nl": "Jullie zullen een glas water drinken."
+},
+"drénken\u0001future\u00013p": {
+"pt": "Eles beberão um copo de água.",
+"nl": "Zij zullen een glas water drinken."
+},
+"drénken\u0001conditional\u00011s": {
+"pt": "Eu beberia um copo de água.",
+"nl": "Ik zou een glas water drinken."
+},
+"drénken\u0001conditional\u00012s": {
+"pt": "Tu beberias um copo de água.",
+"nl": "Jij zou een glas water drinken."
+},
+"drénken\u0001conditional\u00013s": {
+"pt": "Ele beberia um copo de água.",
+"nl": "Hij zou een glas water drinken."
+},
+"drénken\u0001conditional\u00011p": {
+"pt": "Nós beberíamos um copo de água.",
+"nl": "Wij zouden een glas water drinken."
+},
+"drénken\u0001conditional\u00012p": {
+"pt": "Vocês beberiam um copo de água.",
+"nl": "Jullie zouden een glas water drinken."
+},
+"drénken\u0001conditional\u00013p": {
+"pt": "Eles beberiam um copo de água.",
+"nl": "Zij zouden een glas water drinken."
+},
+"drénken\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria bebido um copo de água.",
+"nl": "Ik zou een glas water hebben gedronken."
+},
+"drénken\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias bebido um copo de água.",
+"nl": "Jij zou een glas water hebben gedronken."
+},
+"drénken\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria bebido um copo de água.",
+"nl": "Hij zou een glas water hebben gedronken."
+},
+"drénken\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos bebido um copo de água.",
+"nl": "Wij zouden een glas water hebben gedronken."
+},
+"drénken\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam bebido um copo de água.",
+"nl": "Jullie zouden een glas water hebben gedronken."
+},
+"drénken\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam bebido um copo de água.",
+"nl": "Zij zouden een glas water hebben gedronken."
+},
+"drénken\u0001subjunctive\u00011s": {
+"pt": "que eu beba um copo de água",
+"nl": "dat ik een glas water drink"
+},
+"drénken\u0001subjunctive\u00012s": {
+"pt": "que tu bebas um copo de água",
+"nl": "dat jij een glas water drinkt"
+},
+"drénken\u0001subjunctive\u00013s": {
+"pt": "que ele beba um copo de água",
+"nl": "dat hij een glas water drinkt"
+},
+"drénken\u0001subjunctive\u00011p": {
+"pt": "que nós bebamos um copo de água",
+"nl": "dat wij een glas water drinken"
+},
+"drénken\u0001subjunctive\u00012p": {
+"pt": "que vocês bebam um copo de água",
+"nl": "dat jullie een glas water drinken"
+},
+"drénken\u0001subjunctive\u00013p": {
+"pt": "que eles bebam um copo de água",
+"nl": "dat zij een glas water drinken"
+},
+"dreschen\u0001present\u00011s": {
+"pt": "Eu debulho o trigo no celeiro.",
+"nl": "Ik dors de tarwe in de schuur."
+},
+"dreschen\u0001present\u00012s": {
+"pt": "Tu debulhas o trigo no celeiro.",
+"nl": "Jij dorst de tarwe in de schuur."
+},
+"dreschen\u0001present\u00013s": {
+"pt": "Ele debulha o trigo no celeiro.",
+"nl": "Hij dorst de tarwe in de schuur."
+},
+"dreschen\u0001present\u00011p": {
+"pt": "Nós debulhamos o trigo no celeiro.",
+"nl": "Wij dorsen de tarwe in de schuur."
+},
+"dreschen\u0001present\u00012p": {
+"pt": "Vocês debulham o trigo no celeiro.",
+"nl": "Jullie dorsen de tarwe in de schuur."
+},
+"dreschen\u0001present\u00013p": {
+"pt": "Eles debulham o trigo no celeiro.",
+"nl": "Zij dorsen de tarwe in de schuur."
+},
+"dreschen\u0001perfect\u00011s": {
+"pt": "Eu debulhei o trigo no celeiro.",
+"nl": "Ik heb de tarwe in de schuur gedorst."
+},
+"dreschen\u0001perfect\u00012s": {
+"pt": "Tu debulhaste o trigo no celeiro.",
+"nl": "Jij hebt de tarwe in de schuur gedorst."
+},
+"dreschen\u0001perfect\u00013s": {
+"pt": "Ele debulhou o trigo no celeiro.",
+"nl": "Hij heeft de tarwe in de schuur gedorst."
+},
+"dreschen\u0001perfect\u00011p": {
+"pt": "Nós debulhámos o trigo no celeiro.",
+"nl": "Wij hebben de tarwe in de schuur gedorst."
+},
+"dreschen\u0001perfect\u00012p": {
+"pt": "Vocês debulharam o trigo no celeiro.",
+"nl": "Jullie hebben de tarwe in de schuur gedorst."
+},
+"dreschen\u0001perfect\u00013p": {
+"pt": "Eles debulharam o trigo no celeiro.",
+"nl": "Zij hebben de tarwe in de schuur gedorst."
+},
+"dreschen\u0001past\u00011s": {
+"pt": "Eu debulhei o trigo no celeiro.",
+"nl": "Ik dorste de tarwe in de schuur."
+},
+"dreschen\u0001past\u00012s": {
+"pt": "Tu debulhaste o trigo no celeiro.",
+"nl": "Jij dorste de tarwe in de schuur."
+},
+"dreschen\u0001past\u00013s": {
+"pt": "Ele debulhou o trigo no celeiro.",
+"nl": "Hij dorste de tarwe in de schuur."
+},
+"dreschen\u0001past\u00011p": {
+"pt": "Nós debulhámos o trigo no celeiro.",
+"nl": "Wij dorsten de tarwe in de schuur."
+},
+"dreschen\u0001past\u00012p": {
+"pt": "Vocês debulharam o trigo no celeiro.",
+"nl": "Jullie dorsten de tarwe in de schuur."
+},
+"dreschen\u0001past\u00013p": {
+"pt": "Eles debulharam o trigo no celeiro.",
+"nl": "Zij dorsten de tarwe in de schuur."
+},
+"dreschen\u0001imperfect\u00011s": {
+"pt": "Eu estava a debulhar o trigo no celeiro.",
+"nl": "Ik was de tarwe in de schuur aan het dorsen."
+},
+"dreschen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a debulhar o trigo no celeiro.",
+"nl": "Jij was de tarwe in de schuur aan het dorsen."
+},
+"dreschen\u0001imperfect\u00013s": {
+"pt": "Ele estava a debulhar o trigo no celeiro.",
+"nl": "Hij was de tarwe in de schuur aan het dorsen."
+},
+"dreschen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a debulhar o trigo no celeiro.",
+"nl": "Wij waren de tarwe in de schuur aan het dorsen."
+},
+"dreschen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a debulhar o trigo no celeiro.",
+"nl": "Jullie waren de tarwe in de schuur aan het dorsen."
+},
+"dreschen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a debulhar o trigo no celeiro.",
+"nl": "Zij waren de tarwe in de schuur aan het dorsen."
+},
+"dreschen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha debulhado o trigo no celeiro.",
+"nl": "Ik had de tarwe in de schuur gedorst."
+},
+"dreschen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas debulhado o trigo no celeiro.",
+"nl": "Jij had de tarwe in de schuur gedorst."
+},
+"dreschen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha debulhado o trigo no celeiro.",
+"nl": "Hij had de tarwe in de schuur gedorst."
+},
+"dreschen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos debulhado o trigo no celeiro.",
+"nl": "Wij hadden de tarwe in de schuur gedorst."
+},
+"dreschen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham debulhado o trigo no celeiro.",
+"nl": "Jullie hadden de tarwe in de schuur gedorst."
+},
+"dreschen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham debulhado o trigo no celeiro.",
+"nl": "Zij hadden de tarwe in de schuur gedorst."
+},
+"dreschen\u0001future\u00011s": {
+"pt": "Eu debulharei o trigo no celeiro.",
+"nl": "Ik zal de tarwe in de schuur dorsen."
+},
+"dreschen\u0001future\u00012s": {
+"pt": "Tu debulharás o trigo no celeiro.",
+"nl": "Jij zult de tarwe in de schuur dorsen."
+},
+"dreschen\u0001future\u00013s": {
+"pt": "Ele debulhará o trigo no celeiro.",
+"nl": "Hij zal de tarwe in de schuur dorsen."
+},
+"dreschen\u0001future\u00011p": {
+"pt": "Nós debulharemos o trigo no celeiro.",
+"nl": "Wij zullen de tarwe in de schuur dorsen."
+},
+"dreschen\u0001future\u00012p": {
+"pt": "Vocês debulharão o trigo no celeiro.",
+"nl": "Jullie zullen de tarwe in de schuur dorsen."
+},
+"dreschen\u0001future\u00013p": {
+"pt": "Eles debulharão o trigo no celeiro.",
+"nl": "Zij zullen de tarwe in de schuur dorsen."
+},
+"dreschen\u0001conditional\u00011s": {
+"pt": "Eu debulharia o trigo no celeiro.",
+"nl": "Ik zou de tarwe in de schuur dorsen."
+},
+"dreschen\u0001conditional\u00012s": {
+"pt": "Tu debulharias o trigo no celeiro.",
+"nl": "Jij zou de tarwe in de schuur dorsen."
+},
+"dreschen\u0001conditional\u00013s": {
+"pt": "Ele debulharia o trigo no celeiro.",
+"nl": "Hij zou de tarwe in de schuur dorsen."
+},
+"dreschen\u0001conditional\u00011p": {
+"pt": "Nós debulharíamos o trigo no celeiro.",
+"nl": "Wij zouden de tarwe in de schuur dorsen."
+},
+"dreschen\u0001conditional\u00012p": {
+"pt": "Vocês debulhariam o trigo no celeiro.",
+"nl": "Jullie zouden de tarwe in de schuur dorsen."
+},
+"dreschen\u0001conditional\u00013p": {
+"pt": "Eles debulhariam o trigo no celeiro.",
+"nl": "Zij zouden de tarwe in de schuur dorsen."
+},
+"dreschen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria debulhado o trigo no celeiro.",
+"nl": "Ik zou de tarwe in de schuur hebben gedorst."
+},
+"dreschen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias debulhado o trigo no celeiro.",
+"nl": "Jij zou de tarwe in de schuur hebben gedorst."
+},
+"dreschen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria debulhado o trigo no celeiro.",
+"nl": "Hij zou de tarwe in de schuur hebben gedorst."
+},
+"dreschen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos debulhado o trigo no celeiro.",
+"nl": "Wij zouden de tarwe in de schuur hebben gedorst."
+},
+"dreschen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam debulhado o trigo no celeiro.",
+"nl": "Jullie zouden de tarwe in de schuur hebben gedorst."
+},
+"dreschen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam debulhado o trigo no celeiro.",
+"nl": "Zij zouden de tarwe in de schuur hebben gedorst."
+},
+"dreschen\u0001subjunctive\u00011s": {
+"pt": "que eu debulhe o trigo no celeiro",
+"nl": "dat ik de tarwe in de schuur dors"
+},
+"dreschen\u0001subjunctive\u00012s": {
+"pt": "que tu debulhes o trigo no celeiro",
+"nl": "dat jij de tarwe in de schuur dorst"
+},
+"dreschen\u0001subjunctive\u00013s": {
+"pt": "que ele debulhe o trigo no celeiro",
+"nl": "dat hij de tarwe in de schuur dorst"
+},
+"dreschen\u0001subjunctive\u00011p": {
+"pt": "que nós debulhemos o trigo no celeiro",
+"nl": "dat wij de tarwe in de schuur dorsen"
+},
+"dreschen\u0001subjunctive\u00012p": {
+"pt": "que vocês debulhem o trigo no celeiro",
+"nl": "dat jullie de tarwe in de schuur dorsen"
+},
+"dreschen\u0001subjunctive\u00013p": {
+"pt": "que eles debulhem o trigo no celeiro",
+"nl": "dat zij de tarwe in de schuur dorsen"
+},
+"drëpsen\u0001present\u00011s": {
+"pt": "Eu pingo no chão da cozinha.",
+"nl": "Ik druppel op de keukenvloer."
+},
+"drëpsen\u0001present\u00012s": {
+"pt": "Tu pingas no chão da cozinha.",
+"nl": "Jij druppelt op de keukenvloer."
+},
+"drëpsen\u0001present\u00013s": {
+"pt": "Ele pinga no chão da cozinha.",
+"nl": "Hij druppelt op de keukenvloer."
+},
+"drëpsen\u0001present\u00011p": {
+"pt": "Nós pingamos no chão da cozinha.",
+"nl": "Wij druppelen op de keukenvloer."
+},
+"drëpsen\u0001present\u00012p": {
+"pt": "Vocês pingam no chão da cozinha.",
+"nl": "Jullie druppelen op de keukenvloer."
+},
+"drëpsen\u0001present\u00013p": {
+"pt": "Eles pingam no chão da cozinha.",
+"nl": "Zij druppelen op de keukenvloer."
+},
+"drëpsen\u0001perfect\u00011s": {
+"pt": "Eu pinguei no chão da cozinha.",
+"nl": "Ik heb op de keukenvloer gedruppeld."
+},
+"drëpsen\u0001perfect\u00012s": {
+"pt": "Tu pingaste no chão da cozinha.",
+"nl": "Jij hebt op de keukenvloer gedruppeld."
+},
+"drëpsen\u0001perfect\u00013s": {
+"pt": "Ele pingou no chão da cozinha.",
+"nl": "Hij heeft op de keukenvloer gedruppeld."
+},
+"drëpsen\u0001perfect\u00011p": {
+"pt": "Nós pingámos no chão da cozinha.",
+"nl": "Wij hebben op de keukenvloer gedruppeld."
+},
+"drëpsen\u0001perfect\u00012p": {
+"pt": "Vocês pingaram no chão da cozinha.",
+"nl": "Jullie hebben op de keukenvloer gedruppeld."
+},
+"drëpsen\u0001perfect\u00013p": {
+"pt": "Eles pingaram no chão da cozinha.",
+"nl": "Zij hebben op de keukenvloer gedruppeld."
+},
+"drëpsen\u0001past\u00011s": {
+"pt": "Eu pinguei no chão da cozinha.",
+"nl": "Ik druppelde op de keukenvloer."
+},
+"drëpsen\u0001past\u00012s": {
+"pt": "Tu pingaste no chão da cozinha.",
+"nl": "Jij druppelde op de keukenvloer."
+},
+"drëpsen\u0001past\u00013s": {
+"pt": "Ele pingou no chão da cozinha.",
+"nl": "Hij druppelde op de keukenvloer."
+},
+"drëpsen\u0001past\u00011p": {
+"pt": "Nós pingámos no chão da cozinha.",
+"nl": "Wij druppelden op de keukenvloer."
+},
+"drëpsen\u0001past\u00012p": {
+"pt": "Vocês pingaram no chão da cozinha.",
+"nl": "Jullie druppelden op de keukenvloer."
+},
+"drëpsen\u0001past\u00013p": {
+"pt": "Eles pingaram no chão da cozinha.",
+"nl": "Zij druppelden op de keukenvloer."
+},
+"drëpsen\u0001imperfect\u00011s": {
+"pt": "Eu estava a pingar no chão da cozinha.",
+"nl": "Ik was op de keukenvloer aan het druppelen."
+},
+"drëpsen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a pingar no chão da cozinha.",
+"nl": "Jij was op de keukenvloer aan het druppelen."
+},
+"drëpsen\u0001imperfect\u00013s": {
+"pt": "Ele estava a pingar no chão da cozinha.",
+"nl": "Hij was op de keukenvloer aan het druppelen."
+},
+"drëpsen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a pingar no chão da cozinha.",
+"nl": "Wij waren op de keukenvloer aan het druppelen."
+},
+"drëpsen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a pingar no chão da cozinha.",
+"nl": "Jullie waren op de keukenvloer aan het druppelen."
+},
+"drëpsen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a pingar no chão da cozinha.",
+"nl": "Zij waren op de keukenvloer aan het druppelen."
+},
+"drëpsen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha pingado no chão da cozinha.",
+"nl": "Ik had op de keukenvloer gedruppeld."
+},
+"drëpsen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas pingado no chão da cozinha.",
+"nl": "Jij had op de keukenvloer gedruppeld."
+},
+"drëpsen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha pingado no chão da cozinha.",
+"nl": "Hij had op de keukenvloer gedruppeld."
+},
+"drëpsen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos pingado no chão da cozinha.",
+"nl": "Wij hadden op de keukenvloer gedruppeld."
+},
+"drëpsen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham pingado no chão da cozinha.",
+"nl": "Jullie hadden op de keukenvloer gedruppeld."
+},
+"drëpsen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham pingado no chão da cozinha.",
+"nl": "Zij hadden op de keukenvloer gedruppeld."
+},
+"drëpsen\u0001future\u00011s": {
+"pt": "Eu pingarei no chão da cozinha.",
+"nl": "Ik zal op de keukenvloer druppelen."
+},
+"drëpsen\u0001future\u00012s": {
+"pt": "Tu pingarás no chão da cozinha.",
+"nl": "Jij zult op de keukenvloer druppelen."
+},
+"drëpsen\u0001future\u00013s": {
+"pt": "Ele pingará no chão da cozinha.",
+"nl": "Hij zal op de keukenvloer druppelen."
+},
+"drëpsen\u0001future\u00011p": {
+"pt": "Nós pingaremos no chão da cozinha.",
+"nl": "Wij zullen op de keukenvloer druppelen."
+},
+"drëpsen\u0001future\u00012p": {
+"pt": "Vocês pingarão no chão da cozinha.",
+"nl": "Jullie zullen op de keukenvloer druppelen."
+},
+"drëpsen\u0001future\u00013p": {
+"pt": "Eles pingarão no chão da cozinha.",
+"nl": "Zij zullen op de keukenvloer druppelen."
+},
+"drëpsen\u0001conditional\u00011s": {
+"pt": "Eu pingaria no chão da cozinha.",
+"nl": "Ik zou op de keukenvloer druppelen."
+},
+"drëpsen\u0001conditional\u00012s": {
+"pt": "Tu pingarias no chão da cozinha.",
+"nl": "Jij zou op de keukenvloer druppelen."
+},
+"drëpsen\u0001conditional\u00013s": {
+"pt": "Ele pingaria no chão da cozinha.",
+"nl": "Hij zou op de keukenvloer druppelen."
+},
+"drëpsen\u0001conditional\u00011p": {
+"pt": "Nós pingaríamos no chão da cozinha.",
+"nl": "Wij zouden op de keukenvloer druppelen."
+},
+"drëpsen\u0001conditional\u00012p": {
+"pt": "Vocês pingariam no chão da cozinha.",
+"nl": "Jullie zouden op de keukenvloer druppelen."
+},
+"drëpsen\u0001conditional\u00013p": {
+"pt": "Eles pingariam no chão da cozinha.",
+"nl": "Zij zouden op de keukenvloer druppelen."
+},
+"drëpsen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria pingado no chão da cozinha.",
+"nl": "Ik zou op de keukenvloer hebben gedruppeld."
+},
+"drëpsen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias pingado no chão da cozinha.",
+"nl": "Jij zou op de keukenvloer hebben gedruppeld."
+},
+"drëpsen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria pingado no chão da cozinha.",
+"nl": "Hij zou op de keukenvloer hebben gedruppeld."
+},
+"drëpsen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos pingado no chão da cozinha.",
+"nl": "Wij zouden op de keukenvloer hebben gedruppeld."
+},
+"drëpsen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam pingado no chão da cozinha.",
+"nl": "Jullie zouden op de keukenvloer hebben gedruppeld."
+},
+"drëpsen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam pingado no chão da cozinha.",
+"nl": "Zij zouden op de keukenvloer hebben gedruppeld."
+},
+"drëpsen\u0001subjunctive\u00011s": {
+"pt": "que eu pingue no chão da cozinha",
+"nl": "dat ik op de keukenvloer druppel"
+},
+"drëpsen\u0001subjunctive\u00012s": {
+"pt": "que tu pingues no chão da cozinha",
+"nl": "dat jij op de keukenvloer druppelt"
+},
+"drëpsen\u0001subjunctive\u00013s": {
+"pt": "que ele pingue no chão da cozinha",
+"nl": "dat hij op de keukenvloer druppelt"
+},
+"drëpsen\u0001subjunctive\u00011p": {
+"pt": "que nós pinguemos no chão da cozinha",
+"nl": "dat wij op de keukenvloer druppelen"
+},
+"drëpsen\u0001subjunctive\u00012p": {
+"pt": "que vocês pinguem no chão da cozinha",
+"nl": "dat jullie op de keukenvloer druppelen"
+},
+"drëpsen\u0001subjunctive\u00013p": {
+"pt": "que eles pinguem no chão da cozinha",
+"nl": "dat zij op de keukenvloer druppelen"
+},
+"dresséieren\u0001present\u00011s": {
+"pt": "Eu adestro o cão no parque.",
+"nl": "Ik dresseer de hond in het park."
+},
+"dresséieren\u0001present\u00012s": {
+"pt": "Tu adestras o cão no parque.",
+"nl": "Jij dresseert de hond in het park."
+},
+"dresséieren\u0001present\u00013s": {
+"pt": "Ele adestra o cão no parque.",
+"nl": "Hij dresseert de hond in het park."
+},
+"dresséieren\u0001present\u00011p": {
+"pt": "Nós adestramos o cão no parque.",
+"nl": "Wij dresseren de hond in het park."
+},
+"dresséieren\u0001present\u00012p": {
+"pt": "Vocês adestram o cão no parque.",
+"nl": "Jullie dresseren de hond in het park."
+},
+"dresséieren\u0001present\u00013p": {
+"pt": "Eles adestram o cão no parque.",
+"nl": "Zij dresseren de hond in het park."
+},
+"dresséieren\u0001perfect\u00011s": {
+"pt": "Eu adestrei o cão no parque.",
+"nl": "Ik heb de hond in het park gedresseerd."
+},
+"dresséieren\u0001perfect\u00012s": {
+"pt": "Tu adestraste o cão no parque.",
+"nl": "Jij hebt de hond in het park gedresseerd."
+},
+"dresséieren\u0001perfect\u00013s": {
+"pt": "Ele adestrou o cão no parque.",
+"nl": "Hij heeft de hond in het park gedresseerd."
+},
+"dresséieren\u0001perfect\u00011p": {
+"pt": "Nós adestrámos o cão no parque.",
+"nl": "Wij hebben de hond in het park gedresseerd."
+},
+"dresséieren\u0001perfect\u00012p": {
+"pt": "Vocês adestraram o cão no parque.",
+"nl": "Jullie hebben de hond in het park gedresseerd."
+},
+"dresséieren\u0001perfect\u00013p": {
+"pt": "Eles adestraram o cão no parque.",
+"nl": "Zij hebben de hond in het park gedresseerd."
+},
+"dresséieren\u0001past\u00011s": {
+"pt": "Eu adestrei o cão no parque.",
+"nl": "Ik dresseerde de hond in het park."
+},
+"dresséieren\u0001past\u00012s": {
+"pt": "Tu adestraste o cão no parque.",
+"nl": "Jij dresseerde de hond in het park."
+},
+"dresséieren\u0001past\u00013s": {
+"pt": "Ele adestrou o cão no parque.",
+"nl": "Hij dresseerde de hond in het park."
+},
+"dresséieren\u0001past\u00011p": {
+"pt": "Nós adestrámos o cão no parque.",
+"nl": "Wij dresseerden de hond in het park."
+},
+"dresséieren\u0001past\u00012p": {
+"pt": "Vocês adestraram o cão no parque.",
+"nl": "Jullie dresseerden de hond in het park."
+},
+"dresséieren\u0001past\u00013p": {
+"pt": "Eles adestraram o cão no parque.",
+"nl": "Zij dresseerden de hond in het park."
+},
+"dresséieren\u0001imperfect\u00011s": {
+"pt": "Eu estava a adestrar o cão no parque.",
+"nl": "Ik was de hond in het park aan het dresseren."
+},
+"dresséieren\u0001imperfect\u00012s": {
+"pt": "Tu estavas a adestrar o cão no parque.",
+"nl": "Jij was de hond in het park aan het dresseren."
+},
+"dresséieren\u0001imperfect\u00013s": {
+"pt": "Ele estava a adestrar o cão no parque.",
+"nl": "Hij was de hond in het park aan het dresseren."
+},
+"dresséieren\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a adestrar o cão no parque.",
+"nl": "Wij waren de hond in het park aan het dresseren."
+},
+"dresséieren\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a adestrar o cão no parque.",
+"nl": "Jullie waren de hond in het park aan het dresseren."
+},
+"dresséieren\u0001imperfect\u00013p": {
+"pt": "Eles estavam a adestrar o cão no parque.",
+"nl": "Zij waren de hond in het park aan het dresseren."
+},
+"dresséieren\u0001pluperfect\u00011s": {
+"pt": "Eu tinha adestrado o cão no parque.",
+"nl": "Ik had de hond in het park gedresseerd."
+},
+"dresséieren\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas adestrado o cão no parque.",
+"nl": "Jij had de hond in het park gedresseerd."
+},
+"dresséieren\u0001pluperfect\u00013s": {
+"pt": "Ele tinha adestrado o cão no parque.",
+"nl": "Hij had de hond in het park gedresseerd."
+},
+"dresséieren\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos adestrado o cão no parque.",
+"nl": "Wij hadden de hond in het park gedresseerd."
+},
+"dresséieren\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham adestrado o cão no parque.",
+"nl": "Jullie hadden de hond in het park gedresseerd."
+},
+"dresséieren\u0001pluperfect\u00013p": {
+"pt": "Eles tinham adestrado o cão no parque.",
+"nl": "Zij hadden de hond in het park gedresseerd."
+},
+"dresséieren\u0001future\u00011s": {
+"pt": "Eu adestrarei o cão no parque.",
+"nl": "Ik zal de hond in het park dresseren."
+},
+"dresséieren\u0001future\u00012s": {
+"pt": "Tu adestrarás o cão no parque.",
+"nl": "Jij zult de hond in het park dresseren."
+},
+"dresséieren\u0001future\u00013s": {
+"pt": "Ele adestrará o cão no parque.",
+"nl": "Hij zal de hond in het park dresseren."
+},
+"dresséieren\u0001future\u00011p": {
+"pt": "Nós adestraremos o cão no parque.",
+"nl": "Wij zullen de hond in het park dresseren."
+},
+"dresséieren\u0001future\u00012p": {
+"pt": "Vocês adestrarão o cão no parque.",
+"nl": "Jullie zullen de hond in het park dresseren."
+},
+"dresséieren\u0001future\u00013p": {
+"pt": "Eles adestrarão o cão no parque.",
+"nl": "Zij zullen de hond in het park dresseren."
+},
+"dresséieren\u0001conditional\u00011s": {
+"pt": "Eu adestraria o cão no parque.",
+"nl": "Ik zou de hond in het park dresseren."
+},
+"dresséieren\u0001conditional\u00012s": {
+"pt": "Tu adestrarias o cão no parque.",
+"nl": "Jij zou de hond in het park dresseren."
+},
+"dresséieren\u0001conditional\u00013s": {
+"pt": "Ele adestraria o cão no parque.",
+"nl": "Hij zou de hond in het park dresseren."
+},
+"dresséieren\u0001conditional\u00011p": {
+"pt": "Nós adestraríamos o cão no parque.",
+"nl": "Wij zouden de hond in het park dresseren."
+},
+"dresséieren\u0001conditional\u00012p": {
+"pt": "Vocês adestrariam o cão no parque.",
+"nl": "Jullie zouden de hond in het park dresseren."
+},
+"dresséieren\u0001conditional\u00013p": {
+"pt": "Eles adestrariam o cão no parque.",
+"nl": "Zij zouden de hond in het park dresseren."
+},
+"dresséieren\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria adestrado o cão no parque.",
+"nl": "Ik zou de hond in het park hebben gedresseerd."
+},
+"dresséieren\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias adestrado o cão no parque.",
+"nl": "Jij zou de hond in het park hebben gedresseerd."
+},
+"dresséieren\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria adestrado o cão no parque.",
+"nl": "Hij zou de hond in het park hebben gedresseerd."
+},
+"dresséieren\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos adestrado o cão no parque.",
+"nl": "Wij zouden de hond in het park hebben gedresseerd."
+},
+"dresséieren\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam adestrado o cão no parque.",
+"nl": "Jullie zouden de hond in het park hebben gedresseerd."
+},
+"dresséieren\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam adestrado o cão no parque.",
+"nl": "Zij zouden de hond in het park hebben gedresseerd."
+},
+"dresséieren\u0001subjunctive\u00011s": {
+"pt": "que eu adestre o cão no parque",
+"nl": "dat ik de hond in het park dresseer"
+},
+"dresséieren\u0001subjunctive\u00012s": {
+"pt": "que tu adestres o cão no parque",
+"nl": "dat jij de hond in het park dresseert"
+},
+"dresséieren\u0001subjunctive\u00013s": {
+"pt": "que ele adestre o cão no parque",
+"nl": "dat hij de hond in het park dresseert"
+},
+"dresséieren\u0001subjunctive\u00011p": {
+"pt": "que nós adestremos o cão no parque",
+"nl": "dat wij de hond in het park dresseren"
+},
+"dresséieren\u0001subjunctive\u00012p": {
+"pt": "que vocês adestrem o cão no parque",
+"nl": "dat jullie de hond in het park dresseren"
+},
+"dresséieren\u0001subjunctive\u00013p": {
+"pt": "que eles adestrem o cão no parque",
+"nl": "dat zij de hond in het park dresseren"
+},
+"driibsen\u0001present\u00011s": {
+"pt": "Eu demoro-me no caminho para a escola.",
+"nl": "Ik treuzel op weg naar school."
+},
+"driibsen\u0001present\u00012s": {
+"pt": "Tu demoras-te no caminho para a escola.",
+"nl": "Jij treuzelt op weg naar school."
+},
+"driibsen\u0001present\u00013s": {
+"pt": "Ele demora-se no caminho para a escola.",
+"nl": "Hij treuzelt op weg naar school."
+},
+"driibsen\u0001present\u00011p": {
+"pt": "Nós demoramo-nos no caminho para a escola.",
+"nl": "Wij treuzelen op weg naar school."
+},
+"driibsen\u0001present\u00012p": {
+"pt": "Vocês demoram-se no caminho para a escola.",
+"nl": "Jullie treuzelen op weg naar school."
+},
+"driibsen\u0001present\u00013p": {
+"pt": "Eles demoram-se no caminho para a escola.",
+"nl": "Zij treuzelen op weg naar school."
+},
+"driibsen\u0001perfect\u00011s": {
+"pt": "Eu demorei-me no caminho para a escola.",
+"nl": "Ik heb op weg naar school getreuzeld."
+},
+"driibsen\u0001perfect\u00012s": {
+"pt": "Tu demoraste-te no caminho para a escola.",
+"nl": "Jij hebt op weg naar school getreuzeld."
+},
+"driibsen\u0001perfect\u00013s": {
+"pt": "Ele demorou-se no caminho para a escola.",
+"nl": "Hij heeft op weg naar school getreuzeld."
+},
+"driibsen\u0001perfect\u00011p": {
+"pt": "Nós demorámo-nos no caminho para a escola.",
+"nl": "Wij hebben op weg naar school getreuzeld."
+},
+"driibsen\u0001perfect\u00012p": {
+"pt": "Vocês demoraram-se no caminho para a escola.",
+"nl": "Jullie hebben op weg naar school getreuzeld."
+},
+"driibsen\u0001perfect\u00013p": {
+"pt": "Eles demoraram-se no caminho para a escola.",
+"nl": "Zij hebben op weg naar school getreuzeld."
+},
+"driibsen\u0001past\u00011s": {
+"pt": "Eu demorei-me no caminho para a escola.",
+"nl": "Ik treuzelde op weg naar school."
+},
+"driibsen\u0001past\u00012s": {
+"pt": "Tu demoraste-te no caminho para a escola.",
+"nl": "Jij treuzelde op weg naar school."
+},
+"driibsen\u0001past\u00013s": {
+"pt": "Ele demorou-se no caminho para a escola.",
+"nl": "Hij treuzelde op weg naar school."
+},
+"driibsen\u0001past\u00011p": {
+"pt": "Nós demorámo-nos no caminho para a escola.",
+"nl": "Wij treuzelden op weg naar school."
+},
+"driibsen\u0001past\u00012p": {
+"pt": "Vocês demoraram-se no caminho para a escola.",
+"nl": "Jullie treuzelden op weg naar school."
+},
+"driibsen\u0001past\u00013p": {
+"pt": "Eles demoraram-se no caminho para a escola.",
+"nl": "Zij treuzelden op weg naar school."
+},
+"driibsen\u0001imperfect\u00011s": {
+"pt": "Eu estava a demorar-me no caminho para a escola.",
+"nl": "Ik was op weg naar school aan het treuzelen."
+},
+"driibsen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a demorar-te no caminho para a escola.",
+"nl": "Jij was op weg naar school aan het treuzelen."
+},
+"driibsen\u0001imperfect\u00013s": {
+"pt": "Ele estava a demorar-se no caminho para a escola.",
+"nl": "Hij was op weg naar school aan het treuzelen."
+},
+"driibsen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a demorar-nos no caminho para a escola.",
+"nl": "Wij waren op weg naar school aan het treuzelen."
+},
+"driibsen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a demorar-se no caminho para a escola.",
+"nl": "Jullie waren op weg naar school aan het treuzelen."
+},
+"driibsen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a demorar-se no caminho para a escola.",
+"nl": "Zij waren op weg naar school aan het treuzelen."
+},
+"driibsen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha-me demorado no caminho para a escola.",
+"nl": "Ik had op weg naar school getreuzeld."
+},
+"driibsen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas-te demorado no caminho para a escola.",
+"nl": "Jij had op weg naar school getreuzeld."
+},
+"driibsen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha-se demorado no caminho para a escola.",
+"nl": "Hij had op weg naar school getreuzeld."
+},
+"driibsen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamo-nos demorado no caminho para a escola.",
+"nl": "Wij hadden op weg naar school getreuzeld."
+},
+"driibsen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham-se demorado no caminho para a escola.",
+"nl": "Jullie hadden op weg naar school getreuzeld."
+},
+"driibsen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham-se demorado no caminho para a escola.",
+"nl": "Zij hadden op weg naar school getreuzeld."
+},
+"driibsen\u0001future\u00011s": {
+"pt": "Eu demorar-me-ei no caminho para a escola.",
+"nl": "Ik zal op weg naar school treuzelen."
+},
+"driibsen\u0001future\u00012s": {
+"pt": "Tu demorar-te-ás no caminho para a escola.",
+"nl": "Jij zult op weg naar school treuzelen."
+},
+"driibsen\u0001future\u00013s": {
+"pt": "Ele demorar-se-á no caminho para a escola.",
+"nl": "Hij zal op weg naar school treuzelen."
+},
+"driibsen\u0001future\u00011p": {
+"pt": "Nós demorar-nos-emos no caminho para a escola.",
+"nl": "Wij zullen op weg naar school treuzelen."
+},
+"driibsen\u0001future\u00012p": {
+"pt": "Vocês demorar-se-ão no caminho para a escola.",
+"nl": "Jullie zullen op weg naar school treuzelen."
+},
+"driibsen\u0001future\u00013p": {
+"pt": "Eles demorar-se-ão no caminho para a escola.",
+"nl": "Zij zullen op weg naar school treuzelen."
+},
+"driibsen\u0001conditional\u00011s": {
+"pt": "Eu demorar-me-ia no caminho para a escola.",
+"nl": "Ik zou op weg naar school treuzelen."
+},
+"driibsen\u0001conditional\u00012s": {
+"pt": "Tu demorar-te-ias no caminho para a escola.",
+"nl": "Jij zou op weg naar school treuzelen."
+},
+"driibsen\u0001conditional\u00013s": {
+"pt": "Ele demorar-se-ia no caminho para a escola.",
+"nl": "Hij zou op weg naar school treuzelen."
+},
+"driibsen\u0001conditional\u00011p": {
+"pt": "Nós demorar-nos-íamos no caminho para a escola.",
+"nl": "Wij zouden op weg naar school treuzelen."
+},
+"driibsen\u0001conditional\u00012p": {
+"pt": "Vocês demorar-se-iam no caminho para a escola.",
+"nl": "Jullie zouden op weg naar school treuzelen."
+},
+"driibsen\u0001conditional\u00013p": {
+"pt": "Eles demorar-se-iam no caminho para a escola.",
+"nl": "Zij zouden op weg naar school treuzelen."
+},
+"driibsen\u0001conditional_perfect\u00011s": {
+"pt": "Eu ter-me-ia demorado no caminho para a escola.",
+"nl": "Ik zou op weg naar school hebben getreuzeld."
+},
+"driibsen\u0001conditional_perfect\u00012s": {
+"pt": "Tu ter-te-ias demorado no caminho para a escola.",
+"nl": "Jij zou op weg naar school hebben getreuzeld."
+},
+"driibsen\u0001conditional_perfect\u00013s": {
+"pt": "Ele ter-se-ia demorado no caminho para a escola.",
+"nl": "Hij zou op weg naar school hebben getreuzeld."
+},
+"driibsen\u0001conditional_perfect\u00011p": {
+"pt": "Nós ter-nos-íamos demorado no caminho para a escola.",
+"nl": "Wij zouden op weg naar school hebben getreuzeld."
+},
+"driibsen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês ter-se-iam demorado no caminho para a escola.",
+"nl": "Jullie zouden op weg naar school hebben getreuzeld."
+},
+"driibsen\u0001conditional_perfect\u00013p": {
+"pt": "Eles ter-se-iam demorado no caminho para a escola.",
+"nl": "Zij zouden op weg naar school hebben getreuzeld."
+},
+"driibsen\u0001subjunctive\u00011s": {
+"pt": "que eu me demore no caminho para a escola",
+"nl": "dat ik op weg naar school treuzel"
+},
+"driibsen\u0001subjunctive\u00012s": {
+"pt": "que tu te demores no caminho para a escola",
+"nl": "dat jij op weg naar school treuzelt"
+},
+"driibsen\u0001subjunctive\u00013s": {
+"pt": "que ele se demore no caminho para a escola",
+"nl": "dat hij op weg naar school treuzelt"
+},
+"driibsen\u0001subjunctive\u00011p": {
+"pt": "que nós nos demoremos no caminho para a escola",
+"nl": "dat wij op weg naar school treuzelen"
+},
+"driibsen\u0001subjunctive\u00012p": {
+"pt": "que vocês se demorem no caminho para a escola",
+"nl": "dat jullie op weg naar school treuzelen"
+},
+"driibsen\u0001subjunctive\u00013p": {
+"pt": "que eles se demorem no caminho para a escola",
+"nl": "dat zij op weg naar school treuzelen"
+},
+"dretschen\u0001present\u00011s": {
+"pt": "Eu espremo a camisola na mala.",
+"nl": "Ik pers de trui in de koffer."
+},
+"dretschen\u0001present\u00012s": {
+"pt": "Tu espremes a camisola na mala.",
+"nl": "Jij perst de trui in de koffer."
+},
+"dretschen\u0001present\u00013s": {
+"pt": "Ele espreme a camisola na mala.",
+"nl": "Hij perst de trui in de koffer."
+},
+"dretschen\u0001present\u00011p": {
+"pt": "Nós esprememos a camisola na mala.",
+"nl": "Wij persen de trui in de koffer."
+},
+"dretschen\u0001present\u00012p": {
+"pt": "Vocês espremem a camisola na mala.",
+"nl": "Jullie persen de trui in de koffer."
+},
+"dretschen\u0001present\u00013p": {
+"pt": "Eles espremem a camisola na mala.",
+"nl": "Zij persen de trui in de koffer."
+},
+"dretschen\u0001perfect\u00011s": {
+"pt": "Eu espremi a camisola na mala.",
+"nl": "Ik heb de trui in de koffer geperst."
+},
+"dretschen\u0001perfect\u00012s": {
+"pt": "Tu espremeste a camisola na mala.",
+"nl": "Jij hebt de trui in de koffer geperst."
+},
+"dretschen\u0001perfect\u00013s": {
+"pt": "Ele espremeu a camisola na mala.",
+"nl": "Hij heeft de trui in de koffer geperst."
+},
+"dretschen\u0001perfect\u00011p": {
+"pt": "Nós esprememos a camisola na mala.",
+"nl": "Wij hebben de trui in de koffer geperst."
+},
+"dretschen\u0001perfect\u00012p": {
+"pt": "Vocês espremeram a camisola na mala.",
+"nl": "Jullie hebben de trui in de koffer geperst."
+},
+"dretschen\u0001perfect\u00013p": {
+"pt": "Eles espremeram a camisola na mala.",
+"nl": "Zij hebben de trui in de koffer geperst."
+},
+"dretschen\u0001past\u00011s": {
+"pt": "Eu espremi a camisola na mala.",
+"nl": "Ik perste de trui in de koffer."
+},
+"dretschen\u0001past\u00012s": {
+"pt": "Tu espremeste a camisola na mala.",
+"nl": "Jij perste de trui in de koffer."
+},
+"dretschen\u0001past\u00013s": {
+"pt": "Ele espremeu a camisola na mala.",
+"nl": "Hij perste de trui in de koffer."
+},
+"dretschen\u0001past\u00011p": {
+"pt": "Nós esprememos a camisola na mala.",
+"nl": "Wij persten de trui in de koffer."
+},
+"dretschen\u0001past\u00012p": {
+"pt": "Vocês espremeram a camisola na mala.",
+"nl": "Jullie persten de trui in de koffer."
+},
+"dretschen\u0001past\u00013p": {
+"pt": "Eles espremeram a camisola na mala.",
+"nl": "Zij persten de trui in de koffer."
+},
+"dretschen\u0001imperfect\u00011s": {
+"pt": "Eu estava a espremer a camisola na mala.",
+"nl": "Ik was de trui in de koffer aan het persen."
+},
+"dretschen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a espremer a camisola na mala.",
+"nl": "Jij was de trui in de koffer aan het persen."
+},
+"dretschen\u0001imperfect\u00013s": {
+"pt": "Ele estava a espremer a camisola na mala.",
+"nl": "Hij was de trui in de koffer aan het persen."
+},
+"dretschen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a espremer a camisola na mala.",
+"nl": "Wij waren de trui in de koffer aan het persen."
+},
+"dretschen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a espremer a camisola na mala.",
+"nl": "Jullie waren de trui in de koffer aan het persen."
+},
+"dretschen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a espremer a camisola na mala.",
+"nl": "Zij waren de trui in de koffer aan het persen."
+},
+"dretschen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha espremido a camisola na mala.",
+"nl": "Ik had de trui in de koffer geperst."
+},
+"dretschen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas espremido a camisola na mala.",
+"nl": "Jij had de trui in de koffer geperst."
+},
+"dretschen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha espremido a camisola na mala.",
+"nl": "Hij had de trui in de koffer geperst."
+},
+"dretschen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos espremido a camisola na mala.",
+"nl": "Wij hadden de trui in de koffer geperst."
+},
+"dretschen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham espremido a camisola na mala.",
+"nl": "Jullie hadden de trui in de koffer geperst."
+},
+"dretschen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham espremido a camisola na mala.",
+"nl": "Zij hadden de trui in de koffer geperst."
+},
+"dretschen\u0001future\u00011s": {
+"pt": "Eu espremerei a camisola na mala.",
+"nl": "Ik zal de trui in de koffer persen."
+},
+"dretschen\u0001future\u00012s": {
+"pt": "Tu espremerás a camisola na mala.",
+"nl": "Jij zult de trui in de koffer persen."
+},
+"dretschen\u0001future\u00013s": {
+"pt": "Ele espremerá a camisola na mala.",
+"nl": "Hij zal de trui in de koffer persen."
+},
+"dretschen\u0001future\u00011p": {
+"pt": "Nós espremeremos a camisola na mala.",
+"nl": "Wij zullen de trui in de koffer persen."
+},
+"dretschen\u0001future\u00012p": {
+"pt": "Vocês espremerão a camisola na mala.",
+"nl": "Jullie zullen de trui in de koffer persen."
+},
+"dretschen\u0001future\u00013p": {
+"pt": "Eles espremerão a camisola na mala.",
+"nl": "Zij zullen de trui in de koffer persen."
+},
+"dretschen\u0001conditional\u00011s": {
+"pt": "Eu espremeria a camisola na mala.",
+"nl": "Ik zou de trui in de koffer persen."
+},
+"dretschen\u0001conditional\u00012s": {
+"pt": "Tu espremerias a camisola na mala.",
+"nl": "Jij zou de trui in de koffer persen."
+},
+"dretschen\u0001conditional\u00013s": {
+"pt": "Ele espremeria a camisola na mala.",
+"nl": "Hij zou de trui in de koffer persen."
+},
+"dretschen\u0001conditional\u00011p": {
+"pt": "Nós espremeríamos a camisola na mala.",
+"nl": "Wij zouden de trui in de koffer persen."
+},
+"dretschen\u0001conditional\u00012p": {
+"pt": "Vocês espremeriam a camisola na mala.",
+"nl": "Jullie zouden de trui in de koffer persen."
+},
+"dretschen\u0001conditional\u00013p": {
+"pt": "Eles espremeriam a camisola na mala.",
+"nl": "Zij zouden de trui in de koffer persen."
+},
+"dretschen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria espremido a camisola na mala.",
+"nl": "Ik zou de trui in de koffer hebben geperst."
+},
+"dretschen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias espremido a camisola na mala.",
+"nl": "Jij zou de trui in de koffer hebben geperst."
+},
+"dretschen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria espremido a camisola na mala.",
+"nl": "Hij zou de trui in de koffer hebben geperst."
+},
+"dretschen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos espremido a camisola na mala.",
+"nl": "Wij zouden de trui in de koffer hebben geperst."
+},
+"dretschen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam espremido a camisola na mala.",
+"nl": "Jullie zouden de trui in de koffer hebben geperst."
+},
+"dretschen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam espremido a camisola na mala.",
+"nl": "Zij zouden de trui in de koffer hebben geperst."
+},
+"dretschen\u0001subjunctive\u00011s": {
+"pt": "que eu esprema a camisola na mala",
+"nl": "dat ik de trui in de koffer pers"
+},
+"dretschen\u0001subjunctive\u00012s": {
+"pt": "que tu espremas a camisola na mala",
+"nl": "dat jij de trui in de koffer perst"
+},
+"dretschen\u0001subjunctive\u00013s": {
+"pt": "que ele esprema a camisola na mala",
+"nl": "dat hij de trui in de koffer perst"
+},
+"dretschen\u0001subjunctive\u00011p": {
+"pt": "que nós espremamos a camisola na mala",
+"nl": "dat wij de trui in de koffer persen"
+},
+"dretschen\u0001subjunctive\u00012p": {
+"pt": "que vocês espremam a camisola na mala",
+"nl": "dat jullie de trui in de koffer persen"
+},
+"dretschen\u0001subjunctive\u00013p": {
+"pt": "que eles espremam a camisola na mala",
+"nl": "dat zij de trui in de koffer persen"
+},
+"dribbelen\u0001present\u00011s": {
+"pt": "Eu driblo a bola à volta dos cones.",
+"nl": "Ik dribbel met de bal om de pionnen."
+},
+"dribbelen\u0001present\u00012s": {
+"pt": "Tu driblas a bola à volta dos cones.",
+"nl": "Jij dribbelt met de bal om de pionnen."
+},
+"dribbelen\u0001present\u00013s": {
+"pt": "Ele dribla a bola à volta dos cones.",
+"nl": "Hij dribbelt met de bal om de pionnen."
+},
+"dribbelen\u0001present\u00011p": {
+"pt": "Nós driblamos a bola à volta dos cones.",
+"nl": "Wij dribbelen met de bal om de pionnen."
+},
+"dribbelen\u0001present\u00012p": {
+"pt": "Vocês driblam a bola à volta dos cones.",
+"nl": "Jullie dribbelen met de bal om de pionnen."
+},
+"dribbelen\u0001present\u00013p": {
+"pt": "Eles driblam a bola à volta dos cones.",
+"nl": "Zij dribbelen met de bal om de pionnen."
+},
+"dribbelen\u0001perfect\u00011s": {
+"pt": "Eu driblei a bola à volta dos cones.",
+"nl": "Ik heb met de bal om de pionnen gedribbeld."
+},
+"dribbelen\u0001perfect\u00012s": {
+"pt": "Tu driblaste a bola à volta dos cones.",
+"nl": "Jij hebt met de bal om de pionnen gedribbeld."
+},
+"dribbelen\u0001perfect\u00013s": {
+"pt": "Ele driblou a bola à volta dos cones.",
+"nl": "Hij heeft met de bal om de pionnen gedribbeld."
+},
+"dribbelen\u0001perfect\u00011p": {
+"pt": "Nós driblámos a bola à volta dos cones.",
+"nl": "Wij hebben met de bal om de pionnen gedribbeld."
+},
+"dribbelen\u0001perfect\u00012p": {
+"pt": "Vocês driblaram a bola à volta dos cones.",
+"nl": "Jullie hebben met de bal om de pionnen gedribbeld."
+},
+"dribbelen\u0001perfect\u00013p": {
+"pt": "Eles driblaram a bola à volta dos cones.",
+"nl": "Zij hebben met de bal om de pionnen gedribbeld."
+},
+"dribbelen\u0001past\u00011s": {
+"pt": "Eu driblei a bola à volta dos cones.",
+"nl": "Ik dribbelde met de bal om de pionnen."
+},
+"dribbelen\u0001past\u00012s": {
+"pt": "Tu driblaste a bola à volta dos cones.",
+"nl": "Jij dribbelde met de bal om de pionnen."
+},
+"dribbelen\u0001past\u00013s": {
+"pt": "Ele driblou a bola à volta dos cones.",
+"nl": "Hij dribbelde met de bal om de pionnen."
+},
+"dribbelen\u0001past\u00011p": {
+"pt": "Nós driblámos a bola à volta dos cones.",
+"nl": "Wij dribbelden met de bal om de pionnen."
+},
+"dribbelen\u0001past\u00012p": {
+"pt": "Vocês driblaram a bola à volta dos cones.",
+"nl": "Jullie dribbelden met de bal om de pionnen."
+},
+"dribbelen\u0001past\u00013p": {
+"pt": "Eles driblaram a bola à volta dos cones.",
+"nl": "Zij dribbelden met de bal om de pionnen."
+},
+"dribbelen\u0001imperfect\u00011s": {
+"pt": "Eu estava a driblar a bola à volta dos cones.",
+"nl": "Ik was met de bal om de pionnen aan het dribbelen."
+},
+"dribbelen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a driblar a bola à volta dos cones.",
+"nl": "Jij was met de bal om de pionnen aan het dribbelen."
+},
+"dribbelen\u0001imperfect\u00013s": {
+"pt": "Ele estava a driblar a bola à volta dos cones.",
+"nl": "Hij was met de bal om de pionnen aan het dribbelen."
+},
+"dribbelen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a driblar a bola à volta dos cones.",
+"nl": "Wij waren met de bal om de pionnen aan het dribbelen."
+},
+"dribbelen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a driblar a bola à volta dos cones.",
+"nl": "Jullie waren met de bal om de pionnen aan het dribbelen."
+},
+"dribbelen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a driblar a bola à volta dos cones.",
+"nl": "Zij waren met de bal om de pionnen aan het dribbelen."
+},
+"dribbelen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha driblado a bola à volta dos cones.",
+"nl": "Ik had met de bal om de pionnen gedribbeld."
+},
+"dribbelen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas driblado a bola à volta dos cones.",
+"nl": "Jij had met de bal om de pionnen gedribbeld."
+},
+"dribbelen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha driblado a bola à volta dos cones.",
+"nl": "Hij had met de bal om de pionnen gedribbeld."
+},
+"dribbelen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos driblado a bola à volta dos cones.",
+"nl": "Wij hadden met de bal om de pionnen gedribbeld."
+},
+"dribbelen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham driblado a bola à volta dos cones.",
+"nl": "Jullie hadden met de bal om de pionnen gedribbeld."
+},
+"dribbelen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham driblado a bola à volta dos cones.",
+"nl": "Zij hadden met de bal om de pionnen gedribbeld."
+},
+"dribbelen\u0001future\u00011s": {
+"pt": "Eu driblarei a bola à volta dos cones.",
+"nl": "Ik zal met de bal om de pionnen dribbelen."
+},
+"dribbelen\u0001future\u00012s": {
+"pt": "Tu driblarás a bola à volta dos cones.",
+"nl": "Jij zult met de bal om de pionnen dribbelen."
+},
+"dribbelen\u0001future\u00013s": {
+"pt": "Ele driblará a bola à volta dos cones.",
+"nl": "Hij zal met de bal om de pionnen dribbelen."
+},
+"dribbelen\u0001future\u00011p": {
+"pt": "Nós driblaremos a bola à volta dos cones.",
+"nl": "Wij zullen met de bal om de pionnen dribbelen."
+},
+"dribbelen\u0001future\u00012p": {
+"pt": "Vocês driblarão a bola à volta dos cones.",
+"nl": "Jullie zullen met de bal om de pionnen dribbelen."
+},
+"dribbelen\u0001future\u00013p": {
+"pt": "Eles driblarão a bola à volta dos cones.",
+"nl": "Zij zullen met de bal om de pionnen dribbelen."
+},
+"dribbelen\u0001conditional\u00011s": {
+"pt": "Eu driblaria a bola à volta dos cones.",
+"nl": "Ik zou met de bal om de pionnen dribbelen."
+},
+"dribbelen\u0001conditional\u00012s": {
+"pt": "Tu driblarias a bola à volta dos cones.",
+"nl": "Jij zou met de bal om de pionnen dribbelen."
+},
+"dribbelen\u0001conditional\u00013s": {
+"pt": "Ele driblaria a bola à volta dos cones.",
+"nl": "Hij zou met de bal om de pionnen dribbelen."
+},
+"dribbelen\u0001conditional\u00011p": {
+"pt": "Nós driblaríamos a bola à volta dos cones.",
+"nl": "Wij zouden met de bal om de pionnen dribbelen."
+},
+"dribbelen\u0001conditional\u00012p": {
+"pt": "Vocês driblariam a bola à volta dos cones.",
+"nl": "Jullie zouden met de bal om de pionnen dribbelen."
+},
+"dribbelen\u0001conditional\u00013p": {
+"pt": "Eles driblariam a bola à volta dos cones.",
+"nl": "Zij zouden met de bal om de pionnen dribbelen."
+},
+"dribbelen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria driblado a bola à volta dos cones.",
+"nl": "Ik zou met de bal om de pionnen hebben gedribbeld."
+},
+"dribbelen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias driblado a bola à volta dos cones.",
+"nl": "Jij zou met de bal om de pionnen hebben gedribbeld."
+},
+"dribbelen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria driblado a bola à volta dos cones.",
+"nl": "Hij zou met de bal om de pionnen hebben gedribbeld."
+},
+"dribbelen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos driblado a bola à volta dos cones.",
+"nl": "Wij zouden met de bal om de pionnen hebben gedribbeld."
+},
+"dribbelen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam driblado a bola à volta dos cones.",
+"nl": "Jullie zouden met de bal om de pionnen hebben gedribbeld."
+},
+"dribbelen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam driblado a bola à volta dos cones.",
+"nl": "Zij zouden met de bal om de pionnen hebben gedribbeld."
+},
+"dribbelen\u0001subjunctive\u00011s": {
+"pt": "que eu drible a bola à volta dos cones",
+"nl": "dat ik met de bal om de pionnen dribbel"
+},
+"dribbelen\u0001subjunctive\u00012s": {
+"pt": "que tu dribles a bola à volta dos cones",
+"nl": "dat jij met de bal om de pionnen dribbelt"
+},
+"dribbelen\u0001subjunctive\u00013s": {
+"pt": "que ele drible a bola à volta dos cones",
+"nl": "dat hij met de bal om de pionnen dribbelt"
+},
+"dribbelen\u0001subjunctive\u00011p": {
+"pt": "que nós driblemos a bola à volta dos cones",
+"nl": "dat wij met de bal om de pionnen dribbelen"
+},
+"dribbelen\u0001subjunctive\u00012p": {
+"pt": "que vocês driblem a bola à volta dos cones",
+"nl": "dat jullie met de bal om de pionnen dribbelen"
+},
+"dribbelen\u0001subjunctive\u00013p": {
+"pt": "que eles driblem a bola à volta dos cones",
+"nl": "dat zij met de bal om de pionnen dribbelen"
+},
+"drillen\u0001present\u00011s": {
+"pt": "Eu treino os recrutas.",
+"nl": "Ik drill de rekruten."
+},
+"drillen\u0001present\u00012s": {
+"pt": "Tu treinas os recrutas.",
+"nl": "Jij drillt de rekruten."
+},
+"drillen\u0001present\u00013s": {
+"pt": "Ele treina os recrutas.",
+"nl": "Hij drillt de rekruten."
+},
+"drillen\u0001present\u00011p": {
+"pt": "Nós treinamos os recrutas.",
+"nl": "Wij drillen de rekruten."
+},
+"drillen\u0001present\u00012p": {
+"pt": "Vocês treinam os recrutas.",
+"nl": "Jullie drillen de rekruten."
+},
+"drillen\u0001present\u00013p": {
+"pt": "Eles treinam os recrutas.",
+"nl": "Zij drillen de rekruten."
+},
+"drillen\u0001perfect\u00011s": {
+"pt": "Eu treinei os recrutas.",
+"nl": "Ik heb de rekruten gedrild."
+},
+"drillen\u0001perfect\u00012s": {
+"pt": "Tu treinaste os recrutas.",
+"nl": "Jij hebt de rekruten gedrild."
+},
+"drillen\u0001perfect\u00013s": {
+"pt": "Ele treinou os recrutas.",
+"nl": "Hij heeft de rekruten gedrild."
+},
+"drillen\u0001perfect\u00011p": {
+"pt": "Nós treinámos os recrutas.",
+"nl": "Wij hebben de rekruten gedrild."
+},
+"drillen\u0001perfect\u00012p": {
+"pt": "Vocês treinaram os recrutas.",
+"nl": "Jullie hebben de rekruten gedrild."
+},
+"drillen\u0001perfect\u00013p": {
+"pt": "Eles treinaram os recrutas.",
+"nl": "Zij hebben de rekruten gedrild."
+},
+"drillen\u0001past\u00011s": {
+"pt": "Eu treinei os recrutas ontem.",
+"nl": "Ik drillde de rekruten gisteren."
+},
+"drillen\u0001past\u00012s": {
+"pt": "Tu treinaste os recrutas ontem.",
+"nl": "Jij drillde de rekruten gisteren."
+},
+"drillen\u0001past\u00013s": {
+"pt": "Ele treinou os recrutas ontem.",
+"nl": "Hij drillde de rekruten gisteren."
+},
+"drillen\u0001past\u00011p": {
+"pt": "Nós treinámos os recrutas ontem.",
+"nl": "Wij drillden de rekruten gisteren."
+},
+"drillen\u0001past\u00012p": {
+"pt": "Vocês treinaram os recrutas ontem.",
+"nl": "Jullie drillden de rekruten gisteren."
+},
+"drillen\u0001past\u00013p": {
+"pt": "Eles treinaram os recrutas ontem.",
+"nl": "Zij drillden de rekruten gisteren."
+},
+"drillen\u0001imperfect\u00011s": {
+"pt": "Eu estava a treinar os recrutas.",
+"nl": "Ik was de rekruten aan het drillen."
+},
+"drillen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a treinar os recrutas.",
+"nl": "Jij was de rekruten aan het drillen."
+},
+"drillen\u0001imperfect\u00013s": {
+"pt": "Ele estava a treinar os recrutas.",
+"nl": "Hij was de rekruten aan het drillen."
+},
+"drillen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a treinar os recrutas.",
+"nl": "Wij waren de rekruten aan het drillen."
+},
+"drillen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a treinar os recrutas.",
+"nl": "Jullie waren de rekruten aan het drillen."
+},
+"drillen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a treinar os recrutas.",
+"nl": "Zij waren de rekruten aan het drillen."
+},
+"drillen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha treinado os recrutas.",
+"nl": "Ik had de rekruten gedrild."
+},
+"drillen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas treinado os recrutas.",
+"nl": "Jij had de rekruten gedrild."
+},
+"drillen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha treinado os recrutas.",
+"nl": "Hij had de rekruten gedrild."
+},
+"drillen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos treinado os recrutas.",
+"nl": "Wij hadden de rekruten gedrild."
+},
+"drillen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham treinado os recrutas.",
+"nl": "Jullie hadden de rekruten gedrild."
+},
+"drillen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham treinado os recrutas.",
+"nl": "Zij hadden de rekruten gedrild."
+},
+"drillen\u0001future\u00011s": {
+"pt": "Eu treinarei os recrutas.",
+"nl": "Ik zal de rekruten drillen."
+},
+"drillen\u0001future\u00012s": {
+"pt": "Tu treinarás os recrutas.",
+"nl": "Jij zult de rekruten drillen."
+},
+"drillen\u0001future\u00013s": {
+"pt": "Ele treinará os recrutas.",
+"nl": "Hij zal de rekruten drillen."
+},
+"drillen\u0001future\u00011p": {
+"pt": "Nós treinaremos os recrutas.",
+"nl": "Wij zullen de rekruten drillen."
+},
+"drillen\u0001future\u00012p": {
+"pt": "Vocês treinarão os recrutas.",
+"nl": "Jullie zullen de rekruten drillen."
+},
+"drillen\u0001future\u00013p": {
+"pt": "Eles treinarão os recrutas.",
+"nl": "Zij zullen de rekruten drillen."
+},
+"drillen\u0001conditional\u00011s": {
+"pt": "Eu treinaria os recrutas.",
+"nl": "Ik zou de rekruten drillen."
+},
+"drillen\u0001conditional\u00012s": {
+"pt": "Tu treinarias os recrutas.",
+"nl": "Jij zou de rekruten drillen."
+},
+"drillen\u0001conditional\u00013s": {
+"pt": "Ele treinaria os recrutas.",
+"nl": "Hij zou de rekruten drillen."
+},
+"drillen\u0001conditional\u00011p": {
+"pt": "Nós treinaríamos os recrutas.",
+"nl": "Wij zouden de rekruten drillen."
+},
+"drillen\u0001conditional\u00012p": {
+"pt": "Vocês treinariam os recrutas.",
+"nl": "Jullie zouden de rekruten drillen."
+},
+"drillen\u0001conditional\u00013p": {
+"pt": "Eles treinariam os recrutas.",
+"nl": "Zij zouden de rekruten drillen."
+},
+"drillen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria treinado os recrutas.",
+"nl": "Ik zou de rekruten hebben gedrild."
+},
+"drillen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias treinado os recrutas.",
+"nl": "Jij zou de rekruten hebben gedrild."
+},
+"drillen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria treinado os recrutas.",
+"nl": "Hij zou de rekruten hebben gedrild."
+},
+"drillen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos treinado os recrutas.",
+"nl": "Wij zouden de rekruten hebben gedrild."
+},
+"drillen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam treinado os recrutas.",
+"nl": "Jullie zouden de rekruten hebben gedrild."
+},
+"drillen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam treinado os recrutas.",
+"nl": "Zij zouden de rekruten hebben gedrild."
+},
+"drillen\u0001subjunctive\u00011s": {
+"pt": "que eu treine os recrutas",
+"nl": "dat ik de rekruten drill"
+},
+"drillen\u0001subjunctive\u00012s": {
+"pt": "que tu treines os recrutas",
+"nl": "dat jij de rekruten drillt"
+},
+"drillen\u0001subjunctive\u00013s": {
+"pt": "que ele treine os recrutas",
+"nl": "dat hij de rekruten drillt"
+},
+"drillen\u0001subjunctive\u00011p": {
+"pt": "que nós treinemos os recrutas",
+"nl": "dat wij de rekruten drillen"
+},
+"drillen\u0001subjunctive\u00012p": {
+"pt": "que vocês treinem os recrutas",
+"nl": "dat jullie de rekruten drillen"
+},
+"drillen\u0001subjunctive\u00013p": {
+"pt": "que eles treinem os recrutas",
+"nl": "dat zij de rekruten drillen"
+},
+"droen\u0001present\u00011s": {
+"pt": "Eu carrego a mala pesada até à estação.",
+"nl": "Ik draag de zware koffer naar het station."
+},
+"droen\u0001present\u00012s": {
+"pt": "Tu carregas a mala pesada até à estação.",
+"nl": "Jij draagt de zware koffer naar het station."
+},
+"droen\u0001present\u00013s": {
+"pt": "Ele carrega a mala pesada até à estação.",
+"nl": "Hij draagt de zware koffer naar het station."
+},
+"droen\u0001present\u00011p": {
+"pt": "Nós carregamos a mala pesada até à estação.",
+"nl": "Wij dragen de zware koffer naar het station."
+},
+"droen\u0001present\u00012p": {
+"pt": "Vocês carregam a mala pesada até à estação.",
+"nl": "Jullie dragen de zware koffer naar het station."
+},
+"droen\u0001present\u00013p": {
+"pt": "Eles carregam a mala pesada até à estação.",
+"nl": "Zij dragen de zware koffer naar het station."
+},
+"droen\u0001perfect\u00011s": {
+"pt": "Eu carreguei a mala pesada até à estação.",
+"nl": "Ik heb de zware koffer naar het station gedragen."
+},
+"droen\u0001perfect\u00012s": {
+"pt": "Tu carregaste a mala pesada até à estação.",
+"nl": "Jij hebt de zware koffer naar het station gedragen."
+},
+"droen\u0001perfect\u00013s": {
+"pt": "Ele carregou a mala pesada até à estação.",
+"nl": "Hij heeft de zware koffer naar het station gedragen."
+},
+"droen\u0001perfect\u00011p": {
+"pt": "Nós carregámos a mala pesada até à estação.",
+"nl": "Wij hebben de zware koffer naar het station gedragen."
+},
+"droen\u0001perfect\u00012p": {
+"pt": "Vocês carregaram a mala pesada até à estação.",
+"nl": "Jullie hebben de zware koffer naar het station gedragen."
+},
+"droen\u0001perfect\u00013p": {
+"pt": "Eles carregaram a mala pesada até à estação.",
+"nl": "Zij hebben de zware koffer naar het station gedragen."
+},
+"droen\u0001past\u00011s": {
+"pt": "Eu carreguei a mala pesada até à estação.",
+"nl": "Ik droeg de zware koffer naar het station."
+},
+"droen\u0001past\u00012s": {
+"pt": "Tu carregaste a mala pesada até à estação.",
+"nl": "Jij droeg de zware koffer naar het station."
+},
+"droen\u0001past\u00013s": {
+"pt": "Ele carregou a mala pesada até à estação.",
+"nl": "Hij droeg de zware koffer naar het station."
+},
+"droen\u0001past\u00011p": {
+"pt": "Nós carregámos a mala pesada até à estação.",
+"nl": "Wij droegen de zware koffer naar het station."
+},
+"droen\u0001past\u00012p": {
+"pt": "Vocês carregaram a mala pesada até à estação.",
+"nl": "Jullie droegen de zware koffer naar het station."
+},
+"droen\u0001past\u00013p": {
+"pt": "Eles carregaram a mala pesada até à estação.",
+"nl": "Zij droegen de zware koffer naar het station."
+},
+"droen\u0001imperfect\u00011s": {
+"pt": "Eu estava a carregar a mala pesada até à estação.",
+"nl": "Ik was de zware koffer naar het station aan het dragen."
+},
+"droen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a carregar a mala pesada até à estação.",
+"nl": "Jij was de zware koffer naar het station aan het dragen."
+},
+"droen\u0001imperfect\u00013s": {
+"pt": "Ele estava a carregar a mala pesada até à estação.",
+"nl": "Hij was de zware koffer naar het station aan het dragen."
+},
+"droen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a carregar a mala pesada até à estação.",
+"nl": "Wij waren de zware koffer naar het station aan het dragen."
+},
+"droen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a carregar a mala pesada até à estação.",
+"nl": "Jullie waren de zware koffer naar het station aan het dragen."
+},
+"droen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a carregar a mala pesada até à estação.",
+"nl": "Zij waren de zware koffer naar het station aan het dragen."
+},
+"droen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha carregado a mala pesada até à estação.",
+"nl": "Ik had de zware koffer naar het station gedragen."
+},
+"droen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas carregado a mala pesada até à estação.",
+"nl": "Jij had de zware koffer naar het station gedragen."
+},
+"droen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha carregado a mala pesada até à estação.",
+"nl": "Hij had de zware koffer naar het station gedragen."
+},
+"droen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos carregado a mala pesada até à estação.",
+"nl": "Wij hadden de zware koffer naar het station gedragen."
+},
+"droen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham carregado a mala pesada até à estação.",
+"nl": "Jullie hadden de zware koffer naar het station gedragen."
+},
+"droen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham carregado a mala pesada até à estação.",
+"nl": "Zij hadden de zware koffer naar het station gedragen."
+},
+"droen\u0001future\u00011s": {
+"pt": "Eu carregarei a mala pesada até à estação.",
+"nl": "Ik zal de zware koffer naar het station dragen."
+},
+"droen\u0001future\u00012s": {
+"pt": "Tu carregarás a mala pesada até à estação.",
+"nl": "Jij zult de zware koffer naar het station dragen."
+},
+"droen\u0001future\u00013s": {
+"pt": "Ele carregará a mala pesada até à estação.",
+"nl": "Hij zal de zware koffer naar het station dragen."
+},
+"droen\u0001future\u00011p": {
+"pt": "Nós carregaremos a mala pesada até à estação.",
+"nl": "Wij zullen de zware koffer naar het station dragen."
+},
+"droen\u0001future\u00012p": {
+"pt": "Vocês carregarão a mala pesada até à estação.",
+"nl": "Jullie zullen de zware koffer naar het station dragen."
+},
+"droen\u0001future\u00013p": {
+"pt": "Eles carregarão a mala pesada até à estação.",
+"nl": "Zij zullen de zware koffer naar het station dragen."
+},
+"droen\u0001conditional\u00011s": {
+"pt": "Eu carregaria a mala pesada até à estação.",
+"nl": "Ik zou de zware koffer naar het station dragen."
+},
+"droen\u0001conditional\u00012s": {
+"pt": "Tu carregarias a mala pesada até à estação.",
+"nl": "Jij zou de zware koffer naar het station dragen."
+},
+"droen\u0001conditional\u00013s": {
+"pt": "Ele carregaria a mala pesada até à estação.",
+"nl": "Hij zou de zware koffer naar het station dragen."
+},
+"droen\u0001conditional\u00011p": {
+"pt": "Nós carregaríamos a mala pesada até à estação.",
+"nl": "Wij zouden de zware koffer naar het station dragen."
+},
+"droen\u0001conditional\u00012p": {
+"pt": "Vocês carregariam a mala pesada até à estação.",
+"nl": "Jullie zouden de zware koffer naar het station dragen."
+},
+"droen\u0001conditional\u00013p": {
+"pt": "Eles carregariam a mala pesada até à estação.",
+"nl": "Zij zouden de zware koffer naar het station dragen."
+},
+"droen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria carregado a mala pesada até à estação.",
+"nl": "Ik zou de zware koffer naar het station hebben gedragen."
+},
+"droen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias carregado a mala pesada até à estação.",
+"nl": "Jij zou de zware koffer naar het station hebben gedragen."
+},
+"droen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria carregado a mala pesada até à estação.",
+"nl": "Hij zou de zware koffer naar het station hebben gedragen."
+},
+"droen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos carregado a mala pesada até à estação.",
+"nl": "Wij zouden de zware koffer naar het station hebben gedragen."
+},
+"droen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam carregado a mala pesada até à estação.",
+"nl": "Jullie zouden de zware koffer naar het station hebben gedragen."
+},
+"droen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam carregado a mala pesada até à estação.",
+"nl": "Zij zouden de zware koffer naar het station hebben gedragen."
+},
+"droen\u0001subjunctive\u00011s": {
+"pt": "que eu carregue a mala pesada até à estação",
+"nl": "dat ik de zware koffer naar het station draag"
+},
+"droen\u0001subjunctive\u00012s": {
+"pt": "que tu carregues a mala pesada até à estação",
+"nl": "dat jij de zware koffer naar het station draagt"
+},
+"droen\u0001subjunctive\u00013s": {
+"pt": "que ele carregue a mala pesada até à estação",
+"nl": "dat hij de zware koffer naar het station draagt"
+},
+"droen\u0001subjunctive\u00011p": {
+"pt": "que nós carreguemos a mala pesada até à estação",
+"nl": "dat wij de zware koffer naar het station dragen"
+},
+"droen\u0001subjunctive\u00012p": {
+"pt": "que vocês carreguem a mala pesada até à estação",
+"nl": "dat jullie de zware koffer naar het station dragen"
+},
+"droen\u0001subjunctive\u00013p": {
+"pt": "que eles carreguem a mala pesada até à estação",
+"nl": "dat zij de zware koffer naar het station dragen"
+},
+"dropmaachen\u0001present\u00011s": {
+"pt": "Eu esbanjo o dinheiro em doces.",
+"nl": "Ik verspil het geld aan snoep."
+},
+"dropmaachen\u0001present\u00012s": {
+"pt": "Tu esbanjas o dinheiro em doces.",
+"nl": "Jij verspilt het geld aan snoep."
+},
+"dropmaachen\u0001present\u00013s": {
+"pt": "Ele esbanja o dinheiro em doces.",
+"nl": "Hij verspilt het geld aan snoep."
+},
+"dropmaachen\u0001present\u00011p": {
+"pt": "Nós esbanjamos o dinheiro em doces.",
+"nl": "Wij verspillen het geld aan snoep."
+},
+"dropmaachen\u0001present\u00012p": {
+"pt": "Vocês esbanjam o dinheiro em doces.",
+"nl": "Jullie verspillen het geld aan snoep."
+},
+"dropmaachen\u0001present\u00013p": {
+"pt": "Eles esbanjam o dinheiro em doces.",
+"nl": "Zij verspillen het geld aan snoep."
+},
+"dropmaachen\u0001perfect\u00011s": {
+"pt": "Eu esbanjei o dinheiro em doces.",
+"nl": "Ik heb het geld aan snoep verspild."
+},
+"dropmaachen\u0001perfect\u00012s": {
+"pt": "Tu esbanjaste o dinheiro em doces.",
+"nl": "Jij hebt het geld aan snoep verspild."
+},
+"dropmaachen\u0001perfect\u00013s": {
+"pt": "Ele esbanjou o dinheiro em doces.",
+"nl": "Hij heeft het geld aan snoep verspild."
+},
+"dropmaachen\u0001perfect\u00011p": {
+"pt": "Nós esbanjámos o dinheiro em doces.",
+"nl": "Wij hebben het geld aan snoep verspild."
+},
+"dropmaachen\u0001perfect\u00012p": {
+"pt": "Vocês esbanjaram o dinheiro em doces.",
+"nl": "Jullie hebben het geld aan snoep verspild."
+},
+"dropmaachen\u0001perfect\u00013p": {
+"pt": "Eles esbanjaram o dinheiro em doces.",
+"nl": "Zij hebben het geld aan snoep verspild."
+},
+"dropmaachen\u0001past\u00011s": {
+"pt": "Eu esbanjei o dinheiro em doces.",
+"nl": "Ik verspilde het geld aan snoep."
+},
+"dropmaachen\u0001past\u00012s": {
+"pt": "Tu esbanjaste o dinheiro em doces.",
+"nl": "Jij verspilde het geld aan snoep."
+},
+"dropmaachen\u0001past\u00013s": {
+"pt": "Ele esbanjou o dinheiro em doces.",
+"nl": "Hij verspilde het geld aan snoep."
+},
+"dropmaachen\u0001past\u00011p": {
+"pt": "Nós esbanjámos o dinheiro em doces.",
+"nl": "Wij verspilden het geld aan snoep."
+},
+"dropmaachen\u0001past\u00012p": {
+"pt": "Vocês esbanjaram o dinheiro em doces.",
+"nl": "Jullie verspilden het geld aan snoep."
+},
+"dropmaachen\u0001past\u00013p": {
+"pt": "Eles esbanjaram o dinheiro em doces.",
+"nl": "Zij verspilden het geld aan snoep."
+},
+"dropmaachen\u0001imperfect\u00011s": {
+"pt": "Eu estava a esbanjar o dinheiro em doces.",
+"nl": "Ik was het geld aan snoep aan het verspillen."
+},
+"dropmaachen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a esbanjar o dinheiro em doces.",
+"nl": "Jij was het geld aan snoep aan het verspillen."
+},
+"dropmaachen\u0001imperfect\u00013s": {
+"pt": "Ele estava a esbanjar o dinheiro em doces.",
+"nl": "Hij was het geld aan snoep aan het verspillen."
+},
+"dropmaachen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a esbanjar o dinheiro em doces.",
+"nl": "Wij waren het geld aan snoep aan het verspillen."
+},
+"dropmaachen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a esbanjar o dinheiro em doces.",
+"nl": "Jullie waren het geld aan snoep aan het verspillen."
+},
+"dropmaachen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a esbanjar o dinheiro em doces.",
+"nl": "Zij waren het geld aan snoep aan het verspillen."
+},
+"dropmaachen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha esbanjado o dinheiro em doces.",
+"nl": "Ik had het geld aan snoep verspild."
+},
+"dropmaachen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas esbanjado o dinheiro em doces.",
+"nl": "Jij had het geld aan snoep verspild."
+},
+"dropmaachen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha esbanjado o dinheiro em doces.",
+"nl": "Hij had het geld aan snoep verspild."
+},
+"dropmaachen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos esbanjado o dinheiro em doces.",
+"nl": "Wij hadden het geld aan snoep verspild."
+},
+"dropmaachen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham esbanjado o dinheiro em doces.",
+"nl": "Jullie hadden het geld aan snoep verspild."
+},
+"dropmaachen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham esbanjado o dinheiro em doces.",
+"nl": "Zij hadden het geld aan snoep verspild."
+},
+"dropmaachen\u0001future\u00011s": {
+"pt": "Eu esbanjarei o dinheiro em doces.",
+"nl": "Ik zal het geld aan snoep verspillen."
+},
+"dropmaachen\u0001future\u00012s": {
+"pt": "Tu esbanjarás o dinheiro em doces.",
+"nl": "Jij zult het geld aan snoep verspillen."
+},
+"dropmaachen\u0001future\u00013s": {
+"pt": "Ele esbanjará o dinheiro em doces.",
+"nl": "Hij zal het geld aan snoep verspillen."
+},
+"dropmaachen\u0001future\u00011p": {
+"pt": "Nós esbanjaremos o dinheiro em doces.",
+"nl": "Wij zullen het geld aan snoep verspillen."
+},
+"dropmaachen\u0001future\u00012p": {
+"pt": "Vocês esbanjarão o dinheiro em doces.",
+"nl": "Jullie zullen het geld aan snoep verspillen."
+},
+"dropmaachen\u0001future\u00013p": {
+"pt": "Eles esbanjarão o dinheiro em doces.",
+"nl": "Zij zullen het geld aan snoep verspillen."
+},
+"dropmaachen\u0001conditional\u00011s": {
+"pt": "Eu esbanjaria o dinheiro em doces.",
+"nl": "Ik zou het geld aan snoep verspillen."
+},
+"dropmaachen\u0001conditional\u00012s": {
+"pt": "Tu esbanjarias o dinheiro em doces.",
+"nl": "Jij zou het geld aan snoep verspillen."
+},
+"dropmaachen\u0001conditional\u00013s": {
+"pt": "Ele esbanjaria o dinheiro em doces.",
+"nl": "Hij zou het geld aan snoep verspillen."
+},
+"dropmaachen\u0001conditional\u00011p": {
+"pt": "Nós esbanjaríamos o dinheiro em doces.",
+"nl": "Wij zouden het geld aan snoep verspillen."
+},
+"dropmaachen\u0001conditional\u00012p": {
+"pt": "Vocês esbanjariam o dinheiro em doces.",
+"nl": "Jullie zouden het geld aan snoep verspillen."
+},
+"dropmaachen\u0001conditional\u00013p": {
+"pt": "Eles esbanjariam o dinheiro em doces.",
+"nl": "Zij zouden het geld aan snoep verspillen."
+},
+"dropmaachen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria esbanjado o dinheiro em doces.",
+"nl": "Ik zou het geld aan snoep hebben verspild."
+},
+"dropmaachen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias esbanjado o dinheiro em doces.",
+"nl": "Jij zou het geld aan snoep hebben verspild."
+},
+"dropmaachen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria esbanjado o dinheiro em doces.",
+"nl": "Hij zou het geld aan snoep hebben verspild."
+},
+"dropmaachen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos esbanjado o dinheiro em doces.",
+"nl": "Wij zouden het geld aan snoep hebben verspild."
+},
+"dropmaachen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam esbanjado o dinheiro em doces.",
+"nl": "Jullie zouden het geld aan snoep hebben verspild."
+},
+"dropmaachen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam esbanjado o dinheiro em doces.",
+"nl": "Zij zouden het geld aan snoep hebben verspild."
+},
+"dropmaachen\u0001subjunctive\u00011s": {
+"pt": "que eu esbanje o dinheiro em doces",
+"nl": "dat ik het geld aan snoep verspil"
+},
+"dropmaachen\u0001subjunctive\u00012s": {
+"pt": "que tu esbanjes o dinheiro em doces",
+"nl": "dat jij het geld aan snoep verspilt"
+},
+"dropmaachen\u0001subjunctive\u00013s": {
+"pt": "que ele esbanje o dinheiro em doces",
+"nl": "dat hij het geld aan snoep verspilt"
+},
+"dropmaachen\u0001subjunctive\u00011p": {
+"pt": "que nós esbanjemos o dinheiro em doces",
+"nl": "dat wij het geld aan snoep verspillen"
+},
+"dropmaachen\u0001subjunctive\u00012p": {
+"pt": "que vocês esbanjem o dinheiro em doces",
+"nl": "dat jullie het geld aan snoep verspillen"
+},
+"dropmaachen\u0001subjunctive\u00013p": {
+"pt": "que eles esbanjem o dinheiro em doces",
+"nl": "dat zij het geld aan snoep verspillen"
+},
+"drosselen\u0001present\u00011s": {
+"pt": "Eu reduzo o aquecimento.",
+"nl": "Ik zet de verwarming lager."
+},
+"drosselen\u0001present\u00012s": {
+"pt": "Tu reduzes o aquecimento.",
+"nl": "Jij zet de verwarming lager."
+},
+"drosselen\u0001present\u00013s": {
+"pt": "Ele reduz o aquecimento.",
+"nl": "Hij zet de verwarming lager."
+},
+"drosselen\u0001present\u00011p": {
+"pt": "Nós reduzimos o aquecimento.",
+"nl": "Wij zetten de verwarming lager."
+},
+"drosselen\u0001present\u00012p": {
+"pt": "Vocês reduzem o aquecimento.",
+"nl": "Jullie zetten de verwarming lager."
+},
+"drosselen\u0001present\u00013p": {
+"pt": "Eles reduzem o aquecimento.",
+"nl": "Zij zetten de verwarming lager."
+},
+"drosselen\u0001perfect\u00011s": {
+"pt": "Eu reduzi o aquecimento.",
+"nl": "Ik heb de verwarming lager gezet."
+},
+"drosselen\u0001perfect\u00012s": {
+"pt": "Tu reduziste o aquecimento.",
+"nl": "Jij hebt de verwarming lager gezet."
+},
+"drosselen\u0001perfect\u00013s": {
+"pt": "Ele reduziu o aquecimento.",
+"nl": "Hij heeft de verwarming lager gezet."
+},
+"drosselen\u0001perfect\u00011p": {
+"pt": "Nós reduzimos o aquecimento.",
+"nl": "Wij hebben de verwarming lager gezet."
+},
+"drosselen\u0001perfect\u00012p": {
+"pt": "Vocês reduziram o aquecimento.",
+"nl": "Jullie hebben de verwarming lager gezet."
+},
+"drosselen\u0001perfect\u00013p": {
+"pt": "Eles reduziram o aquecimento.",
+"nl": "Zij hebben de verwarming lager gezet."
+},
+"drosselen\u0001past\u00011s": {
+"pt": "Eu reduzi o aquecimento.",
+"nl": "Ik zette de verwarming lager."
+},
+"drosselen\u0001past\u00012s": {
+"pt": "Tu reduziste o aquecimento.",
+"nl": "Jij zette de verwarming lager."
+},
+"drosselen\u0001past\u00013s": {
+"pt": "Ele reduziu o aquecimento.",
+"nl": "Hij zette de verwarming lager."
+},
+"drosselen\u0001past\u00011p": {
+"pt": "Nós reduzimos o aquecimento.",
+"nl": "Wij zetten de verwarming lager."
+},
+"drosselen\u0001past\u00012p": {
+"pt": "Vocês reduziram o aquecimento.",
+"nl": "Jullie zetten de verwarming lager."
+},
+"drosselen\u0001past\u00013p": {
+"pt": "Eles reduziram o aquecimento.",
+"nl": "Zij zetten de verwarming lager."
+},
+"drosselen\u0001imperfect\u00011s": {
+"pt": "Eu estava a reduzir o aquecimento.",
+"nl": "Ik was de verwarming lager aan het zetten."
+},
+"drosselen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a reduzir o aquecimento.",
+"nl": "Jij was de verwarming lager aan het zetten."
+},
+"drosselen\u0001imperfect\u00013s": {
+"pt": "Ele estava a reduzir o aquecimento.",
+"nl": "Hij was de verwarming lager aan het zetten."
+},
+"drosselen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a reduzir o aquecimento.",
+"nl": "Wij waren de verwarming lager aan het zetten."
+},
+"drosselen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a reduzir o aquecimento.",
+"nl": "Jullie waren de verwarming lager aan het zetten."
+},
+"drosselen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a reduzir o aquecimento.",
+"nl": "Zij waren de verwarming lager aan het zetten."
+},
+"drosselen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha reduzido o aquecimento.",
+"nl": "Ik had de verwarming lager gezet."
+},
+"drosselen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas reduzido o aquecimento.",
+"nl": "Jij had de verwarming lager gezet."
+},
+"drosselen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha reduzido o aquecimento.",
+"nl": "Hij had de verwarming lager gezet."
+},
+"drosselen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos reduzido o aquecimento.",
+"nl": "Wij hadden de verwarming lager gezet."
+},
+"drosselen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham reduzido o aquecimento.",
+"nl": "Jullie hadden de verwarming lager gezet."
+},
+"drosselen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham reduzido o aquecimento.",
+"nl": "Zij hadden de verwarming lager gezet."
+},
+"drosselen\u0001future\u00011s": {
+"pt": "Eu reduzirei o aquecimento.",
+"nl": "Ik zal de verwarming lager zetten."
+},
+"drosselen\u0001future\u00012s": {
+"pt": "Tu reduzirás o aquecimento.",
+"nl": "Jij zult de verwarming lager zetten."
+},
+"drosselen\u0001future\u00013s": {
+"pt": "Ele reduzirá o aquecimento.",
+"nl": "Hij zal de verwarming lager zetten."
+},
+"drosselen\u0001future\u00011p": {
+"pt": "Nós reduziremos o aquecimento.",
+"nl": "Wij zullen de verwarming lager zetten."
+},
+"drosselen\u0001future\u00012p": {
+"pt": "Vocês reduzirão o aquecimento.",
+"nl": "Jullie zullen de verwarming lager zetten."
+},
+"drosselen\u0001future\u00013p": {
+"pt": "Eles reduzirão o aquecimento.",
+"nl": "Zij zullen de verwarming lager zetten."
+},
+"drosselen\u0001conditional\u00011s": {
+"pt": "Eu reduziria o aquecimento.",
+"nl": "Ik zou de verwarming lager zetten."
+},
+"drosselen\u0001conditional\u00012s": {
+"pt": "Tu reduzirias o aquecimento.",
+"nl": "Jij zou de verwarming lager zetten."
+},
+"drosselen\u0001conditional\u00013s": {
+"pt": "Ele reduziria o aquecimento.",
+"nl": "Hij zou de verwarming lager zetten."
+},
+"drosselen\u0001conditional\u00011p": {
+"pt": "Nós reduziríamos o aquecimento.",
+"nl": "Wij zouden de verwarming lager zetten."
+},
+"drosselen\u0001conditional\u00012p": {
+"pt": "Vocês reduziriam o aquecimento.",
+"nl": "Jullie zouden de verwarming lager zetten."
+},
+"drosselen\u0001conditional\u00013p": {
+"pt": "Eles reduziriam o aquecimento.",
+"nl": "Zij zouden de verwarming lager zetten."
+},
+"drosselen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria reduzido o aquecimento.",
+"nl": "Ik zou de verwarming lager hebben gezet."
+},
+"drosselen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias reduzido o aquecimento.",
+"nl": "Jij zou de verwarming lager hebben gezet."
+},
+"drosselen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria reduzido o aquecimento.",
+"nl": "Hij zou de verwarming lager hebben gezet."
+},
+"drosselen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos reduzido o aquecimento.",
+"nl": "Wij zouden de verwarming lager hebben gezet."
+},
+"drosselen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam reduzido o aquecimento.",
+"nl": "Jullie zouden de verwarming lager hebben gezet."
+},
+"drosselen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam reduzido o aquecimento.",
+"nl": "Zij zouden de verwarming lager hebben gezet."
+},
+"drosselen\u0001subjunctive\u00011s": {
+"pt": "que eu reduza o aquecimento",
+"nl": "dat ik de verwarming lager zet"
+},
+"drosselen\u0001subjunctive\u00012s": {
+"pt": "que tu reduzas o aquecimento",
+"nl": "dat jij de verwarming lager zet"
+},
+"drosselen\u0001subjunctive\u00013s": {
+"pt": "que ele reduza o aquecimento",
+"nl": "dat hij de verwarming lager zet"
+},
+"drosselen\u0001subjunctive\u00011p": {
+"pt": "que nós reduzamos o aquecimento",
+"nl": "dat wij de verwarming lager zetten"
+},
+"drosselen\u0001subjunctive\u00012p": {
+"pt": "que vocês reduzam o aquecimento",
+"nl": "dat jullie de verwarming lager zetten"
+},
+"drosselen\u0001subjunctive\u00013p": {
+"pt": "que eles reduzam o aquecimento",
+"nl": "dat zij de verwarming lager zetten"
 }
 }
