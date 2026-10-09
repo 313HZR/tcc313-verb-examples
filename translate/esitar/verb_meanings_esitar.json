@@ -5993,5 +5993,2005 @@
 "es": "fastidiar",
 "it": "infastidire",
 "ar": "أَزْعَجَ"
+},
+"erafeieren": {
+"es": "devorar",
+"it": "divorare",
+"ar": "اِلْتَهَمَ"
+},
+"faaschten": {
+"es": "ayunar",
+"it": "digiunare",
+"ar": "صَامَ"
+},
+"faassen": {
+"es": "capturar",
+"it": "catturare",
+"ar": "أَسَرَ"
+},
+"fabrizéieren": {
+"es": "fabricar",
+"it": "fabbricare",
+"ar": "صَنَعَ"
+},
+"fachen": {
+"es": "golpear",
+"it": "colpire",
+"ar": "ضَرَبَ"
+},
+"fackelen": {
+"es": "vacilar",
+"it": "esitare",
+"ar": "تَرَدَّدَ"
+},
+"fäerdegmaachen": {
+"es": "prepararse",
+"it": "prepararsi",
+"ar": "اِسْتَعَدَّ"
+},
+"fäerdeg maachen": {
+"es": "terminar",
+"it": "finire",
+"ar": "أَنْهَى"
+},
+"fäerten": {
+"es": "temer",
+"it": "temere",
+"ar": "خَافَ"
+},
+"faken": {
+"es": "falsificar",
+"it": "falsificare",
+"ar": "زَوَّرَ"
+},
+"faleloossen": {
+"es": "soltar",
+"it": "lasciare",
+"ar": "أَسْقَطَ"
+},
+"falen": {
+"es": "caer",
+"it": "cadere",
+"ar": "سَقَطَ"
+},
+"fälschen": {
+"es": "falsificar",
+"it": "falsificare",
+"ar": "زَوَّرَ"
+},
+"fanatiséieren": {
+"es": "fanatizar",
+"it": "fanatizzare",
+"ar": "حَمَّسَ"
+},
+"fändelen": {
+"es": "vagar",
+"it": "vagabondare",
+"ar": "تَجَوَّلَ"
+},
+"fänken": {
+"es": "atrapar",
+"it": "afferrare",
+"ar": "أَمْسَكَ"
+},
+"fannen": {
+"es": "encontrar",
+"it": "trovare",
+"ar": "وَجَدَ"
+},
+"fantaséieren": {
+"es": "fantasear",
+"it": "fantasticare",
+"ar": "تَخَيَّلَ"
+},
+"faschten": {
+"es": "ventosear",
+"it": "scoreggiare",
+"ar": "ضَرَطَ"
+},
+"faszinéieren": {
+"es": "fascinar",
+"it": "affascinare",
+"ar": "سَحَرَ"
+},
+"fatzen": {
+"es": "vagar",
+"it": "vagare",
+"ar": "تَسَكَّعَ"
+},
+"fauchen": {
+"es": "silbar",
+"it": "sibilare",
+"ar": "فَحَّ"
+},
+"faulen": {
+"es": "pudrirse",
+"it": "marcire",
+"ar": "فَسَدَ"
+},
+"faulenzen": {
+"es": "holgazanear",
+"it": "oziare",
+"ar": "تَكَاسَلَ"
+},
+"fautelen": {
+"es": "hacer trampa",
+"it": "imbrogliare",
+"ar": "غَشَّ"
+},
+"favoriséieren": {
+"es": "favorecer",
+"it": "favorire",
+"ar": "فَضَّلَ"
+},
+"faxen": {
+"es": "faxear",
+"it": "faxare",
+"ar": "أَرْسَلَ"
+},
+"fechten": {
+"es": "esgrimir",
+"it": "schermire",
+"ar": "بَارَزَ"
+},
+"fécken": {
+"es": "follar",
+"it": "scopare",
+"ar": "نَكَحَ"
+},
+"feeën": {
+"es": "limpiar",
+"it": "pulire",
+"ar": "نَظَّفَ"
+},
+"feelgoen": {
+"es": "errar",
+"it": "sbagliare",
+"ar": "أَخْطَأَ"
+},
+"feelschloen": {
+"es": "fracasar",
+"it": "fallire",
+"ar": "فَشِلَ"
+},
+"feieren": {
+"es": "celebrar",
+"it": "festeggiare",
+"ar": "اِحْتَفَلَ"
+},
+"féieren": {
+"es": "conducir",
+"it": "condurre",
+"ar": "قَادَ"
+},
+"feilen": {
+"es": "limar",
+"it": "limare",
+"ar": "بَرَدَ"
+},
+"felicitéieren": {
+"es": "felicitar",
+"it": "felicitare",
+"ar": "هَنَّأَ"
+},
+"fëllen": {
+"es": "llenar",
+"it": "riempire",
+"ar": "مَلَأَ"
+},
+"fëmmen": {
+"es": "fumar",
+"it": "fumare",
+"ar": "دَخَّنَ"
+},
+"fénkelen": {
+"es": "centellear",
+"it": "scintillare",
+"ar": "لَمَعَ"
+},
+"fërderen": {
+"es": "apoyar",
+"it": "sostenere",
+"ar": "دَعَمَ"
+},
+"fëschen": {
+"es": "pescar",
+"it": "pescare",
+"ar": "صَادَ"
+},
+"fesselen": {
+"es": "atar",
+"it": "legare",
+"ar": "قَيَّدَ"
+},
+"festegen": {
+"es": "reforzar",
+"it": "rinforzare",
+"ar": "عَزَّزَ"
+},
+"festfréieren": {
+"es": "congelarse",
+"it": "congelarsi",
+"ar": "تَجَمَّدَ"
+},
+"festhalen": {
+"es": "retener",
+"it": "trattenere",
+"ar": "اِحْتَجَزَ"
+},
+"festhuelen": {
+"es": "arrestar",
+"it": "arrestare",
+"ar": "اِعْتَقَلَ"
+},
+"festleeën": {
+"es": "fijar",
+"it": "fissare",
+"ar": "حَدَّدَ"
+},
+"festmaachen": {
+"es": "sujetar",
+"it": "attaccare",
+"ar": "ثَبَّتَ"
+},
+"festneelen": {
+"es": "clavar",
+"it": "inchiodare",
+"ar": "سَمَّرَ"
+},
+"festsetzen": {
+"es": "establecer",
+"it": "stabilire",
+"ar": "حَدَّدَ"
+},
+"feststellen": {
+"es": "constatar",
+"it": "constatare",
+"ar": "تَعَرَّفَ"
+},
+"festtrëppelen": {
+"es": "pisotear",
+"it": "calpestare",
+"ar": "دَاسَ"
+},
+"fidderen": {
+"es": "alimentar",
+"it": "alimentare",
+"ar": "أَطْعَمَ"
+},
+"fiederen": {
+"es": "rebotar",
+"it": "rimbalzare",
+"ar": "اِرْتَدَّ"
+},
+"fierkelen": {
+"es": "parir",
+"it": "figliare",
+"ar": "وَلَدَ"
+},
+"fierwen": {
+"es": "colorear",
+"it": "colorare",
+"ar": "لَوَّنَ"
+},
+"filetéieren": {
+"es": "filetear",
+"it": "sfilettare",
+"ar": "شَرَّحَ"
+},
+"fillen": {
+"es": "sentir",
+"it": "sentire",
+"ar": "شَعَرَ"
+},
+"fillenen": {
+"es": "parir",
+"it": "figliare",
+"ar": "وَلَدَ"
+},
+"filmen": {
+"es": "filmar",
+"it": "filmare",
+"ar": "صَوَّرَ"
+},
+"filteren": {
+"es": "filtrar",
+"it": "filtrare",
+"ar": "رَشَّحَ"
+},
+"filtréieren": {
+"es": "filtrar",
+"it": "filtrare",
+"ar": "رَشَّحَ"
+},
+"filzen": {
+"es": "registrar",
+"it": "perquisire",
+"ar": "فَتَّشَ"
+},
+"finaliséieren": {
+"es": "finalizar",
+"it": "finalizzare",
+"ar": "أَنْجَزَ"
+},
+"finanzéieren": {
+"es": "financiar",
+"it": "finanziare",
+"ar": "مَوَّلَ"
+},
+"firmen": {
+"es": "confirmar",
+"it": "confermare",
+"ar": "أَكَّدَ"
+},
+"fisemen": {
+"es": "pelar",
+"it": "infeltrirsi",
+"ar": "تَشَعَّثَ"
+},
+"fixéieren": {
+"es": "fijar",
+"it": "fissare",
+"ar": "ثَبَّتَ"
+},
+"fixen": {
+"es": "drogarse",
+"it": "bucarsi",
+"ar": "تَعَاطَى"
+},
+"flaachleeën": {
+"es": "tender",
+"it": "stendere",
+"ar": "بَسَطَ"
+},
+"flackeren": {
+"es": "parpadear",
+"it": "tremolare",
+"ar": "تَلَأْلَأَ"
+},
+"fladderen": {
+"es": "aletear",
+"it": "svolazzare",
+"ar": "رَفْرَفَ"
+},
+"flambéieren": {
+"es": "flamear",
+"it": "flambare",
+"ar": "أَشْعَلَ"
+},
+"flamen": {
+"es": "arder",
+"it": "ardere",
+"ar": "اِحْتَرَقَ"
+},
+"flanéieren": {
+"es": "pasear",
+"it": "passeggiare",
+"ar": "تَمَشَّى"
+},
+"flanken": {
+"es": "centrar",
+"it": "crossare",
+"ar": "مَرَّرَ"
+},
+"flappen": {
+"es": "silenciar",
+"it": "silenziare",
+"ar": "أَسْكَتَ"
+},
+"flätschen": {
+"es": "azotar",
+"it": "sbattere",
+"ar": "صَفَقَ"
+},
+"flattéieren": {
+"es": "halagar",
+"it": "lusingare",
+"ar": "أَطْرَى"
+},
+"flatten": {
+"es": "aplanar",
+"it": "appiattire",
+"ar": "سَطَّحَ"
+},
+"flechten": {
+"es": "tejer",
+"it": "tessere",
+"ar": "نَسَجَ"
+},
+"flécken": {
+"es": "reparar",
+"it": "riparare",
+"ar": "أَصْلَحَ"
+},
+"fleegen": {
+"es": "cuidar",
+"it": "curare",
+"ar": "رَعَى"
+},
+"fléien": {
+"es": "volar",
+"it": "volare",
+"ar": "طَارَ"
+},
+"fléissen": {
+"es": "fluir",
+"it": "scorrere",
+"ar": "جَرَى"
+},
+"fléiwen": {
+"es": "instar",
+"it": "esortare",
+"ar": "حَثَّ"
+},
+"flimmeren": {
+"es": "parpadear",
+"it": "tremolare",
+"ar": "وَمَضَ"
+},
+"flirten": {
+"es": "coquetear",
+"it": "flirtare",
+"ar": "تَغَزَّلَ"
+},
+"flitzen": {
+"es": "correr",
+"it": "sfrecciare",
+"ar": "أَسْرَعَ"
+},
+"floréieren": {
+"es": "prosperar",
+"it": "prosperare",
+"ar": "ازْدَهَرَ"
+},
+"fluchen": {
+"es": "maldecir",
+"it": "imprecare",
+"ar": "شَتَمَ"
+},
+"flüchten": {
+"es": "huir",
+"it": "fuggire",
+"ar": "هَرَبَ"
+},
+"flutschen": {
+"es": "resbalar",
+"it": "scivolare",
+"ar": "زَلَقَ"
+},
+"fochsen": {
+"es": "fastidiar",
+"it": "infastidire",
+"ar": "أَزْعَجَ"
+},
+"follegen": {
+"es": "obedecer",
+"it": "obbedire",
+"ar": "أَطَاعَ"
+},
+"folteren": {
+"es": "torturar",
+"it": "torturare",
+"ar": "عَذَّبَ"
+},
+"fönen": {
+"es": "secar",
+"it": "asciugare",
+"ar": "جَفَّفَ"
+},
+"fonken": {
+"es": "chispear",
+"it": "scintillare",
+"ar": "شَرَّرَ"
+},
+"fooschen": {
+"es": "hilvanar",
+"it": "imbastire",
+"ar": "خَاطَ"
+},
+"forcéieren": {
+"es": "forzar",
+"it": "forzare",
+"ar": "أَجْبَرَ"
+},
+"formaliséieren": {
+"es": "formalizar",
+"it": "formalizzare",
+"ar": "رَسْمَلَ"
+},
+"formatéieren": {
+"es": "formatear",
+"it": "formattare",
+"ar": "نَسَّقَ"
+},
+"forméieren": {
+"es": "formar",
+"it": "formare",
+"ar": "كَوَّنَ"
+},
+"formen": {
+"es": "modelar",
+"it": "modellare",
+"ar": "شَكَّلَ"
+},
+"formuléieren": {
+"es": "formular",
+"it": "formulare",
+"ar": "صَاغَ"
+},
+"fortdroen": {
+"es": "llevar",
+"it": "trasportare",
+"ar": "حَمَلَ"
+},
+"fortféieren": {
+"es": "llevarse",
+"it": "portare via",
+"ar": "أَخَذَ"
+},
+"fortfléien": {
+"es": "volar",
+"it": "volare",
+"ar": "طَارَ"
+},
+"fortfueren": {
+"es": "partir",
+"it": "partire",
+"ar": "غَادَرَ"
+},
+"fortgoen": {
+"es": "irse",
+"it": "andarsene",
+"ar": "ذَهَبَ"
+},
+"fortjoen": {
+"es": "echar",
+"it": "cacciare",
+"ar": "طَرَدَ"
+},
+"fortkommen": {
+"es": "escaparse",
+"it": "scappare",
+"ar": "نَجَا"
+},
+"fortlafen": {
+"es": "escapar",
+"it": "scappare",
+"ar": "فَرَّ"
+},
+"fortschécken": {
+"es": "enviar",
+"it": "inviare",
+"ar": "أَرْسَلَ"
+},
+"fotograféieren": {
+"es": "fotografiar",
+"it": "fotografare",
+"ar": "صَوَّرَ"
+},
+"fotokopéieren": {
+"es": "fotocopiar",
+"it": "fotocopiare",
+"ar": "نَسَخَ"
+},
+"foutéieren": {
+"es": "hacer",
+"it": "fare",
+"ar": "فَعَلَ"
+},
+"fräiginn": {
+"es": "liberar",
+"it": "rilasciare",
+"ar": "أَطْلَقَ"
+},
+"fräihalen": {
+"es": "reservar",
+"it": "riservare",
+"ar": "حَجَزَ"
+},
+"fräikafen": {
+"es": "rescatar",
+"it": "riscattare",
+"ar": "فَدَى"
+},
+"fräileeën": {
+"es": "descubrir",
+"it": "scoprire",
+"ar": "كَشَفَ"
+},
+"fräiloossen": {
+"es": "liberar",
+"it": "liberare",
+"ar": "أَطْلَقَ"
+},
+"fräimaachen": {
+"es": "despejar",
+"it": "sgomberare",
+"ar": "أَخْلَى"
+},
+"fräischalten": {
+"es": "activar",
+"it": "attivare",
+"ar": "فَعَّلَ"
+},
+"fräischëppen": {
+"es": "despejar",
+"it": "sgomberare",
+"ar": "أَزَالَ"
+},
+"frankéieren": {
+"es": "franquear",
+"it": "affrancare",
+"ar": "أَدَّى"
+},
+"frappéieren": {
+"es": "impresionar",
+"it": "impressionare",
+"ar": "أَثَّرَ"
+},
+"fräsen": {
+"es": "fresar",
+"it": "fresare",
+"ar": "فَرَّزَ"
+},
+"fréckelen": {
+"es": "retorcerse",
+"it": "dimenarsi",
+"ar": "تَلَوَّى"
+},
+"freeën": {
+"es": "alegrarse",
+"it": "rallegrarsi",
+"ar": "تَطَلَّعَ"
+},
+"fréieren": {
+"es": "helar",
+"it": "gelare",
+"ar": "جَمَدَ"
+},
+"frëschmaachen": {
+"es": "renovar",
+"it": "rinnovare",
+"ar": "جَدَّدَ"
+},
+"frieden": {
+"es": "tocar",
+"it": "toccare",
+"ar": "لَمَسَ"
+},
+"friessen": {
+"es": "comer",
+"it": "mangiare",
+"ar": "أَكَلَ"
+},
+"friséieren": {
+"es": "trucar",
+"it": "truccare",
+"ar": "عَدَّلَ"
+},
+"frittéieren": {
+"es": "freír",
+"it": "friggere",
+"ar": "قَلَى"
+},
+"froen": {
+"es": "preguntar",
+"it": "chiedere",
+"ar": "سَأَلَ"
+},
+"fronzen": {
+"es": "fruncir",
+"it": "arricciare",
+"ar": "ثَنَى"
+},
+"frupsen": {
+"es": "engullir",
+"it": "divorare",
+"ar": "اِلْتَهَمَ"
+},
+"frustréieren": {
+"es": "frustrar",
+"it": "frustrare",
+"ar": "أَحْبَطَ"
+},
+"fuddelen": {
+"es": "engañar",
+"it": "imbrogliare",
+"ar": "غَشَّ"
+},
+"fuerderen": {
+"es": "exigir",
+"it": "esigere",
+"ar": "طَالَبَ"
+},
+"fueren": {
+"es": "conducir",
+"it": "guidare",
+"ar": "قَادَ"
+},
+"fuerzen": {
+"es": "ventosear",
+"it": "scoreggiare",
+"ar": "ضَرَطَ"
+},
+"fummelen": {
+"es": "trastear",
+"it": "armeggiare",
+"ar": "عَبِثَ"
+},
+"funken": {
+"es": "transmitir",
+"it": "trasmettere",
+"ar": "بَثَّ"
+},
+"funktionéieren": {
+"es": "funcionar",
+"it": "funzionare",
+"ar": "عَمِلَ"
+},
+"fuschen": {
+"es": "calcar",
+"it": "ricalcare",
+"ar": "نَقَلَ"
+},
+"fusionéieren": {
+"es": "fusionar",
+"it": "fondere",
+"ar": "دَمَجَ"
+},
+"futtifueren": {
+"es": "romperse",
+"it": "rompersi",
+"ar": "اِنْقَطَعَ"
+},
+"futtigoen": {
+"es": "romperse",
+"it": "rompersi",
+"ar": "اِنْكَسَرَ"
+},
+"futti maachen": {
+"es": "romper",
+"it": "rompere",
+"ar": "كَسَرَ"
+},
+"futtimaachen": {
+"es": "arruinar",
+"it": "rovinare",
+"ar": "خَرَّبَ"
+},
+"futti rappen": {
+"es": "desgarrar",
+"it": "strappare",
+"ar": "مَزَّقَ"
+},
+"futti trëppelen": {
+"es": "pisotear",
+"it": "calpestare",
+"ar": "دَاسَ"
+},
+"gaapsen": {
+"es": "bostezar",
+"it": "sbadigliare",
+"ar": "تَثَاءَبَ"
+},
+"gackeren": {
+"es": "cacarear",
+"it": "chiocciare",
+"ar": "قَاقَ"
+},
+"gaffen": {
+"es": "mirar",
+"it": "guardare",
+"ar": "حَدَّقَ"
+},
+"gäisselen": {
+"es": "azotar",
+"it": "frustare",
+"ar": "جَلَدَ"
+},
+"galoppéieren": {
+"es": "galopar",
+"it": "galoppare",
+"ar": "عَدَا"
+},
+"gängelen": {
+"es": "restringir",
+"it": "restringere",
+"ar": "قَيَّدَ"
+},
+"garantéieren": {
+"es": "garantizar",
+"it": "garantire",
+"ar": "ضَمِنَ"
+},
+"gären": {
+"es": "fermentar",
+"it": "fermentare",
+"ar": "اِخْتَمَرَ"
+},
+"garnéieren": {
+"es": "guarnecer",
+"it": "guarnire",
+"ar": "زَيَّنَ"
+},
+"gebieren": {
+"es": "nacer",
+"it": "nascere",
+"ar": "وُلِدَ"
+},
+"gebrauchen": {
+"es": "usar",
+"it": "usare",
+"ar": "اِسْتَخْدَمَ"
+},
+"gecksen": {
+"es": "bromear",
+"it": "scherzare",
+"ar": "مَزَحَ"
+},
+"gedenken": {
+"es": "conmemorar",
+"it": "commemorare",
+"ar": "أَحْيَا"
+},
+"gefalen": {
+"es": "tolerar",
+"it": "tollerare",
+"ar": "تَحَمَّلَ"
+},
+"geheien": {
+"es": "lanzar",
+"it": "lanciare",
+"ar": "رَمَى"
+},
+"gehéieren": {
+"es": "pertenecer",
+"it": "appartenere",
+"ar": "اِنْتَمَى"
+},
+"géissen": {
+"es": "fundir",
+"it": "fondere",
+"ar": "سَكَبَ"
+},
+"geléngen": {
+"es": "triunfar",
+"it": "riuscire",
+"ar": "نَجَحَ"
+},
+"geneemegen": {
+"es": "aprobar",
+"it": "approvare",
+"ar": "وَافَقَ"
+},
+"genéieren": {
+"es": "molestar",
+"it": "disturbare",
+"ar": "أَزْعَجَ"
+},
+"genéissen": {
+"es": "saborear",
+"it": "gustare",
+"ar": "اِسْتَمْتَعَ"
+},
+"generaliséieren": {
+"es": "generalizar",
+"it": "generalizzare",
+"ar": "عَمَّمَ"
+},
+"generéieren": {
+"es": "generar",
+"it": "generare",
+"ar": "وَلَّدَ"
+},
+"geréieren": {
+"es": "gestionar",
+"it": "gestire",
+"ar": "أَدَارَ"
+},
+"gerënnen": {
+"es": "coagular",
+"it": "coagulare",
+"ar": "تَخَثَّرَ"
+},
+"geroden": {
+"es": "golpear",
+"it": "colpire",
+"ar": "أَصَابَ"
+},
+"geschéien": {
+"es": "suceder",
+"it": "accadere",
+"ar": "حَدَثَ"
+},
+"gesinn": {
+"es": "ver",
+"it": "vedere",
+"ar": "رَأَى"
+},
+"gestalten": {
+"es": "organizar",
+"it": "organizzare",
+"ar": "نَظَّمَ"
+},
+"gestikuléieren": {
+"es": "gesticular",
+"it": "gesticolare",
+"ar": "أَشَارَ"
+},
+"gestoen": {
+"es": "confesar",
+"it": "confessare",
+"ar": "اِعْتَرَفَ"
+},
+"gewannen": {
+"es": "ganar",
+"it": "vincere",
+"ar": "فَازَ"
+},
+"gierwen": {
+"es": "curtir",
+"it": "conciare",
+"ar": "دَبَغَ"
+},
+"ginn": {
+"es": "dar",
+"it": "dare",
+"ar": "أَعْطَى"
+},
+"gipsen": {
+"es": "enyesar",
+"it": "gessare",
+"ar": "جَبَّسَ"
+},
+"gläichen": {
+"es": "asemejarse",
+"it": "assomigliare",
+"ar": "شَابَهَ"
+},
+"gläichsetzen": {
+"es": "equiparar",
+"it": "equiparare",
+"ar": "سَاوَى"
+},
+"glannen": {
+"es": "espigar",
+"it": "spigolare",
+"ar": "لَقَطَ"
+},
+"glänzen": {
+"es": "brillar",
+"it": "brillare",
+"ar": "لَمَعَ"
+},
+"glaséieren": {
+"es": "vidriar",
+"it": "smaltare",
+"ar": "زَجَّجَ"
+},
+"glécken": {
+"es": "triunfar",
+"it": "riuscire",
+"ar": "نَجَحَ"
+},
+"gleewen": {
+"es": "creer",
+"it": "credere",
+"ar": "آمَنَ"
+},
+"glënneren": {
+"es": "centellear",
+"it": "luccicare",
+"ar": "تَلَأْلَأَ"
+},
+"glëtschen": {
+"es": "deslizar",
+"it": "scivolare",
+"ar": "اِنْزَلَقَ"
+},
+"glidderen": {
+"es": "estructurar",
+"it": "strutturare",
+"ar": "هَيْكَلَ"
+},
+"glousen": {
+"es": "brillar",
+"it": "brillare",
+"ar": "لَمَعَ"
+},
+"glucksen": {
+"es": "gorgotear",
+"it": "gorgogliare",
+"ar": "خَرْخَرَ"
+},
+"godronéieren": {
+"es": "asfaltar",
+"it": "asfaltare",
+"ar": "زَفَّتَ"
+},
+"goen": {
+"es": "ir",
+"it": "andare",
+"ar": "ذَهَبَ"
+},
+"gondelen": {
+"es": "vagar",
+"it": "girovagare",
+"ar": "تَجَوَّلَ"
+},
+"gräifen": {
+"es": "agarrar",
+"it": "afferrare",
+"ar": "تَنَاوَلَ"
+},
+"granzen": {
+"es": "refunfuñar",
+"it": "brontolare",
+"ar": "تَذَمَّرَ"
+},
+"gratinéieren": {
+"es": "gratinar",
+"it": "gratinare",
+"ar": "حَمَّرَ"
+},
+"grätschen": {
+"es": "rechinar",
+"it": "stridere",
+"ar": "صَرَّ"
+},
+"gratuléieren": {
+"es": "felicitar",
+"it": "congratulare",
+"ar": "هَنَّأَ"
+},
+"gravéieren": {
+"es": "grabar",
+"it": "incidere",
+"ar": "نَقَشَ"
+},
+"gréissen": {
+"es": "saludar",
+"it": "salutare",
+"ar": "حَيَّا"
+},
+"gréngen": {
+"es": "lloriquear",
+"it": "piagnucolare",
+"ar": "أَنَّ"
+},
+"grënnen": {
+"es": "fundar",
+"it": "fondare",
+"ar": "أَسَّسَ"
+},
+"grillen": {
+"es": "asar",
+"it": "grigliare",
+"ar": "شَوَى"
+},
+"grimmelen": {
+"es": "desmenuzar",
+"it": "sbriciolare",
+"ar": "فَتَّتَ"
+},
+"grommelen": {
+"es": "murmurar",
+"it": "borbottare",
+"ar": "تَمْتَمَ"
+},
+"grousszéien": {
+"es": "criar",
+"it": "allevare",
+"ar": "رَبَّى"
+},
+"gruewen": {
+"es": "cavar",
+"it": "scavare",
+"ar": "حَفَرَ"
+},
+"grunzen": {
+"es": "gruñir",
+"it": "grugnire",
+"ar": "زَمْجَرَ"
+},
+"gruppéieren": {
+"es": "agrupar",
+"it": "raggruppare",
+"ar": "جَمَّعَ"
+},
+"guergelen": {
+"es": "gargarizar",
+"it": "gargarizzare",
+"ar": "غَرْغَرَ"
+},
+"guidéieren": {
+"es": "guiar",
+"it": "guidare",
+"ar": "أَرْشَدَ"
+},
+"guttdoen": {
+"es": "beneficiar",
+"it": "giovare",
+"ar": "أَفَادَ"
+},
+"guttheeschen": {
+"es": "aprobar",
+"it": "approvare",
+"ar": "وَافَقَ"
+},
+"guttmaachen": {
+"es": "reparar",
+"it": "riparare",
+"ar": "أَصْلَحَ"
+},
+"haassen": {
+"es": "odiar",
+"it": "odiare",
+"ar": "كَرِهَ"
+},
+"habilitéieren": {
+"es": "habilitar",
+"it": "abilitare",
+"ar": "خَوَّلَ"
+},
+"hacken": {
+"es": "hackear",
+"it": "hackerare",
+"ar": "اِخْتَرَقَ"
+},
+"häckselen": {
+"es": "triturar",
+"it": "triturare",
+"ar": "مَزَّقَ"
+},
+"haen": {
+"es": "cortar",
+"it": "tagliare",
+"ar": "قَطَعَ"
+},
+"halen": {
+"es": "sujetar",
+"it": "tenere",
+"ar": "مَسَكَ"
+},
+"hamsteren": {
+"es": "acaparar",
+"it": "accaparrare",
+"ar": "اِخْتَزَنَ"
+},
+"handelen": {
+"es": "actuar",
+"it": "agire",
+"ar": "تَصَرَّفَ"
+},
+"hänken": {
+"es": "colgar",
+"it": "appendere",
+"ar": "عَلَّقَ"
+},
+"hannerfroen": {
+"es": "cuestionar",
+"it": "contestare",
+"ar": "شَكَّكَ"
+},
+"hannergoen": {
+"es": "engañar",
+"it": "ingannare",
+"ar": "خَدَعَ"
+},
+"hannerleeën": {
+"es": "depositar",
+"it": "depositare",
+"ar": "أَوْدَعَ"
+},
+"hannerloossen": {
+"es": "dejar",
+"it": "lasciare",
+"ar": "تَرَكَ"
+},
+"hanneschtdroen": {
+"es": "devolver",
+"it": "riportare",
+"ar": "أَعَادَ"
+},
+"hanneschtféieren": {
+"es": "llevar",
+"it": "riportare",
+"ar": "أَرْجَعَ"
+},
+"hanneschtfueren": {
+"es": "retroceder",
+"it": "tornare",
+"ar": "رَجَعَ"
+},
+"hanneschtginn": {
+"es": "devolver",
+"it": "restituire",
+"ar": "رَدَّ"
+},
+"hanneschtgoen": {
+"es": "volver",
+"it": "tornare",
+"ar": "رَجَعَ"
+},
+"hanneschtlafen": {
+"es": "regresar",
+"it": "tornare",
+"ar": "عَادَ"
+},
+"hanneschtleeën": {
+"es": "devolver",
+"it": "rimettere",
+"ar": "أَعَادَ"
+},
+"hanneschtschécken": {
+"es": "devolver",
+"it": "rispedire",
+"ar": "رَدَّ"
+},
+"hanneschtsetzen": {
+"es": "reponer",
+"it": "rimettere",
+"ar": "أَعَادَ"
+},
+"hanneschtsoen": {
+"es": "transmitir",
+"it": "riferire",
+"ar": "نَقَلَ"
+},
+"hanneschtstellen": {
+"es": "colocar",
+"it": "rimettere",
+"ar": "أَعَادَ"
+},
+"hantéieren": {
+"es": "trastear",
+"it": "trafficare",
+"ar": "عَبِثَ"
+},
+"harmoniséieren": {
+"es": "armonizar",
+"it": "armonizzare",
+"ar": "نَسَّقَ"
+},
+"hätschelen": {
+"es": "mimar",
+"it": "coccolare",
+"ar": "دَلَّلَ"
+},
+"hauchen": {
+"es": "soplar",
+"it": "soffiare",
+"ar": "نَفَخَ"
+},
+"haulen": {
+"es": "aullar",
+"it": "ululare",
+"ar": "عَوَى"
+},
+"hausen": {
+"es": "alojarse",
+"it": "alloggiare",
+"ar": "أَقَامَ"
+},
+"hechelen": {
+"es": "jadear",
+"it": "ansimare",
+"ar": "لَهَثَ"
+},
+"heefen": {
+"es": "amontonar",
+"it": "ammucchiare",
+"ar": "كَوَّمَ"
+},
+"heelen": {
+"es": "curar",
+"it": "guarire",
+"ar": "شَفَى"
+},
+"heembréngen": {
+"es": "traer",
+"it": "portare",
+"ar": "أَحْضَرَ"
+},
+"heemelen": {
+"es": "acariciar",
+"it": "accarezzare",
+"ar": "مَسَّدَ"
+},
+"heeschen": {
+"es": "llamarse",
+"it": "chiamarsi",
+"ar": "سُمِّيَ"
+},
+"heften": {
+"es": "grapar",
+"it": "pinzare",
+"ar": "دَبَّسَ"
+},
+"heibleiwen": {
+"es": "quedarse",
+"it": "restare",
+"ar": "بَقِيَ"
+},
+"héichhalen": {
+"es": "mantener",
+"it": "mantenere",
+"ar": "حَافَظَ"
+},
+"héichrechnen": {
+"es": "calcular",
+"it": "calcolare",
+"ar": "قَدَّرَ"
+},
+"héieren": {
+"es": "oír",
+"it": "sentire",
+"ar": "سَمِعَ"
+},
+"héijen": {
+"es": "aumentar",
+"it": "aumentare",
+"ar": "رَفَعَ"
+},
+"hëllefen": {
+"es": "ayudar",
+"it": "aiutare",
+"ar": "سَاعَدَ"
+},
+"hellegspriechen": {
+"es": "canonizar",
+"it": "canonizzare",
+"ar": "قَدَّسَ"
+},
+"hénkelen": {
+"es": "relinchar",
+"it": "nitrire",
+"ar": "صَهَلَ"
+},
+"hënneren": {
+"es": "impedir",
+"it": "ostacolare",
+"ar": "أَعَاقَ"
+},
+"hëtzen": {
+"es": "calentar",
+"it": "riscaldare",
+"ar": "سَخَّنَ"
+},
+"hetzen": {
+"es": "cazar",
+"it": "cacciare",
+"ar": "طَارَدَ"
+},
+"hicken": {
+"es": "hipar",
+"it": "singhiozzare",
+"ar": "شَهِقَ"
+},
+"hidden": {
+"es": "cuidar",
+"it": "custodire",
+"ar": "رَعَى"
+},
+"hierginn": {
+"es": "ceder",
+"it": "cedere",
+"ar": "تَخَلَّى"
+},
+"hierhuelen": {
+"es": "conseguir",
+"it": "procurarsi",
+"ar": "حَصَلَ"
+},
+"hierhunn": {
+"es": "obtener",
+"it": "ottenere",
+"ar": "حَصَلَ"
+},
+"hierkommen": {
+"es": "provenir",
+"it": "provenire",
+"ar": "نَشَأَ"
+},
+"hierstellen": {
+"es": "fabricar",
+"it": "fabbricare",
+"ar": "صَنَعَ"
+},
+"hiewen": {
+"es": "levantar",
+"it": "sollevare",
+"ar": "رَفَعَ"
+},
+"hiféieren": {
+"es": "llevar",
+"it": "portare",
+"ar": "أَوْصَلَ"
+},
+"hifueren": {
+"es": "conducir",
+"it": "guidare",
+"ar": "سَاقَ"
+},
+"higehéieren": {
+"es": "pertenecer",
+"it": "appartenere",
+"ar": "اِنْتَمَى"
+},
+"higoen": {
+"es": "ir",
+"it": "andare",
+"ar": "ذَهَبَ"
+},
+"hikréien": {
+"es": "lograr",
+"it": "riuscire",
+"ar": "نَجَحَ"
+},
+"hikucken": {
+"es": "mirar",
+"it": "guardare",
+"ar": "نَظَرَ"
+},
+"himmelen": {
+"es": "romper",
+"it": "rompere",
+"ar": "كَسَرَ"
+},
+"hippen": {
+"es": "cojear",
+"it": "zoppicare",
+"ar": "عَرَجَ"
+},
+"hiriichten": {
+"es": "ejecutar",
+"it": "giustiziare",
+"ar": "أَعْدَمَ"
+},
+"hoffen": {
+"es": "esperar",
+"it": "sperare",
+"ar": "أَمِلَ"
+},
+"honoréieren": {
+"es": "reconocer",
+"it": "riconoscere",
+"ar": "اعْتَرَفَ"
+},
+"hopsen": {
+"es": "saltar",
+"it": "saltellare",
+"ar": "قَفَزَ"
+},
+"houschten": {
+"es": "toser",
+"it": "tossire",
+"ar": "سَعَلَ"
+},
+"hucken": {
+"es": "sentarse",
+"it": "sedersi",
+"ar": "جَلَسَ"
+},
+"huddelen": {
+"es": "acariciar",
+"it": "coccolare",
+"ar": "دَلَّلَ"
+},
+"huelen": {
+"es": "tomar",
+"it": "prendere",
+"ar": "أَخَذَ"
+},
+"huerelen": {
+"es": "aullar",
+"it": "ululare",
+"ar": "عَوَى"
+},
+"humpelen": {
+"es": "cojear",
+"it": "zoppicare",
+"ar": "عَرَجَ"
+},
+"hunn": {
+"es": "tener",
+"it": "avere",
+"ar": "امْتَلَكَ"
+},
+"huschen": {
+"es": "escabullirse",
+"it": "sgattaiolare",
+"ar": "تَسَلَّلَ"
+},
+"huwwelen": {
+"es": "cepillar",
+"it": "piallare",
+"ar": "نَجَرَ"
+},
+"hyperventiléieren": {
+"es": "hiperventilar",
+"it": "iperventilare",
+"ar": "لَهَثَ"
+},
+"hypnotiséieren": {
+"es": "hipnotizar",
+"it": "ipnotizzare",
+"ar": "نَوَّمَ"
+},
+"iaen": {
+"es": "rebuznar",
+"it": "ragliare",
+"ar": "نَهَقَ"
+},
+"idderzen": {
+"es": "rumiar",
+"it": "ruminare",
+"ar": "اجْتَرَّ"
+},
+"idealiséieren": {
+"es": "idealizar",
+"it": "idealizzare",
+"ar": "مَثَّلَ"
+},
+"identifizéieren": {
+"es": "identificar",
+"it": "identificare",
+"ar": "حَدَّدَ"
+},
+"ierféieren": {
+"es": "engañar",
+"it": "ingannare",
+"ar": "ضَلَّلَ"
+},
+"iergeren": {
+"es": "molestar",
+"it": "infastidire",
+"ar": "أَزْعَجَ"
+},
+"iergoen": {
+"es": "perderse",
+"it": "perdersi",
+"ar": "ضَلَّ"
+},
+"ierwen": {
+"es": "heredar",
+"it": "ereditare",
+"ar": "وَرِثَ"
+},
+"iessen": {
+"es": "comer",
+"it": "mangiare",
+"ar": "أَكَلَ"
+},
+"ignoréieren": {
+"es": "ignorar",
+"it": "ignorare",
+"ar": "تَجَاهَلَ"
+},
+"illustréieren": {
+"es": "ilustrar",
+"it": "illustrare",
+"ar": "وَضَّحَ"
+},
+"imitéieren": {
+"es": "imitar",
+"it": "imitare",
+"ar": "قَلَّدَ"
+},
+"immatrikuléieren": {
+"es": "matricular",
+"it": "immatricolare",
+"ar": "سَجَّلَ"
+},
+"immigréieren": {
+"es": "inmigrar",
+"it": "immigrare",
+"ar": "هَاجَرَ"
+},
+"immobiliséieren": {
+"es": "inmovilizar",
+"it": "immobilizzare",
+"ar": "شَلَّ"
+},
+"immuniséieren": {
+"es": "inmunizar",
+"it": "immunizzare",
+"ar": "حَصَّنَ"
+},
+"impfen": {
+"es": "vacunar",
+"it": "vaccinare",
+"ar": "طَعَّمَ"
+},
+"implantéieren": {
+"es": "implantar",
+"it": "impiantare",
+"ar": "زَرَعَ"
+},
+"implizéieren": {
+"es": "implicar",
+"it": "implicare",
+"ar": "وَرَّطَ"
+},
+"imponéieren": {
+"es": "impresionar",
+"it": "impressionare",
+"ar": "أَبْهَرَ"
+},
+"importéieren": {
+"es": "importar",
+"it": "importare",
+"ar": "اسْتَوْرَدَ"
+},
+"imposéieren": {
+"es": "imponer",
+"it": "imporre",
+"ar": "فَرَضَ"
+},
+"impregnéieren": {
+"es": "impermeabilizar",
+"it": "impermeabilizzare",
+"ar": "عَزَلَ"
+},
+"impressionéieren": {
+"es": "impresionar",
+"it": "impressionare",
+"ar": "أَثَّرَ"
+},
+"improviséieren": {
+"es": "improvisar",
+"it": "improvvisare",
+"ar": "ارْتَجَلَ"
+},
+"inauguréieren": {
+"es": "inaugurar",
+"it": "inaugurare",
+"ar": "دَشَّنَ"
+},
+"indemniséieren": {
+"es": "indemnizar",
+"it": "indennizzare",
+"ar": "عَوَّضَ"
+},
+"indoktrinéieren": {
+"es": "adoctrinar",
+"it": "indottrinare",
+"ar": "لَقَّنَ"
+},
+"industrialiséieren": {
+"es": "industrializar",
+"it": "industrializzare",
+"ar": "صَنَّعَ"
+},
+"infiltréieren": {
+"es": "infiltrar",
+"it": "infiltrare",
+"ar": "اخْتَرَقَ"
+},
+"infizéieren": {
+"es": "infectar",
+"it": "infettare",
+"ar": "أَعْدَى"
+},
+"influenzéieren": {
+"es": "influir",
+"it": "influenzare",
+"ar": "أَثَّرَ"
+},
+"informéieren": {
+"es": "informar",
+"it": "informare",
+"ar": "أَخْبَرَ"
+},
+"inhaléieren": {
+"es": "inhalar",
+"it": "inalare",
+"ar": "اسْتَنْشَقَ"
+},
+"initiéieren": {
+"es": "iniciar",
+"it": "iniziare",
+"ar": "بَدَأَ"
+},
+"inkarnéieren": {
+"es": "encarnar",
+"it": "incarnare",
+"ar": "جَسَّدَ"
+},
+"inspiréieren": {
+"es": "inspirar",
+"it": "ispirare",
+"ar": "أَلْهَمَ"
+},
+"inspizéieren": {
+"es": "inspeccionar",
+"it": "ispezionare",
+"ar": "فَحَصَ"
+},
+"installéieren": {
+"es": "instalar",
+"it": "installare",
+"ar": "رَكَّبَ"
+},
+"institutionaliséieren": {
+"es": "institucionalizar",
+"it": "istituzionalizzare",
+"ar": "أَسَّسَ"
+},
+"instrumentaliséieren": {
+"es": "instrumentalizar",
+"it": "strumentalizzare",
+"ar": "وَظَّفَ"
+},
+"integréieren": {
+"es": "integrar",
+"it": "integrare",
+"ar": "دَمَجَ"
+},
+"interesséieren": {
+"es": "interesar",
+"it": "interessare",
+"ar": "أَهَمَّ"
+},
+"internéieren": {
+"es": "internar",
+"it": "internare",
+"ar": "احْتَجَزَ"
+},
+"interpelléieren": {
+"es": "interpelar",
+"it": "interpellare",
+"ar": "اسْتَجْوَبَ"
+},
+"interpretéieren": {
+"es": "interpretar",
+"it": "interpretare",
+"ar": "فَسَّرَ"
+},
+"intervenéieren": {
+"es": "intervenir",
+"it": "intervenire",
+"ar": "تَدَخَّلَ"
+},
+"interviewen": {
+"es": "entrevistar",
+"it": "intervistare",
+"ar": "حَاوَرَ"
+},
+"intimidéieren": {
+"es": "intimidar",
+"it": "intimidire",
+"ar": "أَرْهَبَ"
+},
+"intrigéieren": {
+"es": "intrigar",
+"it": "intrigare",
+"ar": "دَبَّرَ"
+},
+"intubéieren": {
+"es": "intubar",
+"it": "intubare",
+"ar": "أَدْخَلَ"
+},
+"investéieren": {
+"es": "invertir",
+"it": "investire",
+"ar": "اسْتَثْمَرَ"
+},
+"invitéieren": {
+"es": "invitar",
+"it": "invitare",
+"ar": "دَعَا"
+},
+"inzenéieren": {
+"es": "escenificar",
+"it": "inscenare",
+"ar": "أَخْرَجَ"
+},
+"irritéieren": {
+"es": "irritar",
+"it": "irritare",
+"ar": "أَزْعَجَ"
+},
+"isoléieren": {
+"es": "aislar",
+"it": "isolare",
+"ar": "عَزَلَ"
+},
+"iwwerbaken": {
+"es": "gratinar",
+"it": "gratinare",
+"ar": "حَمَّرَ"
+},
+"iwwerbeliichten": {
+"es": "sobreexponer",
+"it": "sovraesporre",
+"ar": "عَرَّضَ"
+},
+"iwwerbewäerten": {
+"es": "sobrevalorar",
+"it": "sopravvalutare",
+"ar": "بَالَغَ"
+},
+"iwwerbidden": {
+"es": "superar",
+"it": "superare",
+"ar": "زَايَدَ"
+},
+"iwwerbrécken": {
+"es": "superar",
+"it": "superare",
+"ar": "تَغَلَّبَ"
+},
+"iwwerdecken": {
+"es": "cubrir",
+"it": "coprire",
+"ar": "غَطَّى"
+},
+"iwwerdenken": {
+"es": "reflexionar",
+"it": "riflettere",
+"ar": "تَأَمَّلَ"
+},
+"iwwerdreiwen": {
+"es": "exagerar",
+"it": "esagerare",
+"ar": "بَالَغَ"
+},
+"iwwerdroen": {
+"es": "transmitir",
+"it": "trasmettere",
+"ar": "بَثَّ"
+},
+"iwwerdubberen": {
+"es": "sorprender",
+"it": "sorprendere",
+"ar": "فَاجَأَ"
+},
+"iwwereneestëmmen": {
+"es": "coincidir",
+"it": "coincidere",
+"ar": "تَطَابَقَ"
+},
+"iwwerfalen": {
+"es": "asaltar",
+"it": "assalire",
+"ar": "هَاجَمَ"
+},
+"iwwerféieren": {
+"es": "condenar",
+"it": "condannare",
+"ar": "أَدَانَ"
+},
+"iwwerfidderen": {
+"es": "sobrealimentar",
+"it": "sovralimentare",
+"ar": "أَطْعَمَ"
+},
+"iwwerfléien": {
+"es": "sobrevolar",
+"it": "sorvolare",
+"ar": "حَلَّقَ"
+},
+"iwwerfuerderen": {
+"es": "sobrecargar",
+"it": "sovraccaricare",
+"ar": "أَرْهَقَ"
+},
+"iwwerfueren": {
+"es": "atropellar",
+"it": "investire",
+"ar": "دَهَسَ"
+},
+"iwwergéissen": {
+"es": "rociar",
+"it": "irrorare",
+"ar": "صَبَّ"
+},
+"iwwerginn": {
+"es": "entregar",
+"it": "consegnare",
+"ar": "سَلَّمَ"
+},
+"iwwergoen": {
+"es": "cruzar",
+"it": "attraversare",
+"ar": "عَبَرَ"
+},
+"iwwerhänken": {
+"es": "sobresalir",
+"it": "sporgere",
+"ar": "بَرَزَ"
+},
+"iwwerhëtzen": {
+"es": "sobrecalentar",
+"it": "surriscaldare",
+"ar": "سَخَّنَ"
+},
+"iwwerhuelen": {
+"es": "adelantar",
+"it": "sorpassare",
+"ar": "تَجَاوَزَ"
+},
+"iwwerkliewen": {
+"es": "cubrir",
+"it": "ricoprire",
+"ar": "غَطَّى"
+},
+"iwwerkommen": {
+"es": "invadir",
+"it": "sopraffare",
+"ar": "اِجْتَاحَ"
+},
+"iwwerkucken": {
+"es": "revisar",
+"it": "rivedere",
+"ar": "رَاجَعَ"
+},
+"iwwerlaaschten": {
+"es": "sobrecargar",
+"it": "sovraccaricare",
+"ar": "حَمَّلَ"
+},
+"iwwerlafen": {
+"es": "desbordarse",
+"it": "traboccare",
+"ar": "فَاضَ"
+},
+"iwwerleeën": {
+"es": "considerar",
+"it": "considerare",
+"ar": "فَكَّرَ"
+},
+"iwwerliewen": {
+"es": "sobrevivir",
+"it": "sopravvivere",
+"ar": "نَجَا"
+},
+"iwwerliwweren": {
+"es": "transmitir",
+"it": "tramandare",
+"ar": "وَرَّثَ"
+},
+"iwwerloossen": {
+"es": "ceder",
+"it": "cedere",
+"ar": "تَنَازَلَ"
+},
+"iwwerlueden": {
+"es": "sobrecargar",
+"it": "sovraccaricare",
+"ar": "حَمَّلَ"
+},
+"iwwermëttelen": {
+"es": "transmitir",
+"it": "trasmettere",
+"ar": "نَقَلَ"
+},
+"iwwerpechen": {
+"es": "cubrir",
+"it": "coprire",
+"ar": "غَطَّى"
+},
+"iwwerpréiwen": {
+"es": "verificar",
+"it": "verificare",
+"ar": "فَحَصَ"
+},
+"iwwerraschen": {
+"es": "sorprender",
+"it": "sorprendere",
+"ar": "فَاجَأَ"
+},
+"iwwerrennen": {
+"es": "atropellar",
+"it": "investire",
+"ar": "دَهَسَ"
+},
+"iwwerrieden": {
+"es": "persuadir",
+"it": "persuadere",
+"ar": "أَقْنَعَ"
 }
 }
