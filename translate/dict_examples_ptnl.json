@@ -38928,8 +38928,8 @@
 "nl": "De paarden liepen over het veldpad het bos aan de andere kant in"
 },
 "déi Säit\u00010\u00011": {
-"pt": "Deste lado da vedação há couves-flores, do outro lado não há",
-"nl": "Aan deze kant van de omheining staan bloemkolen, aan de andere kant niet"
+"pt": "Deste lado da vedação há centáureas, do outro lado não há nenhumas",
+"nl": "Aan deze kant van de omheining staan korenbloemen, aan die kant staan er geen"
 },
 "Deisermillen\u00010\u00010": {
 "pt": "Moro em Deisermillen",
@@ -40768,8 +40768,8 @@
 "nl": "Aan deze kant van de rivier spreken de mensen een andere taal dan aan de andere kant"
 },
 "dës Säit\u00010\u00011": {
-"pt": "Daquele lado da vedação há couves-flores, deste lado não há",
-"nl": "Aan die kant van de omheining staan bloemkolen, aan deze kant niet"
+"pt": "Daquele lado da vedação há centáureas, deste lado não há nenhumas",
+"nl": "Aan die kant van de omheining staan korenbloemen, aan deze kant staan er geen"
 },
 "Dessert\u00010\u00010": {
 "pt": "Comi demais, já não quero mais sobremesa",
@@ -63898,5 +63898,905 @@
 "féieren\u00010\u00010": {
 "pt": "Na guerra, passadores levaram pessoas através da fronteira",
 "nl": "In de oorlog hebben smokkelaars mensen over de grens gebracht"
+},
+"féieren\u00010\u00011": {
+"pt": "O pai conduziu a noiva até à igreja",
+"nl": "Vader heeft de bruid naar de kerk geleid"
+},
+"féieren\u00011\u00010": {
+"pt": "Tiveram de ser conduzidas longas negociações",
+"nl": "Er moesten lange onderhandelingen worden gevoerd"
+},
+"féieren\u00011\u00011": {
+"pt": "Aquele casal levou uma vida miserável",
+"nl": "Dat koppel leidde een armzalig leven"
+},
+"féieren\u00012\u00010": {
+"pt": "Uma governanta trata da casa do notário",
+"nl": "Een huishoudster houdt het huishouden van de notaris draaiende"
+},
+"féieren\u00012\u00011": {
+"pt": "Essa empresa é mal gerida",
+"nl": "Dat bedrijf wordt slecht geleid"
+},
+"féieren\u00013\u00010": {
+"pt": "A autoestrada contorna a cidade",
+"nl": "De autosnelweg loopt rond de stad"
+},
+"féieren\u00014\u00010": {
+"pt": "Isso não leva a lado nenhum!",
+"nl": "Dat leidt nergens toe!"
+},
+"féieren\u00014\u00011": {
+"pt": "A nova regulamentação só levou a discussões",
+"nl": "De nieuwe regeling heeft alleen tot ruzies geleid"
+},
+"féieren\u00010\u00010~2": {
+"pt": "Levo a minha irmã à piscina duas vezes por semana",
+"nl": "Ik breng mijn zus twee keer per week naar het zwembad"
+},
+"féieren\u00010\u00011~2": {
+"pt": "Amanhã levamos os móveis à lixeira",
+"nl": "Morgen brengen we de meubels naar de stortplaats"
+},
+"feierfest\u00010\u00010": {
+"pt": "A roupa dos bombeiros é feita de material ignífugo",
+"nl": "De kleding van de brandweerlieden is van brandvrij materiaal"
+},
+"feierfest\u00010\u00011": {
+"pt": "A porta do cofre é à prova de fogo",
+"nl": "De deur van de kluis is brandvrij"
+},
+"feierfest\u00010\u00012": {
+"pt": "Passa-me essa travessa que vai ao forno!",
+"nl": "Geef me die ovenvaste schaal aan!"
+},
+"Feierkäppchen\u00010\u00010": {
+"pt": "Quanto tempo chocam as estrelinhas-de-cabeça-listada?",
+"nl": "Hoe lang broeden vuurgoudhaantjes?"
+},
+"Feierkraut\u00010\u00010": {
+"pt": "As belas flores do epilóbio atraem muitos insetos",
+"nl": "De mooie bloemen van het wilgenroosje trekken veel insecten aan"
+},
+"Feierkrop\u00010\u00010": {
+"pt": "Não queimes os dedos no atiçador!",
+"nl": "Brand je vingers niet aan de pook!"
+},
+"Feierläscher\u00010\u00010": {
+"pt": "Em cada andar do edifício da escola há um extintor",
+"nl": "Op elke verdieping van het schoolgebouw hangt een brandblusser"
+},
+"Feierläscher\u00010\u00011": {
+"pt": "O estado dos extintores tem de ser verificado de vez em quando",
+"nl": "De toestand van de brandblussers moet af en toe worden gecontroleerd"
+},
+"feierlech\u00010\u00010": {
+"pt": "O presidente da câmara fez um discurso solene",
+"nl": "De burgemeester hield een plechtige toespraak"
+},
+"feierlech\u00010\u00011": {
+"pt": "O edifício da escola foi inaugurado solenemente",
+"nl": "Het schoolgebouw werd plechtig ingehuldigd"
+},
+"Feierlechkeet\u00010\u00010": {
+"pt": "O coro infantil da comuna participou nas celebrações",
+"nl": "Het kinderkoor van de gemeente nam deel aan de festiviteiten"
+},
+"Feierlechkeet\u00010\u00011": {
+"pt": "Há uma cerimónia qualquer na câmara municipal",
+"nl": "Er is een of andere plechtigheid op het gemeentehuis"
+},
+"Feierowend\u00010\u00010": {
+"pt": "Depois do trabalho, a lojista ainda faz muitas vezes um pequeno passeio de bicicleta",
+"nl": "Na het werk maakt de winkelierster vaak nog een kleine fietstocht"
+},
+"Feierowend\u00011\u00010": {
+"pt": "Acabo de escrever o meu relatório e depois dou o dia por terminado",
+"nl": "Ik tik mijn verslag nog af en dan stop ik ermee voor vandaag"
+},
+"feierrout\u00010\u00010": {
+"pt": "O meu amigo tem o cabelo ruivo-vivo e a cara cheia de sardas",
+"nl": "Mijn vriend heeft vuurrood haar en een gezicht vol sproeten"
+},
+"feierrout\u00010\u00011": {
+"pt": "De repente, o seu rosto ficou vermelho como o fogo",
+"nl": "Plots werd zijn gezicht vuurrood"
+},
+"Feierstengszalot\u00010\u00010": {
+"pt": "Ao almoço comemos uma boa salada de carne de vaca",
+"nl": "We hadden vanmiddag een lekkere rundvleessalade"
+},
+"Feierstonn\u00010\u00010": {
+"pt": "Numa cerimónia, o funcionário foi homenageado pelos seus méritos",
+"nl": "Tijdens een plechtigheid werd de ambtenaar voor zijn verdiensten gehuldigd"
+},
+"Féierung\u00010\u00010": {
+"pt": "Este fim de semana há várias visitas guiadas no museu",
+"nl": "Dit weekend zijn er in het museum een aantal rondleidingen"
+},
+"Feierwon\u00010\u00010": {
+"pt": "A locomotiva a vapor ribomba pela estrada de ferro",
+"nl": "De stoomtrein dendert over de ijzeren weg"
+},
+"feig\u00010\u00010": {
+"pt": "É cobarde abandonar-me agora mesmo na mão",
+"nl": "Het is laf om mij net nu in de steek te laten"
+},
+"Feigheet\u00010\u00010": {
+"pt": "Depois do acidente, afastou-se por cobardia",
+"nl": "Na het ongeluk trok hij zich uit lafheid terug"
+},
+"Feigling\u00010\u00010": {
+"pt": "Quando a coisa ficou séria, o cobarde esquivou-se",
+"nl": "Toen het menens werd, dook de lafaard weg"
+},
+"Feil\u00010\u00010": {
+"pt": "Antes de haver armas de fogo, o homem ia caçar com arco e flecha",
+"nl": "Voordat er geweren waren, ging de mens met pijl en boog op jacht"
+},
+"Feil\u00011\u00010": {
+"pt": "O desvio está sinalizado com setas",
+"nl": "De omleiding is met pijlen aangeduid"
+},
+"Feil\u00011\u00011": {
+"pt": "Segue as setas!",
+"nl": "Volg de pijlen!"
+},
+"Feil\u00010\u00010~2": {
+"pt": "Para a corrente da motosserra preciso de uma lima especial",
+"nl": "Voor de ketting van de kettingzaag heb ik een aparte vijl nodig"
+},
+"feilen\u00010\u00010": {
+"pt": "No comboio estava sentada ao meu lado uma senhora a limar as unhas",
+"nl": "In de trein zat een dame naast me haar nagels te vijlen"
+},
+"feilen\u00010\u00011": {
+"pt": "O oficial limou a peça de ferro à medida",
+"nl": "De gezel vijlde het stuk ijzer op maat"
+},
+"feilen\u00011\u00010": {
+"pt": "No filme, os prisioneiros limaram as grades para fugir através dos arbustos",
+"nl": "In de film vijlden de gevangenen aan hun tralies om door de struiken te ontsnappen"
+},
+"feilen\u00011\u00011": {
+"pt": "Ele quer ainda polir um pouco a sua carta antes de a enviar",
+"nl": "Hij wil nog wat aan zijn brief schaven voordat hij hem verstuurt"
+},
+"fein\u00010\u00010": {
+"pt": "Nesta loja só trabalham pessoas finas",
+"nl": "In deze winkel werken alleen fijne mensen"
+},
+"fein\u00010\u00011": {
+"pt": "É um rapaz simpático",
+"nl": "Het is een fijne jongen"
+},
+"fein\u00010\u00012": {
+"pt": "A secretária respondeu-me gentilmente ao telefone",
+"nl": "De secretaresse antwoordde me aardig aan de telefoon"
+},
+"fein\u00011\u00010": {
+"pt": "As férias são sempre uma coisa agradável",
+"nl": "Vakantie is altijd iets fijns"
+},
+"fein\u00012\u00010": {
+"pt": "Não consigo fazer distinções tão subtis",
+"nl": "Zulke fijne onderscheiden kan ik niet maken"
+},
+"fein\u00012\u00011": {
+"pt": "Aquele animal tem uma audição apurada",
+"nl": "Dat dier heeft een scherp gehoor"
+},
+"fein\u00013\u00010": {
+"pt": "No seu novo emprego, o meu colega saiu-se muito bem",
+"nl": "In zijn nieuwe job heeft mijn collega het fijn getroffen"
+},
+"Feind\u00010\u00010": {
+"pt": "Ele não tem inimigos, dá-se com toda a gente!",
+"nl": "Hij heeft geen vijanden, hij kan met iedereen overweg!"
+},
+"Feind\u00010\u00011": {
+"pt": "Com amigos assim não é preciso ter inimigos",
+"nl": "Met zulke vrienden heb je geen vijanden nodig"
+},
+"Feind\u00011\u00010": {
+"pt": "A raposa não tem (naturais) inimigos",
+"nl": "De vos heeft geen (natuurlijke) vijanden"
+},
+"Feind\u00012\u00010": {
+"pt": "Muita gente foi punida depois da guerra por ter colaborado com o inimigo",
+"nl": "Veel mensen werden na de oorlog gestraft omdat ze met de vijand hadden samengewerkt"
+},
+"Feindin\u00010\u00010": {
+"pt": "Desde uma disputa de herança, as duas irmãs são inimigas",
+"nl": "Sinds een erfenisruzie zijn de twee zussen vijanden"
+},
+"feindlech\u00010\u00010": {
+"pt": "O avião fez uma aterragem de emergência em território inimigo",
+"nl": "Het vliegtuig maakte een noodlanding op vijandelijk terrein"
+},
+"Feindschaft\u00010\u00010": {
+"pt": "Esse discurso reforçou ainda mais a inimizade entre os dois partidos",
+"nl": "Die toespraak heeft de vijandschap tussen de twee partijen nog versterkt"
+},
+"Feindseelegkeet\u00010\u00010": {
+"pt": "Apesar do cessar-fogo, ainda houve hostilidades isoladas entre os dois exércitos",
+"nl": "Ondanks het staakt-het-vuren kwam het nog sporadisch tot vijandelijkheden tussen de twee legers"
+},
+"Feinheet\u00010\u00010": {
+"pt": "Para tais subtilezas musicais ele não tem ouvido",
+"nl": "Voor dergelijke muzikale fijne kneepjes heeft hij geen oor"
+},
+"Féischterbierg\u00010\u00010": {
+"pt": "Moro em Féischterbierg",
+"nl": "Ik woon in Féischterbierg"
+},
+"Féischterbierg\u00010\u00011": {
+"pt": "Este autocarro vai para Féischterbierg?",
+"nl": "Rijdt deze bus naar Féischterbierg?"
+},
+"Féischterhaff\u00010\u00010": {
+"pt": "Moro em Féischterhaff",
+"nl": "Ik woon in Féischterhaff"
+},
+"Féischterhaff\u00010\u00011": {
+"pt": "Este autocarro vai para Féischterhaff?",
+"nl": "Rijdt deze bus naar Féischterhaff?"
+},
+"Féitsch\u00010\u00010": {
+"pt": "Moro em Féitsch",
+"nl": "Ik woon in Féitsch"
+},
+"Féitsch\u00010\u00011": {
+"pt": "Este autocarro vai para Féitsch?",
+"nl": "Rijdt deze bus naar Féitsch?"
+},
+"Féiwer\u00010\u00010": {
+"pt": "A criança teve esta noite febre alta",
+"nl": "Het kind had vannacht hoge koorts"
+},
+"Féiwer\u00010\u00011": {
+"pt": "Já mediste a febre?",
+"nl": "Heb je al koorts gemeten?"
+},
+"Féiwer\u00010\u00012": {
+"pt": "Se a febre ainda subir, temos de chamar o médico",
+"nl": "Als de koorts nog stijgt, moeten we de dokter roepen"
+},
+"Féiwerkramp\u00010\u00010": {
+"pt": "Por causa de uma infeção viral, a criança teve uma convulsão febril",
+"nl": "Door een virale infectie kreeg het kind een koortsstuip"
+},
+"Féiz\u00010\u00010": {
+"pt": "Moro em Foetz",
+"nl": "Ik woon in Foetz"
+},
+"Féiz\u00010\u00011": {
+"pt": "Este autocarro vai para Foetz?",
+"nl": "Rijdt deze bus naar Foetz?"
+},
+"Feld\u00010\u00010": {
+"pt": "O agricultor trabalhou no campo o dia todo",
+"nl": "De boer heeft de hele dag op het veld gewerkt"
+},
+"Feld\u00010\u00011": {
+"pt": "Os campos estão de pousio",
+"nl": "De velden liggen braak"
+},
+"Feld\u00011\u00010": {
+"pt": "A bola saiu do campo",
+"nl": "De bal was uit het veld"
+},
+"Feld\u00011\u00011": {
+"pt": "O bispo preto só se move nas casas pretas",
+"nl": "De zwarte loper beweegt zich alleen op de zwarte velden"
+},
+"Feldbett\u00010\u00010": {
+"pt": "Nessas camas de campanha baratas não se dorme particularmente bem",
+"nl": "Op die goedkope veldbedden slaapt men niet bijzonder goed"
+},
+"Feldhär\u00010\u00010": {
+"pt": "O general entrou na cidade com o seu exército",
+"nl": "De veldheer is met zijn leger de stad binnengemarcheerd"
+},
+"Feldhärin\u00010\u00010": {
+"pt": "A generala deu ao seu exército a ordem de atacar",
+"nl": "De generaal gaf haar leger het bevel om aan te vallen"
+},
+"Feldhong\u00010\u00010": {
+"pt": "Quanto tempo chocam as perdizes-cinzentas?",
+"nl": "Hoe lang broeden patrijzen?"
+},
+"Feldhong\u00011\u00010": {
+"pt": "Nunca comi perdiz",
+"nl": "Ik heb nog nooit patrijs gegeten"
+},
+"Feldjäizert\u00010\u00010": {
+"pt": "Quanto tempo chocam as felosas-malhadas?",
+"nl": "Hoe lang broeden sprinkhaanzangers?"
+},
+"Feldmaus\u00010\u00010": {
+"pt": "O rato-do-campo é conhecido dos luxemburgueses sobretudo pelo livro D'Maus Ketti de Auguste Liesch",
+"nl": "De veldmuis is bij de Luxemburgers vooral bekend door het boek D'Maus Ketti van Auguste Liesch"
+},
+"Feldspatz\u00010\u00010": {
+"pt": "Quanto tempo chocam os pardais-montesinos?",
+"nl": "Hoe lang broeden ringmussen?"
+},
+"Feldspëtzmaus\u00010\u00010": {
+"pt": "Os jovens musaranhos-bicolores mordem-se uns aos outros na cauda durante os passeios e formam assim caravanas, com a mãe à frente",
+"nl": "De jonge veldspitsmuizen bijten tijdens uitstapjes elkaar in de staart vast en vormen zo karavanen, met de moeder vooraan"
+},
+"Feldwee\u00010\u00010": {
+"pt": "O trator entrou no caminho agrícola esburacado",
+"nl": "De tractor reed het hobbelige veldpad op"
+},
+"Felg\u00010\u00010": {
+"pt": "O mecânico montou pneus de inverno novos nas jantes",
+"nl": "De garagist heeft nieuwe winterbanden op de velgen gemonteerd"
+},
+"Felg\u00010\u00011": {
+"pt": "Ele conduz com a roda em cima da jante",
+"nl": "Hij rijdt op de velg"
+},
+"Felicitatioun\u00010\u00010": {
+"pt": "O desportista ficou contente com as felicitações",
+"nl": "De sportman was blij met de gelukwensen"
+},
+"felicitéieren\u00010\u00010": {
+"pt": "Os convidados felicitaram os recém-casados depois do casamento",
+"nl": "De gasten feliciteerden het bruidspaar na de bruiloft"
+},
+"Fell\u00010\u00010": {
+"pt": "Uma das peles do nosso bombo rasgou-se",
+"nl": "Een van de vellen van onze grote trom is gescheurd"
+},
+"fëlleg\u00010\u00010": {
+"pt": "O casaco fica-te um pouco largo, experimenta outro!",
+"nl": "De jas is je wat te los, probeer een andere!"
+},
+"Fëllement\u00010\u00010": {
+"pt": "Ontem foram betonadas as fundações da sua nova moradia",
+"nl": "Gisteren werden de funderingen van haar nieuwe villa gegoten"
+},
+"Fëllement\u00011\u00010": {
+"pt": "Um estágio nesta empresa de renome é uma boa base para a sua futura carreira",
+"nl": "Een stage in dit gerenommeerde bedrijf is een goede basis voor zijn latere loopbaan"
+},
+"fëllen\u00010\u00010": {
+"pt": "As crianças encheram um prato com leite para o gato",
+"nl": "De kinderen hebben voor de kat een bord met melk gevuld"
+},
+"fëllen\u00010\u00011": {
+"pt": "Aquele patife encheu os bolsos!",
+"nl": "Die boef heeft zijn zakken gevuld!"
+},
+"fëllen\u00011\u00010": {
+"pt": "O agricultor enche as batatas em sacos",
+"nl": "De boer vult de aardappelen in zakken"
+},
+"fëllen\u00011\u00011": {
+"pt": "O vinicultor encheu o vinho em barris",
+"nl": "De wijnbouwer heeft de wijn in vaten gevuld"
+},
+"fëllen\u00012\u00010": {
+"pt": "O salão de festas foi-se enchendo aos poucos",
+"nl": "De feestzaal liep langzaam vol"
+},
+"Felleschmillen\u00010\u00010": {
+"pt": "Moro em Felleschmillen",
+"nl": "Ik woon in Felleschmillen"
+},
+"Felleschmillen\u00010\u00011": {
+"pt": "Este autocarro vai para Felleschmillen?",
+"nl": "Rijdt deze bus naar Felleschmillen?"
+},
+"Fëllung\u00010\u00010": {
+"pt": "Nestes bolinhos há vários recheios",
+"nl": "In deze knoedeltjes zitten verschillende vullingen"
+},
+"Fëllung\u00010\u00011": {
+"pt": "Já preparei as maçãs e as castanhas para o recheio do pato",
+"nl": "Ik heb de appels en kastanjes voor de vulling van de eend al klaargemaakt"
+},
+"Fëllung\u00011\u00010": {
+"pt": "O dentista fez-me uma nova obturação",
+"nl": "De tandarts heeft een nieuwe vulling bij me gemaakt"
+},
+"Fëlschdref\u00010\u00010": {
+"pt": "Moro em Filsdorf",
+"nl": "Ik woon in Filsdorf"
+},
+"Fëlschdref\u00010\u00011": {
+"pt": "Este autocarro vai para Filsdorf?",
+"nl": "Rijdt deze bus naar Filsdorf?"
+},
+"Feminicide\u00010\u00010": {
+"pt": "A associação feminista reivindicou que o feminicídio fosse incluído no código penal",
+"nl": "De feministische vereniging eiste dat feminicide in het strafwetboek wordt opgenomen"
+},
+"feminin\u00010\u00010": {
+"pt": "Gosto de perfumes secos, esse é feminino de mais para mim",
+"nl": "Ik hou van droge parfums, die is me te vrouwelijk"
+},
+"feminin\u00010\u00011": {
+"pt": "O ator vestiu-se de forma muito feminina para o seu papel",
+"nl": "De acteur heeft zich voor zijn rol heel vrouwelijk gekleed"
+},
+"Feminismus\u00010\u00010": {
+"pt": "O historiador escreveu um livro sobre a história do feminismo",
+"nl": "De historicus heeft een boek over de geschiedenis van het feminisme geschreven"
+},
+"feministesch\u00010\u00010": {
+"pt": "Ela já publicou alguns artigos num jornal feminista",
+"nl": "Ze heeft al enkele artikelen in een feministische krant gepubliceerd"
+},
+"Feministin\u00010\u00010": {
+"pt": "Ela continuava a ser feminista",
+"nl": "Ze was nog altijd een feministe"
+},
+"fëmmen\u00010\u00010": {
+"pt": "O meu avô fuma cachimbo",
+"nl": "Mijn opa rookt pijp"
+},
+"fëmmen\u00010\u00011": {
+"pt": "Depois de comer, fumo um cigarro",
+"nl": "Na het eten rook ik een sigaret"
+},
+"fëmmen\u00010\u00012": {
+"pt": "No intervalo saímos para fumar um cigarro",
+"nl": "In de pauze gaan we naar buiten om een sigaret te roken"
+},
+"fëmmen\u00010\u00013": {
+"pt": "Fumaram um charro juntos",
+"nl": "Ze hebben samen een joint gerookt"
+},
+"fëmmen\u00010\u00014": {
+"pt": "A bateria do carro queimou-se",
+"nl": "De autobatterij is doorgebrand"
+},
+"fëmmen\u00011\u00010": {
+"pt": "A minha colega quer deixar de fumar",
+"nl": "Mijn collega wil stoppen met roken"
+},
+"fëmmen\u00011\u00011": {
+"pt": "Aqui dentro não é permitido fumar",
+"nl": "Hier binnen is roken niet toegestaan"
+},
+"fëmmen\u00011\u00012": {
+"pt": "Fumar é cada vez mais proibido",
+"nl": "Roken wordt steeds meer verboden"
+},
+"Fëmmert\u00010\u00010": {
+"pt": "Todo o fumador devia estar consciente de que põe a sua saúde em risco",
+"nl": "Elke roker moet zich ervan bewust zijn dat hij zijn gezondheid op het spel zet"
+},
+"Fëmmesch\u00010\u00010": {
+"pt": "Essa fumadora fuma há anos três maços de cigarros por dia",
+"nl": "Die rookster rookt al jaren drie pakjes sigaretten per dag"
+},
+"Fenchel\u00010\u00010": {
+"pt": "Gosto de comer o funcho cru com um pouco de vinagrete",
+"nl": "Ik eet venkel het liefst rauw met een beetje vinaigrette"
+},
+"Fenchel\u00010\u00011": {
+"pt": "Não gosto do sabor do funcho na sopa de legumes",
+"nl": "Ik hou niet van de smaak van venkel in groentesoep"
+},
+"Fenchel\u00010\u00012": {
+"pt": "Esta mistura de chá, boa para o estômago, é composta sobretudo por funcho",
+"nl": "In deze theemengeling, die goed is voor de maag, zit vooral venkel"
+},
+"Féngeg\u00010\u00010": {
+"pt": "Moro em Fingig",
+"nl": "Ik woon in Fingig"
+},
+"Féngeg\u00010\u00011": {
+"pt": "Este autocarro vai para Fingig?",
+"nl": "Rijdt deze bus naar Fingig?"
+},
+"féngeren\u00010\u00010": {
+"pt": "Ele mexeu no interruptor",
+"nl": "Hij knoeide aan de schakelaar"
+},
+"féngeren\u00010\u00011": {
+"pt": "Pára de mexer na eletricidade!",
+"nl": "Hou op met aan de elektriciteit te knoeien!"
+},
+"fénkelen\u00010\u00010": {
+"pt": "É uma noite limpa, as estrelas cintilam no céu",
+"nl": "Het is een heldere nacht, de sterren fonkelen aan de hemel"
+},
+"fénkelen\u00010\u00011": {
+"pt": "Os olhos do gato brilhavam na escuridão",
+"nl": "De ogen van de kat fonkelden in het donker"
+},
+"fénkelen\u00010\u00012": {
+"pt": "Cintila com o frio",
+"nl": "Het fonkelt van de kou"
+},
+"fënnef\u00010\u00010": {
+"pt": "Graças à minha dieta, já perdi cinco quilos",
+"nl": "Dankzij mijn dieet ben ik al vijf kilo kwijt"
+},
+"fënnef\u00010\u00011": {
+"pt": "Oito menos cinco são três",
+"nl": "Acht min vijf is drie"
+},
+"Fënnef\u00010\u00010": {
+"pt": "Digam-me um número qualquer que comece por cinco!",
+"nl": "Noem me een willekeurig getal dat met een vijf begint!"
+},
+"Fënnef\u00010\u00011": {
+"pt": "Já lancei quatro vezes seguidas um cinco",
+"nl": "Ik heb nu al vier keer na elkaar een vijf gegooid"
+},
+"Fënnef\u00010\u00012": {
+"pt": "No número 555 há três cincos seguidos",
+"nl": "In het getal 555 staan drie vijven achter elkaar"
+},
+"Fënnef\u00010\u00013": {
+"pt": "Tive um cinco no exame",
+"nl": "Ik kreeg een vijf op het examen"
+},
+"fënnefafofzeg\u00010\u00010": {
+"pt": "Hoje foram tratados nas urgências cinquenta e cinco doentes",
+"nl": "Vandaag werden er op de spoeddienst vijfenvijftig patiënten behandeld"
+},
+"fënnefafofzegst\u00010\u00010": {
+"pt": "Só à quinquagésima quinta tentativa é que a experiência resultou na perfeição",
+"nl": "Pas bij de vijfenvijftigste poging is het experiment perfect gelukt"
+},
+"fënnefanachtzeg\u00010\u00010": {
+"pt": "Hoje foram tratados nas urgências oitenta e cinco doentes",
+"nl": "Vandaag werden er op de spoeddienst vijfentachtig patiënten behandeld"
+},
+"fënnefanachtzegst\u00010\u00010": {
+"pt": "Só à octogésima quinta tentativa é que a experiência resultou na perfeição",
+"nl": "Pas bij de vijfentachtigste poging is het experiment perfect gelukt"
+},
+"fënnefandrësseg\u00010\u00010": {
+"pt": "Hoje foram tratados nas urgências trinta e cinco doentes",
+"nl": "Vandaag werden er op de spoeddienst vijfendertig patiënten behandeld"
+},
+"fënnefandrëssegst\u00010\u00010": {
+"pt": "Só à trigésima quinta tentativa é que a experiência resultou na perfeição",
+"nl": "Pas bij de vijfendertigste poging is het experiment perfect gelukt"
+},
+"fënnefannonzeg\u00010\u00010": {
+"pt": "Hoje foram tratados nas urgências noventa e cinco doentes",
+"nl": "Vandaag werden er op de spoeddienst vijfennegentig patiënten behandeld"
+},
+"fënnefannonzegst\u00010\u00010": {
+"pt": "Só à nonagésima quinta tentativa é que a experiência resultou na perfeição",
+"nl": "Pas bij de vijfennegentigste poging is het experiment perfect gelukt"
+},
+"fënnefanzwanzeg\u00010\u00010": {
+"pt": "Hoje foram tratados nas urgências vinte e cinco doentes",
+"nl": "Vandaag werden er op de spoeddienst vijfentwintig patiënten behandeld"
+},
+"fënnefanzwanzegst\u00010\u00010": {
+"pt": "Só à vigésima quinta tentativa é que a experiência resultou na perfeição",
+"nl": "Pas bij de vijfentwintigste poging is het experiment perfect gelukt"
+},
+"fënnefasechzeg\u00010\u00010": {
+"pt": "Hoje foram tratados nas urgências sessenta e cinco doentes",
+"nl": "Vandaag werden er op de spoeddienst vijfenzestig patiënten behandeld"
+},
+"fënnefasechzegst\u00010\u00010": {
+"pt": "Só à sexagésima quinta tentativa é que a experiência resultou na perfeição",
+"nl": "Pas bij de vijfenzestigste poging is het experiment perfect gelukt"
+},
+"fënnefasiwwenzeg\u00010\u00010": {
+"pt": "Hoje foram tratados nas urgências setenta e cinco doentes",
+"nl": "Vandaag werden er op de spoeddienst vijfenzeventig patiënten behandeld"
+},
+"fënnefasiwwenzegst\u00010\u00010": {
+"pt": "Só à septuagésima quinta tentativa é que a experiência resultou na perfeição",
+"nl": "Pas bij de vijfenzeventigste poging is het experiment perfect gelukt"
+},
+"fënnefavéierzeg\u00010\u00010": {
+"pt": "Hoje foram tratados nas urgências quarenta e cinco doentes",
+"nl": "Vandaag werden er op de spoeddienst vijfenveertig patiënten behandeld"
+},
+"fënnefavéierzegst\u00010\u00010": {
+"pt": "Só à quadragésima quinta tentativa é que a experiência resultou na perfeição",
+"nl": "Pas bij de vijfenveertigste poging is het experiment perfect gelukt"
+},
+"fënneffach\u00010\u00010": {
+"pt": "Para o campeão do mundo cinco vezes, não vai ser fácil defender o título esta época",
+"nl": "Voor de vijfvoudige wereldkampioen wordt het dit seizoen niet makkelijk zijn titel te verdedigen"
+},
+"Fënnefkampf\u00010\u00010": {
+"pt": "Que cinco desportos compõem o pentatlo moderno?",
+"nl": "Welke vijf sporten maken deel uit van de moderne vijfkamp?"
+},
+"fënnefmol\u00010\u00010": {
+"pt": "Já participei cinco vezes nesse concurso e nunca ganhei nada",
+"nl": "Ik heb al vijf keer aan die wedstrijd deelgenomen en nog nooit iets gewonnen"
+},
+"fënneft\u00010\u00010": {
+"pt": "Perdi o quinto episódio dessa série",
+"nl": "Ik heb de vijfde aflevering van die reeks gemist"
+},
+"Fënneftchen\u00011\u00010": {
+"pt": "Falta um cinco no teu baralho",
+"nl": "Er ontbreekt een vijf in je kaartspel"
+},
+"Fënneftel\u00010\u00010": {
+"pt": "Só pagámos de volta um quinto do empréstimo",
+"nl": "We hebben pas een vijfde van de lening terugbetaald"
+},
+"Fenneng\u00010\u00010": {
+"pt": "Moro em Fennange",
+"nl": "Ik woon in Fennange"
+},
+"Fenneng\u00010\u00011": {
+"pt": "Este autocarro vai para Fennange?",
+"nl": "Rijdt deze bus naar Fennange?"
+},
+"Fënster\u00010\u00010": {
+"pt": "Vamos ter uma janela maior na sala",
+"nl": "We krijgen een groter raam in de woonkamer"
+},
+"Fënster\u00010\u00011": {
+"pt": "A nossa vizinha passa o dia inteiro à janela",
+"nl": "Onze buurvrouw hangt de hele dag uit het raam"
+},
+"Fënster\u00010\u00012": {
+"pt": "Os rapazes partiram uma janela com a bola",
+"nl": "De jongens hebben met de bal een ruit ingeschopt"
+},
+"Fënster\u00010\u00013": {
+"pt": "Hoje lavam-se as janelas",
+"nl": "Vandaag worden de ramen gewassen"
+},
+"Fënster\u00010\u00014": {
+"pt": "No carro dele, os vidros ainda se sobem e descem manualmente",
+"nl": "In zijn auto worden de ramen nog met de hand omhoog en omlaag gedraaid"
+},
+"Fënster\u00010\u00015": {
+"pt": "Atirou (com as duas mãos) o dinheiro pela janela fora",
+"nl": "Hij heeft (met beide handen) het geld door het raam gegooid"
+},
+"Fënster\u00010\u00016": {
+"pt": "Debrucei-me demasiado da janela",
+"nl": "Ik leunde te ver uit het raam"
+},
+"Fënster\u00011\u00010": {
+"pt": "A livraria tem os livros mais recentes expostos na montra",
+"nl": "De boekhandel heeft de nieuwste boeken in de etalage liggen"
+},
+"Fënster\u00011\u00011": {
+"pt": "Fomos à cidade ver as montras",
+"nl": "We zijn naar de stad geweest om etalages te kijken"
+},
+"Fënster\u00012\u00010": {
+"pt": "O gato passa o dia todo no parapeito da janela",
+"nl": "De kat zit de hele dag op de vensterbank"
+},
+"Fënster\u00013\u00010": {
+"pt": "Quando tenho mais de três janelas abertas, perco a visão de conjunto",
+"nl": "Als ik meer dan drie vensters open heb staan, verlies ik het overzicht"
+},
+"Fënsterbänk\u00010\u00010": {
+"pt": "No verão pomos floreiras com gerânios nos nossos parapeitos",
+"nl": "In de zomer zetten we plantenbakken met geraniums op onze vensterbanken"
+},
+"Fënsterbriet\u00010\u00010": {
+"pt": "Tenho um rádio velho na cozinha, em cima do parapeito",
+"nl": "Ik heb een oude radio in de keuken op de vensterbank staan"
+},
+"Fënsterbriet\u00010\u00011": {
+"pt": "Os nossos parapeitos são de granito",
+"nl": "Onze vensterbanken zijn van graniet"
+},
+"Fënsterdall\u00010\u00010": {
+"pt": "Moro em Finsterthal",
+"nl": "Ik woon in Finsterthal"
+},
+"Fënsterdall\u00010\u00011": {
+"pt": "Este autocarro vai para Finsterthal?",
+"nl": "Rijdt deze bus naar Finsterthal?"
+},
+"Fënsterglas\u00010\u00010": {
+"pt": "A nova porta do nosso duche é de vidro simples",
+"nl": "De nieuwe deur van onze douche is van vensterglas"
+},
+"Fënsterglas\u00010\u00011": {
+"pt": "As lentes dos óculos dele são de vidro simples",
+"nl": "De glazen van zijn bril zijn van vensterglas"
+},
+"Fënsterhaff\u00010\u00010": {
+"pt": "Moro em Fënsterhaff",
+"nl": "Ik woon in Fënsterhaff"
+},
+"Fënsterhaff\u00010\u00011": {
+"pt": "Este autocarro vai para Fënsterhaff?",
+"nl": "Rijdt deze bus naar Fënsterhaff?"
+},
+"Fënsterlieder\u00010\u00010": {
+"pt": "Só secamos o nosso carro com a camurça",
+"nl": "We drogen onze auto alleen met het zeemvel"
+},
+"Fënsterrumm\u00010\u00010": {
+"pt": "O meu pai lixou os caixilhos das janelas e envernizou-os de novo",
+"nl": "Mijn vader heeft de raamkozijnen geschuurd en vers gelakt"
+},
+"Fënsterschmuewel\u00010\u00010": {
+"pt": "Quanto tempo chocam as andorinhas-dos-beirais?",
+"nl": "Hoe lang broeden huiszwaluwen?"
+},
+"Fenteng\u00010\u00010": {
+"pt": "Moro em Fentange",
+"nl": "Ik woon in Fentange"
+},
+"Fenteng\u00010\u00011": {
+"pt": "Este autocarro vai para Fentange?",
+"nl": "Rijdt deze bus naar Fentange?"
+},
+"Fënz\u00010\u00010": {
+"pt": "Moro em Fënz",
+"nl": "Ik woon in Fënz"
+},
+"Fënz\u00010\u00011": {
+"pt": "Este autocarro vai para Fënz?",
+"nl": "Rijdt deze bus naar Fënz?"
+},
+"fërderen\u00010\u00010": {
+"pt": "As universidades promovem o intercâmbio cultural",
+"nl": "Universiteiten bevorderen de culturele uitwisseling"
+},
+"Fërderung\u00010\u00010": {
+"pt": "O corpo docente muitas vezes não tem tempo suficiente para apoiar cada aluno",
+"nl": "Het onderwijzend personeel heeft vaak niet genoeg tijd voor de ondersteuning van individuele leerlingen"
+},
+"Fërderung\u00010\u00011": {
+"pt": "A promoção das energias alternativas é hoje muito importante",
+"nl": "De bevordering van alternatieve energie is tegenwoordig heel belangrijk"
+},
+"Fer forgé\u00010\u00010": {
+"pt": "Para a nossa escada, mandámos o ferreiro fazer um corrimão de ferro forjado",
+"nl": "Voor onze trap hebben we bij de smid een leuning in smeedijzer laten maken"
+},
+"ferm\u00010\u00010": {
+"pt": "O nosso treinador é um tipo robusto",
+"nl": "Onze trainer is een stevige kerel"
+},
+"ferm\u00010\u00011": {
+"pt": "O novo estagiário está longe de ser um tipo forte",
+"nl": "De nieuwe stagiair is lang geen stevige"
+},
+"ferm\u00011\u00010": {
+"pt": "O cão levou um pontapé forte por trás",
+"nl": "De hond kreeg een stevige schop van achteren"
+},
+"ferm\u00012\u00010": {
+"pt": "O nosso neto não tem um caráter firme",
+"nl": "Onze kleinzoon heeft geen stevig karakter"
+},
+"ferm\u00012\u00011": {
+"pt": "Estamos firmemente decididos a construir ainda este ano",
+"nl": "We zijn vastbesloten om nog dit jaar te bouwen"
+},
+"ferm\u00010\u00010~2": {
+"pt": "Na festa da empresa, os colaboradores exageraram a sério na bebida",
+"nl": "Op het bedrijfsfeest hebben de medewerkers het flink overdreven met drinken"
+},
+"ferm\u00010\u00011~2": {
+"pt": "Esta noite choveu muito",
+"nl": "Vannacht heeft het flink geregend"
+},
+"Fermium\u00010\u00010": {
+"pt": "O elemento férmio pertence ao grupo dos actinídeos",
+"nl": "Het element fermium behoort tot de groep van de actiniden"
+},
+"fërmlech\u00010\u00010": {
+"pt": "Recebemos tantas candidaturas que literalmente nos afogámos nos pedidos",
+"nl": "We kregen zoveel kandidaturen dat we letterlijk verdronken in de aanvragen"
+},
+"fërmlech\u00010\u00011": {
+"pt": "A nossa equipa literalmente atropelou o adversário",
+"nl": "Onze ploeg heeft de tegenstander letterlijk overrompeld"
+},
+"fërmlech\u00010\u00010~2": {
+"pt": "Vá lá, não sejamos tão formais e tratemo-nos por tu!",
+"nl": "Kom, laten we niet zo formeel doen en elkaar gewoon tutoyeren!"
+},
+"Fernbezéiung\u00010\u00010": {
+"pt": "Como a minha mãe trabalhava no estrangeiro, os meus pais tiveram nos primeiros anos uma relação à distância",
+"nl": "Omdat mijn moeder in het buitenland werkte, hadden mijn ouders de eerste jaren een lange-afstandsrelatie"
+},
+"Fernbezéiung\u00010\u00011": {
+"pt": "Não é fácil manter uma relação à distância durante muito tempo",
+"nl": "Het is niet makkelijk om lange tijd een lange-afstandsrelatie te hebben"
+},
+"Fernlaster\u00010\u00010": {
+"pt": "O meu irmão conduz o seu camião de longo curso por toda a Europa",
+"nl": "Mijn broer rijdt met zijn vrachtwagen door heel Europa"
+},
+"Fernsee\u00010\u00010": {
+"pt": "A nossa televisão avariou mesmo a meio do jogo!",
+"nl": "Onze tv ging precies in de helft van de wedstrijd kapot!"
+},
+"Fernsee\u00011\u00010": {
+"pt": "O meu sogro passa o dia todo sentado na poltrona a ver televisão!",
+"nl": "Mijn schoonvader zit de hele dag in zijn fauteuil naar de tv te kijken!"
+},
+"Fernsee\u00012\u00010": {
+"pt": "O meu primo trabalha como operador de câmara na televisão",
+"nl": "Mijn neef werkt als cameraman bij de televisie"
+},
+"Fernsee\u00013\u00010": {
+"pt": "A televisão chegou ao local do acidente antes da polícia",
+"nl": "De televisie was vóór de politie ter plaatse bij het ongeluk"
+},
+"Fernseesender\u00010\u00010": {
+"pt": "Naquele novo canal passa quase só desporto",
+"nl": "Op die nieuwe zender komt bijna alleen sport"
+},
+"Fernseesprogramm\u00010\u00010": {
+"pt": "A programação de televisão desta semana foi só porcaria",
+"nl": "In het televisieprogramma van deze week zat alleen maar rommel"
+},
+"Fernseesprogramm\u00011\u00010": {
+"pt": "Vê na programação da televisão se esta noite passa algum filme bom!",
+"nl": "Kijk eens in het tv-programma of er vanavond een mooie film op is!"
+},
+"Fernseesprogramm\u00012\u00010": {
+"pt": "O novo canal de televisão transmite sobretudo programas de desporto",
+"nl": "De nieuwe televisiezender zendt vooral sportprogramma's uit"
+},
+"Fernseesserie\u00010\u00010": {
+"pt": "Esta noite passa o último episódio dessa querida série de televisão",
+"nl": "Vanavond komt de laatste aflevering van die geliefde televisiereeks"
+},
+"fernsteieren\u00010\u00010": {
+"pt": "Os modernos aviões espiões podem ser telecomandados a partir do solo",
+"nl": "Moderne spionagevliegtuigen kunnen vanaf de grond worden afgestuurd"
+},
+"fernsteieren\u00010\u00011": {
+"pt": "Os três rapazes divertem-se durante horas com os seus helicópteros telecomandados",
+"nl": "De drie jongens amuseren zich urenlang met hun afstandsbestuurde helikopters"
+},
+"Fernsteierung\u00010\u00010": {
+"pt": "As pilhas do telecomando estão descarregadas",
+"nl": "De batterijen van de afstandsbediening zijn leeg"
+},
+"fervent\u00010\u00010": {
+"pt": "Os meus avós são desde sempre monárquicos fervorosos",
+"nl": "Mijn grootouders zijn al van oudsher vurige monarchisten"
+},
+"fervent\u00010\u00011": {
+"pt": "O nosso pároco é um adepto fervoroso da nossa equipa de futebol local",
+"nl": "Onze pastoor is een vurige supporter van ons plaatselijke voetbalteam"
+},
+"Fësch\u00010\u00010": {
+"pt": "No mergulho, vimos enormes cardumes de peixes",
+"nl": "Tijdens het duiken zagen we enorme scholen vissen"
+},
+"Fësch\u00010\u00011": {
+"pt": "Esse peixe está cheio de espinhas!",
+"nl": "Die vis zit vol graten!"
+},
+"Fësch\u00010\u00012": {
+"pt": "Todos os anos vamos à kermesse comer peixe frito",
+"nl": "Elk jaar gaan we op de kermis gebakken vis eten"
+},
+"Fësch\u00010\u00013": {
+"pt": "Um peixe tem de nadar",
+"nl": "Een vis moet zwemmen"
+},
+"Fësch\u00010\u00014": {
+"pt": "São peixes pequenos",
+"nl": "Dat zijn kleine vissen"
+},
+"Fësch\u00010\u00015": {
+"pt": "Agora os peixes pequenos também levam água",
+"nl": "Nu krijgen de kleine vissen ook water"
+},
+"Fësch\u00010\u00016": {
+"pt": "Sente-se como peixe na água",
+"nl": "Hij voelt zich als een vis in het water"
 }
 }
