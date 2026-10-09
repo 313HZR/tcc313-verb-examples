@@ -88198,5 +88198,905 @@
 "héissen\u00010\u00010": {
 "pt": "Marchámos pela floresta sem mapa e perdemo-nos",
 "nl": "We zijn zonder kaart door het bos getrokken en hebben ons verlopen"
+},
+"héissen\u00010\u00011": {
+"pt": "Marcham para a quermesse com toda a malta",
+"nl": "Ze trekken met de hele bende naar de kermis"
+},
+"heiten\u00010\u00010": {
+"pt": "Este aqui é o caminho direto para a cidade",
+"nl": "Dit hier is de directe weg naar de stad"
+},
+"heiten\u00011\u00010": {
+"pt": "Este diamante ainda tem de ser lapidado",
+"nl": "Deze diamant moet nog geslepen worden"
+},
+"heiten\u00011\u00011": {
+"pt": "Dá-me outro parafuso, este aqui está espanado",
+"nl": "Geef me een andere schroef, deze hier is kapot gedraaid"
+},
+"heiter\u00010\u00010": {
+"pt": "Dá-me outro parafuso, a rosca deste aqui está gasta",
+"nl": "Geef me een andere schroef, het schroefdraad van deze hier is uitgeleierd"
+},
+"Héiweng\u00010\u00010": {
+"pt": "Moro em Héiweng",
+"nl": "Ik woon in Héiweng"
+},
+"Héiweng\u00010\u00011": {
+"pt": "Este autocarro vai para Héiweng?",
+"nl": "Rijdt deze bus naar Héiweng?"
+},
+"Heizdecken\u00010\u00010": {
+"pt": "No inverno tiro as minhas mantas elétricas",
+"nl": "In de winter haal ik mijn elektrische dekens tevoorschijn"
+},
+"Heizkäschten\u00010\u00010": {
+"pt": "Este mês os nossos custos de aquecimento foram baixos",
+"nl": "Deze maand waren onze verwarmingskosten laag"
+},
+"Heizkierper\u00010\u00010": {
+"pt": "Aquele velho radiador não aquece bem, temos de purgar o ar",
+"nl": "Die oude radiator wordt niet goed warm, we moeten de lucht eruit laten"
+},
+"heizuland\u00010\u00010": {
+"pt": "Neste país é difícil para muitos jovens encontrar um apartamento",
+"nl": "In dit land is het voor veel jongeren moeilijk een appartement te vinden"
+},
+"heizuland\u00010\u00011": {
+"pt": "A Hämmelsmarsch é, neste país, uma tradição da quermesse",
+"nl": "De Hämmelsmarsch is hier te lande een traditie voor de kermis"
+},
+"Heizung\u00010\u00010": {
+"pt": "Ontem o aquecimento avariou no nosso escritório",
+"nl": "Gisteren is bij ons op kantoor de verwarming uitgevallen"
+},
+"Heizungsrouer\u00010\u00010": {
+"pt": "Em nossa casa, os tubos do aquecimento ainda estão à vista sobre o reboco",
+"nl": "In ons huis liggen de verwarmingsbuizen nog over de pleisterlaag"
+},
+"Hektar\u00010\u00010": {
+"pt": "Herdaram dois hectares de terra",
+"nl": "Ze hebben twee hectare land geërfd"
+},
+"Hektar\u00010\u00011": {
+"pt": "Ao conde pertencem ainda hectares e hectares de terras no estrangeiro",
+"nl": "De graaf bezit ook nog hectaren en hectaren grond in het buitenland"
+},
+"hektesch\u00010\u00010": {
+"pt": "Não sejas tão agitado!",
+"nl": "Wees niet zo hectisch!"
+},
+"hektesch\u00010\u00011": {
+"pt": "Folheou freneticamente a sua agenda",
+"nl": "Hij bladerde koortsachtig in zijn agenda"
+},
+"Hektik\u00010\u00010": {
+"pt": "Na correria, fizemos as malas",
+"nl": "In alle drukte pakten we onze koffers"
+},
+"Hektoliter\u00010\u00010": {
+"pt": "No ano passado, esta adega produziu 500 hectolitros de vinho",
+"nl": "Vorig jaar produceerde dit wijnbedrijf 500 hectoliter wijn"
+},
+"Held\u00010\u00010": {
+"pt": "A partir desse dia, o bombeiro foi um herói na aldeia",
+"nl": "Vanaf die dag was de brandweerman een held in het dorp"
+},
+"Heldin\u00010\u00010": {
+"pt": "Esta mulher foi celebrada como heroína depois de salvar uma criança de se afogar",
+"nl": "Deze vrouw werd als heldin gevierd nadat ze een kind van verdrinking had gered"
+},
+"Helfenter Bréck\u00010\u00010": {
+"pt": "Moro na Helfenter Bréck",
+"nl": "Ik woon op de Helfenter Bréck"
+},
+"Helfenter Bréck\u00010\u00011": {
+"pt": "Este autocarro vai para a Helfenter Bréck?",
+"nl": "Rijdt deze bus naar de Helfenter Bréck?"
+},
+"Helikopter\u00010\u00010": {
+"pt": "O governo decidiu utilizar helicópteros durante a inundação",
+"nl": "De regering heeft besloten bij de overstroming helikopters in te zetten"
+},
+"Helium\u00010\u00010": {
+"pt": "O elemento hélio pertence ao grupo dos gases nobres",
+"nl": "Het element helium behoort tot de groep van de edelgassen"
+},
+"hell\u00010\u00010": {
+"pt": "Está demasiado claro aqui dentro, vai-me dar dor de cabeça",
+"nl": "Het is hier binnen te licht, ik krijg er hoofdpijn van"
+},
+"hell\u00010\u00011": {
+"pt": "No verão, fica claro cá fora cedo",
+"nl": "In de zomer wordt het buiten al vroeg licht"
+},
+"hell\u00011\u00010": {
+"pt": "Tem uns olhos claros maravilhosos",
+"nl": "Hij heeft prachtige heldere ogen"
+},
+"hell\u00011\u00011": {
+"pt": "Pintámos o quarto de uma cor clara",
+"nl": "We hebben de slaapkamer in een lichte kleur geschilderd"
+},
+"hell\u00011\u00012": {
+"pt": "Daqueles sons agudos doem-me os ouvidos",
+"nl": "Van die hoge tonen doen mijn oren pijn"
+},
+"hell\u00012\u00010": {
+"pt": "Cuidado, aquele ali é um rapaz esperto!",
+"nl": "Pas op, dat is een slimme jongen!"
+},
+"hell\u00012\u00011": {
+"pt": "Aquela não foi uma observação inteligente",
+"nl": "Dat was geen slimme opmerking"
+},
+"hell\u00012\u00012": {
+"pt": "Ele está longe de ser um génio!",
+"nl": "Hij is nog lang geen slimmerik!"
+},
+"hell\u00010\u00010~2": {
+"pt": "As crianças ficaram entusiasmadas com o teatro de marionetas",
+"nl": "De kinderen waren door het poppenspel laaiend enthousiast"
+},
+"hell\u00011\u00010~2": {
+"pt": "Despacha-te e vai para casa!",
+"nl": "Maak dat je snel thuiskomt!"
+},
+"hell\u00011\u00011~2": {
+"pt": "Agora é para a cama, depressa!",
+"nl": "Nu snel naar bed!"
+},
+"hellblo\u00010\u00010": {
+"pt": "O bebé tem olhos azul-claros",
+"nl": "De baby heeft lichtblauwe ogen"
+},
+"hellbrong\u00010\u00010": {
+"pt": "A minha irmã tem cabelo castanho-claro e olhos azuis",
+"nl": "Mijn zus heeft lichtbruin haar en blauwe ogen"
+},
+"hellbrong\u00010\u00011": {
+"pt": "O suspeito vestia jeans e um casaco de couro castanho-claro",
+"nl": "De verdachte droeg een jeans en een lichtbruin leren jasje"
+},
+"Hellecht\u00010\u00010": {
+"pt": "O seu melhor colega arranjou-lhe um casamento",
+"nl": "Zijn beste collega heeft hem aan een partner geholpen"
+},
+"Hellechtsmécher\u00010\u00010": {
+"pt": "Gosta de fazer de casamenteiro, mas ele próprio nunca teve namorada!",
+"nl": "Hij speelt graag koppelaar, maar zelf heeft hij nog nooit een vriendin gehad!"
+},
+"Hellechtsmécher\u00010\u00011": {
+"pt": "Antigamente havia casamenteiros, hoje há aplicações de encontros",
+"nl": "Vroeger waren er koppelaars, tegenwoordig zijn er datingapps"
+},
+"Hellechtsméchesch\u00010\u00010": {
+"pt": "A minha amiga quer sempre fazer de casamenteira por mim",
+"nl": "Mijn vriendin wil steeds weer koppelaarster voor mij spelen"
+},
+"Hëllef\u00010\u00010": {
+"pt": "Com a tua ajuda avançamos bem",
+"nl": "Met jouw hulp komen we goed vooruit"
+},
+"Hëllef\u00010\u00011": {
+"pt": "O ferido pediu socorro",
+"nl": "Het slachtoffer riep om hulp"
+},
+"Hëllef\u00010\u00012": {
+"pt": "Aquele dicionário não foi uma grande ajuda para mim!",
+"nl": "Dat woordenboek was voor mij geen grote hulp!"
+},
+"Hëllef\u00010\u00013": {
+"pt": "Para as vítimas do acidente, toda a ajuda chegou tarde demais",
+"nl": "Voor de slachtoffers van het ongeluk kwam alle hulp te laat"
+},
+"Hëllef\u00010\u00014": {
+"pt": "Os bombeiros tiveram de arrombar a porta para socorrer as pessoas",
+"nl": "De brandweer moest de deur forceren om de mensen te hulp te komen"
+},
+"Hëllef\u00011\u00010": {
+"pt": "No fundo, todos os adultos deviam aprender a prestar primeiros socorros",
+"nl": "Eigenlijk zou elke volwassene eerste hulp moeten leren verlenen"
+},
+"Hëllef\u00012\u00010": {
+"pt": "Com ajudas direcionadas, as pessoas mais pobres devem receber um apoio",
+"nl": "Met gerichte hulp moeten de armste mensen een handje worden geholpen"
+},
+"Hëllef\u00013\u00010": {
+"pt": "Ainda precisamos de ajuda na cozinha",
+"nl": "We hebben nog hulp nodig in de keuken"
+},
+"hëllefen\u00010\u00010": {
+"pt": "Ele está ali parado sem fazer nada, em vez de ajudar",
+"nl": "Hij staat daar niets te doen in plaats van te helpen"
+},
+"hëllefen\u00010\u00011": {
+"pt": "O médico fez tudo para ajudar a paciente",
+"nl": "De dokter deed alles om de patiënte te helpen"
+},
+"hëllefen\u00010\u00012": {
+"pt": "As crianças ajudaram a decorar a árvore de Natal",
+"nl": "De kinderen hielpen de kerstboom versieren"
+},
+"hëllefen\u00010\u00013": {
+"pt": "Esses não têm remédio!",
+"nl": "Die zijn niet te helpen!"
+},
+"hëllefen\u00010\u00014": {
+"pt": "Achas que devias ajudá-lo!",
+"nl": "Je denkt dat je hem moet helpen!"
+},
+"hëllefen\u00010\u00015": {
+"pt": "Eles sabem sempre desenrascar-se",
+"nl": "Ze weten zich altijd te helpen"
+},
+"hëllefen\u00011\u00010": {
+"pt": "O teu comentário ajudou-nos a compreender a problemática",
+"nl": "Jouw commentaar heeft ons geholpen de problematiek te begrijpen"
+},
+"hëllefen\u00011\u00011": {
+"pt": "Este medicamento ajuda contra as dores de cabeça",
+"nl": "Dit medicijn helpt tegen hoofdpijn"
+},
+"hëllefräich\u00010\u00010": {
+"pt": "No exame de Latim, um dicionário é muito útil",
+"nl": "Bij het examen Latijn is een woordenboek erg nuttig"
+},
+"Hëllefruff\u00010\u00010": {
+"pt": "A sua reação intensa devia, na minha opinião, ser entendida como um pedido de ajuda",
+"nl": "Zijn heftige reactie moet volgens mij als een hulpkreet worden opgevat"
+},
+"hëllefsbereet\u00010\u00010": {
+"pt": "Tenho vizinhos muito prestáveis com quem posso sempre contar",
+"nl": "Ik heb zeer hulpvaardige buren op wie ik altijd kan rekenen"
+},
+"Hëllefsbereetschaft\u00010\u00010": {
+"pt": "A disponibilidade para ajudar daquele rapaz simpático é muitas vezes aproveitada",
+"nl": "De hulpvaardigheid van die aardige kerel wordt vaak misbruikt"
+},
+"Hëllefsmëttel\u00010\u00010": {
+"pt": "Neste exame, só é permitido como auxiliar um dicionário monolingue",
+"nl": "Op dit examen is alleen een eentalig woordenboek als hulpmiddel toegestaan"
+},
+"Hëllefsorganisatioun\u00010\u00010": {
+"pt": "A organização humanitária declarou que a epidemia está neste momento sob controlo",
+"nl": "De hulporganisatie heeft verklaard dat de epidemie momenteel onder controle is"
+},
+"Hëllefsorganisatioun\u00010\u00011": {
+"pt": "Depois dos meus estudos, trabalhei meio ano como voluntário numa organização humanitária",
+"nl": "Na mijn studie heb ik een half jaar als vrijwilliger bij een hulporganisatie gewerkt"
+},
+"Hëllefsverb\u00010\u00010": {
+"pt": "No mais-que-perfeito, o verbo auxiliar está no imperfeito",
+"nl": "In de voltooid verleden tijd staat het hulpwerkwoord in de onvoltooid verleden tijd"
+},
+"helleg\u00010\u00010": {
+"pt": "Santo António é o padroeiro dos porcos",
+"nl": "Sint-Antonius is de patroon van de varkens"
+},
+"helleg\u00010\u00011": {
+"pt": "A Santíssima Trindade é celebrada no primeiro domingo depois do Pentecostes",
+"nl": "De Heilige Drievuldigheid wordt gevierd op de eerste zondag na Pinksteren"
+},
+"helleg\u00010\u00012": {
+"pt": "Prometo-te solenemente!",
+"nl": "Ik beloof het je plechtig!"
+},
+"helleg\u00010\u00013": {
+"pt": "Tive sempre um respeito profundo pelo meu professor",
+"nl": "Ik had altijd een heilig ontzag voor mijn schoolmeester"
+},
+"Helleg\u00010\u00010": {
+"pt": "Na nossa aldeia, à frente da igreja, há uma grande estátua de uma santa",
+"nl": "Bij ons in het dorp staat voor de kerk een groot beeld van een heilige"
+},
+"Hellegebild\u00010\u00010": {
+"pt": "Em criança colecionava santinhos",
+"nl": "Als kind verzamelde ik heiligenprentjes"
+},
+"Hellegen\u00010\u00010": {
+"pt": "No meio da ponte há uma estátua de um santo",
+"nl": "Midden op de brug staat een beeld van een heilige"
+},
+"Hellegen\u00010\u00011": {
+"pt": "Ele não é nenhum santo",
+"nl": "Hij is geen heilige"
+},
+"Hellegen\u00010\u00012": {
+"pt": "Ele é só um pequeno santo numa grande igreja",
+"nl": "Hij is maar een kleine heilige in een grote kerk"
+},
+"Hellegeschäin\u00010\u00010": {
+"pt": "Nas imagens, Jesus é muitas vezes representado com uma auréola",
+"nl": "Op afbeeldingen wordt Jezus vaak met een aureool voorgesteld"
+},
+"Hellegeschäin\u00010\u00011": {
+"pt": "Muita gente anda por aí com ar de santo",
+"nl": "Veel mensen lopen met een heiligenschijn rond"
+},
+"Hellegestatu\u00010\u00010": {
+"pt": "A estátua do santo está num nicho atrás do altar",
+"nl": "Het heiligenbeeld staat in een nis achter het altaar"
+},
+"Hellege Stull\u00010\u00010": {
+"pt": "A Santa Sé anunciou que o Papa visitará o Luxemburgo numa visita de Estado",
+"nl": "De Heilige Stoel heeft aangekondigd dat de paus voor een staatsbezoek naar Luxemburg komt"
+},
+"Hellege Stull\u00010\u00011": {
+"pt": "Hoje foram acreditados três novos embaixadores junto da Santa Sé",
+"nl": "Vandaag werden drie nieuwe ambassadeurs bij de Heilige Stoel geaccrediteerd"
+},
+"Hellegowend\u00010\u00010": {
+"pt": "Na Noite de Consoada, as crianças esperam ansiosamente pelos presentes do Menino Jesus",
+"nl": "Op kerstavond kijken de kinderen uit naar de cadeaus van het Kerstkindje"
+},
+"hellegspriechen\u00010\u00010": {
+"pt": "Muitos mártires foram canonizados",
+"nl": "Veel martelaren werden heilig verklaard"
+},
+"Helleng\u00010\u00010": {
+"pt": "Moro em Helleng",
+"nl": "Ik woon in Helleng"
+},
+"Helleng\u00010\u00011": {
+"pt": "Este autocarro vai para Helleng?",
+"nl": "Rijdt deze bus naar Helleng?"
+},
+"hellewech\u00010\u00010": {
+"pt": "Desceu as escadas a correr à velocidade da luz",
+"nl": "Hij rende in een oogwenk de trap af"
+},
+"hellewech\u00011\u00010": {
+"pt": "As crianças ficaram absolutamente entusiasmadas com o teatro de marionetas",
+"nl": "De kinderen waren door het poppenspel laaiend enthousiast"
+},
+"Hellewull\u00010\u00010": {
+"pt": "Na inauguração da loja havia uma enorme multidão",
+"nl": "Bij de opening van de winkel was er een enorme mensenmassa"
+},
+"Hellgewiss\u00010\u00010": {
+"pt": "Moro em Hellgewiss",
+"nl": "Ik woon op de Hellgewiss"
+},
+"Hellgewiss\u00010\u00011": {
+"pt": "Este autocarro vai para a Hellgewiss?",
+"nl": "Rijdt deze bus naar de Hellgewiss?"
+},
+"hellgiel\u00010\u00010": {
+"pt": "Reconheces a nossa casa pela fachada amarelo-claro",
+"nl": "Je herkent ons huis aan de lichtgele gevel"
+},
+"hellgréng\u00010\u00010": {
+"pt": "Para mim, aquele casaco verde-claro ao lado daquelas calças cor-de-rosa salta à vista",
+"nl": "Voor mij valt die lichtgroene jas naast die roze broek op"
+},
+"hellliicht\u00010\u00010": {
+"pt": "Na nossa zona houve um assalto em pleno dia",
+"nl": "Bij ons is in volle daglicht ingebroken"
+},
+"hellop\u00010\u00010": {
+"pt": "As crianças ficaram totalmente entusiasmadas com o teatro de marionetas",
+"nl": "De kinderen waren door het poppenspel laaiend enthousiast"
+},
+"Hellseeër\u00010\u00010": {
+"pt": "A minha tia consulta sempre um vidente quando tem de tomar uma decisão importante",
+"nl": "Mijn tante raadpleegt telkens een helderziende als ze een belangrijke beslissing moet nemen"
+},
+"Hellseeër\u00010\u00011": {
+"pt": "Não me perguntes como acaba esse caso, não sou vidente!",
+"nl": "Vraag me niet hoe die affaire afloopt, ik ben geen helderziende!"
+},
+"hellwakereg\u00010\u00010": {
+"pt": "De manhã, às cinco horas, já estava bem desperto",
+"nl": "'s Ochtends om vijf uur was ik al klaarwakker"
+},
+"hellwakereg\u00010\u00011": {
+"pt": "Fiquei de repente bem desperto quando o meu nome foi chamado",
+"nl": "Ik was opeens klaarwakker toen mijn naam viel"
+},
+"Helm\u00010\u00010": {
+"pt": "É proibido andar de mota sem capacete",
+"nl": "Het is verboden zonder helm met de motor te rijden"
+},
+"Helm\u00010\u00011": {
+"pt": "O capacete faz parte do uniforme dos bombeiros",
+"nl": "De helm hoort bij het uniform van de brandweer"
+},
+"Helperknapp\u00010\u00010": {
+"pt": "Já estiveste alguma vez no Helperknapp?",
+"nl": "Ben je al eens op de Helperknapp geweest?"
+},
+"Helperknapp\u00010\u00011": {
+"pt": "No fim de semana fizemos uma caminhada até ao Helperknapp",
+"nl": "In het weekend hebben we naar de Helperknapp gewandeld"
+},
+"Helperknapp\u00010\u00010~2": {
+"pt": "Sabes que localidades pertencem à comuna de Helperknapp?",
+"nl": "Weet jij welke dorpen tot de gemeente Helperknapp behoren?"
+},
+"Helsem\u00010\u00010": {
+"pt": "Moro em Helsem",
+"nl": "Ik woon in Helsem"
+},
+"Helsem\u00010\u00011": {
+"pt": "Este autocarro vai para Helsem?",
+"nl": "Rijdt deze bus naar Helsem?"
+},
+"Helsinki\u00010\u00010": {
+"pt": "Helsínquia é a capital da Finlândia",
+"nl": "Helsinki is de hoofdstad van Finland"
+},
+"hëlzen\u00010\u00010": {
+"pt": "Os tonéis de madeira foram tingidos",
+"nl": "De houten tonnen werden gebeitst"
+},
+"hëlzen\u00010\u00011": {
+"pt": "Isso é um penso numa perna de pau!",
+"nl": "Dat is een pleister op een houten been!"
+},
+"Helzen\u00010\u00010": {
+"pt": "Moro em Helzen",
+"nl": "Ik woon in Helzen"
+},
+"Helzen\u00010\u00011": {
+"pt": "Este autocarro vai para Helzen?",
+"nl": "Rijdt deze bus naar Helzen?"
+},
+"Hemisphär\u00010\u00010": {
+"pt": "Sabias que no hemisfério sul se veem estrelas diferentes das da Europa?",
+"nl": "Wist je dat je op het zuidelijk halfrond andere sterren ziet dan in Europa?"
+},
+"Hemmung\u00010\u00010": {
+"pt": "O senhorio não teve escrúpulos em pôr a família inteira na rua",
+"nl": "De huisbaas had geen scrupules om het hele gezin op straat te zetten"
+},
+"Hemmung\u00011\u00010": {
+"pt": "Quando está diante de um buffet, perde qualquer inibição",
+"nl": "Als hij voor een buffet staat, kent hij geen remmingen meer"
+},
+"hemmungslos\u00010\u00010": {
+"pt": "Aproveitaste-te de mim sem escrúpulos!",
+"nl": "Je hebt me schaamteloos uitgebuit!"
+},
+"hemmungslos\u00011\u00010": {
+"pt": "Quando ouviu isso, chorou sem pudor",
+"nl": "Toen hij dat hoorde, huilde hij ongeremd"
+},
+"hemsen\u00010\u00010": {
+"pt": "No teatro, atrás de mim estava alguém que pigarreava constantemente",
+"nl": "In het theater zat er achter mij iemand die voortdurend kuchte"
+},
+"Hemstel\u00010\u00010": {
+"pt": "Moro em Hemstel",
+"nl": "Ik woon in Hemstel"
+},
+"Hemstel\u00010\u00011": {
+"pt": "Este autocarro vai para Hemstel?",
+"nl": "Rijdt deze bus naar Hemstel?"
+},
+"Héngerbritt\u00010\u00010": {
+"pt": "Para a quermesse, serviram como entrada um caldo de galinha com aletria",
+"nl": "Voor de kermis was er als voorgerecht kippenbouillon met vermicelli"
+},
+"Héngerbroscht\u00010\u00010": {
+"pt": "O peito de pombo desenvolve-se muitas vezes só na puberdade",
+"nl": "Een kippenborst ontwikkelt zich vaak pas in de puberteit"
+},
+"Héngerdéif\u00010\u00010": {
+"pt": "Quanto tempo chocam os açores?",
+"nl": "Hoe lang broeden haviken?"
+},
+"Héngeree\u00010\u00010": {
+"pt": "Um ovo de ganso corresponde, em peso, a cerca de três ovos de galinha",
+"nl": "Een gansenei komt qua gewicht ongeveer overeen met drie kippeneieren"
+},
+"Héngeree\u00010\u00011": {
+"pt": "Tinha um galo na cabeça, tão grande como um ovo de galinha!",
+"nl": "Ik had een bult op mijn hoofd zo groot als een kippenei!"
+},
+"Héngerfouss\u00010\u00010": {
+"pt": "O sedo tolera muito bem a geada",
+"nl": "Het vetkruid verdraagt vorst heel goed"
+},
+"Héngerhaut\u00010\u00010": {
+"pt": "Com aquela canção fico sempre arrepiado",
+"nl": "Bij dat lied krijg ik telkens kippenvel"
+},
+"Héngerhaut\u00010\u00011": {
+"pt": "Passou-me a pele de galinha",
+"nl": "Mijn kippenvel is verdwenen"
+},
+"Héngerhaut\u00010\u00012": {
+"pt": "Com febre alta alternam suores e arrepios de frio",
+"nl": "Bij hoge koorts wisselen zweten en rillingen van de kou elkaar af"
+},
+"Héngerjuck\u00010\u00010": {
+"pt": "O meu irmão tem no jardim um galinheiro aquecido",
+"nl": "Mijn broer heeft in zijn tuin een kippenhok met verwarming"
+},
+"Héngerstall\u00010\u00010": {
+"pt": "Esta noite esteve uma raposa junto ao galinheiro",
+"nl": "Vannacht was er een vos bij het kippenhok"
+},
+"Hengescht\u00010\u00010": {
+"pt": "Moro em Hengescht",
+"nl": "Ik woon in Hengescht"
+},
+"Hengescht\u00010\u00011": {
+"pt": "Este autocarro vai para Hengescht?",
+"nl": "Rijdt deze bus naar Hengescht?"
+},
+"Hengscht\u00010\u00010": {
+"pt": "A égua foi coberta pelo garanhão",
+"nl": "De merrie werd door de hengst gedekt"
+},
+"Hengscht\u00011\u00010": {
+"pt": "O meu novo amante é um verdadeiro garanhão",
+"nl": "Mijn nieuwe minnaar is een echte hengst"
+},
+"Hénkel\u00010\u00010": {
+"pt": "Moro em Hénkel",
+"nl": "Ik woon in Hénkel"
+},
+"Hénkel\u00010\u00011": {
+"pt": "Este autocarro vai para Hénkel?",
+"nl": "Rijdt deze bus naar Hénkel?"
+},
+"hénkelen\u00010\u00010": {
+"pt": "Vou ver os cavalos, não param de relinchar",
+"nl": "Ik ga even naar de paarden kijken, ze blijven maar hinniken"
+},
+"Henker\u00010\u00010": {
+"pt": "No filme, o carrasco passou a corda ao pescoço do assassino",
+"nl": "In de film legde de beul de strop om de hals van de moordenaar"
+},
+"Hënner\u00010\u00010": {
+"pt": "Dói-me a perna porque ontem levei uma injeção no rabo",
+"nl": "Mijn been doet pijn omdat ik gisteren een prik in mijn billen kreeg"
+},
+"Hënner\u00010\u00011": {
+"pt": "Senta-te no teu rabo e depois não te mexas mais!",
+"nl": "Ga op je achterwerk zitten en roer je dan niet meer!"
+},
+"hënneren\u00010\u00010": {
+"pt": "Estás a atrapalhar-me no meu trabalho!",
+"nl": "Je hindert me bij mijn werk!"
+},
+"hënneren\u00010\u00011": {
+"pt": "Tira essas cadeiras, estão a atrapalhar (a nós) aqui!",
+"nl": "Zet die stoelen weg, ze staan hier in de weg!"
+},
+"hënneren\u00011\u00010": {
+"pt": "Nada te impede de aprender russo",
+"nl": "Niets belet je Russisch te leren"
+},
+"hënneren\u00012\u00010": {
+"pt": "O meu carro não está a atrapalhar, mas o vosso sim!",
+"nl": "Mijn auto staat niet in de weg, maar de jouwe wel!"
+},
+"hënneren\u00012\u00011": {
+"pt": "Sai daí, estás a atrapalhar!",
+"nl": "Maak dat je wegkomt, je staat in de weg!"
+},
+"hënnescht\u00010\u00010": {
+"pt": "O nosso secretariado fica no edifício de trás",
+"nl": "Ons secretariaat is in het achterste gebouw"
+},
+"hënnescht\u00010\u00011": {
+"pt": "O cãozinho pôs-se em pé nas patas traseiras",
+"nl": "De kleine hond ging op zijn achterpoten staan"
+},
+"hënnescht\u00010\u00012": {
+"pt": "A carteira deixa-me sempre as encomendas à porta das traseiras",
+"nl": "De postbode legt mijn pakjes altijd bij de achterdeur"
+},
+"hënnescht\u00010\u00013": {
+"pt": "Põe-te em pé nas patas traseiras se queres conseguir isso!",
+"nl": "Ga op je achterpoten staan als je dat wilt bereiken!"
+},
+"Hënneschten\u00010\u00010": {
+"pt": "Acho que uma injeção no rabo é a que menos dói",
+"nl": "Ik vind dat een prik in de billen het minst pijn doet"
+},
+"Hënneschten\u00010\u00011": {
+"pt": "Se não te portares bem, levas uma palmada no rabo!",
+"nl": "Als je je niet gedraagt, krijg je een tik op je billen!"
+},
+"Hënneschten\u00010\u00012": {
+"pt": "Põe uns ceroulas compridas, senão constipas-te o rabo!",
+"nl": "Doe een lange onderbroek aan, anders vat je kou aan je billen!"
+},
+"Hënsdref\u00010\u00010": {
+"pt": "Moro em Hënsdref",
+"nl": "Ik woon in Hënsdref"
+},
+"Hënsdref\u00010\u00011": {
+"pt": "Este autocarro vai para Hënsdref?",
+"nl": "Rijdt deze bus naar Hënsdref?"
+},
+"Hënt\u00010\u00010": {
+"pt": "Desejo a todos uma boa noite!",
+"nl": "Ik wens jullie allemaal een goede nacht!"
+},
+"Hënt\u00010\u00011": {
+"pt": "O nosso pequeno está a ter dentes, tivemos uma noite terrível",
+"nl": "Ons kleintje krijgt tandjes, we hadden een vreselijke nacht"
+},
+"Hënt\u00010\u00012": {
+"pt": "Leva os gerânios para dentro, vai ser uma noite fria!",
+"nl": "Haal de geraniums naar binnen, het wordt een koude nacht!"
+},
+"hënt\u00010\u00010": {
+"pt": "Chegaste tarde a casa esta noite",
+"nl": "Je bent vannacht laat thuisgekomen"
+},
+"hënt\u00010\u00011": {
+"pt": "Esta noite não vou pregar olho!",
+"nl": "Vannacht ga ik geen oog dichtdoen!"
+},
+"Hepatitt\u00010\u00010": {
+"pt": "Estou vacinado contra a hepatite A e B",
+"nl": "Ik ben gevaccineerd tegen hepatitis A en B"
+},
+"Hëpperdang\u00010\u00010": {
+"pt": "Moro em Hëpperdang",
+"nl": "Ik woon in Hëpperdang"
+},
+"Hëpperdang\u00010\u00011": {
+"pt": "Este autocarro vai para Hëpperdang?",
+"nl": "Rijdt deze bus naar Hëpperdang?"
+},
+"Herdermillen\u00010\u00010": {
+"pt": "Moro em Herdermillen",
+"nl": "Ik woon op de Herdermillen"
+},
+"Herdermillen\u00010\u00011": {
+"pt": "Este autocarro vai para a Herdermillen?",
+"nl": "Rijdt deze bus naar de Herdermillen?"
+},
+"hermeetesch\u00010\u00010": {
+"pt": "Esta garrafa tem uma tampa hermética",
+"nl": "Deze fles heeft een hermetische afsluiting"
+},
+"hermeetesch\u00010\u00011": {
+"pt": "Temos de fechar hermeticamente os frascos de conserva com os pepinos",
+"nl": "We moeten de inmaakpotten met de augurken hermetisch afsluiten"
+},
+"Hermelin\u00010\u00010": {
+"pt": "O arminho é, no verão, ativo sobretudo de dia e, no inverno, de noite",
+"nl": "De hermelijn is in de zomer grotendeels overdag en in de winter 's nachts actief"
+},
+"Hermeswiss\u00010\u00010": {
+"pt": "Moro em Hermeswiss",
+"nl": "Ik woon in de Hermeswiss"
+},
+"Hermeswiss\u00010\u00011": {
+"pt": "Este autocarro vai para a Hermeswiss?",
+"nl": "Rijdt deze bus naar de Hermeswiss?"
+},
+"herno\u00010\u00010": {
+"pt": "Depois podes brincar, agora come!",
+"nl": "Straks mag je spelen, eet nu!"
+},
+"herno\u00010\u00011": {
+"pt": "Até logo!",
+"nl": "Tot straks!"
+},
+"herno\u00011\u00010": {
+"pt": "Não participo nesse caso, porque no fim volto a ser eu o culpado!",
+"nl": "Ik doe niet mee aan die zaak, want uiteindelijk ben ik weer de schuldige!"
+},
+"Heroin\u00010\u00010": {
+"pt": "Ele está na prisão porque vendeu heroína",
+"nl": "Hij zit in de gevangenis omdat hij heroïne heeft verkocht"
+},
+"Herpes\u00010\u00010": {
+"pt": "Tenho herpes no lábio",
+"nl": "Ik heb koortslip"
+},
+"Herrgott\u00010\u00010": {
+"pt": "Segundo a Bíblia, Deus criou o mundo em seis dias",
+"nl": "Volgens de Bijbel schiep God de wereld in zes dagen"
+},
+"Herrgott\u00010\u00011": {
+"pt": "Julgavam ter agarrado Deus pelo dedo grande do pé",
+"nl": "Ze dachten dat ze God bij de grote teen hadden"
+},
+"Herrgott\u00010\u00012": {
+"pt": "Deus tem toda a espécie de hóspedes, mas nenhum que não coma",
+"nl": "God heeft allerlei kostgangers, maar geen enkele die niets eet"
+},
+"Herrgott\u00010\u00013": {
+"pt": "Santo Deus!",
+"nl": "Godallemachtig!"
+},
+"Herrgottsfréi\u00010\u00010": {
+"pt": "Levantei-me ao romper da aurora para levar os meus pais ao aeroporto",
+"nl": "Ik ben in alle vroegte opgestaan om mijn ouders naar de luchthaven te brengen"
+},
+"Herrgottstränteler\u00010\u00010": {
+"pt": "Aquele molengão leva meia hora a atar os sapatos",
+"nl": "Die trage duur een half uur om zijn schoenen te strikken"
+},
+"Herrgottstränteler\u00010\u00011": {
+"pt": "Despachem-se, seus molengas, senão hoje não acabamos!",
+"nl": "Schiet eens op, jullie trage tobbers, anders zijn we vandaag niet klaar!"
+},
+"Herrgottsträntelesch\u00010\u00010": {
+"pt": "Aquela molenga passa o dia a descascar um único ovo",
+"nl": "Die trage del is de hele dag bezig met het pellen van één ei"
+},
+"herrjeeminee\u00010\u00010": {
+"pt": "Santo Deus, que te aconteceu?",
+"nl": "Jeminee, wat is je overkomen?"
+},
+"herrlech\u00010\u00010": {
+"pt": "Tivemos um tempo magnífico nas nossas férias",
+"nl": "We hadden schitterend weer tijdens onze vakantie"
+},
+"herrlech\u00010\u00011": {
+"pt": "Onde aprendeste a cozinhar tão magnificamente?",
+"nl": "Waar heb je zo prachtig leren koken?"
+},
+"herrlech\u00010\u00012": {
+"pt": "Ontem divertimo-nos imenso no cabaret",
+"nl": "Gisteren hebben we ons in het cabaret prima vermaakt"
+},
+"Herrschaft\u00010\u00010": {
+"pt": "Um historiador conhecido escreveu uma crónica sobre o reinado desse imperador",
+"nl": "Een bekende historicus schreef een kroniek over de heerschappij van die keizer"
+},
+"Herrschaft\u00011\u00010": {
+"pt": "A minha tia esteve ao serviço de uma família rica em Paris",
+"nl": "Mijn tante was in Parijs in dienst bij een deftig gezin"
+},
+"Herrschaft\u00012\u00010": {
+"pt": "Que posso servir aos senhores?",
+"nl": "Wat kan ik u serveren?"
+},
+"herrschaftlech\u00010\u00010": {
+"pt": "Vivem numa casa senhorial na cidade",
+"nl": "Ze wonen in een herenhuis in de stad"
+},
+"herrschen\u00010\u00010": {
+"pt": "Sabias que o rei inglês governou, na Idade Média, uma parte de França?",
+"nl": "Wist je dat de Engelse koning in de middeleeuwen over een deel van Frankrijk heerste?"
+},
+"herrschen\u00010\u00011": {
+"pt": "Que imperador romano reinou durante mais tempo?",
+"nl": "Welke Romeinse keizer heeft het langst geregeerd?"
+},
+"herrschen\u00011\u00010": {
+"pt": "No Advento há sempre um ambiente festivo na cidade",
+"nl": "In de advent heerst er altijd een feestelijke sfeer in de stad"
+},
+"Herrscher\u00010\u00010": {
+"pt": "Esse governante não era querido pelo seu povo",
+"nl": "Die heerser was bij zijn volk niet geliefd"
+},
+"Herrscherhaus\u00010\u00010": {
+"pt": "As cores da casa reinante do Luxemburgo são azul e laranja",
+"nl": "De kleuren van het Luxemburgse vorstenhuis zijn blauw en oranje"
+},
+"Herrscherin\u00010\u00010": {
+"pt": "A falecida governante não era muito querida pelo seu povo",
+"nl": "De overleden heerseres was bij haar volk niet bijster geliefd"
+},
+"Hertz\u00010\u00010": {
+"pt": "O ouvido humano não ouve sons com uma frequência inferior a dezasseis hertz",
+"nl": "Het menselijk oor hoort geen tonen met een frequentie onder zestien hertz"
+},
+"Herzbeutel\u00010\u00010": {
+"pt": "Nesta paciente, a parede posterior do pericárdio está calcificada",
+"nl": "Bij de patiënte is de achterwand van het hartzakje verkalkt"
+},
+"Herzbeutelentzündung\u00010\u00010": {
+"pt": "Em alguns casos de pericardite não há causa direta",
+"nl": "Voor sommige gevallen van pericarditis is er geen directe oorzaak"
+},
+"Herzog\u00010\u00010": {
+"pt": "O duque morreu cedo e não teve herdeiros",
+"nl": "De hertog stierf jong en had geen erfgenamen"
+},
+"Herzogin\u00010\u00010": {
+"pt": "Na reportagem fica-se a saber que esta duquesa não tem descendentes diretos",
+"nl": "In de reportage komt men te weten dat deze hertogin geen directe nakomelingen heeft"
+},
+"Herzogtum\u00010\u00010": {
+"pt": "Sabes quem é o padroeiro desse ducado?",
+"nl": "Weet je wie de patroon van dat hertogdom is?"
+},
+"Herzogtum\u00010\u00011": {
+"pt": "Os dois ducados fizeram guerra um ao outro eternamente",
+"nl": "De twee hertogdommen hebben eindeloos oorlog tegen elkaar gevoerd"
+},
+"Herzschrittmacher\u00010\u00010": {
+"pt": "É difícil acreditar que o teu pai desportista tem um pacemaker",
+"nl": "Het valt moeilijk te geloven dat je sportieve vader een pacemaker heeft"
+},
+"Hesper\u00010\u00010": {
+"pt": "Moro em Hesper",
+"nl": "Ik woon in Hesper"
+},
+"Hesper\u00010\u00011": {
+"pt": "Este autocarro vai para Hesper?",
+"nl": "Rijdt deze bus naar Hesper?"
+},
+"Hessemillen\u00010\u00010": {
+"pt": "Moro na Hessemillen",
+"nl": "Ik woon op de Hessemillen"
+},
+"Hessemillen\u00010\u00011": {
+"pt": "Este autocarro vai para a Hessemillen?",
+"nl": "Rijdt deze bus naar de Hessemillen?"
+},
+"hetero\u00010\u00010": {
+"pt": "A minha parceira é hétero e eu sou bi",
+"nl": "Mijn partner is hetero en ik ben bi"
+},
+"heterogeen\u00010\u00010": {
+"pt": "Para as nossas escolas heterogéneas precisamos de muitos manuais escolares diferentes",
+"nl": "Voor onze heterogene scholen hebben we veel verschillende schoolboeken nodig"
+},
+"heterogeen\u00010\u00011": {
+"pt": "Na nossa sociedade heterogénea, a integração é um fator importante",
+"nl": "In onze heterogene samenleving is integratie een belangrijke factor"
+},
+"Heterogenitéit\u00010\u00010": {
+"pt": "O objetivo desta escola é gerir melhor a heterogeneidade dos alunos e integrar todas as crianças",
+"nl": "Het doel van deze school is de heterogeniteit van de leerlingen beter te beheren en alle kinderen te integreren"
+},
+"Heterogenitéit\u00010\u00011": {
+"pt": "A heterogeneidade na nossa sociedade é algo que nos distingue particularmente",
+"nl": "De heterogeniteit in onze samenleving is iets wat ons bijzonder kenmerkt"
+},
+"heteronormativ\u00010\u00010": {
+"pt": "Esta publicação é heteronormativa porque parte do princípio de que as mulheres têm exclusivamente relações com homens",
+"nl": "Deze publicatie is heteronormatief omdat ze ervan uitgaat dat vrouwen uitsluitend relaties met mannen hebben"
+},
+"Heterosexualitéit\u00010\u00010": {
+"pt": "Existem hoje ainda países em que só a heterossexualidade é socialmente aceite?",
+"nl": "Zijn er vandaag nog landen waar alleen heteroseksualiteit maatschappelijk aanvaard is?"
+},
+"heterosexuell\u00010\u00010": {
+"pt": "A minha parceira é heterossexual e eu sou bissexual",
+"nl": "Mijn partner is heteroseksueel en ik ben biseksueel"
+},
+"heterosexuell\u00010\u00011": {
+"pt": "Estou numa relação heterossexual",
+"nl": "Ik zit in een heteroseksuele relatie"
+},
+"Hëttermillen\u00010\u00010": {
+"pt": "Moro na Hëttermillen",
+"nl": "Ik woon op de Hëttermillen"
+},
+"Hëttermillen\u00010\u00011": {
+"pt": "Este autocarro vai para a Hëttermillen?",
+"nl": "Rijdt deze bus naar de Hëttermillen?"
+},
+"Hetz\u00010\u00010": {
+"pt": "Na pressa, esqueceu-se de levar o guarda-chuva",
+"nl": "In de haast was hij vergeten de paraplu mee te nemen"
+},
+"Hetz\u00010\u00011": {
+"pt": "Estou com pressa",
+"nl": "Ik heb haast"
+},
+"hëtzeg\u00010\u00010": {
+"pt": "O meu primo é um tipo impulsivo",
+"nl": "Mijn neef is een heetgebakerde kerel"
+},
+"hëtzeg\u00011\u00010": {
+"pt": "A égua está no cio",
+"nl": "De merrie is bronstig"
+},
+"hëtzen\u00010\u00010": {
+"pt": "Não é fácil aquecer uma casa mal isolada",
+"nl": "Het is niet makkelijk een huis te verwarmen dat slecht geïsoleerd is"
+},
+"hëtzen\u00010\u00011": {
+"pt": "Aquecemos (o nosso apartamento) a gasóleo",
+"nl": "We verwarmen (onze woning) met stookolie"
 }
 }
