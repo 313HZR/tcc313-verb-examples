@@ -144898,5 +144898,905 @@
 "opknäppen\u00010\u00010": {
 "pt": "Ela desabotoou a blusa",
 "nl": "Ze knoopte haar blouse open"
+},
+"Op Kneiff\u00010\u00010": {
+"pt": "Já estiveste alguma vez em Op Kneiff?",
+"nl": "Ben je al eens op Op Kneiff geweest?"
+},
+"Op Kneiff\u00010\u00011": {
+"pt": "No fim de semana fizemos uma caminhada em Op Kneiff",
+"nl": "Dit weekend zijn we op Op Kneiff gaan wandelen"
+},
+"opkommen\u00010\u00010": {
+"pt": "Ajuda-me a sair da poltrona, sozinho não consigo levantar-me!",
+"nl": "Help me uit de fauteuil, alleen kom ik er niet uit!"
+},
+"opkommen\u00010\u00011": {
+"pt": "Quando saio à noite, de manhã custa-me muito levantar-me da cama",
+"nl": "Als ik 's avonds uit ben geweest, kom ik 's ochtends moeilijk (mijn bed) uit"
+},
+"opkommen\u00011\u00010": {
+"pt": "Naquela noite simplesmente não surgiu nenhuma conversa",
+"nl": "Die avond kwam er gewoon geen gesprek op gang"
+},
+"opkommen\u00011\u00011": {
+"pt": "Não se pode deixar que tão maus hábitos se criem!",
+"nl": "Zulke slechte gewoonten mag men niet laten ontstaan!"
+},
+"opkommen\u00011\u00012": {
+"pt": "Ao fim da tarde levantou-se um vento cortante",
+"nl": "Tegen de avond stak een scherpe wind op"
+},
+"opkommen\u00011\u00013": {
+"pt": "O jardineiro não deixa crescer nenhuma erva daninha no jardim da frente",
+"nl": "De tuinman laat geen onkruid opkomen in de voortuin"
+},
+"opkommen\u00012\u00010": {
+"pt": "O seguro cobriu o prejuízo",
+"nl": "De verzekering is voor de schade opgekomen"
+},
+"opkommen\u00012\u00011": {
+"pt": "Já não pagamos mais pelas tuas tolices!",
+"nl": "We komen niet meer op voor je dwaasheden!"
+},
+"opkommen\u00013\u00010": {
+"pt": "Quando saltei do muro, aterrei sobre o joelho",
+"nl": "Toen ik van de muur sprong, kwam ik op mijn knie terecht"
+},
+"opkräizen\u00010\u00010": {
+"pt": "Apareceu na festa, embora não tivesse sido convidado",
+"nl": "Hij kwam op het feest opdagen, hoewel hij niet was uitgenodigd"
+},
+"opkrazen\u00010\u00010": {
+"pt": "O cão arranha a ferida e volta a abri-la vezes sem conta",
+"nl": "De hond krabt zijn wond steeds weer open"
+},
+"opkrazen\u00010\u00011": {
+"pt": "No cartão da lotaria tens de raspar o quadrado cinzento",
+"nl": "Op het lotbriefje moet je het grijze vakje openkrabben"
+},
+"opkréien\u00010\u00010": {
+"pt": "Conseguiu abrir a caixa com um só puxão",
+"nl": "Hij kreeg de kist met één ruk open"
+},
+"opkréien\u00010\u00011": {
+"pt": "Não é fácil desfazer esse nó",
+"nl": "Het is niet makkelijk om die knoop los te krijgen"
+},
+"opkréien\u00010\u00012": {
+"pt": "Ele não consegue abrir a boca",
+"nl": "Hij krijgt zijn mond niet open"
+},
+"opkucken\u00010\u00010": {
+"pt": "Nem sequer levantou os olhos quando entrei",
+"nl": "Hij keek niet eens op toen ik binnenkwam"
+},
+"oplackeren\u00010\u00010": {
+"pt": "O jardineiro soltou a terra com a enxada",
+"nl": "De tuinman heeft de grond met de schoffel losgemaakt"
+},
+"oplackeren\u00011\u00010": {
+"pt": "Com as suas piadas, animou o ambiente",
+"nl": "Met zijn grappen heeft hij de stemming opgevrolijkt"
+},
+"oplafen\u00010\u00010": {
+"pt": "Desde que a minha tia toma medicamentos, está cada vez mais inchada",
+"nl": "Sinds mijn tante medicijnen neemt, zwelt ze steeds meer op"
+},
+"oplafen\u00010\u00011": {
+"pt": "Por causa de tanto álcool, o seu rosto ficou todo inchado",
+"nl": "Door de vele alcohol is zijn gezicht helemaal opgezwollen"
+},
+"oplaueren\u00010\u00010": {
+"pt": "Os rapazes esperaram a rapariguinha à espreita para a assustar",
+"nl": "De jongens loerden op het meisje om haar bang te maken"
+},
+"oplaueren\u00010\u00011": {
+"pt": "O gângster esperou a sua vítima à espreita",
+"nl": "De gangster loerde op zijn slachtoffer"
+},
+"oplecken\u00010\u00010": {
+"pt": "O gato lambeu o leite do chão",
+"nl": "De kat likte de melk van de grond op"
+},
+"oplecken\u00010\u00011": {
+"pt": "Lambi o último restinho de gelado do prato",
+"nl": "Ik heb het laatste restje ijs van het bord opgelikt"
+},
+"opleeën\u00010\u00010": {
+"pt": "Ao almoço vou pôr a toalha de mesa de flores",
+"nl": "Tussen de middag leg ik het bloemetjestafelkleed op"
+},
+"opleeën\u00011\u00010": {
+"pt": "Durante o aperitivo, pôs um disco de música clássica",
+"nl": "Bij het aperitief zette hij een schijf met klassieke muziek op"
+},
+"opleeën\u00011\u00011": {
+"pt": "O meu irmão é DJ esta noite numa discoteca conhecida",
+"nl": "Mijn broer draait vanavond (de muziek) in een bekende disco"
+},
+"opleeën\u00012\u00010": {
+"pt": "Os automobilistas têm de pôr correntes de neve para subir o desfiladeiro",
+"nl": "De automobilisten moeten sneeuwkettingen opleggen om de col op te rijden"
+},
+"opleeën\u00013\u00010": {
+"pt": "Na confirmação, o bispo impõe as mãos às crianças",
+"nl": "Bij het vormsel legt de bisschop de kinderen de hand op"
+},
+"opleeën\u00014\u00010": {
+"pt": "O seu romance foi reeditado pela quarta vez",
+"nl": "Zijn roman is voor de vierde keer opnieuw uitgegeven"
+},
+"opleeën\u00015\u00010": {
+"pt": "Já estamos ao telefone há duas horas, agora tenho mesmo de desligar!",
+"nl": "We hangen al twee uur aan de telefoon, nu moet ik echt ophangen!"
+},
+"opleien\u00010\u00010": {
+"pt": "Vê se a tampa da panela está bem assente!",
+"nl": "Kijk of het deksel goed op de pot ligt!"
+},
+"opleien\u00010\u00011": {
+"pt": "O nosso telefone não está avariado, mas o auscultador não estava bem pousado",
+"nl": "Onze telefoon is niet kapot, maar de hoorn lag niet goed op"
+},
+"opleien\u00010\u00012": {
+"pt": "Que disco está a tocar?",
+"nl": "Welke plaat ligt er op?"
+},
+"opleien\u00011\u00010": {
+"pt": "No museu há um livro aberto onde os visitantes podem escrever as suas observações",
+"nl": "In het museum ligt een boek open waarin de gasten hun opmerkingen kunnen schrijven"
+},
+"opléisen\u00010\u00010": {
+"pt": "Tens de dissolver o fermento no leite morno",
+"nl": "Je moet de gist in de lauwe melk oplossen"
+},
+"opléisen\u00010\u00011": {
+"pt": "Estes comprimidos são para dissolver em água",
+"nl": "Die pillen zijn bedoeld om in water op te lossen"
+},
+"opléisen\u00011\u00010": {
+"pt": "A chefe de Estado dissolveu o parlamento",
+"nl": "De staatsleider heeft het parlement ontbonden"
+},
+"opléisen\u00011\u00011": {
+"pt": "As duas partes têm o direito de rescindir o contrato",
+"nl": "De twee partijen hebben het recht het contract op te zeggen"
+},
+"opléisen\u00012\u00010": {
+"pt": "O comprimido dissolveu-se na água",
+"nl": "De pil is in het water opgelost"
+},
+"Opléisung\u00010\u00010": {
+"pt": "Após a dissolução do parlamento, houve novas eleições",
+"nl": "Na de ontbinding van het parlement kwam het tot nieuwe verkiezingen"
+},
+"Opléisung\u00011\u00010": {
+"pt": "A solução do enigma está na última página",
+"nl": "De oplossing van het raadsel staat op de laatste pagina"
+},
+"Opléisung\u00012\u00010": {
+"pt": "Como posso alterar a resolução das minhas fotografias?",
+"nl": "Hoe kan ik de resolutie van mijn foto's wijzigen?"
+},
+"Opléisung\u00012\u00011": {
+"pt": "Para o meu aniversário gostava de um ecrã com uma resolução muito alta",
+"nl": "Voor mijn verjaardag zou ik graag een beeldscherm met een heel hoge resolutie willen"
+},
+"oplëschten\u00010\u00010": {
+"pt": "O orador tinha apontado todos os temas importantes",
+"nl": "De spreker had alle belangrijke thema's opgesomd"
+},
+"oplëschten\u00010\u00011": {
+"pt": "O secretário enumerou no seu relatório alguns pontos que ainda têm de ser discutidos",
+"nl": "De secretaris somde in zijn verslag enkele punten op die nog besproken moeten worden"
+},
+"opliewen\u00010\u00010": {
+"pt": "Na primavera, a natureza volta a ganhar vida",
+"nl": "In het voorjaar leeft de natuur weer op"
+},
+"opliewen\u00010\u00011": {
+"pt": "Muitos belos costumes de outrora estão a renascer",
+"nl": "Veel mooie gebruiken van vroeger leven weer op"
+},
+"Oplo\u00010\u00010": {
+"pt": "A terceira edição desse dicionário sai em breve",
+"nl": "De derde oplage van dat woordenboek verschijnt binnenkort"
+},
+"Oplo\u00010\u00011": {
+"pt": "Esse romance tem tanto êxito que a quinta edição já está a ser impressa",
+"nl": "Die roman heeft zoveel succes dat de vijfde oplage al in druk is"
+},
+"Oplo\u00011\u00010": {
+"pt": "Na próxima semana termina a décima edição do festival de teatro",
+"nl": "Volgende week loopt de tiende editie van het theaterfestival ten einde"
+},
+"Oplo\u00012\u00010": {
+"pt": "Mandaram-lhes fechar a empresa porque não tinham cumprido uma série de condições",
+"nl": "Hun bedrijf werd gesloten omdat ze een reeks voorwaarden niet hadden nageleefd"
+},
+"oploossen\u00010\u00010": {
+"pt": "Deixa a porta aberta, já vou!",
+"nl": "Laat (de deur) open, ik kom eraan!"
+},
+"oploossen\u00010\u00011": {
+"pt": "Quem deixou a janela aberta?",
+"nl": "Wie heeft het raam open laten staan?"
+},
+"oploossen\u00011\u00010": {
+"pt": "Um novo regulamento permite que as lojas fiquem abertas até mais tarde à noite",
+"nl": "Een nieuw reglement staat toe dat de winkels 's avonds langer open blijven"
+},
+"oploossen\u00012\u00010": {
+"pt": "Por agora, deixamos essa questão em aberto",
+"nl": "Voorlopig laten we die vraag nog open"
+},
+"oploossen\u00013\u00010": {
+"pt": "Aos fins de semana deixamos as crianças ficar acordadas até mais tarde à noite",
+"nl": "In het weekend laten we de kinderen 's avonds langer opblijven"
+},
+"oplueden\u00010\u00010": {
+"pt": "As pedras foram carregadas com uma escavadora",
+"nl": "De stenen werden met een graafmachine opgeladen"
+},
+"oplueden\u00010\u00011": {
+"pt": "As paletes ainda vão ser carregadas esta noite, assim recebe-as amanhã",
+"nl": "De pallets worden vanavond nog geladen, dan krijgt u ze morgen geleverd"
+},
+"oplueden\u00011\u00010": {
+"pt": "Antes de irmos de férias, ainda tenho de carregar a bateria da máquina fotográfica",
+"nl": "Voordat we op vakantie gaan, moet ik nog de accu van de camera opladen"
+},
+"oplueden\u00011\u00011": {
+"pt": "Acabei de carregar a bateria e já está outra vez descarregada!",
+"nl": "Ik had de batterij net opgeladen en nu is ze alweer leeg!"
+},
+"oplueden\u00012\u00010": {
+"pt": "A chefe tem-nos ultimamente carregado com demasiado trabalho",
+"nl": "De bazin laadt ons de laatste tijd te veel werk op"
+},
+"oplueden\u00012\u00011": {
+"pt": "Os vizinhos deixam-nos todos os fins de semana o cão",
+"nl": "De buren laden ons elk weekend hun hond op"
+},
+"oplueden\u00013\u00010": {
+"pt": "Com este tempo, o meu cabelo fica eletrizado",
+"nl": "Bij dit weer laadt mijn haar zich op"
+},
+"opmaachen\u00010\u00010": {
+"pt": "Abriu a janela para deixar sair o vapor",
+"nl": "Hij deed het raam open om de damp naar buiten te laten"
+},
+"opmaachen\u00010\u00011": {
+"pt": "As crianças abriram os pacotes cheias de alegria",
+"nl": "De kinderen maakten vol vreugde hun pakjes open"
+},
+"opmaachen\u00010\u00012": {
+"pt": "Devo abrir mais uma garrafa de vinho?",
+"nl": "Zal ik nog een fles wijn opendoen?"
+},
+"opmaachen\u00010\u00013": {
+"pt": "Abre bem a boca para que a médica possa ver a tua garganta!",
+"nl": "Doe je mond wijd open zodat de dokter in je keel kan kijken!"
+},
+"opmaachen\u00010\u00014": {
+"pt": "Quando toquei à campainha, um rapaz abriu-me a porta",
+"nl": "Toen ik aanbelde, deed een jongen (de deur) voor me open"
+},
+"opmaachen\u00010\u00015": {
+"pt": "Abre o casaco, se tens demasiado calor!",
+"nl": "Doe je jas open als je het te warm hebt!"
+},
+"opmaachen\u00010\u00016": {
+"pt": "Desabotoo o botão de cima da camisa",
+"nl": "Ik maak de bovenste knoop van mijn hemd open"
+},
+"opmaachen\u00010\u00017": {
+"pt": "Ainda está demasiado frio para abrir o jardim",
+"nl": "Het is nog te koud om de tuin open te maken"
+},
+"opmaachen\u00011\u00010": {
+"pt": "O exército foi também aberto a estrangeiros",
+"nl": "Het leger werd ook voor buitenlanders opengesteld"
+},
+"opmaachen\u00012\u00010": {
+"pt": "A câmara abriu um novo aterro",
+"nl": "De gemeente heeft een nieuwe stortplaats geopend"
+},
+"opmaachen\u00012\u00011": {
+"pt": "A nossa cabeleireira vai em breve abrir um segundo salão",
+"nl": "Onze kapster opent binnenkort een tweede salon"
+},
+"opmaachen\u00012\u00012": {
+"pt": "Tenciono abrir uma nova conta bancária",
+"nl": "Ik ben van plan een nieuwe bankrekening te openen"
+},
+"opmaachen\u00013\u00010": {
+"pt": "Conceberam a nova brochura de forma muito moderna",
+"nl": "Ze hebben hun nieuwe brochure heel modern vormgegeven"
+},
+"opmaachen\u00013\u00011": {
+"pt": "Olha, este livro tem uma paginação incrivelmente bonita!",
+"nl": "Kijk, dit boek is enorm mooi opgemaakt!"
+},
+"opmaachen\u00014\u00010": {
+"pt": "O novo supermercado deverá abrir na próxima semana",
+"nl": "De nieuwe supermarkt zou volgende week moeten opengaan"
+},
+"opmaachen\u00015\u00010": {
+"pt": "Sabes a que horas abre a livraria?",
+"nl": "Weet je hoe laat de boekhandel opengaat?"
+},
+"opmaachen\u00015\u00011": {
+"pt": "Aos sábados, o nosso talhante também abre às oito horas",
+"nl": "Ook op zaterdag gaat onze slager om acht uur open"
+},
+"opmaachen\u00016\u00010": {
+"pt": "O país quer abrir-se ainda mais ao turismo",
+"nl": "Het land wil zich nog meer openstellen voor het toerisme"
+},
+"opmaachen\u00016\u00011": {
+"pt": "Aquele teimoso simplesmente não quer abrir-se a novas ideias!",
+"nl": "Die koppigaard wil zich gewoon niet openstellen voor nieuwe ideeën!"
+},
+"opmaachen\u00017\u00010": {
+"pt": "Pusemo-nos a caminho de manhã bem cedo",
+"nl": "We zijn in alle vroegte vertrokken"
+},
+"Opmaachung\u00010\u00010": {
+"pt": "A paginação da vossa brochura é muito moderna",
+"nl": "De opmaak van uw brochure is heel modern"
+},
+"opmierksam\u00010\u00010": {
+"pt": "O orador ficou contente com tantos ouvintes atentos",
+"nl": "De spreker was blij met zoveel aandachtige luisteraars"
+},
+"opmierksam\u00010\u00011": {
+"pt": "Os estudantes leram as perguntas com atenção",
+"nl": "De studenten lazen de vragen aandachtig"
+},
+"opmierksam\u00011\u00010": {
+"pt": "Aquele motorista de autocarro é sempre muito atento com as pessoas idosas",
+"nl": "Die buschauffeur is altijd heel attent tegenover oudere mensen"
+},
+"opmierksam\u00012\u00010": {
+"pt": "Fico contente por me teres chamado a atenção para esse erro",
+"nl": "Ik ben blij dat je me op die fout opmerkzaam hebt gemaakt"
+},
+"Opmierksamkeet\u00010\u00010": {
+"pt": "O público ouviu com grande atenção",
+"nl": "Het publiek luisterde met grote aandacht"
+},
+"Opmierksamkeet\u00011\u00010": {
+"pt": "As crianças precisam de amor e atenção",
+"nl": "Kinderen hebben liefde en aandacht nodig"
+},
+"Opmierksamkeet\u00012\u00010": {
+"pt": "Com o seu novo penteado, chamou toda a atenção para si",
+"nl": "Met haar nieuwe kapsel trok ze alle aandacht naar zich toe"
+},
+"Opmierksamkeet\u00013\u00010": {
+"pt": "Ele mima constantemente a namorada com pequenas atenções",
+"nl": "Hij verwent zijn vriendin voortdurend met kleine attenties"
+},
+"Opmierksamkeetsdefizit-Hyperaktivitéitsstéierung\u00010\u00010": {
+"pt": "A perturbação de hiperatividade e défice de atenção manifesta-se muitas vezes de forma diferente nas raparigas e nos rapazes",
+"nl": "Een aandachtstekortstoornis met hyperactiviteit uit zich bij meisjes vaak anders dan bij jongens"
+},
+"Opmierksamkeetsdefizit-Hyperaktivitéitsstéierung\u00010\u00011": {
+"pt": "Por causa da minha perturbação de hiperatividade e défice de atenção, muitas tarefas do dia a dia custam-me",
+"nl": "Door mijn aandachtstekortstoornis met hyperactiviteit vallen mij veel alledaagse taken zwaar"
+},
+"Opmierksamkeetsdefizit-Syndrom\u00010\u00010": {
+"pt": "No défice de atenção não há sinais de hiperatividade",
+"nl": "Bij een aandachtstekortstoornis zijn er geen tekenen van hyperactiviteit"
+},
+"opmonteren\u00010\u00010": {
+"pt": "Ele está muito amuado, não consigo animá-lo com nada",
+"nl": "Hij is erg gemelijk, ik kan hem met niets opvrolijken"
+},
+"opmonteren\u00010\u00011": {
+"pt": "Vê um filme divertido, isso vai animar-te!",
+"nl": "Kijk een leuke film, dat vrolijkt je op!"
+},
+"Opmonterung\u00010\u00010": {
+"pt": "Pareces tão triste, precisas de um pouco de ânimo",
+"nl": "Je ziet er zo bedroefd uit, je hebt wat opmonteren nodig"
+},
+"opmoossen\u00010\u00010": {
+"pt": "O pintor tem de medir o apartamento para poder fazer um orçamento exato",
+"nl": "De schilder moet het appartement opmeten om een nauwkeurige offerte te kunnen maken"
+},
+"Opnam\u00010\u00010": {
+"pt": "Para essa filmagem precisas de um cameraman com experiência",
+"nl": "Voor die opname heb je een cameraman met ervaring nodig"
+},
+"Opnam\u00010\u00011": {
+"pt": "As gravações são feitas num estúdio",
+"nl": "De opnamen worden in een studio gemaakt"
+},
+"Opnam\u00011\u00010": {
+"pt": "No nosso arquivo temos gravações dos anos cinquenta",
+"nl": "In ons archief hebben we opnamen uit de jaren vijftig"
+},
+"Opnam\u00012\u00010": {
+"pt": "Para o acolhimento de refugiados precisamos de uma nova infraestrutura",
+"nl": "Voor de opvang van vluchtelingen hebben we een nieuwe infrastructuur nodig"
+},
+"Opnam\u00013\u00010": {
+"pt": "O prazo para a inscrição de novos estudantes terminou",
+"nl": "De datum voor de inschrijving van nieuwe studenten is verstreken"
+},
+"Opnamexamen\u00010\u00010": {
+"pt": "No exame de admissão houve seleção porque havia demasiados candidatos",
+"nl": "Bij het toelatingsexamen werd er geselecteerd omdat er te veel kandidaten waren"
+},
+"Opnamexamen\u00010\u00011": {
+"pt": "Se queres entrar nesta universidade, tens de passar em dois exames de admissão!",
+"nl": "Als je naar deze universiteit wilt, moet je voor twee toelatingsexamens slagen!"
+},
+"op ongeféier\u00010\u00010": {
+"pt": "Encurtei aquela saia a olho",
+"nl": "Ik heb die rok op het oog ingekort"
+},
+"opootmen\u00010\u00010": {
+"pt": "Quando acabarmos esse trabalho, poderemos finalmente respirar de alívio",
+"nl": "Als we met dat werk klaar zijn, kunnen we eindelijk opgelucht ademhalen"
+},
+"opootmen\u00010\u00011": {
+"pt": "O pai respirou de alívio quando encontrou a criança na loja",
+"nl": "Vader haalde opgelucht adem toen hij het kind in de winkel terugvond"
+},
+"oppäppelen\u00010\u00010": {
+"pt": "Estive uma semana na clínica para voltar a ficar bem fortalecida",
+"nl": "Ik heb een week in de kliniek gelegen om echt weer op krachten te komen"
+},
+"oppassen\u00010\u00010": {
+"pt": "Cuidado para não caíres!",
+"nl": "Pas op dat je niet valt!"
+},
+"oppassen\u00010\u00011": {
+"pt": "Os erros acontecem, por mais atenção que se tenha!",
+"nl": "Fouten gebeuren, hoe goed je ook oplet!"
+},
+"oppassen\u00010\u00012": {
+"pt": "Os automobilistas têm de ter cuidado com os peões",
+"nl": "De automobilisten moeten opletten voor de voetgangers"
+},
+"oppassen\u00010\u00013": {
+"pt": "Se prestares bem atenção na escola, não precisas de estudar muito em casa!",
+"nl": "Als je op school goed oplet, hoef je thuis niet veel meer te leren!"
+},
+"oppassen\u00011\u00010": {
+"pt": "Às quintas-feiras à tarde tenho sempre de tomar conta do meu irmão mais novo",
+"nl": "Donderdagmiddag moet ik altijd op mijn kleine broer passen"
+},
+"oppassen\u00012\u00010": {
+"pt": "Quem cuida das suas ferramentas não precisa de comprar novas tão amiúde",
+"nl": "Wie zijn gereedschap goed bewaart, hoeft niet zo vaak nieuw te kopen"
+},
+"oppechen\u00010\u00010": {
+"pt": "Estes logótipos foram pensados para serem colados",
+"nl": "Deze logo's zijn bedoeld om op te plakken"
+},
+"oppechen\u00010\u00011": {
+"pt": "O letreiro no edifício parece colado",
+"nl": "Het bord aan het gebouw lijkt erop geplakt"
+},
+"oppechen\u00010\u00012": {
+"pt": "Hoje voltaram a impingir-me mais um",
+"nl": "Vandaag kreeg ik er weer eentje opgeplakt"
+},
+"oppen\u00010\u00010": {
+"pt": "Só consigo dormir com a janela aberta",
+"nl": "Ik kan alleen slapen met het raam open"
+},
+"oppen\u00010\u00011": {
+"pt": "Tem uma ferida aberta no braço",
+"nl": "Hij heeft een open wond aan zijn arm"
+},
+"oppen\u00010\u00012": {
+"pt": "Há ainda duas garrafas de vinho abertas no frigorífico",
+"nl": "Er staan nog twee open wijnflessen in de koelkast"
+},
+"oppen\u00010\u00013": {
+"pt": "O novo restaurante tem uma grande escolha de vinhos a copo",
+"nl": "Het nieuwe restaurant heeft een grote keuze aan open wijnen"
+},
+"oppen\u00011\u00010": {
+"pt": "Ao meio-dia o conselho quer ocupar-se das últimas questões em aberto",
+"nl": "Tussen de middag wil de raad zich bezighouden met de laatste openstaande vragen"
+},
+"oppen\u00012\u00010": {
+"pt": "Há anos que as duas famílias travam uma guerra aberta entre si",
+"nl": "Al jaren voeren de twee families een openlijke oorlog met elkaar"
+},
+"oppen\u00012\u00011": {
+"pt": "A iniciativa de cidadãos dirigiu uma carta aberta à câmara municipal",
+"nl": "Het burgerinitiatief richtte een open brief aan de gemeenteraad"
+},
+"oppen\u00012\u00012": {
+"pt": "Foi alvejado em plena rua, à luz do dia!",
+"nl": "Hij werd op open straat doodgeschoten!"
+},
+"oppen\u00012\u00013": {
+"pt": "A relação deles é um segredo de polichinelo",
+"nl": "Hun relatie is een publiek geheim"
+},
+"oppen\u00013\u00010": {
+"pt": "Gosto mais de ti com o cabelo solto do que apanhado num rabo de cavalo",
+"nl": "Ik vind je mooier met loshangend haar dan met een paardenstaart"
+},
+"oppen\u00013\u00011": {
+"pt": "A minha mãe comprou nos saldos uns sapatos abertos",
+"nl": "Mijn moeder heeft in de solden open schoenen gekocht"
+},
+"oppicken\u00010\u00010": {
+"pt": "Anda, deixa-me furar-te essa bolha!",
+"nl": "Kom, ik prik die blaar voor je open!"
+},
+"oppicken\u00010\u00011": {
+"pt": "Esse abcesso preferia que fosse um médico a abri-lo",
+"nl": "Die zweer laat ik liever door een dokter openprikken"
+},
+"oppicken\u00011\u00010": {
+"pt": "As galinhas debicam os grãos",
+"nl": "De kippen pikken de korrels op"
+},
+"opplatzen\u00010\u00010": {
+"pt": "Deixa as salsichas rebentarem sossegadas na frigideira, é assim que gosto mais delas!",
+"nl": "Laat de worstjes rustig openbarsten in de pan, zo vind ik ze het lekkerst!"
+},
+"oppompelen\u00010\u00010": {
+"pt": "Ajuda-me a encher o colchão de ar!",
+"nl": "Help me de luchtmatras opblazen!"
+},
+"oppompelen\u00010\u00011": {
+"pt": "O pneu ainda não está totalmente cheio",
+"nl": "De band is nog niet helemaal opgepompt"
+},
+"Opponent\u00010\u00010": {
+"pt": "O ditador eliminou todos os possíveis opositores",
+"nl": "De dictator heeft alle mogelijke tegenstanders uitgeschakeld"
+},
+"Opponentin\u00010\u00010": {
+"pt": "Não tinha qualquer hipótese de ganhar a esta forte adversária",
+"nl": "Ik had geen kans om van deze sterke tegenstandster te winnen"
+},
+"opportun\u00010\u00010": {
+"pt": "Medidas tão drásticas não são oportunas de momento",
+"nl": "Zulke drastische maatregelen zijn momenteel niet opportuun"
+},
+"Opportunist\u00010\u00010": {
+"pt": "Um oportunista procura sempre a sua vantagem",
+"nl": "Een opportunist zoekt altijd zijn voordeel"
+},
+"opportunistesch\u00010\u00010": {
+"pt": "As pessoas oportunistas são-me por princípio antipáticas",
+"nl": "Opportunistische mensen zijn me principieel onsympathiek"
+},
+"opportunistesch\u00010\u00011": {
+"pt": "Como se pode pensar de forma tão oportunista?",
+"nl": "Hoe kan men toch zo opportunistisch denken?"
+},
+"Opportunistin\u00010\u00010": {
+"pt": "Como oportunista, a minha colega de trabalho procura sempre a sua vantagem",
+"nl": "Als opportuniste zoekt mijn collega altijd haar voordeel"
+},
+"Oppositioun\u00010\u00010": {
+"pt": "Devido à forte oposição dos habitantes, a câmara abandonou esse projeto",
+"nl": "Wegens het sterke verzet van de inwoners heeft de gemeente dat project laten vallen"
+},
+"Oppositioun\u00010\u00011": {
+"pt": "Ele faz sempre oposição",
+"nl": "Hij maakt altijd oppositie"
+},
+"Oppositioun\u00011\u00010": {
+"pt": "A oposição não está, na maioria das vezes, satisfeita com o trabalho do governo",
+"nl": "De oppositie is meestal niet tevreden met het werk van de regering"
+},
+"Oppositioun\u00011\u00011": {
+"pt": "Depois das eleições, o meu partido passou para a oposição",
+"nl": "Na de verkiezingen is mijn partij in de oppositie gegaan"
+},
+"Oppositiounspartei\u00010\u00010": {
+"pt": "É uma jogada de xadrez inteligente que o partido da oposição realizou com essa manobra",
+"nl": "Het is een geraffineerde schaakzet die de oppositiepartij met dat manoeuvre heeft gerealiseerd"
+},
+"Oppositiounspartei\u00010\u00011": {
+"pt": "O partido da oposição apresentou uma pergunta parlamentar",
+"nl": "De oppositiepartij heeft een parlementaire vraag ingediend"
+},
+"opputschen\u00010\u00010": {
+"pt": "A cafeína estimula",
+"nl": "Cafeïne pept je op"
+},
+"Opputschmëttel\u00010\u00010": {
+"pt": "O café é um estimulante muito apreciado",
+"nl": "Koffie is een geliefd opwekkingsmiddel"
+},
+"oprafen\u00010\u00010": {
+"pt": "Apanha essa casca de banana antes que alguém escorregue nela!",
+"nl": "Raap die bananenschil op voordat iemand erop uitglijdt!"
+},
+"oprafen\u00010\u00011": {
+"pt": "Não chores, meu filho, já vou buscar-te!",
+"nl": "Huil niet, mijn kind, ik kom je oppikken!"
+},
+"oprafen\u00011\u00010": {
+"pt": "O turista apanhou icterícia na sua viagem",
+"nl": "De toerist heeft tijdens zijn reis geelzucht opgelopen"
+},
+"oprafen\u00011\u00011": {
+"pt": "Os nossos filhos apanharam piolhos na escola",
+"nl": "Onze kinderen hebben op school luizen opgelopen"
+},
+"oprafen\u00011\u00012": {
+"pt": "Apanhei na piscina um fungo nos pés",
+"nl": "Ik heb in het zwembad een voetschimmel opgelopen"
+},
+"oprafen\u00012\u00010": {
+"pt": "Onde é que apanhaste esse truque?",
+"nl": "Waar heb je die truc dan opgepikt?"
+},
+"opräissen\u00010\u00010": {
+"pt": "Estava tão curioso que tive de rasgar logo o pacote",
+"nl": "Ik was zo nieuwsgierig dat ik het pak meteen moest openscheuren"
+},
+"opräissen\u00011\u00010": {
+"pt": "Rasguei as calças num prego",
+"nl": "Ik heb mijn broek aan een spijker opengescheurd"
+},
+"opräissen\u00012\u00010": {
+"pt": "Para passar novos cabos, a rua foi aberta",
+"nl": "Om nieuwe kabels te leggen, werd de straat opengebroken"
+},
+"opräissen\u00013\u00010": {
+"pt": "Abriu a janela de par em par para deixar entrar ar fresco",
+"nl": "Hij rukte het raam open om frisse lucht binnen te laten"
+},
+"oprappen\u00010\u00010": {
+"pt": "Estava tão curioso que tive de abrir logo o pacote à força",
+"nl": "Ik was zo nieuwsgierig dat ik het pak meteen moest openrijten"
+},
+"oprappen\u00011\u00010": {
+"pt": "Rasguei as calças num prego",
+"nl": "Ik heb mijn broek aan een spijker opengerukt"
+},
+"oprappen\u00012\u00010": {
+"pt": "Para passar novos cabos, a rua foi aberta",
+"nl": "Om nieuwe kabels te leggen, werd de straat opengebroken"
+},
+"oprappen\u00013\u00010": {
+"pt": "Abriu a janela de par em par para deixar entrar ar fresco",
+"nl": "Hij rukte het raam open om frisse lucht binnen te laten"
+},
+"oprappen\u00014\u00010": {
+"pt": "Recompõe-te e faz alguma coisa!",
+"nl": "Pak jezelf bij elkaar en doe iets!"
+},
+"oprappen\u00014\u00011": {
+"pt": "Apesar da febre alta, recompôs-se e foi trabalhar",
+"nl": "Ondanks zijn hoge koorts nam hij zichzelf bij elkaar en ging hij werken"
+},
+"opraumen\u00010\u00010": {
+"pt": "A nova diretora pôs finalmente ordem na empresa!",
+"nl": "De nieuwe directrice heeft eens echt opgeruimd in het bedrijf!"
+},
+"opraumen\u00011\u00010": {
+"pt": "Já é mais que tempo de acabar com essas velhas ideias!",
+"nl": "Het wordt hoog tijd dat er met die oude opvattingen wordt opgeruimd!"
+},
+"opraumen\u00012\u00010": {
+"pt": "Já arrumaste o teu quarto?",
+"nl": "Heb je je kamer al opgeruimd?"
+},
+"opraumen\u00012\u00011": {
+"pt": "O ambiente de trabalho do teu computador devia ser arrumado",
+"nl": "Het bureaublad van je computer zou moeten worden opgeruimd"
+},
+"oprechterhalen\u00010\u00010": {
+"pt": "O nosso clube quer conservar na nossa aldeia os antigos costumes e tradições",
+"nl": "Onze vereniging wil in ons dorp de oude gebruiken en tradities in stand houden"
+},
+"opreegen\u00010\u00010": {
+"pt": "A incerteza depois do acidente agitou toda a família",
+"nl": "De onzekerheid na het ongeval heeft de hele familie van streek gemaakt"
+},
+"opreegen\u00010\u00011": {
+"pt": "Não consigo ver um policial à noite, deixa-me demasiado agitado",
+"nl": "Ik kan 's avonds geen thriller kijken, dat windt me te veel op"
+},
+"opreegen\u00011\u00010": {
+"pt": "A minha mãe fica sempre preocupada quando ando de carro à noite",
+"nl": "Mijn moeder maakt zich altijd zorgen als ik 's avonds met de auto onderweg ben"
+},
+"opreegen\u00012\u00010": {
+"pt": "O meu pai enerva-se com qualquer ninharia",
+"nl": "Mijn vader windt zich over elke kleinigheid op"
+},
+"opreegen\u00012\u00011": {
+"pt": "Não vais agora enervar-te com uma piada tão inofensiva!",
+"nl": "Je gaat je nu toch niet opwinden over zo'n onschuldige mop!"
+},
+"Opreegung\u00010\u00010": {
+"pt": "A notícia causou agitação",
+"nl": "Dat nieuws zorgde voor opwinding"
+},
+"Opreegung\u00010\u00011": {
+"pt": "De pura excitação, não consegui dizer mais nem uma palavra!",
+"nl": "Van louter opwinding kreeg ik geen woord meer over mijn lippen!"
+},
+"Opreegung\u00010\u00012": {
+"pt": "Na agitação, tinha-me esquecido do guarda-chuva",
+"nl": "In de opwinding was ik mijn paraplu vergeten"
+},
+"Opreegung\u00011\u00010": {
+"pt": "Depois de tanta agitação, devia poder tirar-se uma semana de férias!",
+"nl": "Na al die opwinding zou men een week vakantie moeten kunnen nemen!"
+},
+"opréieren\u00010\u00010": {
+"pt": "O cozinheiro mexeu mais uma vez o molho antes de ser servido",
+"nl": "De kok roerde de saus nog eens op voordat ze werd geserveerd"
+},
+"opréieren\u00011\u00010": {
+"pt": "Não vais agora reavivar velhas histórias!",
+"nl": "Je gaat nu toch niet die oude affaires weer oprakelen!"
+},
+"oprënnen\u00010\u00010": {
+"pt": "As crianças aprenderam a arredondar para cima os números decimais",
+"nl": "De kinderen hebben geleerd decimale getallen naar boven af te ronden"
+},
+"oprëselen\u00010\u00010": {
+"pt": "As almofadas têm de ser sacudidas",
+"nl": "De kussens moeten worden opgeschud"
+},
+"oprëselen\u00011\u00010": {
+"pt": "A má notícia devia abanar toda a gente",
+"nl": "Het slechte nieuws zou iedereen moeten wakker schudden"
+},
+"opriichteg\u00010\u00010": {
+"pt": "Depois do serviço fúnebre, muitas pessoas expressaram-nos os seus sinceros pêsames",
+"nl": "Na de uitvaartdienst hebben veel mensen ons hun oprechte deelneming betuigd"
+},
+"opriichteg\u00010\u00011": {
+"pt": "Quando ouço isso, pergunto-me se foste sempre completamente sincero comigo",
+"nl": "Als ik dat hoor, vraag ik me af of je altijd helemaal oprecht tegen mij bent geweest"
+},
+"opriichten\u00010\u00010": {
+"pt": "A câmara ergueu um monumento no parque",
+"nl": "De gemeente heeft in het park een monument opgericht"
+},
+"opriichten\u00010\u00011": {
+"pt": "Para renovar a fachada, é preciso montar um andaime",
+"nl": "Om de gevel te vernieuwen moet er een steiger worden opgetrokken"
+},
+"opriichten\u00010\u00012": {
+"pt": "Os escuteiros montam uma tenda",
+"nl": "De scouts zetten een tent op"
+},
+"opriichten\u00010\u00013": {
+"pt": "A festa popular está precisamente a ser montada",
+"nl": "De kermis wordt net opgebouwd"
+},
+"opriichten\u00010\u00014": {
+"pt": "Ajudas-me a montar a árvore de Natal?",
+"nl": "Help je me de kerstboom op te zetten?"
+},
+"opriichten\u00011\u00010": {
+"pt": "O urso levantou-se e rosnou ameaçadoramente",
+"nl": "De beer richtte zich op en gromde dreigend"
+},
+"opriichten\u00011\u00011": {
+"pt": "Quando fico muito tempo curvado, quase não consigo endireitar-me",
+"nl": "Wanneer ik lang gebogen heb gestaan, kan ik me bijna niet meer oprichten"
+},
+"opriichten\u00011\u00012": {
+"pt": "Depois da operação, durante muito tempo não consegui sentar-me bem na cama",
+"nl": "Na mijn operatie kon ik me lang niet goed in bed oprichten"
+},
+"Oprou\u00010\u00010": {
+"pt": "Esses rumores causaram muita agitação entre as pessoas",
+"nl": "Die geruchten zorgden voor veel opschudding bij de mensen"
+},
+"Opruff\u00010\u00010": {
+"pt": "Através de um apelo no jornal, procuraram-se testemunhas do acidente",
+"nl": "Via een oproep in de krant werden getuigen van het ongeval gezocht"
+},
+"Opruff\u00010\u00011": {
+"pt": "Depois do sismo, muitas organizações de caridade fizeram um apelo a donativos",
+"nl": "Na de aardbeving hebben veel liefdadigheidsorganisaties een oproep voor giften gedaan"
+},
+"opruffen\u00010\u00010": {
+"pt": "Estive uma hora na sala de espera antes de ser chamada",
+"nl": "Ik zat een uur in de wachtzaal voordat ik werd opgeroepen"
+},
+"opruffen\u00010\u00011": {
+"pt": "Os vencedores são chamados um a um",
+"nl": "De winnaars worden een voor een opgeroepen"
+},
+"opruffen\u00011\u00010": {
+"pt": "Estuda bem o vocabulário, porque o professor decerto te vai chamar!",
+"nl": "Leer je woordjes goed, want de leraar roept je zeker op!"
+},
+"opruffen\u00011\u00011": {
+"pt": "Já foste chamado a responder a matemática?",
+"nl": "Ben je al overhoord voor wiskunde?"
+},
+"opruffen\u00012\u00010": {
+"pt": "As pessoas foram instadas a ficar em casa",
+"nl": "De mensen werden opgeroepen in hun huizen te blijven"
+},
+"oprullen\u00010\u00010": {
+"pt": "Enrola o tapete para varrer por baixo!",
+"nl": "Rol het tapijt op om eronder te vegen!"
+},
+"oprullen\u00011\u00010": {
+"pt": "O processo foi reaberto porque apareceram novas testemunhas",
+"nl": "Het proces werd heropend omdat zich nieuwe getuigen hadden gemeld"
+},
+"Opsaz\u00010\u00010": {
+"pt": "A minha batedeira tem um acessório extra para ralar legumes",
+"nl": "Mijn mixer heeft een extra opzetstuk om groenten te raspen"
+},
+"opschaffen\u00010\u00010": {
+"pt": "Ainda temos uma série de processos para pôr em dia",
+"nl": "We hebben nog een reeks dossiers weg te werken"
+},
+"opschaffen\u00011\u00010": {
+"pt": "A minha mãe tricota meias para aproveitar os restos de lã",
+"nl": "Mijn moeder breit sokken om de resten wol op te werken"
+},
+"opschëdden\u00010\u00010": {
+"pt": "Preparei o chá e deixei-o em infusão durante dez minutos",
+"nl": "Ik heb de thee opgegoten en tien minuten laten trekken"
+},
+"opschëdden\u00011\u00010": {
+"pt": "Para fazer o nosso terraço, foi despejada muita terra atrás da casa",
+"nl": "Om ons terras aan te leggen, werd veel grond achter het huis opgeschud"
+},
+"Opschlag\u00010\u00010": {
+"pt": "Com compressas frias, o inchaço desaparece",
+"nl": "Met koude kompressen verdwijnt de zwelling"
+},
+"Opschlag\u00011\u00010": {
+"pt": "No impacto, o avião explodiu",
+"nl": "Bij de inslag explodeerde het vliegtuig"
+},
+"opschlësselen\u00010\u00010": {
+"pt": "Nesta tabela, as diferentes despesas são discriminadas em pormenor",
+"nl": "In deze tabel worden de verschillende uitgaven in detail uitgesplitst"
+},
+"opschlitzen\u00010\u00010": {
+"pt": "Abriu os peixes para os limpar",
+"nl": "Hij sneed de vissen open om ze schoon te maken"
+},
+"opschlitzen\u00010\u00011": {
+"pt": "Alguns arruaceiros rasgaram os bancos do autocarro",
+"nl": "Enkele relschoppers hebben in de bus de zetels opengesneden"
+},
+"opschloen\u00010\u00010": {
+"pt": "Para a festa abre-se um barril",
+"nl": "Voor het feest wordt een vat aangeslagen"
+},
+"opschloen\u00010\u00011": {
+"pt": "Parti uma dúzia de ovos para fazer uma omelete",
+"nl": "Ik heb een dozijn eieren opengeslagen voor een omelet"
+},
+"opschloen\u00011\u00010": {
+"pt": "Ao cair, abri a testa",
+"nl": "Bij het vallen heb ik mijn voorhoofd opengeslagen"
+},
+"opschloen\u00012\u00010": {
+"pt": "Abre o livro na página vinte!",
+"nl": "Sla het boek open op bladzijde twintig!"
+},
+"opschloen\u00013\u00010": {
+"pt": "O telhador caiu da escada e bateu com a cabeça no passeio",
+"nl": "De dakdekker viel van de ladder en sloeg met zijn hoofd op het trottoir"
+},
+"Opschloss\u00010\u00010": {
+"pt": "Tratava-se de dar ao parlamento, em tempos difíceis, esclarecimentos sobre os destinos do país",
+"nl": "Het ging erom het parlement in moeilijke tijden opheldering te geven over het lot van het land"
 }
 }
