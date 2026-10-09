@@ -30598,5 +30598,905 @@
 "Buer\u00010\u00010": {
 "pt": "Não faças tanta pressão no berbequim, senão a broca parte-se!",
 "nl": "Druk niet zo hard op de boormachine, anders breekt de boor af!"
+},
+"Buer\u00010\u00010~2": {
+"pt": "Moro em Bour",
+"nl": "Ik woon in Buer"
+},
+"Buer\u00010\u00011": {
+"pt": "Este autocarro vai para Bour, perto de Tënten?",
+"nl": "Rijdt deze bus naar Buer bij Tënten?"
+},
+"Buer\u00010\u00010~3": {
+"pt": "Antigamente, as pessoas bebiam a água do poço",
+"nl": "Vroeger dronk men het water uit de put"
+},
+"Buer\u00011\u00010": {
+"pt": "Naquele tempo, as mulheres ainda lavavam a roupa no lavadouro",
+"nl": "Toen wasten de vrouwen de kleren nog aan de wasplaats"
+},
+"buerbes\u00010\u00010": {
+"pt": "Cuidado para não pisares descalço um caco de vidro!",
+"nl": "Pas op dat je niet op blote voeten in een scherf trapt!"
+},
+"buerbes\u00010\u00011": {
+"pt": "No verão as crianças andam descalças no jardim",
+"nl": "In de zomer lopen de kinderen op blote voeten in de tuin"
+},
+"buerbes\u00010\u00012": {
+"pt": "Não andes descalço sobre as lajes!",
+"nl": "Loop niet op blote voeten over de tegels!"
+},
+"Buerch\u00010\u00010": {
+"pt": "O porco-capado é um suíno castrado",
+"nl": "Een borg is een gecastreerd varken"
+},
+"bueren\u00010\u00010": {
+"pt": "As buchas são demasiado pequenas para os buracos que fizeste",
+"nl": "De pluggen zijn te klein voor de gaten die je geboord hebt"
+},
+"bueren\u00011\u00010": {
+"pt": "Antes de furar, o dentista dá-me sempre uma injeção",
+"nl": "Voordat hij boort, geeft de tandarts me altijd een spuitje"
+},
+"bueren\u00012\u00010": {
+"pt": "Naquela região perfuram à procura de petróleo",
+"nl": "In die streek boren ze naar olie"
+},
+"bueren\u00013\u00010": {
+"pt": "A juíza insistiu até o arguido acabar por dizer a verdade",
+"nl": "De rechter bleef boren tot de beklaagde met de waarheid voor de dag kwam"
+},
+"Buerer\u00011\u00010": {
+"pt": "O carpinteiro não conseguiu trabalhar porque se tinha esquecido do seu berbequim manual",
+"nl": "De timmerman kon niet werken omdat hij zijn handboor was vergeten"
+},
+"Buerer\u00012\u00010": {
+"pt": "No dentista não suporto o barulho da broca",
+"nl": "Bij de tandarts kan ik het lawaai van de boor niet verdragen"
+},
+"Buerer Millen\u00010\u00010": {
+"pt": "Moro no Moulin de Bour",
+"nl": "Ik woon op de Buerer Millen"
+},
+"Buerer Millen\u00010\u00011": {
+"pt": "Este autocarro vai para o Moulin de Bour?",
+"nl": "Rijdt deze bus naar de Buerer Millen?"
+},
+"buerféiss\u00010\u00010": {
+"pt": "Cuidado para não pisares descalço um caco de vidro!",
+"nl": "Pas op dat je niet op blote voeten in een scherf trapt!"
+},
+"buerféiss\u00010\u00011": {
+"pt": "No verão as crianças andam descalças no jardim",
+"nl": "In de zomer lopen de kinderen op blote voeten in de tuin"
+},
+"Buerfelt\u00010\u00010": {
+"pt": "Moro em Burfelt",
+"nl": "Ik woon op de Buerfelt"
+},
+"Buerfelt\u00010\u00011": {
+"pt": "Este autocarro vai para Burfelt?",
+"nl": "Rijdt deze bus naar de Buerfelt?"
+},
+"Buerg\u00010\u00010": {
+"pt": "Este castelo é conhecido para lá das fronteiras",
+"nl": "Dit kasteel is ver over de grenzen bekend"
+},
+"Buerg\u00010\u00011": {
+"pt": "Nas férias fomos ver muitos castelos",
+"nl": "In de vakantie zijn we veel kastelen gaan bekijken"
+},
+"Buerg\u00010\u00010~2": {
+"pt": "Moro no castelo",
+"nl": "Ik woon in de Buerg"
+},
+"Buerg\u00010\u00011~2": {
+"pt": "Este autocarro vai para o castelo?",
+"nl": "Rijdt deze bus naar de Buerg?"
+},
+"Buergbrennen\u00010\u00010": {
+"pt": "Muita gente veio de longe para estar presente na fogueira do Buergbrennen",
+"nl": "Veel mensen zijn van heinde en verre gekomen om bij het Buergbrennen te zijn"
+},
+"Buergermeeschter\u00010\u00010": {
+"pt": "O presidente da câmara assinou a licença de construção para o nosso novo pavilhão",
+"nl": "De burgemeester heeft de bouwvergunning voor onze nieuwe hal ondertekend"
+},
+"Buergermeeschter\u00010\u00011": {
+"pt": "Os presidentes de câmara de todo o país reúnem-se uma vez por ano",
+"nl": "De burgemeesters uit het hele land komen eenmaal per jaar samen"
+},
+"Buergermeeschtesch\u00010\u00010": {
+"pt": "A presidente da câmara anunciou que o município quer criar mais ciclovias",
+"nl": "De burgemeester heeft aangekondigd dat de gemeente meer fietspaden wil aanleggen"
+},
+"Buergermeeschtesch\u00010\u00011": {
+"pt": "A licença de construção ainda não foi assinada pela presidente da câmara",
+"nl": "De bouwvergunning is nog niet door de burgemeester ondertekend"
+},
+"Buerghaff\u00010\u00010": {
+"pt": "Moro em Buerghaff",
+"nl": "Ik woon op de Buerghaff"
+},
+"Buerghaff\u00010\u00011": {
+"pt": "Este autocarro vai para Buerghaff?",
+"nl": "Rijdt deze bus naar de Buerghaff?"
+},
+"Buerglënster\u00010\u00010": {
+"pt": "Moro em Bourglinster",
+"nl": "Ik woon in Bourglinster"
+},
+"Buerglënster\u00010\u00011": {
+"pt": "Este autocarro vai para Bourglinster?",
+"nl": "Rijdt deze bus naar Bourglinster?"
+},
+"Buergmauer\u00010\u00010": {
+"pt": "A reconstrução da antiga muralha do castelo deverá estar concluída dentro de três anos",
+"nl": "De reconstructie van de oude burchtmuur moet binnen drie jaar klaar zijn"
+},
+"Buergplaz\u00010\u00010": {
+"pt": "Já estiveste alguma vez em Buergplaz?",
+"nl": "Ben je al eens op de Buergplaz geweest?"
+},
+"Buergplaz\u00010\u00011": {
+"pt": "No fim de semana fizemos uma caminhada até à Buergplaz",
+"nl": "Dit weekend zijn we naar de Buergplaz gaan wandelen"
+},
+"Buergsonndeg\u00010\u00010": {
+"pt": "Com o Buergbrennen, no Domingo das Fogueiras, queima-se simbolicamente o inverno",
+"nl": "Met het Buergbrennen op Buergsonndeg wordt de winter symbolisch verbrand"
+},
+"Buermaschinn\u00010\u00010": {
+"pt": "Para fazer este furo, é preciso um berbequim robusto",
+"nl": "Om dit gat te boren heb je een solide boormachine nodig"
+},
+"Buerschdref\u00010\u00010": {
+"pt": "Moro em Boursdorf",
+"nl": "Ik woon in Buerschdref"
+},
+"Buerschdref\u00010\u00011": {
+"pt": "Este autocarro vai para Boursdorf?",
+"nl": "Rijdt deze bus naar Buerschdref?"
+},
+"Buerschent\u00010\u00010": {
+"pt": "Moro em Bourscheid",
+"nl": "Ik woon in Buerschent"
+},
+"Buerschent\u00010\u00011": {
+"pt": "Este autocarro vai para Bourscheid?",
+"nl": "Rijdt deze bus naar Buerschent?"
+},
+"Buerschter Millen\u00010\u00010": {
+"pt": "Moro em Bourscheid-Moulin",
+"nl": "Ik woon op de Buerschter Millen"
+},
+"Buerschter Millen\u00010\u00011": {
+"pt": "Este autocarro vai para Bourscheid-Moulin?",
+"nl": "Rijdt deze bus naar de Buerschter Millen?"
+},
+"Buerschter Plage\u00010\u00010": {
+"pt": "Moro em Bourscheid-Plage",
+"nl": "Ik woon op de Buerschter Plage"
+},
+"Buerschter Plage\u00010\u00011": {
+"pt": "Este autocarro vai para Bourscheid-Plage?",
+"nl": "Rijdt deze bus naar de Buerschter Plage?"
+},
+"Buerschter Schlass\u00010\u00010": {
+"pt": "Moro em Bourscheid-Château",
+"nl": "Ik woon aan het Kasteel van Buerscheid"
+},
+"Buerschter Schlass\u00010\u00011": {
+"pt": "Este autocarro vai para Bourscheid-Château?",
+"nl": "Rijdt deze bus naar het Kasteel van Buerscheid?"
+},
+"Buerung\u00010\u00010": {
+"pt": "Para não contaminar a água subterrânea, em certos locais não podem ser feitas perfurações",
+"nl": "Om het grondwater niet te vervuilen mogen op bepaalde plaatsen geen boringen worden uitgevoerd"
+},
+"Buerung\u00010\u00011": {
+"pt": "Nas perfurações ao longo da costa foi encontrado petróleo",
+"nl": "Bij boringen langs de kust werd olie gevonden"
+},
+"Buet\u00010\u00010": {
+"pt": "Antigamente, ele trabalhava como estafeta na câmara",
+"nl": "Hij werkte vroeger als bode bij de gemeente"
+},
+"Buff\u00010\u00010": {
+"pt": "Para andar de mota, uso sempre um buff à volta do pescoço",
+"nl": "Om met de motor te rijden draag ik altijd een buff om mijn nek"
+},
+"Buff\u00010\u00010~2": {
+"pt": "O Buff é um licor de ervas produzido no Luxemburgo",
+"nl": "Buff is een kruidenlikeur die in Luxemburg wordt geproduceerd"
+},
+"Buff\u00011\u00010": {
+"pt": "Depois da refeição, gosto às vezes de beber um Buff como digestivo",
+"nl": "Na het eten drink ik soms graag een Buff als digestief"
+},
+"Buffet\u00010\u00010": {
+"pt": "Compraram um novo aparador para a sala",
+"nl": "Ze hebben een nieuwe buffetkast voor de woonkamer gekocht"
+},
+"Buffet\u00011\u00010": {
+"pt": "O bufete de ontem à noite estava excelente",
+"nl": "Het buffet van gisteravond was uitstekend"
+},
+"Buffet\u00011\u00011": {
+"pt": "O nosso serviço de catering é conhecido pelos seus excelentes bufetes",
+"nl": "Onze traiteur staat bekend om zijn uitstekende buffetten"
+},
+"Buffet\u00012\u00010": {
+"pt": "Entre dois comboios vamos ao bufete da estação beber um copo",
+"nl": "Tussen twee treinen gaan we in het stationsbuffet er een nemen"
+},
+"Bügel\u00010\u00010": {
+"pt": "No concerto de gala, o nosso antigo maestro tocou um solo de corneta",
+"nl": "Op het galaconcert speelde onze voormalige dirigent een solo op de bugel"
+},
+"Bugger\u00010\u00010": {
+"pt": "Os rapazes dela cresceram e são agora uns tipos robustos",
+"nl": "Haar jongens zijn stevige kerels geworden"
+},
+"Buggi\u00010\u00010": {
+"pt": "O minério de Minette era transportado das minas em vagonetas",
+"nl": "De Minett werd met karretjes uit de groeven vervoerd"
+},
+"Buggi\u00010\u00011": {
+"pt": "A vagoneta cheia foi pesada numa balança",
+"nl": "De volle kar werd op een weegbrug gewogen"
+},
+"Buggy\u00010\u00010": {
+"pt": "Quando o pequeno está cansado, pode sentar-se no carrinho",
+"nl": "Als het kleintje moe is, kan het in de buggy zitten"
+},
+"Buggy\u00010\u00011": {
+"pt": "Dobra o carrinho e mete-o na mala!",
+"nl": "Vouw de buggy op en leg hem in de koffer!"
+},
+"Buggy\u00011\u00010": {
+"pt": "Nas férias alugámos buggies para atravessar o deserto",
+"nl": "In de vakantie hebben we buggy's gehuurd om door de woestijn te rijden"
+},
+"Buggy\u00012\u00010": {
+"pt": "O conde ofereceu ao filho, pelos seus 15 anos, um buggy e um cavalo cinzento",
+"nl": "De graaf gaf zijn zoon voor zijn 15e verjaardag een buggy en een schimmel"
+},
+"Bukarest\u00010\u00010": {
+"pt": "Bucareste é a capital da Roménia",
+"nl": "Boekarest is de hoofdstad van Roemenië"
+},
+"Bulgar\u00010\u00010": {
+"pt": "O meu melhor amigo é búlgaro",
+"nl": "Mijn beste vriend is Bulgaar"
+},
+"bulgaresch\u00010\u00010": {
+"pt": "Na nossa viagem conhecemos a cultura búlgara",
+"nl": "Tijdens onze reis hebben we de Bulgaarse cultuur leren kennen"
+},
+"Bulgarien\u00010\u00010": {
+"pt": "Já estive três vezes na Bulgária",
+"nl": "Ik ben al drie keer in Bulgarije geweest"
+},
+"Bulgarien\u00010\u00011": {
+"pt": "Vou para a Bulgária na próxima semana",
+"nl": "Ik ga volgende week naar Bulgarije"
+},
+"Bulgarien\u00010\u00012": {
+"pt": "Venho da Bulgária",
+"nl": "Ik kom uit Bulgarije"
+},
+"Bulgarin\u00010\u00010": {
+"pt": "A minha melhor amiga é búlgara",
+"nl": "Mijn beste vriendin is Bulgaarse"
+},
+"Bulimie\u00010\u00010": {
+"pt": "A bulimia é uma perturbação alimentar que durante muito tempo pode ser escondida do exterior",
+"nl": "Boulimie is een eetstoornis die lang naar buiten toe verborgen kan blijven"
+},
+"Bull\u00010\u00010": {
+"pt": "Queria uma bola de gelado, por favor!",
+"nl": "Ik zou graag een bol ijs willen, alsjeblieft!"
+},
+"Bull\u00010\u00011": {
+"pt": "As crianças ajudaram a pendurar as bolas nas árvores de Natal",
+"nl": "De kinderen hielpen de kerstballen in de kerstbomen te hangen"
+},
+"Bull\u00011\u00010": {
+"pt": "No inverno, a minha avó põe uma botija de água quente na cama para aquecer os pés",
+"nl": "In de winter legt mijn oma een kruik in bed om haar voeten te warmen"
+},
+"Bull\u00011\u00011": {
+"pt": "Nas cólicas menstruais ajuda muitas vezes uma botija quente posta na barriga",
+"nl": "Bij menstruatiekrampen helpt vaak een warme kruik op de buik"
+},
+"Bulldog\u00010\u00010": {
+"pt": "Com um buldogue é preciso aceitar que ele baba",
+"nl": "Bij een bulldog moet je erbij nemen dat hij kwijlt"
+},
+"Bulldozer\u00010\u00010": {
+"pt": "Para aquela grande obra, o empreiteiro tem de comprar um novo bulldozer",
+"nl": "Voor dat grote bouwproject moet de aannemer een nieuwe bulldozer kopen"
+},
+"Bulldozer\u00010\u00011": {
+"pt": "A nossa diretora tem o tato de um bulldozer",
+"nl": "Onze directrice heeft het tactgevoel van een bulldozer"
+},
+"Bulletin\u00010\u00010": {
+"pt": "A polícia publica ao fim da tarde o seu próximo boletim",
+"nl": "De politie publiceert tegen de avond haar volgende bulletin"
+},
+"Bulletin\u00010\u00011": {
+"pt": "Os últimos boletins sobre a saúde do presidente foram otimistas",
+"nl": "De laatste bulletins over de gezondheid van de president waren optimistisch"
+},
+"Bulletin\u00011\u00010": {
+"pt": "No último boletim consta o relatório da assembleia geral",
+"nl": "In het laatste bulletin staat het verslag van de algemene vergadering"
+},
+"Bulletin\u00012\u00010": {
+"pt": "Depois das eleições, os boletins de voto foram contados",
+"nl": "Na de verkiezingen werden de stembiljetten uitgeteld"
+},
+"Bullett\u00010\u00010": {
+"pt": "Hoje ao almoço há almôndegas na cantina",
+"nl": "Vanmiddag zijn er gehaktballen in de kantine"
+},
+"Bullett\u00011\u00010": {
+"pt": "No último jogo, o nosso guarda-redes cometeu uma gafe atrás da outra",
+"nl": "In de laatste wedstrijd maakte onze doelman de ene flater na de andere"
+},
+"Bullett\u00010\u00010~2": {
+"pt": "O meu irmão esteve a semana toda no internato porque não tínhamos boas ligações de autocarro",
+"nl": "Mijn broer zat de hele week in het internaat omdat we geen goede busverbindingen hadden"
+},
+"Bullett\u00010\u00011": {
+"pt": "Conta-nos mais uma história do teu tempo no internato da cidade!",
+"nl": "Vertel ons nog een verhaal uit je tijd in het Stater internaat!"
+},
+"Bullett\u00011\u00010~2": {
+"pt": "Desde 2017, também são aceites raparigas no internato de Echternach",
+"nl": "Sinds 2017 worden in Echternach ook meisjes in het internaat toegelaten"
+},
+"Bulli\u00010\u00010": {
+"pt": "Depois do trabalho na vinha, os sapatos do viticultor estavam cheios de lama",
+"nl": "Na het werk in de wijngaard zaten de schoenen van de wijnbouwer vol modder"
+},
+"Bulli\u00011\u00010": {
+"pt": "No Buergbrennen havia sopa espessa com toucinho e salsichas Mettwurst",
+"nl": "Bij het Buergbrennen was er Bulli met spek en Mettworst"
+},
+"Bummelzuch\u00010\u00010": {
+"pt": "O comboio regional pára em todas as estações",
+"nl": "De boemeltrein stopt in elk station"
+},
+"Bummelzuch\u00010\u00011": {
+"pt": "Se apanharmos o comboio regional, chegamos tarde",
+"nl": "Als we de boemeltrein nemen, komen we te laat"
+},
+"bumsdeg\u00010\u00010": {
+"pt": "De repente, estava deitado no chão e já não conseguia levantar-me!",
+"nl": "Boem, ik lag op de grond en kon niet meer opstaan!"
+},
+"Bün\u00010\u00010": {
+"pt": "No fim da peça, os atores subiram todos ao palco",
+"nl": "Aan het einde van het stuk kwamen alle acteurs op het podium"
+},
+"Bün\u00010\u00011": {
+"pt": "Nunca tinha estado num palco",
+"nl": "Ik had nog nooit op een podium gestaan"
+},
+"Bün\u00010\u00012": {
+"pt": "O congresso correu bem",
+"nl": "Het congres is goed verlopen"
+},
+"Bundesland\u00010\u00010": {
+"pt": "A Alemanha e a Áustria estão divididas em estados federados",
+"nl": "Duitsland en Oostenrijk zijn onderverdeeld in deelstaten"
+},
+"Bungalow\u00010\u00010": {
+"pt": "Para não terem de subir escadas, os meus pais mudaram-se na velhice para um bungalow",
+"nl": "Om minder trappen te moeten lopen zijn mijn ouders op oudere leeftijd naar een bungalow verhuisd"
+},
+"Bungeref\u00010\u00010": {
+"pt": "Moro em Bigonville",
+"nl": "Ik woon in Bungeref"
+},
+"Bungeref\u00010\u00011": {
+"pt": "Este autocarro vai para Bigonville?",
+"nl": "Rijdt deze bus naar Bungeref?"
+},
+"Bungerëffer Millen\u00010\u00010": {
+"pt": "Moro em Bigonville-Moulin",
+"nl": "Ik woon op de Bungerëffer Millen"
+},
+"Bungerëffer Millen\u00010\u00011": {
+"pt": "Este autocarro vai para Bigonville-Moulin?",
+"nl": "Rijdt deze bus naar de Bungerëffer Millen?"
+},
+"Bunker\u00010\u00010": {
+"pt": "Na zona fronteiriça ainda se podem ver bunkers da Segunda Guerra Mundial",
+"nl": "In het grensgebied kan men nog bunkers uit de Tweede Wereldoorlog gaan bekijken"
+},
+"Bunker\u00010\u00011": {
+"pt": "Na Suíça foi durante muito tempo obrigatório ter um bunker",
+"nl": "In Zwitserland was het lang verplicht een bunker te hebben"
+},
+"Bunn\u00010\u00010": {
+"pt": "A companhia ferroviária francesa encomendou 50 novas locomotivas",
+"nl": "De Franse spoorwegmaatschappij heeft 50 nieuwe locomotieven besteld"
+},
+"Bunn\u00011\u00010": {
+"pt": "A faixa da esquerda está cortada devido a um acidente",
+"nl": "De linkerrijstrook is wegens een ongeluk afgesloten"
+},
+"Bunn\u00011\u00011": {
+"pt": "A autoestrada vai ser alargada para três faixas",
+"nl": "De autosnelweg wordt tot drie rijstroken uitgebreid"
+},
+"Bunn\u00012\u00010": {
+"pt": "O campeão do mundo corre na pista cinco",
+"nl": "De wereldkampioen loopt in baan vijf"
+},
+"Bunn\u00012\u00011": {
+"pt": "Durante a competição, cada nadador tem a sua pista",
+"nl": "Tijdens de wedstrijd heeft elke zwemmer zijn eigen baan"
+},
+"Bunn\u00013\u00010": {
+"pt": "Os cientistas tentaram recalcular as órbitas dos planetas",
+"nl": "De wetenschappers hebben geprobeerd de banen van de planeten opnieuw te berekenen"
+},
+"Bunn\u00013\u00011": {
+"pt": "O satélite saiu da sua órbita devido a um problema técnico",
+"nl": "De satelliet is door een technisch probleem uit zijn baan geraakt"
+},
+"Bunn\u00014\u00010": {
+"pt": "A pista foi encerada de novo",
+"nl": "De baan is net vers gewaxt"
+},
+"Bunn\u00015\u00010": {
+"pt": "A pista do estádio foi renovada",
+"nl": "De baan in het stadion is vernieuwd"
+},
+"Bunn\u00016\u00010": {
+"pt": "O porteiro abriu um caminho na neve com a pá",
+"nl": "De conciërge heeft een pad door de sneeuw geschept"
+},
+"Bunn\u00016\u00011": {
+"pt": "A minha amiga meteu-se por maus caminhos",
+"nl": "Mijn vriendin is op het slechte pad geraakt"
+},
+"Bunnes\u00010\u00010": {
+"pt": "O exibicionista baixou as calças e mostrou a pilinha às pessoas",
+"nl": "De exhibitionist trok zijn broek omlaag en liet de mensen zijn piemel zien"
+},
+"Bupp\u00010\u00010": {
+"pt": "Quantas batatas preciso para fazer batatas fritas para seis pessoas?",
+"nl": "Hoeveel aardappelen heb ik nodig om frieten voor zes mensen te maken?"
+},
+"buppen\u00010\u00010": {
+"pt": "Mal posso esperar por chegar a casa esta noite e foder-te como deve ser",
+"nl": "Ik kan haast niet wachten om vanavond thuis te komen en je eens flink te neuken"
+},
+"buppen\u00010\u00011": {
+"pt": "Podes foder com quantas pessoas quiseres, mas não te esqueças dos preservativos!",
+"nl": "Je mag zoveel mensen neuken als je wilt, maar vergeet de condooms niet!"
+},
+"buppen\u00011\u00010": {
+"pt": "Nenhum de nós andava à procura de uma relação séria, só queríamos foder",
+"nl": "Niemand van ons was op zoek naar een vaste relatie, we wilden gewoon neuken"
+},
+"Bur\u00010\u00010": {
+"pt": "Moro em Born",
+"nl": "Ik woon in Bur"
+},
+"Bur\u00010\u00011": {
+"pt": "Este autocarro vai para Born, junto ao Sauer?",
+"nl": "Rijdt deze bus naar Bur aan de Sûre?"
+},
+"Burkina Faso\u00010\u00010": {
+"pt": "Já estive três vezes no Burquina Faso",
+"nl": "Ik ben al drie keer in Burkina Faso geweest"
+},
+"Burkina Faso\u00010\u00011": {
+"pt": "Vou para o Burquina Faso na próxima semana",
+"nl": "Ik ga volgende week naar Burkina Faso"
+},
+"Burkina Faso\u00010\u00012": {
+"pt": "Venho do Burquina Faso",
+"nl": "Ik kom uit Burkina Faso"
+},
+"Burkiner\u00010\u00010": {
+"pt": "O meu melhor amigo é burquinense",
+"nl": "Mijn beste vriend is Burkinees"
+},
+"Burkinerin\u00010\u00010": {
+"pt": "A minha melhor amiga é burquinense",
+"nl": "Mijn beste vriendin is Burkinese"
+},
+"burkinesch\u00010\u00010": {
+"pt": "Na nossa viagem conhecemos a cultura burquinense",
+"nl": "Tijdens onze reis hebben we de Burkinese cultuur leren kennen"
+},
+"Burnout\u00010\u00010": {
+"pt": "O stress permanente no trabalho pode levar a um burnout",
+"nl": "Permanente stress op het werk kan tot een burn-out leiden"
+},
+"Burnout\u00010\u00011": {
+"pt": "A médica deu baixa ao doente por burnout",
+"nl": "De dokter heeft de patiënt wegens een burn-out ziek geschreven"
+},
+"Burnout-Syndrom\u00010\u00010": {
+"pt": "Há cada vez mais pessoas que ficam de baixa durante meses por síndrome de burnout",
+"nl": "Er zijn steeds meer mensen die maandenlang wegens burn-outsyndroom ziek geschreven worden"
+},
+"Büro\u00010\u00010": {
+"pt": "A carta está na gaveta de cima da minha secretária",
+"nl": "De brief ligt in de bovenste lade van mijn bureau"
+},
+"Büro\u00010\u00011": {
+"pt": "Na minha secretária há uma pilha enorme de papéis e livros",
+"nl": "Op mijn bureau ligt een gigantische stapel papieren en boeken"
+},
+"Büro\u00011\u00010": {
+"pt": "A chefe chamou uma colaboradora ao seu gabinete",
+"nl": "De baas riep een medewerkster naar haar kantoor"
+},
+"Büro\u00012\u00010": {
+"pt": "A minha mãe vai todos os dias ao escritório à mesma hora",
+"nl": "Mijn moeder gaat elke dag op hetzelfde uur naar kantoor"
+},
+"Büro\u00013\u00010": {
+"pt": "Esta empresa tem escritórios em toda a Europa",
+"nl": "Dit bedrijf heeft kantoren in heel Europa"
+},
+"Büro\u00013\u00011": {
+"pt": "A direção quer abrir um escritório no estrangeiro",
+"nl": "De directie wil een kantoor in het buitenland openen"
+},
+"Büro\u00013\u00012": {
+"pt": "Esta noite vou jantar fora com o pessoal do escritório",
+"nl": "Vanavond ga ik met het kantoor uit eten"
+},
+"Büro\u00014\u00010": {
+"pt": "Esta decisão tem de ser tomada pela direção",
+"nl": "Deze beslissing moet door het bestuur worden genomen"
+},
+"Bürokrat\u00010\u00010": {
+"pt": "Na mesa dos habituais, o nosso vizinho gosta de se queixar dos burocratas das administrações",
+"nl": "Aan de stamtafel zeurt onze buurman graag over de bureaucraten van de administraties"
+},
+"bürokratesch\u00010\u00010": {
+"pt": "Devido aos longos procedimentos burocráticos, pode demorar até receberes a tua autorização",
+"nl": "Door de lange bureaucratische procedures kan het even duren voor je je vergunning krijgt"
+},
+"bürokratesch\u00010\u00011": {
+"pt": "Não se deve abordar este assunto de forma demasiado burocrática",
+"nl": "Men moet deze zaak niet te bureaucratisch aanpakken"
+},
+"Bürokratie\u00010\u00010": {
+"pt": "A ministra quer reduzir a burocracia na sua administração",
+"nl": "De minister wil de bureaucratie in haar administratie terugdringen"
+},
+"Bürokratin\u00010\u00010": {
+"pt": "A burocrata de longa data não reage bem às mudanças na administração",
+"nl": "De bureaucrate van jarenlange dienst reageert niet goed op veranderingen in de administratie"
+},
+"Bürosaarbecht\u00010\u00010": {
+"pt": "Com a introdução do computador, o trabalho de escritório mudou muito",
+"nl": "Met de invoering van de computer is het kantoorwerk sterk veranderd"
+},
+"Bürosgebai\u00010\u00010": {
+"pt": "Ele é vigilante noturno num grande edifício de escritórios",
+"nl": "Hij is nachtwaker in een groot kantoorgebouw"
+},
+"Bürosklamer\u00010\u00010": {
+"pt": "As folhas estavam presas com um clipe",
+"nl": "De bladen waren met een paperclip aan elkaar geniet"
+},
+"Bürosklamer\u00010\u00011": {
+"pt": "Os clipes estão na gaveta da direita da minha secretária",
+"nl": "De paperclips liggen in de rechterlade van mijn bureau"
+},
+"Bürosluucht\u00010\u00010": {
+"pt": "Comprei um candeeiro de secretária decorativo",
+"nl": "Ik heb een decoratieve bureaulamp gekocht"
+},
+"Bürosschlëssel\u00010\u00010": {
+"pt": "Quando me esqueci da chave do escritório, o guarda abriu-me a porta",
+"nl": "Toen ik mijn kantoorsleutel was vergeten, heeft de wachter de deur voor mij geopend"
+},
+"Bürosstonnen\u00010\u00010": {
+"pt": "Fora do horário de expediente, só me encontras no telemóvel",
+"nl": "Buiten de kantooruren ben ik alleen bereikbaar op mijn gsm"
+},
+"Bürosstull\u00010\u00010": {
+"pt": "Cada colaborador recebeu uma nova cadeira de escritório ergonómica",
+"nl": "Elke medewerker kreeg een nieuwe, ergonomische bureaustoel"
+},
+"Burreli\u00010\u00010": {
+"pt": "Nas férias consegui criar uma boa barriguinha",
+"nl": "In de vakantie heb ik een mooi buikje gekweekt"
+},
+"Bursite\u00010\u00010": {
+"pt": "Por causa da minha bursite no cotovelo, já não conseguia dobrar bem o braço",
+"nl": "Door mijn slijmbeursontsteking in de elleboog kon ik mijn arm niet meer goed buigen"
+},
+"burundesch\u00010\u00010": {
+"pt": "Na nossa viagem conhecemos a cultura burundiana",
+"nl": "Tijdens onze reis hebben we de Burundese cultuur leren kennen"
+},
+"Burundi\u00010\u00010": {
+"pt": "Já estive três vezes no Burúndi",
+"nl": "Ik ben al drie keer in Burundi geweest"
+},
+"Burundi\u00010\u00011": {
+"pt": "Vou para o Burúndi na próxima semana",
+"nl": "Ik ga volgende week naar Burundi"
+},
+"Burundi\u00010\u00012": {
+"pt": "Venho do Burúndi",
+"nl": "Ik kom uit Burundi"
+},
+"Burundier\u00010\u00010": {
+"pt": "O meu melhor amigo é burundiano",
+"nl": "Mijn beste vriend is Burundees"
+},
+"Burundierin\u00010\u00010": {
+"pt": "A minha melhor amiga é burundiana",
+"nl": "Mijn beste vriendin is Burundese"
+},
+"Bus\u00010\u00010": {
+"pt": "Apanho o autocarro para a estação",
+"nl": "Ik neem de bus naar het station"
+},
+"Bus\u00010\u00011": {
+"pt": "A cidade encomendou cinco autocarros novos",
+"nl": "De stad heeft vijf nieuwe bussen besteld"
+},
+"Bus\u00010\u00012": {
+"pt": "Vamos de autocarro de férias",
+"nl": "We gaan met de bus op vakantie"
+},
+"Bus\u00010\u00013": {
+"pt": "O autocarro inteiro se queixou das más maneiras do condutor",
+"nl": "De hele bus klaagde over de slechte manieren van de chauffeur"
+},
+"Busaccident\u00010\u00010": {
+"pt": "Depois do acidente de autocarro, muitos passageiros ficaram em estado de choque",
+"nl": "Na het busongeluk waren veel passagiers in shock"
+},
+"Busarrêt\u00010\u00010": {
+"pt": "As duas paragens de autocarro ficam a quilómetros uma da outra",
+"nl": "De twee bushaltes liggen kilometers van elkaar"
+},
+"Buschauffer\u00010\u00010": {
+"pt": "O motorista do autocarro reduziu a velocidade antes da subida",
+"nl": "De buschauffeur schakelde terug voor de klim"
+},
+"Buschauffer\u00010\u00011": {
+"pt": "Aquele motorista está sempre muito atento com as pessoas mais velhas",
+"nl": "Die buschauffeur is altijd heel attent tegenover oudere mensen"
+},
+"Buschauffesch\u00010\u00010": {
+"pt": "A motorista esperou que todas as pessoas no autocarro estivessem sentadas antes de arrancar",
+"nl": "De buschauffeuse wachtte tot alle mensen in de bus zaten voordat ze wegreed"
+},
+"buscheg\u00010\u00010": {
+"pt": "Ele tem sobrancelhas espessas",
+"nl": "Hij heeft borstelige wenkbrauwen"
+},
+"buscheg\u00010\u00011": {
+"pt": "O esquilo tem uma cauda espessa",
+"nl": "Het eekhoorntje heeft een borstelige staart"
+},
+"Buschtaf\u00010\u00010": {
+"pt": "Esqueceu-se de uma letra no meu nome",
+"nl": "U bent in mijn naam een letter vergeten"
+},
+"Buschtaf\u00010\u00011": {
+"pt": "O nosso alfabeto tem 26 letras",
+"nl": "Ons alfabet heeft 26 letters"
+},
+"Buschtaf\u00010\u00012": {
+"pt": "Senta-te nas tuas quatro letras!",
+"nl": "Ga op je vier letters zitten!"
+},
+"Buschtaf\u00010\u00013": {
+"pt": "O nosso chefe é um perfeccionista que segue as regras à letra",
+"nl": "Onze baas rijdt op de letter"
+},
+"Buschtaf\u00010\u00014": {
+"pt": "Fala ou cala-te!",
+"nl": "Praat of zwijg!"
+},
+"Buschtaf\u00011\u00010": {
+"pt": "Uma frase nova nunca começa com letra minúscula",
+"nl": "Een nieuwe zin begint nooit met een kleine letter"
+},
+"Buschtaf\u00011\u00011": {
+"pt": "Em luxemburguês, todos os substantivos se escrevem com letra maiúscula",
+"nl": "In het Luxemburgs worden alle zelfstandige naamwoorden met een hoofdletter geschreven"
+},
+"buschtawéieren\u00010\u00010": {
+"pt": "A professora soletra às crianças as palavras difíceis",
+"nl": "De juf spelt de kinderen de moeilijke woorden"
+},
+"Buschtawenzopp\u00010\u00010": {
+"pt": "Para os netos, a avó ainda gosta de fazer sopa de letrinhas",
+"nl": "Voor de kleinkinderen kookt oma nog graag lettersoep"
+},
+"Busentreprise\u00010\u00010": {
+"pt": "Que empresa de autocarros assegura o serviço na linha 125?",
+"nl": "Welke busonderneming verzorgt de dienst op lijn 125?"
+},
+"Busfaart\u00010\u00010": {
+"pt": "Em viagens de autocarro longas fico muitas vezes enjoado",
+"nl": "Bij lange busritten word ik vaak misselijk"
+},
+"Busfirma\u00010\u00010": {
+"pt": "Que empresa de autocarros assegura o serviço na linha 125?",
+"nl": "Welk busbedrijf verzorgt de dienst op lijn 125?"
+},
+"Busgesellschaft\u00010\u00010": {
+"pt": "Que companhia de autocarros assegura o serviço na linha 125?",
+"nl": "Welke busmaatschappij verzorgt de dienst op lijn 125?"
+},
+"Bushaischen\u00010\u00010": {
+"pt": "Antigamente, os abrigos de autocarro estavam completamente cobertos de cartazes",
+"nl": "Vroeger zaten de bushokjes van boven tot onder vol affiches"
+},
+"Bushaltestell\u00010\u00010": {
+"pt": "Nesta paragem de autocarro param seis linhas",
+"nl": "Aan deze bushalte stoppen zes lijnen"
+},
+"Bushaltestell\u00010\u00011": {
+"pt": "Na próxima paragem de autocarro temos de sair",
+"nl": "Aan de volgende bushalte moeten we uitstappen"
+},
+"Bushoraire\u00010\u00010": {
+"pt": "Sabes onde posso encontrar os horários de autocarro atuais?",
+"nl": "Weet je waar ik de actuele busuurroosters kan vinden?"
+},
+"Business\u00010\u00010": {
+"pt": "O negócio de carros usados é de momento rentável",
+"nl": "De business met tweedehandsauto's is momenteel rendabel"
+},
+"Business\u00010\u00011": {
+"pt": "Isso não é da minha conta!",
+"nl": "Dat is mijn business niet!"
+},
+"Buslinn\u00010\u00010": {
+"pt": "A nova linha de autocarro vai da estação ao aeroporto",
+"nl": "De nieuwe buslijn loopt van het station naar de luchthaven"
+},
+"Busnetz\u00010\u00010": {
+"pt": "Se mais aldeias pequenas fossem ligadas à rede de autocarros, haveria menos trânsito nas nossas estradas",
+"nl": "Als meer kleine dorpen op het busnet zouden worden aangesloten, zou er minder verkeer op onze wegen zijn"
+},
+"Bussar\u00010\u00010": {
+"pt": "Quanto tempo chocam os búteos?",
+"nl": "Hoe lang broeden buizerds?"
+},
+"Busspuer\u00010\u00010": {
+"pt": "Pode-se andar de bicicleta na faixa de autocarros?",
+"nl": "Mag men met de fiets op de busbaan rijden?"
+},
+"Bustarif\u00010\u00010": {
+"pt": "Precisava de algumas informações sobre as novas tarifas de autocarro",
+"nl": "Ik zou wat inlichtingen over de nieuwe bustarieven nodig hebben"
+},
+"Busverbindung\u00010\u00010": {
+"pt": "Iria para o trabalho de transportes públicos se tivesse uma melhor ligação de autocarro",
+"nl": "Ik zou met het openbaar vervoer naar het werk gaan als ik een betere busverbinding had"
+},
+"But\u00010\u00010": {
+"pt": "Qual é o objetivo dessa iniciativa?",
+"nl": "Wat is het doel van dat initiatief?"
+},
+"Buteur\u00010\u00010": {
+"pt": "O nosso melhor marcador marcou vinte golos na época passada",
+"nl": "Onze beste doelpuntenmaker heeft vorig seizoen twintig doelpunten gescoord"
+},
+"Buteuse\u00010\u00010": {
+"pt": "Desde a transferência da nossa melhor marcadora, já não marcámos nenhum golo",
+"nl": "Sinds de overstap van onze beste doelpuntenmaakster hebben we geen enkel doelpunt meer gescoord"
+},
+"Butsch\u00010\u00010": {
+"pt": "Não sei o que tem a nossa cabra, mas já não dá leite",
+"nl": "Ik weet niet wat onze geit mankeert, maar ze geeft geen melk meer"
+},
+"Butsch\u00011\u00010": {
+"pt": "Aquelas duas parvas, com as suas asneiras, tiraram-me do sério!",
+"nl": "Die twee gansjes, met hun onzin, hebben me flink op de zenuwen gewerkt!"
+},
+"Butschebuerg\u00010\u00010": {
+"pt": "Moro em Budersberg",
+"nl": "Ik woon in Butschebuerg"
+},
+"Butschebuerg\u00010\u00011": {
+"pt": "Este autocarro vai para Budersberg?",
+"nl": "Rijdt deze bus naar Butschebuerg?"
+},
+"Buttek\u00010\u00010": {
+"pt": "A nossa loja está aberta ao domingo das oito ao meio-dia",
+"nl": "Onze winkel is op zondag open van acht tot twaalf uur"
+},
+"Buttek\u00010\u00011": {
+"pt": "Quando há mercado de rua, há muita gente nas lojas",
+"nl": "Wanneer er braderie is, zijn er veel mensen in de winkels"
+},
+"Buttek\u00011\u00010": {
+"pt": "Pega em todas as tuas coisas e põe-te a andar!",
+"nl": "Pak je hele hebben en houden en maak dat je wegkomt!"
+},
+"Buttek\u00012\u00010": {
+"pt": "Há anos que andamos de candeias às avessas com o nosso vizinho",
+"nl": "We hebben al jarenlang ruzie met onze buurman"
+},
+"Buttek\u00013\u00010": {
+"pt": "Não te metas com aquela gentalha!",
+"nl": "Laat je niet in met dat gespuis!"
+},
+"Butteksfra\u00010\u00010": {
+"pt": "Na mercearia da dona da loja, as crianças recebiam sempre uma jujuba",
+"nl": "Bij de winkelierster in de kruidenierswinkel kregen de kinderen altijd een suikerboon"
+},
+"Butteksmeedchen\u00010\u00010": {
+"pt": "A minha avó foi durante muito tempo empregada de loja antes de casar",
+"nl": "Mijn oma was lang winkelmeisje voordat ze trouwde"
+},
+"Button\u00010\u00010": {
+"pt": "Para imprimir o documento, tens de clicar no botão em cima à esquerda",
+"nl": "Om het document af te drukken moet je op de knop linksboven klikken"
+},
+"Button\u00010\u00011": {
+"pt": "Na aplicação há um botão para desligar o som",
+"nl": "In de app is er een knop om het geluid uit te zetten"
+},
+"Button\u00011\u00010": {
+"pt": "O partido distribuiu crachás com o seu slogan eleitoral",
+"nl": "De partij deelde buttons met haar verkiezingsslogan uit"
+},
+"Butz\u00010\u00010": {
+"pt": "Os nossos vizinhos têm um filhinho querido",
+"nl": "Onze buren hebben een lief klein kind"
+},
+"butzeg\u00010\u00010": {
+"pt": "Não me atrevi a pegar ao colo naquele bebé tão pequenino",
+"nl": "Ik durfde dat kleine baby'tje niet op de arm te nemen"
+},
+"butzeg\u00010\u00011": {
+"pt": "Eles têm um jardim minúsculo atrás da casa",
+"nl": "Ze hebben achter het huis een piepkleine tuin"
+},
+"Butzege Käizchen\u00010\u00010": {
+"pt": "Quanto tempo chocam os mochos-pigmeus?",
+"nl": "Hoe lang broeden dwerguiltjes?"
+},
+"Buuscht\u00010\u00010": {
+"pt": "O cão dela perde muito pelo",
+"nl": "Haar hond verliest veel haar"
+},
+"Buuscht\u00010\u00011": {
+"pt": "Cresce-me sempre um pelo no nariz",
+"nl": "Mij groeit altijd een haar op mijn neus"
+},
+"Buuscht\u00011\u00010": {
+"pt": "Penteia o cabelo antes de ires ter com as pessoas!",
+"nl": "Kam je haar voordat je onder de mensen gaat!"
+},
+"Buuscht\u00012\u00010": {
+"pt": "O rapaz tinha um tufo de cabelo espetado",
+"nl": "De jongen had een kuifje dat overeind stond"
+},
+"Buuscht\u00012\u00011": {
+"pt": "Podia arrancar os cabelos!",
+"nl": "Ik zou mijn haren uit mijn hoofd kunnen trekken!"
+},
+"Buuschtebënner\u00010\u00010": {
+"pt": "Antigamente, as pessoas compravam as suas vassouras ao fabricante de vassouras",
+"nl": "Vroeger kocht men zijn bezems bij de borstelbinder"
 }
 }
