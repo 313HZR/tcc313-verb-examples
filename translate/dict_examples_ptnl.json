@@ -219598,5 +219598,905 @@
 "Vitaminn\u00010\u00010": {
 "pt": "Na fruta há muitas vitaminas",
 "nl": "In fruit zitten veel vitamines"
+},
+"Vitaminn\u00010\u00011": {
+"pt": "Tomo vitamina D no inverno",
+"nl": "In de winter neem ik vitamine D"
+},
+"Vitaminn\u00010\u00012": {
+"pt": "Tomo vitaminas todos os dias",
+"nl": "Ik neem elke dag vitamines"
+},
+"Vitess\u00010\u00010": {
+"pt": "O condutor apanhou uma multa por ter excedido a velocidade permitida",
+"nl": "De chauffeur kreeg een proces-verbaal omdat hij de toegelaten snelheid overschreden had"
+},
+"Vitess\u00010\u00011": {
+"pt": "O corredor não conseguiu acompanhar essa velocidade",
+"nl": "De renner kon bij die snelheid niet meekomen"
+},
+"Vitess\u00010\u00012": {
+"pt": "O comboio descarrilou a toda a velocidade",
+"nl": "De trein ontspoorde in volle vaart"
+},
+"Vitess\u00011\u00010": {
+"pt": "No concurso respondeu-se às perguntas a uma velocidade extrema",
+"nl": "Bij de quiz werd er met extreme snelheid op de vragen geantwoord"
+},
+"Vitess\u00011\u00011": {
+"pt": "Como não tinha ouvido o despertador, tive de beber o café à pressa",
+"nl": "Omdat ik de wekker niet gehoord had, moest ik in alle haast koffie drinken"
+},
+"Vitess\u00012\u00010": {
+"pt": "Comprei uma bicicleta nova com seis velocidades",
+"nl": "Ik heb een nieuwe fiets met zes versnellingen gekocht"
+},
+"Vitesskontroll\u00010\u00010": {
+"pt": "A polícia anunciou para a próxima semana muitos controlos de velocidade",
+"nl": "De politie heeft voor volgende week een flink aantal snelheidscontroles aangekondigd"
+},
+"Vitesslimitatioun\u00010\u00010": {
+"pt": "Assim que as obras acabarem, o limite de velocidade será levantado",
+"nl": "Zodra de werf achter de rug is, wordt de snelheidsbeperking opgeheven"
+},
+"Vitesslimitt\u00010\u00010": {
+"pt": "O condutor não respeitou o limite de velocidade",
+"nl": "De chauffeur heeft de snelheidsbeperking niet gerespecteerd"
+},
+"Vitrinn\u00010\u00010": {
+"pt": "Vi na vossa montra um par de sapatos que gostava de experimentar",
+"nl": "Ik heb in uw etalage een paar schoenen gezien die ik toch graag zou passen"
+},
+"Vitrinn\u00010\u00011": {
+"pt": "Para arranjar a montra da nossa loja contratámos um decorador",
+"nl": "Om de etalage van onze winkel in te richten nemen we een decorateur in dienst"
+},
+"Vitrinn\u00011\u00010": {
+"pt": "Na nossa vitrina há documentos do século XVII",
+"nl": "In onze vitrine liggen documenten uit de 17e eeuw"
+},
+"Vitrinn\u00011\u00011": {
+"pt": "Pus o jarro de volta na vitrina",
+"nl": "Ik heb de vaas terug in de vitrine gezet"
+},
+"viv\u00010\u00010": {
+"pt": "Viva o Grão-Duque!",
+"nl": "Leve de groothertog!"
+},
+"viv\u00010\u00011": {
+"pt": "Viva o aniversariante!",
+"nl": "Lang leve de jarige!"
+},
+"Viz\u00010\u00010": {
+"pt": "Com as maçãs do nosso pomar fazemos sidra",
+"nl": "Van de appels uit onze boomgaard maken we cider"
+},
+"Viz\u00011\u00010": {
+"pt": "Queres mais um copo de sidra?",
+"nl": "Wil je nog een glas cider?"
+},
+"Viz\u00012\u00010": {
+"pt": "Da sidra azeda enches-te mais depressa do que pensas!",
+"nl": "Van de zure cider zit je sneller vol dan je denkt!"
+},
+"Viz\u00013\u00010": {
+"pt": "Quantos copos de sidra devo pedir?",
+"nl": "Hoeveel glazen cider moet ik bestellen?"
+},
+"Vizepremier\u00010\u00010": {
+"pt": "O vice-primeiro-ministro substitui o primeiro-ministro quando este está impedido",
+"nl": "De vice-premier vervangt de staatsminister wanneer die verhinderd is"
+},
+"Vizepresident\u00010\u00010": {
+"pt": "O vice-presidente representa esta noite o nosso comité na receção",
+"nl": "De ondervoorzitter vertegenwoordigt vanavond ons comité op de receptie"
+},
+"Vizepresidentin\u00010\u00010": {
+"pt": "A vice-presidente representa esta noite o comité na receção",
+"nl": "De ondervoorzitster vertegenwoordigt vanavond het comité op de receptie"
+},
+"Vizfest\u00010\u00010": {
+"pt": "Na festa da sidra é prensado e vendido sumo de maçã fresco",
+"nl": "Op het cider-feest wordt vers appelsap geperst en verkocht"
+},
+"vläicht\u00010\u00010": {
+"pt": "Se lhe pedires com muito jeito, talvez ele diga que sim",
+"nl": "Als je het hem heel vriendelijk vraagt, zegt hij misschien wel ja"
+},
+"vläicht\u00010\u00011": {
+"pt": "Tens por acaso um lenço de papel?",
+"nl": "Heb jij misschien een zakdoek?"
+},
+"vläicht\u00011\u00010": {
+"pt": "Estariam talvez 30 pessoas na sala",
+"nl": "Er waren misschien 30 mensen in de zaal"
+},
+"vläicht\u00011\u00011": {
+"pt": "Terão passado talvez 10 anos desde que fomos de férias à Tunísia",
+"nl": "Het is misschien 10 jaar geleden dat we in Tunesië op vakantie waren"
+},
+"vläicht\u00012\u00010": {
+"pt": "A máquina é velha, é verdade, mas ainda cumpre o seu propósito",
+"nl": "De machine is misschien oud, maar ze doet nog altijd haar dienst"
+},
+"Vocabulaire\u00010\u00010": {
+"pt": "O cientista analisa as diferenças de vocabulário entre os dois dialetos",
+"nl": "De wetenschapper analyseert de verschillen in woordenschat tussen de twee dialecten"
+},
+"Vocabulaire\u00010\u00011": {
+"pt": "Desde que anda nesses meios literários, tem um vocabulário completamente diferente",
+"nl": "Sinds hij in die literaire kringen verkeert, heeft hij een heel andere woordenschat"
+},
+"Vocabulaire\u00010\u00012": {
+"pt": "Onde foste buscar esse vocabulário grosseiro?",
+"nl": "Waar heb je dat grove taalgebruik vandaan?"
+},
+"Vocabulaire\u00011\u00010": {
+"pt": "No novo manual escolar não há, infelizmente, vocabulário",
+"nl": "In het nieuwe leerboek staat helaas geen woordenlijst"
+},
+"Vocatioun\u00010\u00010": {
+"pt": "De repente sentiu a vocação para entrar num mosteiro",
+"nl": "Plots voelde hij de roeping om in het klooster te gaan"
+},
+"Vocatioun\u00010\u00011": {
+"pt": "É preciso ter uma certa vocação para trabalhar com toxicodependentes",
+"nl": "Er is een zekere roeping nodig om zich met drugsverslaafden bezig te houden"
+},
+"Vodka\u00010\u00010": {
+"pt": "Bebo sempre a vodca com gelo",
+"nl": "Ik drink wodka altijd met ijs"
+},
+"Vodka\u00011\u00010": {
+"pt": "Depois do jantar bebemos ainda duas vodcas no bar",
+"nl": "Na het eten dronken we aan de bar nog twee wodka's"
+},
+"voilà\u00010\u00010": {
+"pt": "Ah, ali vem o autocarro!",
+"nl": "Ha, daar komt de bus!"
+},
+"voilà\u00011\u00010": {
+"pt": "Pronto, mais não lhe posso dizer sobre o incidente",
+"nl": "Zo, meer kan ik u ook niet over dat voorval zeggen"
+},
+"voilà\u00011\u00011": {
+"pt": "Pronto, vamos lá ver se fazemos agora o melhor da situação!",
+"nl": "Zo, laten we eens kijken of we er nu het beste van kunnen maken!"
+},
+"voilà\u00012\u00010": {
+"pt": "Pronto, eu bem te disse que não cabias naquele lugar de estacionamento!",
+"nl": "Zie je wel, ik had je toch gezegd dat je in die parkeerplaats niet zou passen!"
+},
+"voilà\u00012\u00011": {
+"pt": "Pronto, agora estamos metidos num sarilho!",
+"nl": "Zie je, nu zitten we in de problemen!"
+},
+"voilà\u00013\u00010": {
+"pt": "Aqui tem, este seria o seu orçamento para a renovação completa",
+"nl": "Alsjeblieft, dit zou uw offerte zijn voor de volledige renovatie"
+},
+"voilà\u00013\u00011": {
+"pt": "Aqui tem, o seu bife com batatas fritas e salada!",
+"nl": "Alsjeblieft, hier is uw biefstuk met frietjes en salade!"
+},
+"voilà\u00014\u00010": {
+"pt": "Exatamente, essa é a solução para o nosso problema!",
+"nl": "Precies, dat is de oplossing voor ons probleem!"
+},
+"voilà\u00014\u00011": {
+"pt": "Exatamente, concordo totalmente contigo!",
+"nl": "Precies, ik ben het helemaal met je eens!"
+},
+"Voile\u00010\u00010": {
+"pt": "Um pajem pisou o véu da noiva",
+"nl": "Een misdienaar trapte op de sluier van de bruid"
+},
+"Voile\u00011\u00010": {
+"pt": "Ainda tenho de comprar alguns metros de voile para coser cortinas novas",
+"nl": "Ik moet nog enkele meters voile kopen om nieuwe gordijnen te naaien"
+},
+"Voiture\u00010\u00010": {
+"pt": "Na Gare de Luxemburgo foram engatadas três carruagens",
+"nl": "Op het station van Luxemburg werden drie wagons aangekoppeld"
+},
+"Voiture\u00010\u00011": {
+"pt": "Anda, vamos ver na próxima carruagem se ainda há lugares livres",
+"nl": "Kom, we gaan in de volgende wagon kijken of er nog plaatsen vrij zijn"
+},
+"Vokabel\u00010\u00010": {
+"pt": "Uma vez por semana, a turma é testada em vocabulário de Latim",
+"nl": "Eén keer per week wordt de klas overhoord op Latijnse woordjes"
+},
+"Vokal\u00010\u00010": {
+"pt": "No nosso alfabeto há mais consoantes do que vogais",
+"nl": "In ons alfabet zijn er meer medeklinkers dan klinkers"
+},
+"Vokalwiessel\u00010\u00010": {
+"pt": "O particípio passado do verbo genéissen caracteriza-se por uma mudança de vogal",
+"nl": "Het voltooid deelwoord van het werkwoord genéissen wordt gekenmerkt door een klinkerwisseling"
+},
+"Vokalwiessel\u00010\u00011": {
+"pt": "O plural de Bakuewen pode formar-se com ou sem mudança de vogal",
+"nl": "Het meervoud van Bakuewen kan men met of zonder klinkerwisseling vormen"
+},
+"Vol\u00010\u00010": {
+"pt": "Quanto tempo dura o teu voo?",
+"nl": "Hoe lang duurt je vlucht?"
+},
+"Vol\u00010\u00011": {
+"pt": "O chefe de Estado raramente apanha um voo regular",
+"nl": "De staatspresident neemt zelden een lijnvlucht"
+},
+"Vol\u00010\u00010~2": {
+"pt": "A polícia conseguiu provar ao carteirista o roubo de várias carteiras",
+"nl": "De politie kon de zakkenroller de diefstal van enkele portemonnees aantonen"
+},
+"Vol\u00010\u00011~2": {
+"pt": "O arguido foi condenado por roubo",
+"nl": "De beschuldigde werd wegens diefstal veroordeeld"
+},
+"Volant\u00010\u00010": {
+"pt": "O meu carro novo tem um volante de couro",
+"nl": "Mijn nieuwe auto heeft een leren stuur"
+},
+"Volant\u00010\u00011": {
+"pt": "O condutor sentou-se ao volante alcoolizado",
+"nl": "De chauffeur zat onder invloed van alcohol achter het stuur"
+},
+"Vol-au-vent\u00010\u00010": {
+"pt": "Também pões cogumelos no teu vol-au-vent?",
+"nl": "Doe jij ook champignons in je vol-au-vent?"
+},
+"Volet\u00010\u00010": {
+"pt": "O aspeto jurídico desse caso é o mais interessante",
+"nl": "De juridische kant van die zaak is de interessantste"
+},
+"Volkszälung\u00010\u00010": {
+"pt": "O governo organiza um recenseamento da população de dez em dez anos",
+"nl": "De regering organiseert om de tien jaar een volkstelling"
+},
+"voll\u00010\u00010": {
+"pt": "A rapariguinha entornou o copo cheio da mãe",
+"nl": "Dat meisje stootte het volle glas van haar moeder om"
+},
+"voll\u00010\u00011": {
+"pt": "As caixas que estão no sótão estão cheias de livros",
+"nl": "De kisten die op zolder staan, zijn vol boeken"
+},
+"voll\u00010\u00012": {
+"pt": "Temos no sótão caixas cheias de livros que ainda ninguém leu",
+"nl": "We hebben op zolder kisten vol boeken die nog niemand gelezen heeft"
+},
+"voll\u00010\u00013": {
+"pt": "O nosso depósito de gasóleo ainda está cheio até acima",
+"nl": "Onze mazouttank zit nog boordevol"
+},
+"voll\u00011\u00010": {
+"pt": "A minha irmã tem os sapatos cheios de lama",
+"nl": "Mijn zus heeft haar schoenen vol modder"
+},
+"voll\u00012\u00010": {
+"pt": "O velho trator já não rende a sua potência máxima",
+"nl": "De oude tractor levert zijn volle vermogen niet meer"
+},
+"voll\u00012\u00011": {
+"pt": "No museu, o nosso grupo não pagou o preço inteiro",
+"nl": "In het museum werd aan onze groep niet het volle tarief aangerekend"
+},
+"voll\u00012\u00012": {
+"pt": "As nossas máquinas novas ainda não estão totalmente ocupadas",
+"nl": "Onze nieuwe machines zijn nog niet volledig benut"
+},
+"voll\u00012\u00013": {
+"pt": "Na água, os nossos filhos estão completamente no seu elemento",
+"nl": "In het water zijn onze kinderen helemaal in hun element"
+},
+"voll\u00012\u00014": {
+"pt": "Não o levo a sério",
+"nl": "Ik neem hem niet voor vol aan"
+},
+"voll\u00012\u00015": {
+"pt": "Foi contra uma árvore a toda a velocidade",
+"nl": "Hij is in volle vaart tegen een boom gereden"
+},
+"voll\u00013\u00010": {
+"pt": "É penoso ver o patrão bêbado",
+"nl": "Het is pijnlijk je chef dronken te zien"
+},
+"voll\u00013\u00011": {
+"pt": "A polícia retirou a carta de condução ao condutor embriagado",
+"nl": "De politie nam het rijbewijs van de dronken chauffeur in"
+},
+"voll\u00014\u00010": {
+"pt": "A égua foi coberta três vezes pelo garanhão e mesmo assim não ficou prenhe",
+"nl": "De merrie werd driemaal door de hengst gedekt en is toch niet drachtig"
+},
+"Vollbaart\u00010\u00010": {
+"pt": "Por causa da tua barba cheia, quase não te reconhecia!",
+"nl": "Door je volle baard had ik je bijna niet herkend!"
+},
+"Vollbremsung\u00010\u00010": {
+"pt": "Numa travagem a fundo, o carro pode facilmente derrapar",
+"nl": "Bij een noodstop kan de auto gemakkelijk gaan slippen"
+},
+"vollbréngen\u00010\u00010": {
+"pt": "Não sou Nosso Senhor, não faço milagres",
+"nl": "Ik ben onze Heer niet, ik kan geen wonderen verrichten"
+},
+"Vollek\u00010\u00010": {
+"pt": "No passado, povos inteiros extinguiram-se por causa de epidemias",
+"nl": "In het verleden zijn hele volkeren door epidemieën uitgestorven"
+},
+"Vollek\u00011\u00010": {
+"pt": "O político falecido era querido do povo",
+"nl": "De overleden politicus was geliefd bij het volk"
+},
+"Vollek\u00011\u00011": {
+"pt": "A voz do povo raramente é ouvida",
+"nl": "De stem van het volk vindt zelden gehoor"
+},
+"Vollek\u00012\u00010": {
+"pt": "O apicultor perdeu durante o inverno uma colónia inteira",
+"nl": "De imker verloor tijdens de winter een heel volk"
+},
+"Vollekskichen\u00010\u00010": {
+"pt": "Na cantina social, os pobres recebem uma refeição quente",
+"nl": "In de volkskeuken krijgen arme mensen een warme maaltijd"
+},
+"Vollekslidd\u00010\u00010": {
+"pt": "Dos velhos tempos há muitas narrativas e canções populares",
+"nl": "Van vroeger zijn er veel vertellingen en volksliederen"
+},
+"Volleksmond\u00010\u00010": {
+"pt": "Na linguagem popular diz-se que um bom burro só tropeça uma vez",
+"nl": "In de volksmond zegt men dat een goede ezel zich maar één keer stoot"
+},
+"Volleksmusek\u00010\u00010": {
+"pt": "Muitos compositores inspiraram-se na música popular",
+"nl": "Veel componisten hebben zich door de volksmuziek laten inspireren"
+},
+"Vollekssport\u00010\u00010": {
+"pt": "Em alguns países, o golfe é um desporto popular",
+"nl": "In sommige landen is golf een volkssport"
+},
+"voller\u00010\u00010": {
+"pt": "A minha irmã tem os sapatos cheios de lama",
+"nl": "Mijn zus heeft haar schoenen vol modder"
+},
+"voller\u00011\u00010": {
+"pt": "Na véspera de Natal a igreja está sempre cheia de gente",
+"nl": "Op kerstavond zit de kerk altijd vol volk"
+},
+"voller\u00011\u00011": {
+"pt": "O cão abanou a cauda cheio de alegria",
+"nl": "De hond kwispelde van louter vreugde met zijn staart"
+},
+"Vollert\u00010\u00010": {
+"pt": "Na festa da tenda, um bêbado partiu uma mesa num ataque de raiva",
+"nl": "Op het tentfeest sloeg een dronkaard van woede een tafel stuk"
+},
+"Volleyball\u00010\u00010": {
+"pt": "Hoje, no pavilhão, levei com a bola de voleibol no nariz",
+"nl": "Vandaag kreeg ik in de turnzaal de volleybal op mijn neus"
+},
+"Volleyball\u00011\u00010": {
+"pt": "Já não posso jogar voleibol porque parti o pulso",
+"nl": "Ik kan geen volleybal meer spelen omdat ik mijn pols gebroken heb"
+},
+"Volleyballsekipp\u00010\u00010": {
+"pt": "A equipa de voleibol conseguiu defender o seu título de campeã nacional",
+"nl": "De volleybalploeg kon haar titel als landskampioen verdedigen"
+},
+"Vollgas\u00010\u00010": {
+"pt": "Pisei o acelerador a fundo para ultrapassar o camião",
+"nl": "Ik gaf vol gas om de vrachtwagen in te halen"
+},
+"Vollgas\u00010\u00011": {
+"pt": "O vizinho foi a toda a velocidade contra a sua própria garagem",
+"nl": "De buurman reed met vol gas tegen zijn eigen garagepoort"
+},
+"volljäreg\u00010\u00010": {
+"pt": "Para tirar a carta de condução no Luxemburgo, é preciso ser maior de idade",
+"nl": "Om in Luxemburg het rijbewijs te halen, moet men meerderjarig zijn"
+},
+"Vollkar\u00010\u00010": {
+"pt": "O nosso padeiro faz agora também pão integral e de espelta",
+"nl": "Onze bakker maakt intussen ook brood met volkoren en met spelt"
+},
+"Vollkarbrout\u00010\u00010": {
+"pt": "O pão integral é, em princípio, mais saudável do que o pão branco",
+"nl": "Volkorenbrood is in principe gezonder dan wit brood"
+},
+"Vollkarbrout\u00011\u00010": {
+"pt": "Traz-me, por favor, um pão integral da padaria!",
+"nl": "Breng alsjeblieft een volkorenbrood van de bakker voor me mee!"
+},
+"Vollkarmiel\u00010\u00010": {
+"pt": "Pode usar-se farinha integral para esse bolo?",
+"nl": "Kan men voor die cake ook volkorenmeel gebruiken?"
+},
+"Vollkarnuddel\u00010\u00010": {
+"pt": "Em casa mudámos completamente para massa integral",
+"nl": "Thuis zijn we helemaal overgeschakeld op volkorenpasta"
+},
+"Vollkarräis\u00010\u00010": {
+"pt": "O arroz integral tem geralmente de cozer mais tempo do que o arroz branco",
+"nl": "Volkorenrijst moet meestal langer koken dan witte rijst"
+},
+"vollkommen\u00010\u00010": {
+"pt": "Tens, como sempre, toda a razão!",
+"nl": "Je hebt zoals altijd volkomen gelijk!"
+},
+"Vollmacht\u00010\u00010": {
+"pt": "Tenho procuração para assinar em nome da diretora",
+"nl": "Ik heb volmacht om in naam van de directrice te tekenen"
+},
+"Vollmacht\u00011\u00010": {
+"pt": "A sua procuração não é válida se não tiver data",
+"nl": "Uw volmacht is niet geldig als er geen datum op staat"
+},
+"Vollmëllech\u00010\u00010": {
+"pt": "O leite gordo tem pelo menos 3,5 % de gordura",
+"nl": "Volle melk bevat minstens 3,5 % vet"
+},
+"Vollmound\u00010\u00010": {
+"pt": "Esta noite houve lua cheia e não preguei olho",
+"nl": "Vannacht was het volle maan en ik heb geen oog dichtgedaan"
+},
+"Vollnarkos\u00010\u00010": {
+"pt": "A operação ao meu intestino será feita sob anestesia geral",
+"nl": "De operatie aan mijn darm gebeurt onder volledige narcose"
+},
+"Vollpensioun\u00010\u00010": {
+"pt": "A pensão completa está incluída no preço do hotel",
+"nl": "De volpension is in de hotelprijs inbegrepen"
+},
+"Vollpensioun\u00010\u00011": {
+"pt": "O criminoso apanhou dez anos de pensão completa às custas do Estado",
+"nl": "De crimineel kreeg tien jaar volpension op kosten van de staat"
+},
+"vollschäissen\u00010\u00010": {
+"pt": "De quem é o cão que está sempre a cagar o meu jardim da frente?",
+"nl": "Van wie is de hond die altijd mijn voortuintje vol schijt?"
+},
+"vollschäissen\u00010\u00011": {
+"pt": "Os pássaros já voltaram a cagar o teto do meu carro todo!",
+"nl": "De vogels hebben alweer het dak van mijn auto volgeschenen!"
+},
+"vollschreiwen\u00010\u00010": {
+"pt": "Não faz sentido encher páginas quando não se tem nada a dizer",
+"nl": "Het heeft geen zin bladzijden vol te schrijven als men niets te zeggen heeft"
+},
+"vollschreiwen\u00010\u00011": {
+"pt": "No exame, enchi pelo menos seis folhas",
+"nl": "Op het examen heb ik minstens zes bladen volgeschreven"
+},
+"vollstänneg\u00010\u00010": {
+"pt": "A tua lista de convidados ainda não está completa",
+"nl": "Je gastenlijst is nog niet volledig"
+},
+"vollstrecken\u00010\u00010": {
+"pt": "Quando será executada a sentença?",
+"nl": "Wanneer wordt het vonnis voltrokken?"
+},
+"Vollstreckung\u00010\u00010": {
+"pt": "As organizações de direitos humanos protestaram contra a execução da pena de morte",
+"nl": "De mensenrechtenorganisaties protesteerden tegen de voltrekking van het doodvonnis"
+},
+"Volltreffer\u00010\u00010": {
+"pt": "O arqueiro conseguiu ganhar o campeonato com os seus três tiros no alvo",
+"nl": "De boogschutter kon met zijn drie volle treffers het kampioenschap winnen"
+},
+"Volltreffer\u00010\u00011": {
+"pt": "Aquele edifício foi completamente destruído na guerra por um impacto direto",
+"nl": "Dat gebouw werd in de oorlog door een voltreffer volledig vernield"
+},
+"Volltreffer\u00011\u00010": {
+"pt": "O último artigo do jornalista foi um sucesso",
+"nl": "Het laatste artikel van die journalist was een voltreffer"
+},
+"vollwäerteg\u00010\u00010": {
+"pt": "O nosso país tem de se tornar um ator de pleno direito no cenário internacional",
+"nl": "Ons land moet een volwaardige speler op het internationale toneel worden"
+},
+"Vollzäit\u00010\u00010": {
+"pt": "Quando os filhos forem crescidos, espero dar o salto do part-time de volta para o tempo inteiro",
+"nl": "Als de kinderen groot zijn, hoop ik de sprong van deeltijds terug naar voltijds te maken"
+},
+"vollzäit\u00010\u00010": {
+"pt": "Desde que os nossos três filhos estão no liceu, voltamos os dois a trabalhar a tempo inteiro",
+"nl": "Sinds onze drie kinderen op het lyceum zitten, werken we allebei weer voltijds"
+},
+"Volontaire\u00010\u00010": {
+"pt": "Os voluntários que querem ajudar na ação de limpeza devem vir à câmara às 10 horas",
+"nl": "De vrijwilligers die willen helpen bij de opruimactie, moeten rond 10 uur naar het gemeentehuis komen"
+},
+"Volontaire\u00011\u00010": {
+"pt": "Desde 1967, o exército no Luxemburgo é constituído apenas por voluntários",
+"nl": "Sinds 1967 bestaat het leger in Luxemburg enkel nog uit vrijwilligers"
+},
+"Volontaire\u00012\u00010": {
+"pt": "O meu irmão trabalhou, antes dos estudos, um ano como voluntário numa organização de ajuda",
+"nl": "Mijn broer heeft voor zijn studie een jaar als vrijwilliger bij een hulporganisatie gewerkt"
+},
+"Volontariat\u00010\u00010": {
+"pt": "O meu irmão fez, antes dos estudos, um voluntariado numa organização de ajuda",
+"nl": "Mijn broer heeft voor zijn studie vrijwilligerswerk bij een hulporganisatie gedaan"
+},
+"Volt\u00010\u00010": {
+"pt": "Em alguns países, a tensão nas tomadas é de apenas 110 volts",
+"nl": "In sommige landen bedraagt de spanning in de stopcontacten maar 110 volt"
+},
+"Volume\u00010\u00010": {
+"pt": "Sabes como se calcula o volume de um cilindro?",
+"nl": "Weet je hoe men het volume van een cilinder berekent?"
+},
+"Volume\u00011\u00010": {
+"pt": "Com estes dois botões regulas o volume da televisão",
+"nl": "Met deze twee knopjes regel je het volume van de tv"
+},
+"Volume\u00012\u00010": {
+"pt": "Os dois primeiros volumes do dicionário estão esgotados",
+"nl": "De eerste twee delen van het lexicon zijn uitverkocht"
+},
+"voluminéis\u00010\u00010": {
+"pt": "Sobre essa lei existem volumosos comentários escritos",
+"nl": "Over die wet bestaan omvangrijke schriftelijke commentaren"
+},
+"votéieren\u00010\u00010": {
+"pt": "A nova lei foi votada por unanimidade pelos deputados",
+"nl": "De nieuwe wet werd unaniem door de afgevaardigden gestemd"
+},
+"Vott\u00010\u00010": {
+"pt": "Na votação da lei, cinco deputados abstiveram-se",
+"nl": "Bij de stemming over de wet hebben vijf afgevaardigden zich onthouden"
+},
+"vreck\u00010\u00010": {
+"pt": "Caramba, agora aqueles dois enredaram-se!",
+"nl": "Verdomme, nu zijn die twee in elkaar verstrengeld!"
+},
+"vreck\u00010\u00011": {
+"pt": "Ó caramba, nunca teria pensado isso dele!",
+"nl": "O verdomme, dat had ik nooit van hem gedacht!"
+},
+"vreck\u00011\u00010": {
+"pt": "Caramba, que cogumelo enorme têm no vosso jardim!",
+"nl": "Verdomme, wat een enorme paddenstoel hebben jullie in jullie tuin!"
+},
+"vreck\u00011\u00011": {
+"pt": "Ó raios, que neve lá fora agora!",
+"nl": "O verdorie, wat sneeuwt het nu buiten!"
+},
+"Vreckecht\u00010\u00010": {
+"pt": "Passei o fim de semana inteiro na cama com uma constipação do diabo",
+"nl": "Ik heb het hele weekend met een verschrikkelijke verkoudheid in bed gelegen"
+},
+"Vreckecht\u00010\u00011": {
+"pt": "Estou a apanhar uma constipação do diabo",
+"nl": "Ik word verschrikkelijk verkouden"
+},
+"vrecken\u00010\u00010": {
+"pt": "Ontem estraguei o descapotável da minha mãe",
+"nl": "Gisteren heb ik de cabrio van mijn mama kapotgereden"
+},
+"vrecken\u00011\u00010": {
+"pt": "Estou a matar-me desde de manhã a arrastar caixas e tu estás só a olhar!",
+"nl": "Ik werk me al de hele morgen een slag in de rondte om kisten te slepen, en jij staat maar te kijken!"
+},
+"vrecken\u00012\u00010": {
+"pt": "Meia dúzia dos leitões do agricultor morreram",
+"nl": "Een half dozijn biggen van de boer zijn gekrepeerd"
+},
+"vrecken\u00012\u00011": {
+"pt": "Tu tens sempre frio e eu estou a morrer de calor!",
+"nl": "Jij hebt het altijd koud en ik ga dood van de hitte!"
+},
+"vrecken\u00012\u00012": {
+"pt": "Ele não se quer desculpar nem por nada",
+"nl": "Hij wil zich voor geen geld verontschuldigen"
+},
+"vrecken\u00012\u00013": {
+"pt": "É de morrer de raiva, não consigo pôr aquele maldito cortador de relva a funcionar",
+"nl": "Het is om dood te gaan, ik krijg die vervloekte grasmaaier niet aan de praat"
+},
+"vrecken\u00012\u00014": {
+"pt": "Não morres assim tão facilmente!",
+"nl": "Je kreperen zo gemakkelijk niet!"
+},
+"vrecken\u00012\u00015": {
+"pt": "Ó, morre!",
+"nl": "O, ga dood!"
+},
+"vrecken\u00012\u00016": {
+"pt": "Estás liquidado!",
+"nl": "Je bent er geweest!"
+},
+"vrecken\u00013\u00010": {
+"pt": "A maldita máquina de lavar loiça avariou",
+"nl": "Die rotvaatwasser is kapot"
+},
+"vreckt\u00010\u00010": {
+"pt": "A bateria do meu carro está morta",
+"nl": "De batterij van mijn auto is kapot"
+},
+"vreckt\u00011\u00010": {
+"pt": "Ali no campo está uma ovelha morta",
+"nl": "Daar in de wei ligt een dood schaap"
+},
+"vreckt\u00011\u00011": {
+"pt": "Bem feito se aquele cão estúpido dele morresse!",
+"nl": "Het zou hem goed geschieden als zijn domme hond dood ging!"
+},
+"vreckt\u00012\u00010": {
+"pt": "Já não posso mais, estou estafado!",
+"nl": "Ik kan niet meer, ik ben kapot!"
+},
+"vreckt-\u00010\u00010": {
+"pt": "Este aparelho não consegues partir",
+"nl": "Dit toestel krijg je niet stuk"
+},
+"vreckt-\u00010\u00011": {
+"pt": "A televisão avariou mesmo a meio do jogo",
+"nl": "De televisie ging precies halverwege de match kapot"
+},
+"vrecktfueren\u00010\u00010": {
+"pt": "Que chatice, agora o elástico das minhas calças de pijama rebentou!",
+"nl": "Verdorie, nu is het elastiek van mijn pyjamabroek gesprongen!"
+},
+"vrecktfueren\u00011\u00010": {
+"pt": "No meio do inverno, o nosso aquecimento avariou!",
+"nl": "Midden in de winter is onze verwarming kapotgegaan!"
+},
+"vrecktfueren\u00012\u00010": {
+"pt": "Ao fim de seis meses, ela já tinha estragado a sua mota desportiva",
+"nl": "Na zes maanden had hij zijn sportmotor al kapotgereden"
+},
+"vrecktgoen\u00010\u00010": {
+"pt": "A televisão avariou mesmo a meio do jogo",
+"nl": "De tv ging precies halverwege de match kapot"
+},
+"vrecktkréien\u00010\u00010": {
+"pt": "Este aparelho não vais conseguir partir",
+"nl": "Dit toestel krijg je niet kapot"
+},
+"vrecktkréien\u00010\u00011": {
+"pt": "Aquela panela é indestrutível",
+"nl": "Die pan is niet kapot te krijgen"
+},
+"vrecktlaachen\u00010\u00010": {
+"pt": "Com as piadas do meu pai, às vezes morre-se a rir",
+"nl": "Met de grappen van mijn opa kan men zich soms kapotlachen"
+},
+"vrecktlaachen\u00010\u00011": {
+"pt": "Morremos a rir quando ele caiu na água",
+"nl": "We lagen dubbel van het lachen toen hij in het water tuimelde"
+},
+"vreckt maachen\u00010\u00010": {
+"pt": "Desconhecidos destruíram o parque infantil todo no jardim público",
+"nl": "Onbekenden hebben de hele speeltuin in het park kapotgemaakt"
+},
+"vrecktmaachen\u00010\u00010": {
+"pt": "Ele está a matar-se no trabalho",
+"nl": "Hij maakt zich kapot op het werk"
+},
+"vrecktschaffen\u00010\u00010": {
+"pt": "Matou-se a trabalhar na siderurgia",
+"nl": "Hij heeft zich op de smelterij kapotgewerkt"
+},
+"vrecktschaffen\u00010\u00011": {
+"pt": "Não tenho vontade de me matar a trabalhar se tu não ajudares",
+"nl": "Ik heb geen zin om me kapot te werken als jij niet helpt"
+},
+"vreckt schloen\u00010\u00010": {
+"pt": "Na festa da tenda, alguém partiu uma mesa em pedaços num ataque de raiva",
+"nl": "Op het tentfeest sloeg iemand van woede een tafel kapot"
+},
+"vreckt schloen\u00010\u00011": {
+"pt": "Estou tão furioso que gostava de partir tudo ao meio!",
+"nl": "Ik ben zo woedend dat ik het liefst alles kort en klein zou slaan!"
+},
+"vu datt\u00010\u00010": {
+"pt": "Como nenhum candidato obteve a maioria dos votos, tem de haver nova eleição",
+"nl": "Aangezien geen enkele kandidaat de meerderheid van de stemmen kreeg, moet er nog eens gestemd worden"
+},
+"vu datt\u00010\u00011": {
+"pt": "Dado que não ganho muito, nunca poderei pagar aquele carro",
+"nl": "Aangezien ik niet veel verdien, zal ik me die auto nooit kunnen veroorloven"
+},
+"Vue\u00010\u00010": {
+"pt": "A minha vista está a piorar, preciso de óculos novos",
+"nl": "Mijn zicht gaat achteruit, ik heb een nieuwe bril nodig"
+},
+"Vue\u00011\u00010": {
+"pt": "As sebes altas tapam aos automobilistas a vista dos sinais de trânsito",
+"nl": "De hoge hagen nemen de automobilisten het zicht op de verkeersborden af"
+},
+"Vue\u00012\u00010": {
+"pt": "Desse miradouro tens uma vista fantástica da cidade",
+"nl": "Vanaf dat uitzichtpunt heb je een fantastisch uitzicht op de stad"
+},
+"Vue\u00012\u00011": {
+"pt": "Por causa da vista, valeu a pena subir a montanha",
+"nl": "Wegens het uitzicht was het de moeite waard de berg op te klimmen"
+},
+"Vue\u00013\u00010": {
+"pt": "A política apresentou a sua visão da situação",
+"nl": "De politica zette haar visie op de situatie uiteen"
+},
+"Vue\u00013\u00011": {
+"pt": "Acho que neste caso temos duas visões diferentes",
+"nl": "Ik denk dat we in dit geval twee verschillende opvattingen hebben"
+},
+"Vue\u00014\u00010": {
+"pt": "No meu escritório está pendurada uma vista da cidade velha",
+"nl": "In mijn kantoor hangt een zicht op de oude stad"
+},
+"vulgär\u00010\u00010": {
+"pt": "Muitas pessoas ficaram incomodadas com a linguagem vulgar do orador",
+"nl": "Veel mensen stoorden zich aan de vulgaire taal van de spreker"
+},
+"vulgär\u00010\u00011": {
+"pt": "Desde que o meu irmão tem namorada, já não se exprime de forma tão vulgar",
+"nl": "Sinds mijn broer een vriendin heeft, drukt hij zich niet meer zo vulgair uit"
+},
+"vulgariséiert\u00010\u00010": {
+"pt": "É importante ter uma versão divulgada desse documento",
+"nl": "Het is belangrijk een gepopulariseerde versie van dat document te hebben"
+},
+"Vulgaritéit\u00010\u00010": {
+"pt": "Por causa das muitas vulgaridades no texto, aquele romance tornou-se um êxito de vendas",
+"nl": "Door de vele vulgariteiten in de tekst werd die roman een bestseller"
+},
+"Vulkan\u00010\u00010": {
+"pt": "Esse vulcão está ativo há semanas",
+"nl": "Die vulkaan is al wekenlang actief"
+},
+"Vulkanausbroch\u00010\u00010": {
+"pt": "Com a erupção do vulcão, foram libertados gases nocivos para a atmosfera",
+"nl": "Door de vulkaanuitbarsting werden schadelijke gassen de atmosfeer in geblazen"
+},
+"vulkanesch\u00010\u00010": {
+"pt": "O geólogo explicou-nos que a ilha tem origem vulcânica",
+"nl": "De geoloog legde ons uit dat het eiland een vulkanische oorsprong heeft"
+},
+"Vull\u00010\u00010": {
+"pt": "Na primavera, ouvem-se de novo os pássaros a assobiar de manhã",
+"nl": "In de lente hoort men 's morgens de vogels weer fluiten"
+},
+"Vull\u00010\u00011": {
+"pt": "Muitas aves passam o inverno no sul",
+"nl": "Veel vogels overwinteren in het zuiden"
+},
+"Vull\u00010\u00012": {
+"pt": "Ele é um homem morto!",
+"nl": "Hij is er geweest!"
+},
+"Vull\u00010\u00013": {
+"pt": "Com paus não se apanham pássaros",
+"nl": "Met stokken vangt men geen vogels"
+},
+"Vull\u00010\u00014": {
+"pt": "Não tentes esconder a tua falência, os passarinhos assobiam-na nos telhados!",
+"nl": "Probeer je faillissement niet te verbergen, de vogeltjes fluiten het van de daken!"
+},
+"Vull\u00011\u00010": {
+"pt": "Os rapazes mostraram os pénis uns aos outros",
+"nl": "De jongens hebben elkaar hun lul getoond"
+},
+"Vull\u00012\u00010": {
+"pt": "Que grande filho da mãe que és!",
+"nl": "Wat ben jij een rotzak!"
+},
+"Vullegripp\u00010\u00010": {
+"pt": "Por causa da gripe aviária, as aves de capoeira têm de ser fechadas à noite",
+"nl": "Wegens de vogelgriep moet het pluimvee 's nachts opgesloten worden"
+},
+"Vullekäfeg\u00010\u00010": {
+"pt": "Comprámos na feira da ladra uma gaiola velha, mas é pequena demais para os nossos quatro periquitos",
+"nl": "We hebben op de rommelmarkt een oude vogelkooi gekocht, maar ze is te klein voor onze vier parkieten"
+},
+"Vullekuerf\u00010\u00010": {
+"pt": "Comprámos na feira da ladra um velho cesto de vime para lá plantar uma flor",
+"nl": "We hebben op de rommelmarkt een oude vogelmand gekocht om er een bloem in te planten"
+},
+"Vullemätti\u00010\u00010": {
+"pt": "Quando apanhar o cabrão que me riscou o carro, vai haver sarilho!",
+"nl": "Als ik die klootzak te pakken krijg die mijn auto bekrast heeft, dan is het raak!"
+},
+"Vullenhaischen\u00010\u00010": {
+"pt": "Pendurei a nossa casa de passarinhos de modo a que nenhum gato lá chegue",
+"nl": "Ik heb ons vogelhuisje zo opgehangen dat geen kat erbij kan"
+},
+"Vullenhaischen\u00010\u00011": {
+"pt": "Os chapins fizeram um ninho na casa de passarinhos",
+"nl": "De mezen hebben in het vogelhuisje een nest gebouwd"
+},
+"Vullenhaischen\u00010\u00012": {
+"pt": "Ainda tenho de pôr algumas sementes na casa de passarinhos",
+"nl": "Ik moet nog enkele zaadjes in het vogelhuisje doen"
+},
+"Vulleperspektiv\u00010\u00010": {
+"pt": "Do ponto de vista de um pássaro, o novo bairro parece um tabuleiro de xadrez",
+"nl": "Vanuit vogelperspectief ziet de nieuwe wijk eruit als een schaakbord"
+},
+"Vulleschäich\u00010\u00010": {
+"pt": "O nosso vizinho pendura todos os anos um espantalho na sua cerejeira",
+"nl": "Onze buurman hangt elk jaar een vogelverschrikker in zijn kerselaar"
+},
+"Vulleschäich\u00011\u00010": {
+"pt": "A velha bruxa do guiché estava outra vez rabugenta!",
+"nl": "Die oude heks aan het loket was alweer chagrijnig!"
+},
+"Vulleschutz\u00010\u00010": {
+"pt": "Como certas espécies estão em vias de extinção, a proteção das aves é muito importante",
+"nl": "Omdat sommige soorten aan het uitsterven zijn, is de vogelbescherming erg belangrijk"
+},
+"Vullestëmm\u00010\u00010": {
+"pt": "O guarda-florestal sabe imitar muitos cantos de aves",
+"nl": "De boswachter kan veel vogelstemmen nadoen"
+},
+"vulnerabel\u00010\u00010": {
+"pt": "Para não terem de ir ao supermercado, as pessoas vulneráveis podem encomendar os seus alimentos através de uma linha de apoio",
+"nl": "Opdat ze niet naar de supermarkt moeten, kunnen kwetsbare personen hun levensmiddelen via een hotline bestellen"
+},
+"Vulva\u00010\u00010": {
+"pt": "Os órgãos genitais femininos externos são designados por vulva",
+"nl": "De uitwendige vrouwelijke geslachtsdelen worden vulva genoemd"
+},
+"Vulva\u00010\u00011": {
+"pt": "A vulva não é a mesma coisa que a vagina",
+"nl": "De vulva is niet hetzelfde als de vagina"
+},
+"vum selwen\u00010\u00010": {
+"pt": "Isso é só um arranhãozinho que sara sozinho",
+"nl": "Dat is maar een klein wondje dat vanzelf geneest"
+},
+"vum selwen\u00010\u00011": {
+"pt": "A porta fecha-se outra vez sozinha",
+"nl": "De deur gaat vanzelf weer dicht"
+},
+"vun\u00010\u00010": {
+"pt": "A nossa gata deitou o vaso de flores abaixo do parapeito da janela",
+"nl": "Onze kat heeft de bloempot van de vensterbank gegooid"
+},
+"vun\u00010\u00011": {
+"pt": "Venho do Luxemburgo",
+"nl": "Ik kom uit Luxemburg"
+},
+"vun\u00010\u00012": {
+"pt": "A nova linha de autocarro vai da estação ao aeroporto",
+"nl": "De nieuwe buslijn rijdt van het station naar de luchthaven"
+},
+"vun\u00011\u00010": {
+"pt": "Nesta casa viveram os avós do meu amigo",
+"nl": "In dit huis hebben de grootouders van mijn vriend gewoond"
+},
+"vun\u00011\u00011": {
+"pt": "Quem é o chefe deste serviço?",
+"nl": "Wie is de chef van deze dienst?"
+},
+"vun\u00011\u00012": {
+"pt": "O ladrão tinha arrombado a fechadura da porta",
+"nl": "De dief had het slot van de deur opengebroken"
+},
+"vun\u00011\u00013": {
+"pt": "Vivo agora outra vez na casa dos meus pais",
+"nl": "Ik woon nu weer in het huis van mijn ouders"
+},
+"vun\u00011\u00014": {
+"pt": "Sabes como é o uniforme de um almirante?",
+"nl": "Weet je hoe het uniform van een admiraal eruitziet?"
+},
+"vun\u00011\u00015": {
+"pt": "Esta distorção da verdade encontra-se em muitos artigos",
+"nl": "Deze vervorming van de waarheid vindt men in veel artikels"
+},
+"vun\u00011\u00016": {
+"pt": "A intervenção dos cirurgiões durou três horas",
+"nl": "De ingreep van de chirurgen duurde drie uur"
+},
+"vun\u00012\u00010": {
+"pt": "Para qual dos teus dois endereços devo enviar-te o e-mail?",
+"nl": "Naar welk van je twee adressen moet ik je de mail sturen?"
 }
 }
