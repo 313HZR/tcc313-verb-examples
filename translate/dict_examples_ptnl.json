@@ -204492,8 +204492,8 @@
 "nl": "Ik hou mijn jas aan omdat het me hier binnen te koud is"
 },
 "ubehalen\u00010\u00011": {
-"pt": "Posso manter o meu posto durante a operação?",
-"nl": "Mag ik mijn rang behouden tijdens de operatie?"
+"pt": "Posso ficar com o meu anel durante a operação?",
+"nl": "Mag ik mijn ring tijdens de operatie aanhouden?"
 },
 "ubelaangen\u00010\u00010": {
 "pt": "Quanto à qualidade de vida, há grandes contrastes entre esses dois países",
@@ -213298,5 +213298,905 @@
 "verlaangen\u00010\u00010": {
 "pt": "A chefe exige lealdade absoluta aos seus colaboradores",
 "nl": "De chef eist absolute loyaliteit van haar medewerkers"
+},
+"verlaangen\u00010\u00011": {
+"pt": "Não te peço, exijo!",
+"nl": "Ik vraag het je niet, ik eis het!"
+},
+"verlaangen\u00010\u00012": {
+"pt": "É um escândalo pedir tanto dinheiro por esse trabalho!",
+"nl": "Het is ongehoord zoveel geld voor dat werk te vragen!"
+},
+"verlaangen\u00010\u00013": {
+"pt": "Estás a exigir o impossível!",
+"nl": "Je eist het onmogelijke!"
+},
+"verlaangen\u00010\u00014": {
+"pt": "Os sindicatos exigem mais três por cento de salário",
+"nl": "De vakbonden eisen drie procent meer loon"
+},
+"verlaangen\u00011\u00010": {
+"pt": "Um trabalho assim exige muita paciência",
+"nl": "Zulk werk vereist veel geduld"
+},
+"verlaangeren\u00010\u00010": {
+"pt": "Na colónia de férias, algumas crianças tinham saudades dos pais",
+"nl": "In de vakantiekolonie hadden enkele kinderen heimwee naar hun ouders"
+},
+"verlaangeren\u00010\u00011": {
+"pt": "Venha buscar o seu filho ao campo, tem demasiadas saudades de casa!",
+"nl": "Kom uw zoon van het kamp halen, hij heeft veel te veel heimwee!"
+},
+"verlaangeren\u00010\u00012": {
+"pt": "Quando estive no estrangeiro no internato, sentia muitas vezes saudades de casa",
+"nl": "Toen ik in het buitenland op internaat zat, had ik vaak heimwee"
+},
+"Verlaf\u00010\u00010": {
+"pt": "Neste mapa vê-se o traçado do circuito de corridas",
+"nl": "Op deze kaart ziet men het verloop van het racecircuit"
+},
+"Verlaf\u00010\u00011": {
+"pt": "O traçado da fronteira é contestado",
+"nl": "Het verloop van de grens wordt betwist"
+},
+"Verlaf\u00011\u00010": {
+"pt": "A polícia vai informar-nos sobre o desenrolar da investigação",
+"nl": "De politie zal ons informeren over het verdere verloop van het onderzoek"
+},
+"verlafen\u00010\u00010": {
+"pt": "Perdi-me e não sei para onde ir",
+"nl": "Ik ben verdwaald en weet niet waar ik naartoe moet"
+},
+"verlafen\u00010\u00011": {
+"pt": "O edifício é tão grande que me perco regularmente nele",
+"nl": "Het gebouw is zo groot dat ik er regelmatig in verdwaal"
+},
+"verlafen\u00011\u00010": {
+"pt": "Quando começou a chover, as pessoas dispersaram-se depressa",
+"nl": "Toen het begon te regenen, verspreidden de mensen zich snel"
+},
+"verlafen\u00012\u00010": {
+"pt": "A ciclovia corre paralela ao rio",
+"nl": "Het fietspad loopt parallel met de rivier"
+},
+"verlafen\u00013\u00010": {
+"pt": "Até agora o nosso projeto decorre conforme o planeado",
+"nl": "Tot nu toe verloopt ons project zoals gepland"
+},
+"verlafen\u00013\u00011": {
+"pt": "A operação correu bem",
+"nl": "De operatie is goed verlopen"
+},
+"verlafen\u00013\u00012": {
+"pt": "O acidente teve um desfecho mortal",
+"nl": "Het ongeval liep dodelijk af"
+},
+"verlafen\u00014\u00010": {
+"pt": "De tanto chorar, a maquilhagem da rapariga estava borrada",
+"nl": "Van het vele huilen was de make-up van het meisje uitgelopen"
+},
+"verlafen\u00010\u00010~2": {
+"pt": "As pessoas têm-na por uma mulher fácil",
+"nl": "De mensen houden haar voor een lichte vrouw"
+},
+"Verlag\u00010\u00010": {
+"pt": "Em que editora saiu o teu livro?",
+"nl": "Bij welke uitgeverij is je boek uitgekomen?"
+},
+"Verlag\u00010\u00011": {
+"pt": "Não há muitas editoras que tenham a sua própria tipografia",
+"nl": "Er zijn niet veel uitgeverijen die hun eigen drukkerij hebben"
+},
+"verlageren\u00010\u00010": {
+"pt": "Na mota, é preciso deslocar bem o peso nas curvas",
+"nl": "Op de motor moet je in de bochten je gewicht goed verplaatsen"
+},
+"verlageren\u00010\u00011": {
+"pt": "O banco transferiu a sua sede para a capital",
+"nl": "De bank heeft haar zetel naar de hoofdstad verplaatst"
+},
+"verlageren\u00010\u00012": {
+"pt": "A produção está a ser deslocalizada para o estrangeiro",
+"nl": "De productie wordt naar het buitenland verplaatst"
+},
+"verlageren\u00011\u00010": {
+"pt": "A prostituição deslocou-se para outro bairro",
+"nl": "De prostitutie is naar een andere wijk verschoven"
+},
+"Verlagerung\u00010\u00010": {
+"pt": "A tua proposta não é uma solução, mas uma deslocação do problema",
+"nl": "Je voorstel is geen oplossing, maar een verschuiving van het probleem"
+},
+"Verlagerung\u00010\u00011": {
+"pt": "É desejável uma transferência do transporte de mercadorias da estrada para o caminho de ferro",
+"nl": "Een verschuiving van het goederenvervoer van de weg naar het spoor is wenselijk"
+},
+"Verlagerung\u00010\u00012": {
+"pt": "A deslocalização da produção automóvel para o estrangeiro custou ao país muitos postos de trabalho",
+"nl": "De verplaatsing van de autoproductie naar het buitenland heeft het land veel banen gekost"
+},
+"Verlagskatalog\u00010\u00010": {
+"pt": "O número de páginas e o preço dos livros constam do catálogo da nossa editora",
+"nl": "Het aantal bladzijden en de prijs van de boeken staan in de catalogus van onze uitgeverij"
+},
+"verlängeren\u00010\u00010": {
+"pt": "A pista de aterragem do aeroporto vai ser prolongada",
+"nl": "De landingsbaan op de luchthaven moet verlengd worden"
+},
+"verlängeren\u00010\u00011": {
+"pt": "Com extensões, podemos alongar a nossa mesa",
+"nl": "Met verlengstukken kunnen we onze tafel verlengen"
+},
+"verlängeren\u00011\u00010": {
+"pt": "Gostámos tanto das férias que as prolongámos por alguns dias",
+"nl": "We vonden de vakantie zo fijn dat we ze met enkele dagen verlengd hebben"
+},
+"verlängeren\u00012\u00010": {
+"pt": "O trabalhador imigrante teve a sua autorização de trabalho prorrogada por um ano",
+"nl": "De ingeweken arbeider kreeg zijn arbeidskaart met een jaar verlengd"
+},
+"verlängeren\u00012\u00011": {
+"pt": "Tenho de mandar renovar a minha carta de condução",
+"nl": "Ik moet mijn rijbewijs laten verlengen"
+},
+"Verlängerung\u00010\u00010": {
+"pt": "A extensão da pista de aterragem do aeroporto foi aprovada",
+"nl": "De verlenging van de landingsbaan op de luchthaven is goedgekeurd"
+},
+"Verlängerung\u00011\u00010": {
+"pt": "A ministra propõe um prolongamento da escolaridade obrigatória",
+"nl": "De minister stelt een verlenging van de leerplicht voor"
+},
+"Verlängerung\u00012\u00010": {
+"pt": "Já tratas da renovação da tua carta de condução?",
+"nl": "Heb je je al bekommerd om de verlenging van je rijbewijs?"
+},
+"Verlängerung\u00013\u00010": {
+"pt": "No futebol, o prolongamento dura duas vezes um quarto de hora",
+"nl": "In het voetbal duurt de verlenging tweemaal een kwartier"
+},
+"Verlängerung\u00013\u00011": {
+"pt": "Após 90 minutos, o jogo foi para prolongamento",
+"nl": "Na 90 minuten ging de match naar de verlenging"
+},
+"Verlängerung\u00014\u00010": {
+"pt": "O cabo da berbequim é curto demais, vai buscar uma extensão!",
+"nl": "De kabel van de boormachine is te kort, ga een verlengkabel halen!"
+},
+"verläschen\u00010\u00010": {
+"pt": "Bebe o teu champanhe antes que perca o gás!",
+"nl": "Drink je champagne voor hij verschaalt!"
+},
+"verläschen\u00010\u00011": {
+"pt": "Deita fora essa cerveja choca para o ralo!",
+"nl": "Giet dat verschaalde bier in de gootsteen!"
+},
+"verlauden\u00010\u00010": {
+"pt": "Foi proibido aos funcionários deixarem transpirar fosse o que fosse sobre o escândalo",
+"nl": "Aan de ambtenaren werd verboden iets over het schandaal te laten uitlekken"
+},
+"verlauschteren\u00010\u00010": {
+"pt": "Ontem, no bistrô, ouvi sem querer que o nosso pintor tinha falido",
+"nl": "Gisteren heb ik in het bistro opgevangen dat onze schilder failliet was"
+},
+"verlauschteren\u00011\u00010": {
+"pt": "Deves ter ouvido mal, não consigo imaginar que ele o tenha dito assim",
+"nl": "Je hebt het daar vast verkeerd gehoord, ik kan me niet voorstellen dat hij het zo gezegd heeft"
+},
+"verleeden\u00010\u00010": {
+"pt": "Espero que o teu novo carro desportivo não te tente a conduzir depressa demais!",
+"nl": "Hopelijk verleidt je nieuwe sportwagen je er niet toe te snel te rijden!"
+},
+"verleeden\u00010\u00011": {
+"pt": "Não te deixes levar a fazer algo de que te arrependas depois",
+"nl": "Laat je niet verleiden tot iets waar je later spijt van krijgt"
+},
+"verleeën\u00010\u00010": {
+"pt": "Os correios mandam enterrar todas as suas linhas",
+"nl": "De post laat al haar leidingen ondergronds leggen"
+},
+"verleeën\u00011\u00010": {
+"pt": "Perdi outra vez os meus óculos!",
+"nl": "Ik heb mijn bril alweer verlegd!"
+},
+"verleeën\u00012\u00010": {
+"pt": "A nossa empresa deslocalizou este ano parte da produção para o estrangeiro",
+"nl": "Ons bedrijf heeft dit jaar een deel van de productie naar het buitenland verplaatst"
+},
+"verleeën\u00012\u00011": {
+"pt": "Se chover, mudamos a nossa festa para o pavilhão",
+"nl": "Als het regent, verplaatsen we ons feest naar de turnzaal"
+},
+"verleeën\u00013\u00010": {
+"pt": "Devido a um falecimento na família, adiámos a nossa viagem",
+"nl": "Wegens een overlijden in de familie hebben we onze reis (naar achteren) verschoven"
+},
+"verleeën\u00013\u00011": {
+"pt": "Como a noiva estava grávida, o casamento foi antecipado",
+"nl": "Omdat de bruid in verwachting was, werd het huwelijk naar voren verschoven"
+},
+"verleeën\u00010\u00010~2": {
+"pt": "Não precisas de ficar envergonhado, isso pode acontecer a qualquer um!",
+"nl": "Je hoeft niet verlegen te zijn, zoiets kan iedereen overkomen!"
+},
+"verleeën\u00010\u00011": {
+"pt": "O aluno olhava envergonhado quando foi elogiado diante de toda a turma",
+"nl": "De leerling keek verlegen toen hij voor de hele klas geprezen werd"
+},
+"verleeën\u00011\u00010~2": {
+"pt": "Nunca ficava sem resposta",
+"nl": "Hij zat geen moment verlegen om een antwoord"
+},
+"Verleeënheet\u00010\u00010": {
+"pt": "De pura vergonha, a mulher ficou com o rosto vermelho",
+"nl": "Van louter verlegenheid werd het gezicht van de vrouw rood"
+},
+"Verleeënheet\u00010\u00011": {
+"pt": "Desculpe, não queria pô-lo em situação embaraçosa com a minha observação!",
+"nl": "Pardon, ik wilde u met mijn opmerking niet in verlegenheid brengen!"
+},
+"Verleeënheet\u00010\u00012": {
+"pt": "Não te posso emprestar dinheiro, eu próprio estou em dificuldades",
+"nl": "Ik kan je geen geld lenen, ik zit zelf in verlegenheid"
+},
+"verleegnen\u00010\u00010": {
+"pt": "Renega o meio social de onde vem",
+"nl": "Hij verloochent het sociale milieu waaruit hij komt"
+},
+"verléieren\u00010\u00010": {
+"pt": "O que se deve fazer quando se perde o passaporte no estrangeiro?",
+"nl": "Wat moet men doen als men zijn paspoort in het buitenland verliest?"
+},
+"verléieren\u00010\u00011": {
+"pt": "Receio ter perdido o meu brinco na floresta",
+"nl": "Ik vrees dat ik mijn oorring in het bos verloren heb"
+},
+"verléieren\u00011\u00010": {
+"pt": "O meu tio perdeu muito dinheiro na bolsa",
+"nl": "Mijn oom heeft op de beurs veel geld verloren"
+},
+"verléieren\u00011\u00011": {
+"pt": "Não te preocupes, nada perdeste com esse negócio!",
+"nl": "Trek het je niet aan, je hebt bij die handel niets verloren!"
+},
+"verléieren\u00011\u00012": {
+"pt": "Não percas tanto tempo ao telefone!",
+"nl": "Verlies niet zoveel tijd met telefoneren!"
+},
+"verléieren\u00011\u00013": {
+"pt": "Já não tem nada a perder",
+"nl": "Hij heeft niets meer te verliezen"
+},
+"verléieren\u00012\u00010": {
+"pt": "Perdi os meus pais cedo",
+"nl": "Ik heb mijn ouders vroeg verloren"
+},
+"verléieren\u00012\u00011": {
+"pt": "O soldado perdeu uma perna na guerra",
+"nl": "De soldaat verloor in de oorlog een been"
+},
+"verléieren\u00012\u00012": {
+"pt": "As árvores já estão a perder as folhas",
+"nl": "De bomen verliezen hun bladeren al"
+},
+"verléieren\u00013\u00010": {
+"pt": "Dá-me a mão para não nos perdermos neste aperto!",
+"nl": "Geef me je hand zodat we elkaar in dit gedrang niet kwijtraken!"
+},
+"verléieren\u00014\u00010": {
+"pt": "Não têm nada a fazer aqui, sigam o vosso caminho!",
+"nl": "Jullie hebben hier niets verloren, ga je weg!"
+},
+"verléieren\u00015\u00010": {
+"pt": "O condutor arrancou tão bruscamente que as pessoas no autocarro perderam o equilíbrio",
+"nl": "De chauffeur trok zo bruusk op dat de mensen in de bus hun evenwicht verloren"
+},
+"verléieren\u00015\u00011": {
+"pt": "O meu pai quase nunca perde a paciência",
+"nl": "Mijn vader verliest bijna nooit zijn geduld"
+},
+"verléieren\u00015\u00012": {
+"pt": "A piloto perdeu o controlo do avião",
+"nl": "De piloot verloor de controle over haar toestel"
+},
+"verléieren\u00016\u00010": {
+"pt": "Como o meu tio perdeu o processo, tem de pagar as custas judiciais",
+"nl": "Omdat mijn oom het proces verloren heeft, moet hij de gerechtskosten dragen"
+},
+"verléieren\u00016\u00011": {
+"pt": "A nossa equipa perdeu o jogo",
+"nl": "Onze ploeg heeft de match verloren"
+},
+"verléieren\u00016\u00012": {
+"pt": "Ainda nada está perdido",
+"nl": "Er is nog niets verloren"
+},
+"verléieren\u00017\u00010": {
+"pt": "As velhas tradições e costumes vão perdendo importância com o tempo",
+"nl": "Oude tradities en gebruiken verliezen met de tijd aan betekenis"
+},
+"verléieren\u00017\u00011": {
+"pt": "Um carro novo perde mais valor no primeiro ano",
+"nl": "Een nieuwe auto verliest het meeste waarde in het eerste jaar"
+},
+"verléieren\u00018\u00010": {
+"pt": "Se essa empresa fechar, perdem-se 200 postos de trabalho",
+"nl": "Als dat bedrijf sluit, gaan er 200 banen verloren"
+},
+"verléieren\u00019\u00010": {
+"pt": "Fiquem bem juntos, rapazes, para que ninguém se perca!",
+"nl": "Blijf mooi bij elkaar, jongens, zodat niemand verloren loopt!"
+},
+"verléieren\u000110\u00010": {
+"pt": "Naquela cidade grande perdemo-nos em pouco tempo sem mapa",
+"nl": "In die grote stad waren we zonder plan na korte tijd verdwaald"
+},
+"verléieren\u000111\u00010": {
+"pt": "O orador perdeu-se em considerações vagas",
+"nl": "De spreker verloor zich in vage overwegingen"
+},
+"verléieren\u00010\u00010~2": {
+"pt": "Nunca se esquece como se anda de bicicleta depois de se ter aprendido",
+"nl": "Het fietsen verleer je nooit als je het eenmaal geleerd hebt"
+},
+"Verléierer\u00010\u00010": {
+"pt": "Nesta reforma, os trabalhadores são os grandes perdedores",
+"nl": "Bij die hervorming zijn de arbeiders de grote verliezers"
+},
+"Verléierer\u00010\u00011": {
+"pt": "O perdedor deste jogo é eliminado da Taça",
+"nl": "De verliezer van deze partij wordt in de beker uitgeschakeld"
+},
+"Verléierer\u00010\u00012": {
+"pt": "Ele é mau perdedor",
+"nl": "Hij is een slechte verliezer"
+},
+"Verléierin\u00010\u00010": {
+"pt": "A perdedora do concurso recebeu um prémio de consolação",
+"nl": "De verliezeres van de wedstrijd kreeg een troostprijs"
+},
+"Verléierin\u00010\u00011": {
+"pt": "A perdedora deste jogo é eliminada do torneio",
+"nl": "De verliezeres van deze partij wordt in het toernooi uitgeschakeld"
+},
+"verléift\u00010\u00010": {
+"pt": "Quando se está apaixonado, não se vêem os defeitos do outro",
+"nl": "Als men verliefd is, ziet men de fouten van de ander niet"
+},
+"verléift\u00010\u00011": {
+"pt": "Os dois olhavam-se nos olhos, completamente apaixonados",
+"nl": "De twee keken elkaar verliefd in de ogen"
+},
+"verléift\u00010\u00012": {
+"pt": "Olha, aí vêm os dois pombinhos!",
+"nl": "Kijk, daar komen de twee verliefden!"
+},
+"Verléiftheet\u00010\u00010": {
+"pt": "No primeiro enamoramento fazem-se todo o tipo de disparates",
+"nl": "In de eerste verliefdheid doet men allerlei dwaasheden"
+},
+"verléinen\u00010\u00010": {
+"pt": "Nunca empresto os meus livros",
+"nl": "Ik leen mijn boeken nooit uit"
+},
+"verléinen\u00010\u00011": {
+"pt": "No jardim zoológico, desde há pouco alugam carrinhos de bebé a quem tem crianças",
+"nl": "In de dierentuin verhuren ze sinds kort buggy's voor mensen met kinderen"
+},
+"verléinen\u00010\u00012": {
+"pt": "Onde é que aqui na cidade se alugam fatos de Carnaval?",
+"nl": "Waar verhuren ze hier in de stad carnavalskostuums?"
+},
+"verléiwen\u00010\u00010": {
+"pt": "Os dois amigos zangaram-se porque se tinham apaixonado pela mesma rapariga",
+"nl": "De twee vrienden kregen ruzie omdat ze verliefd geworden waren op hetzelfde meisje"
+},
+"verléiwen\u00010\u00011": {
+"pt": "A nossa filha apaixonou-se pelo professor",
+"nl": "Ons meisje is verliefd geworden op de schoolmeester"
+},
+"verléiwen\u00010\u00012": {
+"pt": "Apaixonei-me por aquela velha casa de campo",
+"nl": "Ik ben verliefd geworden op dat oude boerenhuis"
+},
+"verletzen\u00010\u00010": {
+"pt": "No acidente, felizmente, ninguém ficou ferido",
+"nl": "Bij het ongeval is gelukkig niemand gewond geraakt"
+},
+"verletzen\u00010\u00011": {
+"pt": "Magoei o joelho, mas não parti nada",
+"nl": "Ik heb mijn knie bezeerd, maar ik heb niets gebroken"
+},
+"verletzen\u00010\u00012": {
+"pt": "Durante o treino, a nossa melhor jogadora lesionou-se",
+"nl": "Tijdens de training heeft onze beste speelster zich geblesseerd"
+},
+"verletzen\u00011\u00010": {
+"pt": "Não era minha intenção magoar-te com a minha observação",
+"nl": "Het was niet mijn bedoeling je met mijn opmerking te kwetsen"
+},
+"verletzen\u00012\u00010": {
+"pt": "O novo regulamento viola os nossos direitos fundamentais",
+"nl": "Het nieuwe reglement schendt onze grondrechten"
+},
+"Verletzung\u00010\u00010": {
+"pt": "O ferido morreu durante a noite devido aos ferimentos",
+"nl": "De gewonde is 's nachts aan zijn verwondingen overleden"
+},
+"Verletzung\u00010\u00011": {
+"pt": "Devido a uma lesão no pé, o nosso guarda-redes falha os próximos jogos",
+"nl": "Wegens een voetblessure valt onze doelman de volgende wedstrijden uit"
+},
+"Verletzung\u00011\u00010": {
+"pt": "O novo regulamento é uma violação dos nossos direitos fundamentais",
+"nl": "Het nieuwe reglement is een schending van onze grondrechten"
+},
+"verlieft\u00010\u00010": {
+"pt": "O álcool e as drogas fazem com que se pareça gasto e envelhecido já em tenra idade",
+"nl": "Alcohol en drugs zorgen ervoor dat men al op jonge leeftijd versleten kan uitzien"
+},
+"verloben\u00010\u00010": {
+"pt": "Antigamente era costume noivar algum tempo antes do casamento",
+"nl": "Vroeger was het gebruikelijk zich enige tijd voor het huwelijk te verloven"
+},
+"Verlobung\u00010\u00010": {
+"pt": "Tinha oferecido à namorada, para o noivado, um anel com um brilhante",
+"nl": "Hij had zijn vriendin voor de verloving een ring met een briljant geschonken"
+},
+"Verlooss\u00010\u00010": {
+"pt": "Naquele indeciso não se pode confiar",
+"nl": "Op die halve gare kan men niet rekenen"
+},
+"Verlooss\u00010\u00011": {
+"pt": "Na colaboradora reformada podia-se sempre confiar",
+"nl": "Op de gepensioneerde medewerkster kon men altijd rekenen"
+},
+"verloossen\u00010\u00010": {
+"pt": "O ministro levantou-se furioso e abandonou a sala",
+"nl": "De minister sprong woedend op en verliet de zaal"
+},
+"verloossen\u00010\u00011": {
+"pt": "A maior parte dos emigrantes deixou o país no século XIX",
+"nl": "De meeste emigranten hebben het land in de 19e eeuw verlaten"
+},
+"verloossen\u00011\u00010": {
+"pt": "A minha mulher deixou-me",
+"nl": "Mijn vrouw heeft mij verlaten"
+},
+"verloossen\u00011\u00011": {
+"pt": "Abandonou a mulher e os filhos",
+"nl": "Hij heeft vrouw en kinderen verlaten"
+},
+"verloossen\u00011\u00012": {
+"pt": "A coragem abandonou a jovem cantora quando viu tanta gente",
+"nl": "De moed verliet de jonge zangeres toen ze al die mensen zag"
+},
+"verloossen\u00012\u00010": {
+"pt": "Posso sempre contar com ele",
+"nl": "Ik kan altijd op hem rekenen"
+},
+"verloossen\u00012\u00011": {
+"pt": "Na nossa equipa pode-se confiar nos outros",
+"nl": "In ons team kan men op elkaar rekenen"
+},
+"verloossen\u00012\u00012": {
+"pt": "Os alpinistas têm de poder confiar no seu equipamento",
+"nl": "Alpinisten moeten op hun uitrusting kunnen rekenen"
+},
+"verloossen\u00012\u00013": {
+"pt": "Podes contar comigo para te ajudar",
+"nl": "Je kunt erop rekenen dat ik je kom helpen"
+},
+"verloossen\u00012\u00014": {
+"pt": "Quem só conta consigo próprio está sozinho",
+"nl": "Wie enkel op zichzelf rekent, is aan zijn lot overgelaten"
+},
+"verloossen\u00012\u00015": {
+"pt": "Não vou tolerar mais um comportamento assim, podes contar com isso!",
+"nl": "Zo'n gedrag laat ik niet meer door de vingers zien, reken maar!"
+},
+"Verloscht\u00010\u00010": {
+"pt": "A morte do presidente é uma grande perda para o país",
+"nl": "De dood van de president is een groot verlies voor het land"
+},
+"Verloscht\u00010\u00011": {
+"pt": "O meu pai nunca superou a perda da minha mãe",
+"nl": "Mijn vader is nooit over het verlies van mijn moeder heen gekomen"
+},
+"Verloscht\u00011\u00010": {
+"pt": "Ela nunca superou a perda da sua fortuna",
+"nl": "Ze is het verlies van zijn vermogen nooit te boven gekomen"
+},
+"Verloscht\u00011\u00011": {
+"pt": "Com a perda de territórios, o nosso país ficou com a forma de uma bota",
+"nl": "Door het verlies van gebieden kreeg ons land de vorm van een schoen"
+},
+"Verloscht\u00011\u00012": {
+"pt": "A nossa empresa tem de contar este ano com um grande prejuízo",
+"nl": "Ons bedrijf moet dit jaar met een groot verlies rekenen"
+},
+"Verloscht\u00012\u00010": {
+"pt": "O bispo lamenta a perda de valores cristãos na nossa sociedade",
+"nl": "De bisschop betreurt het verlies van christelijke waarden in onze samenleving"
+},
+"verlounen\u00010\u00010": {
+"pt": "O apartamento é arrendado por 700 euros sem despesas",
+"nl": "Het appartement wordt voor 700 euro zonder lasten verhuurd"
+},
+"verlounen\u00010\u00011": {
+"pt": "O senhorio não quer arrendar o apartamento a estudantes",
+"nl": "De eigenaar wil zijn woning niet aan studenten verhuren"
+},
+"verlounen\u00010\u00012": {
+"pt": "Arrendamos a nossa garagem ao vizinho",
+"nl": "We verhuren onze garage aan de buurman"
+},
+"verlounen\u00010\u00013": {
+"pt": "No aeroporto há duas empresas que alugam carros",
+"nl": "Op de luchthaven zijn er twee bedrijven die auto's verhuren"
+},
+"verlousen\u00010\u00010": {
+"pt": "Na festa da tenda é sorteada uma viagem",
+"nl": "Op het tentfeest wordt een reis verloot"
+},
+"Verlousung\u00010\u00010": {
+"pt": "O pessoal da garagem não pode participar no sorteio do carro",
+"nl": "Het personeel van de garage mag niet aan de verloting van de auto meedoen"
+},
+"verlueden\u00010\u00010": {
+"pt": "Os contentores são carregados em grandes navios com guindastes",
+"nl": "De containers worden met kranen op grote schepen geladen"
+},
+"verluer\u00010\u00010": {
+"pt": "Estou completamente perdido, não percebo de todo do que trata a conferência",
+"nl": "Ik ben helemaal de kluts kwijt, ik begrijp helemaal niet waar de voordracht over gaat"
+},
+"Verluerekascht\u00010\u00010": {
+"pt": "Moro em Verluerekascht",
+"nl": "Ik woon in Verluerekascht"
+},
+"Verluerekascht\u00010\u00011": {
+"pt": "Este autocarro vai para Verluerekascht?",
+"nl": "Rijdt deze bus naar Verluerekascht?"
+},
+"verlugen\u00010\u00010": {
+"pt": "Daquele mentiroso não podes acreditar em nada!",
+"nl": "Die leugenaar kun je niets geloven!"
+},
+"vermaachen\u00010\u00010": {
+"pt": "O avô deixou a casa aos netos em testamento",
+"nl": "Opa heeft het huis aan zijn kleinkinderen nagelaten"
+},
+"vermaachen\u00010\u00011": {
+"pt": "Deixou toda a sua fortuna ao abrigo de animais",
+"nl": "Hij heeft zijn hele vermogen aan het dierenasiel nagelaten"
+},
+"vermaachen\u00010\u00012": {
+"pt": "Posso deixar-te o meu computador velho",
+"nl": "Ik kan je mijn oude computer nalaten"
+},
+"vermaachen\u00011\u00010": {
+"pt": "Leva um pequeno ramo de flores, com isso não erras!",
+"nl": "Neem een klein boeket bloemen mee, daar kun je niets mee misdoen!"
+},
+"vermaarten\u00010\u00010": {
+"pt": "Um produto tão invulgar não é fácil de comercializar",
+"nl": "Zo'n ongewoon product is niet gemakkelijk te vermarkten"
+},
+"vermaarten\u00010\u00011": {
+"pt": "Graças à internet, qualquer empresa pode comercializar os seus produtos a nível mundial",
+"nl": "Via het internet kan elk bedrijf zijn producten wereldwijd vermarkten"
+},
+"Vermaartung\u00010\u00010": {
+"pt": "Uma agência especializada aconselha-nos na comercialização do nosso novo produto",
+"nl": "Een gespecialiseerd bureau adviseert ons bij de vermarkting van ons nieuwe product"
+},
+"Vermächtnis\u00010\u00010": {
+"pt": "O legado do pintor consiste em grande parte em pinturas a óleo e desenhos",
+"nl": "De nalatenschap van de schilder bestaat voor een groot deel uit olieverfschilderijen en tekeningen"
+},
+"Vermächtnis\u00010\u00011": {
+"pt": "Do legado político daquele estadista querido não restou muito",
+"nl": "Van de politieke erfenis van die geliefde staatsman is niet veel overgebleven"
+},
+"vermasselen\u00010\u00010": {
+"pt": "Como não tinhas aprendido o teu papel, estragaste-nos toda a atuação",
+"nl": "Omdat je je rol niet geleerd had, heb je ons het hele optreden verknald"
+},
+"vermeeren\u00010\u00010": {
+"pt": "Os javalis multiplicaram-se muito nos últimos anos",
+"nl": "De wilde zwijnen hebben zich de laatste jaren sterk vermeerderd"
+},
+"vermeiden\u00010\u00010": {
+"pt": "Escreve o teu nome nos livros para evitar confusões!",
+"nl": "Schrijf je naam in de boeken om verwisselingen te vermijden!"
+},
+"vermeiden\u00010\u00011": {
+"pt": "Aquela discussão era inevitável",
+"nl": "Die discussie was niet te vermijden"
+},
+"Verméigen\u00010\u00010": {
+"pt": "Perdeu toda a sua fortuna com a especulação",
+"nl": "Hij is door speculatie zijn hele vermogen kwijtgeraakt"
+},
+"Verméigen\u00010\u00011": {
+"pt": "Os estudos da nossa filha custaram uma fortuna",
+"nl": "De studies van onze dochter hebben een vermogen gekost"
+},
+"vermeintlech\u00010\u00010": {
+"pt": "Os supostos polícias eram, na realidade, criminosos",
+"nl": "De vermeende politieagenten waren in werkelijkheid criminelen"
+},
+"vermeintlech\u00010\u00011": {
+"pt": "O suposto bom negócio acabou por se revelar uma brincadeira cara",
+"nl": "De vermeend goede zaak bleek daarna een dure grap"
+},
+"vermeintlech\u00010\u00012": {
+"pt": "O meu vizinho terá supostamente visto um lobo na floresta",
+"nl": "Mijn buurman heeft naar verluidt een wolf in het bos gezien"
+},
+"vermengt\u00010\u00010": {
+"pt": "A esse presunçoso faria bem um pouco de modéstia!",
+"nl": "Die verwaande kerel zou wat bescheidenheid goed doen!"
+},
+"vermëschen\u00010\u00010": {
+"pt": "Tens de misturar os ovos com o açúcar antes de juntares a farinha",
+"nl": "Je moet de eieren met de suiker mengen voor je de bloem erbij doet"
+},
+"vermëschen\u00011\u00010": {
+"pt": "É-lhe censurado ter misturado o profissional com o privado",
+"nl": "Hem wordt verweten het professionele met het private vermengd te hebben"
+},
+"vermëschen\u00012\u00010": {
+"pt": "Tens de mexer muito tempo para que as cores se misturem bem",
+"nl": "Je moet lang roeren zodat de kleuren zich goed vermengen"
+},
+"vermëssen\u00010\u00010": {
+"pt": "Naquelas férias maravilhosas não senti nada a falta dos meus pais",
+"nl": "In die prachtige vakantie heb ik mijn ouders helemaal niet gemist"
+},
+"vermëssen\u00010\u00011": {
+"pt": "Ao fim de três dias de campismo, sente-se a falta da cama!",
+"nl": "Na drie dagen op de camping mist men zijn bed!"
+},
+"vermëssen\u00011\u00010": {
+"pt": "Desde ontem que não encontro as chaves do carro",
+"nl": "Sinds gisteren mis ik mijn autosleutels"
+},
+"vermëssen\u00011\u00011": {
+"pt": "No teu relatório sinto a falta dos novos projetos que foram discutidos",
+"nl": "In je verslag mis ik de nieuwe projecten die besproken werden"
+},
+"vermëssen\u00012\u00010": {
+"pt": "A rapariga está desaparecida há um ano inteiro",
+"nl": "Het jonge meisje wordt al een heel jaar vermist"
+},
+"vermessen\u00010\u00010": {
+"pt": "Seria presunçoso afirmar que nunca me engano",
+"nl": "Het zou aanmatigend zijn te beweren dat ik me nooit vergis"
+},
+"vermessen\u00011\u00010": {
+"pt": "O rapaz teimoso não quis outra vez comer nada",
+"nl": "Die koppige jongen wilde weer niets eten"
+},
+"vermessen\u00012\u00010": {
+"pt": "Aquela mulher má dedicou a noite inteira a falar mal das outras pessoas",
+"nl": "Dat nare mens is de hele avond over de andere mensen hergevallen"
+},
+"Vermessenheet\u00010\u00010": {
+"pt": "Por pura teimosia, a criança não quis comer nada",
+"nl": "Van louter koppigheid wilde het kind niets eten"
+},
+"Vermësstemeldung\u00010\u00010": {
+"pt": "Estou preocupada porque não temos notícias do nosso filho, vou à polícia apresentar uma queixa de desaparecimento",
+"nl": "Ik ben bezorgd omdat we niets van onze zoon horen, ik ga bij de politie een vermissingsmelding doen"
+},
+"Vermësstemeldung\u00011\u00010": {
+"pt": "A polícia emitiu dois avisos de desaparecimento de dois adolescentes que fugiram de casa",
+"nl": "De politie heeft voor twee tieners die van huis weggelopen zijn twee vermissingsberichten verspreid"
+},
+"vermëttelen\u00010\u00010": {
+"pt": "A geração mais velha ainda tem hoje muito para transmitir à mais nova",
+"nl": "De oudere generatie kan de jongere nog altijd veel bijbrengen"
+},
+"vermëttelen\u00011\u00010": {
+"pt": "O centro de emprego encontrou-nos um novo porteiro",
+"nl": "Het arbeidsbureau heeft ons een nieuwe portier bezorgd"
+},
+"vermëttelen\u00011\u00011": {
+"pt": "O meu primo arranjou-me um novo lugar",
+"nl": "Mijn neef heeft me een nieuwe plaats bezorgd"
+},
+"vermëttelen\u00012\u00010": {
+"pt": "O mediador tenta mediar nesses litígios",
+"nl": "De bemiddelaar probeert in zulke geschillen te bemiddelen"
+},
+"Vermëttler\u00010\u00010": {
+"pt": "As duas partes aceitaram-no como mediador",
+"nl": "De twee partijen hebben hem als bemiddelaar aanvaard"
+},
+"Vermëttlerin\u00010\u00010": {
+"pt": "O seu papel como mediadora é encontrar um acordo entre as duas partes",
+"nl": "Haar rol als bemiddelaarster is een akkoord te vinden tussen de twee partijen"
+},
+"Vermëttlung\u00010\u00010": {
+"pt": "O centro de emprego é responsável pela colocação de desempregados junto dos empregadores",
+"nl": "Het arbeidsbureau is verantwoordelijk voor de bemiddeling van werklozen naar de werkgevers"
+},
+"Vermëttlung\u00010\u00011": {
+"pt": "Sem intermediação, nunca teria arranjado o meu novo lugar",
+"nl": "Zonder bemiddeling had ik mijn nieuwe job nooit gekregen"
+},
+"Vermëttlung\u00011\u00010": {
+"pt": "O Ministério da Educação disponibilizou material didático para o ensino da nossa língua",
+"nl": "Het ministerie van Onderwijs heeft didactisch materiaal voor het onderwijzen van onze taal ter beschikking gesteld"
+},
+"Vermëttlung\u00012\u00010": {
+"pt": "Para a mediação entre as duas partes foi designado um mediador",
+"nl": "Voor de bemiddeling tussen de twee partijen werd een bemiddelaar aangesteld"
+},
+"Vermierk\u00010\u00010": {
+"pt": "Na minha carta de condução consta uma menção de que preciso de óculos quando conduzo",
+"nl": "In mijn rijbewijs staat een vermelding dat ik een bril nodig heb als ik met de auto rijd"
+},
+"vermierken\u00010\u00010": {
+"pt": "Se tiveste Latim na escola, vem mencionado no diploma de fim de curso",
+"nl": "Of je op school Latijn had, staat vermeld op het einddiploma"
+},
+"Vermiessung\u00010\u00010": {
+"pt": "Assim que o levantamento topográfico dos terrenos estiver concluído, o promotor pode começar a planear",
+"nl": "Zodra de opmeting van de terreinen afgerond is, kan de promotor beginnen met plannen"
+},
+"verminnen\u00010\u00010": {
+"pt": "Na última guerra, soldados inimigos tinham minado toda a encosta",
+"nl": "In de laatste oorlog hadden vijandelijke soldaten de hele helling vermijnd"
+},
+"verminnen\u00010\u00011": {
+"pt": "Esta zona está vedada porque está minada",
+"nl": "Dit gebied is afgesloten omdat het vermijnd is"
+},
+"vermiwwelen\u00010\u00010": {
+"pt": "No jogo de futebol foi tão espancado que teve de ser levado para a clínica",
+"nl": "Op de voetbalmatch werd hij zo afgetuigd dat hij naar de kliniek moest gebracht worden"
+},
+"vermoossen\u00010\u00010": {
+"pt": "O agrimensor vem ao meio-dia medir o nosso terreno",
+"nl": "De landmeter komt rond de middag ons terrein opmeten"
+},
+"vermoossen\u00010\u00011": {
+"pt": "Assim que a medição do terreno estiver concluída, o promotor pode começar a planear",
+"nl": "Zodra de opmeting van het terrein afgerond is, kan de promotor beginnen met plannen"
+},
+"vermoossen\u00011\u00010": {
+"pt": "Este pedaço de madeira é curto demais, devo ter-me enganado na medição",
+"nl": "Dat stuk hout is te kort, ik moet me bij het opmeten vergist hebben"
+},
+"vermoschteren\u00010\u00010": {
+"pt": "Como é que a vizinha voltou a vestir os filhos tão mal!",
+"nl": "Hoe heeft de buurvrouw haar kinderen weer aangekleed!"
+},
+"vermummen\u00010\u00010": {
+"pt": "Como os assaltantes do banco tinham tapado a cara, as gravações de vídeo servem de pouco",
+"nl": "Omdat de bankrovers zich vermomd hadden, zijn de video-opnames niet veel waard"
+},
+"vermummen\u00010\u00011": {
+"pt": "Na manifestação, alguns manifestantes mascarados atiraram pedras à polícia",
+"nl": "Op de betoging gooiden enkele gemaskerde betogers stenen naar de politie"
+},
+"vermurksen\u00010\u00010": {
+"pt": "Se rodares mais uma volta, estragas o parafuso",
+"nl": "Als je nog een slag draait, heb je de schroef verknoeid"
+},
+"vermuten\u00010\u00010": {
+"pt": "Suspeito que essa ação já estava planeada há bastante tempo",
+"nl": "Ik vermoed dat die actie al langer gepland was"
+},
+"vermuten\u00010\u00011": {
+"pt": "A minha irmã suspeita há algum tempo de que está grávida",
+"nl": "Mijn zus vermoedt al een tijdje dat ze in verwachting is"
+},
+"vermuten\u00010\u00012": {
+"pt": "Todos suspeitamos disso, mas não temos certeza",
+"nl": "We vermoeden het allemaal, maar we hebben geen zekerheid"
+},
+"Vermutung\u00010\u00010": {
+"pt": "Tens provas, ou a tua afirmação baseia-se numa suposição?",
+"nl": "Heb je bewijzen, of berust je uitspraak op een vermoeden?"
+},
+"Vermutung\u00010\u00011": {
+"pt": "O que me atribuis aí são apenas suposições!",
+"nl": "Wat u mij daar toeschrijft, zijn allemaal maar veronderstellingen!"
+},
+"vermuuschten\u00010\u00010": {
+"pt": "Aquela cave é tão húmida que lá tudo se enche de bolor!",
+"nl": "Die kelder is zo vochtig dat daar alles beschimmelt!"
+},
+"vermuuschten\u00010\u00011": {
+"pt": "A goteira está cheia de folhas mofadas",
+"nl": "De goot ligt vol beschimmelde bladeren"
+},
+"vermuuschten\u00011\u00010": {
+"pt": "Não tenho vontade de apodrecer neste cu de Judas",
+"nl": "Ik heb geen zin om in dit gat te verschimmelen"
+},
+"vernäipen\u00010\u00010": {
+"pt": "Enquanto o público aplaudia, o maestro fez várias vénias",
+"nl": "Terwijl het publiek applaudisseerde, boog de dirigent zich meermaals"
+},
+"vernäipen\u00010\u00011": {
+"pt": "A chefe de Estado depôs uma coroa de flores e inclinou-se diante do monumento",
+"nl": "Het staatshoofd legde een krans neer en boog zich voor het monument"
+},
+"verneelen\u00010\u00010": {
+"pt": "Até a um bom ferrador pode acontecer picar o cavalo com um prego",
+"nl": "Ook een goede hoefsmid kan het overkomen dat hij een paard vernagelt"
+},
+"vernéieren\u00010\u00010": {
+"pt": "Nas minhas férias dei uma demão fresca de verniz a todas as portas e janelas da casa",
+"nl": "In mijn verlof heb ik alle deuren en ramen in het huis vers gevernist"
+},
+"verneigen\u00010\u00010": {
+"pt": "Enquanto o público aplaudia, o maestro fez várias vénias",
+"nl": "Terwijl het publiek applaudisseerde, maakte de dirigent meermaals een buiging"
+},
+"verneigen\u00010\u00011": {
+"pt": "O chefe de Estado depôs uma coroa de flores e inclinou-se diante do monumento",
+"nl": "Het staatshoofd legde een krans neer en maakte een buiging voor het monument"
+},
+"vernennen\u00010\u00010": {
+"pt": "As crianças são repreendidas quando entram em casa com os sapatos sujos",
+"nl": "De kinderen krijgen op hun kop als ze met vuile schoenen het huis binnenkomen"
+},
+"vernennen\u00011\u00010": {
+"pt": "Os irmãos chamam-lhe medroso porque tem medo de ir sozinho à cave",
+"nl": "Zijn broers noemen hem bangerik omdat hij bang is alleen naar de kelder te gaan"
+},
+"vernennen\u00011\u00011": {
+"pt": "Há pessoas que chamam sempre antiquitaire ao antiquário",
+"nl": "Er zijn mensen die de antiquair altijd antiquitaire noemen"
+},
+"vernetzen\u00010\u00010": {
+"pt": "Não se podem interligar esses dois serviços?",
+"nl": "Kunnen die twee diensten niet met elkaar verbonden worden?"
+},
+"vernetzen\u00010\u00011": {
+"pt": "É importante interligar melhor a escola e o meio profissional durante a formação",
+"nl": "Het is belangrijk school en beroepsmilieu tijdens de opleiding beter met elkaar te verbinden"
+},
+"Vernetzung\u00010\u00010": {
+"pt": "Está prevista uma ligação em rede das várias instituições",
+"nl": "Er is een koppeling van de verschillende instellingen voorzien"
+},
+"Vernetzung\u00010\u00011": {
+"pt": "Precisamos de uma melhor articulação das estruturas atuais",
+"nl": "We hebben een betere koppeling van de huidige structuren nodig"
+},
+"vernichten\u00010\u00010": {
+"pt": "Aquele país está disposto a destruir as suas armas químicas",
+"nl": "Dat land is bereid zijn chemische wapens te vernietigen"
+},
+"Vernichtung\u00010\u00010": {
+"pt": "Vários países exigiram a destruição de todas as armas nucleares",
+"nl": "Verschillende landen hebben de vernietiging van alle kernwapens geëist"
+},
+"Vernis\u00010\u00010": {
+"pt": "Que trabalheira para tirar o verniz daquele armário velho!",
+"nl": "Wat heb ik me uitgesloofd om de vernis van die oude kast te krijgen!"
+},
+"Vernissage\u00010\u00010": {
+"pt": "O artista nem sequer esteve no vernissage da sua própria exposição!",
+"nl": "De kunstenaar was niet eens aanwezig op de vernissage van zijn eigen tentoonstelling!"
+},
+"vernoléissegen\u00010\u00010": {
+"pt": "Por causa da sua profissão, tem negligenciado ultimamente a família",
+"nl": "Door zijn beroep heeft hij de laatste tijd zijn gezin verwaarloosd"
+},
+"vernoléissegen\u00010\u00011": {
+"pt": "Não deves negligenciar assim a tua saúde!",
+"nl": "Je moet je gezondheid niet zo verwaarlozen!"
+},
+"vernoléissegen\u00010\u00012": {
+"pt": "Há casos em que os pais negligenciam os filhos",
+"nl": "Er zijn gevallen waarin ouders hun kinderen verwaarlozen"
 }
 }
