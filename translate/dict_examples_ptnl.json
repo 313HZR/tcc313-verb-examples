@@ -224998,5 +224998,905 @@
 "Welt\u00018\u00015": {
 "pt": "Tu és uma vergonha para o mundo!",
 "nl": "Je bent een schande voor de wereld!"
+},
+"Welt\u00018\u00016": {
+"pt": "Já não percebo o mundo!",
+"nl": "Ik begrijp de wereld niet meer!"
+},
+"Weltall\u00010\u00010": {
+"pt": "As distâncias no universo medem-se em anos-luz",
+"nl": "Afstanden in het heelal worden in lichtjaren gemeten"
+},
+"Weltausstellung\u00010\u00010": {
+"pt": "Nas exposições universais são apresentadas as tecnologias mais recentes de todos os países",
+"nl": "Op wereldtentoonstellingen worden de nieuwste technologieën uit alle landen voorgesteld"
+},
+"Weltausstellung\u00010\u00011": {
+"pt": "O nosso pavilhão na exposição universal agradou a muita gente",
+"nl": "Ons paviljoen op de wereldtentoonstelling viel bij veel mensen in de smaak"
+},
+"weltbekannt\u00010\u00010": {
+"pt": "Os bilhetes para os concertos da músico mundialmente famosa esgotaram logo",
+"nl": "De tickets voor de concerten van de wereldberoemde muzikante waren meteen uitverkocht"
+},
+"weltbekannt\u00010\u00011": {
+"pt": "Esse museu tem uma coleção de fósseis mundialmente famosa",
+"nl": "Dat museum heeft een wereldberoemde fossielencollectie"
+},
+"weltberüümt\u00010\u00010": {
+"pt": "Durante a noite foi roubado do museu um quadro mundialmente famoso",
+"nl": "In de nacht werd uit het museum een wereldberoemd schilderij gestolen"
+},
+"weltberüümt\u00010\u00011": {
+"pt": "O compositor tornou-se mundialmente famoso com esta sinfonia",
+"nl": "De componist werd met deze symfonie wereldberoemd"
+},
+"Weltbevëlkerung\u00010\u00010": {
+"pt": "Devido aos muitos nascimentos nos países em desenvolvimento, a população mundial continua a crescer fortemente",
+"nl": "Door de vele geboorten in de ontwikkelingslanden groeit de wereldbevolking nog steeds sterk"
+},
+"Weltelitt\u00010\u00010": {
+"pt": "Graças ao seu treino intensivo, o nosso campeão nacional de ténis chegou à elite mundial",
+"nl": "Dankzij zijn intensieve training is onze nationale tenniskampioen tot de wereldtop doorgedrongen"
+},
+"Weltënnergang\u00010\u00010": {
+"pt": "Há sempre pessoas que profetizam o fim do mundo",
+"nl": "Er zijn steeds weer mensen die het einde van de wereld voorspellen"
+},
+"Weltgeschicht\u00010\u00010": {
+"pt": "Na história universal há muitos exemplos de revoluções sangrentas",
+"nl": "In de wereldgeschiedenis zijn er genoeg voorbeelden van bloedige revoluties"
+},
+"Weltgeschicht\u00010\u00011": {
+"pt": "Desde que está reformado, anda a viajar pelo mundo inteiro",
+"nl": "Sinds hij met pensioen is, reist hij de hele wereld rond"
+},
+"Weltgesondheetsorganisatioun\u00010\u00010": {
+"pt": "A Organização Mundial da Saúde coordenou os esforços contra o coronavírus",
+"nl": "De Wereldgezondheidsorganisatie heeft de inspanningen tegen het coronavirus gecoördineerd"
+},
+"Weltgesondheetsorganisatioun\u00010\u00011": {
+"pt": "A Organização Mundial da Saúde emitiu recomendações contra a propagação da febre do Ébola",
+"nl": "De Wereldgezondheidsorganisatie heeft aanbevelingen gedaan tegen de verspreiding van de ebolakoorts"
+},
+"Weltkaart\u00010\u00010": {
+"pt": "O professor mostrou às crianças os diferentes continentes no mapa-múndi",
+"nl": "De onderwijzer toonde de kinderen de verschillende continenten op de wereldkaart"
+},
+"Weltkaart\u00010\u00011": {
+"pt": "Nos arquivos estão expostos mapas-múndi do século XIV ao século XIX",
+"nl": "In de archieven zijn wereldkaarten uit de 14e tot de 19e eeuw tentoongesteld"
+},
+"Weltklass\u00010\u00010": {
+"pt": "A jovem ginasta já é de classe mundial",
+"nl": "De jonge turnster behoort al tot de wereldklasse"
+},
+"Weltklass\u00010\u00011": {
+"pt": "Os teus bolinhos de batata são de classe mundial!",
+"nl": "Je aardappelkoekjes zijn wereldklasse!"
+},
+"Weltklima\u00010\u00010": {
+"pt": "Os especialistas do tempo consideram alarmante a evolução do clima mundial",
+"nl": "De weerspecialisten vinden de ontwikkeling van het wereldklimaat alarmerend"
+},
+"Weltkrich\u00010\u00010": {
+"pt": "Os meus avós sobreviveram a duas guerras mundiais",
+"nl": "Mijn grootouders hebben twee wereldoorlogen overleefd"
+},
+"weltlech\u00010\u00010": {
+"pt": "As autoridades religiosas e civis participaram nas cerimónias",
+"nl": "Kerkelijke en wereldlijke autoriteiten namen deel aan de plechtigheden"
+},
+"weltlech\u00010\u00011": {
+"pt": "Com as suas ideias laicas, ele não se dá bem com os pais crentes",
+"nl": "Met zijn wereldlijke ideeën kan hij niet goed overweg met zijn gelovige ouders"
+},
+"Weltmaart\u00010\u00010": {
+"pt": "A concorrência no mercado mundial é cada vez maior",
+"nl": "De concurrentie op de wereldmarkt wordt steeds groter"
+},
+"Weltmeeschter\u00010\u00010": {
+"pt": "Aquele pugilista foi várias vezes seguidas campeão do mundo",
+"nl": "Die bokser was een paar keer na elkaar wereldkampioen"
+},
+"Weltmeeschter\u00010\u00011": {
+"pt": "És campeão do mundo a criticar!",
+"nl": "Je bent wereldkampioen in het bekritiseren!"
+},
+"Weltmeeschterin\u00010\u00010": {
+"pt": "Pude ver a campeã do mundo de saltos a cavalo durante o treino",
+"nl": "Ik kon de wereldkampioene in het springrijden tijdens de training zien"
+},
+"Weltmeeschterschaft\u00010\u00010": {
+"pt": "O nosso campeão nacional é um dos finalistas no campeonato do mundo",
+"nl": "Onze landskampioen is een van de finalisten op het wereldkampioenschap"
+},
+"Weltmeeschterschaft\u00010\u00011": {
+"pt": "Quem ganhou este ano o campeonato do mundo de esgrima?",
+"nl": "Wie heeft dit jaar het wereldkampioenschap schermen gewonnen?"
+},
+"Weltmierer\u00010\u00010": {
+"pt": "A nossa frota navega por todos os mares do mundo",
+"nl": "Onze vloot vaart op alle wereldzeeën"
+},
+"Weltmuecht\u00010\u00010": {
+"pt": "As potências mundiais de hoje não são necessariamente as de amanhã",
+"nl": "De wereldmachten van vandaag zijn niet noodzakelijk die van morgen"
+},
+"Welträich\u00010\u00010": {
+"pt": "A Inglaterra governou sobre um império mundial",
+"nl": "Engeland heeft over een wereldrijk geregeerd"
+},
+"Weltraum\u00010\u00010": {
+"pt": "Nos anos cinquenta foram lançados os primeiros foguetões para o espaço",
+"nl": "In de jaren vijftig werden de eerste raketten de ruimte in geschoten"
+},
+"Weltrees\u00010\u00010": {
+"pt": "Há muito que sonho em fazer um dia uma viagem à volta do mundo",
+"nl": "Ik droom al lang van een wereldreis"
+},
+"Weltrees\u00010\u00011": {
+"pt": "Com todas aquelas obras, foi uma verdadeira odisseia chegar até vocês",
+"nl": "Met al die werven was het een wereldreis om bij jullie te komen"
+},
+"Weltrekord\u00010\u00010": {
+"pt": "Esse atleta bateu o recorde do mundo no salto com vara",
+"nl": "Die atleet heeft het wereldrecord polsstokhoogspringen verbroken"
+},
+"Weltrelioun\u00010\u00010": {
+"pt": "O budismo é uma das religiões mundiais",
+"nl": "Het boeddhisme is een van de wereldreligies"
+},
+"Weltsiicht\u00010\u00010": {
+"pt": "Um capitalista e um comunista têm duas visões do mundo diferentes",
+"nl": "Een kapitalist en een communist hebben twee verschillende wereldbeelden"
+},
+"weltwäit\u00010\u00010": {
+"pt": "A falência daquele grande banco desencadeou uma crise mundial",
+"nl": "Het faillissement van die grote bank veroorzaakte een wereldwijde crisis"
+},
+"weltwäit\u00010\u00011": {
+"pt": "Esta marca de massa encontra-se hoje em dia em todo o mundo",
+"nl": "Dit merk noedels vindt men tegenwoordig wereldwijd"
+},
+"Weltwonner\u00010\u00010": {
+"pt": "Ele olha para mim como se eu fosse uma das sete maravilhas do mundo",
+"nl": "Hij kijkt me aan alsof ik een van de zeven wereldwonderen was"
+},
+"Wëlwerwolz\u00010\u00010": {
+"pt": "Moro em Wëlwerwolz",
+"nl": "Ik woon in Wëlwerwolz"
+},
+"Wëlwerwolz\u00010\u00011": {
+"pt": "Este autocarro vai para Wëlwerwolz?",
+"nl": "Rijdt deze bus naar Wëlwerwolz?"
+},
+"Wëlzer Schlass\u00010\u00010": {
+"pt": "Moro em Wëlzer Schlass",
+"nl": "Ik woon in Wëlzer Schlass"
+},
+"Wëlzer Schlass\u00010\u00011": {
+"pt": "Este autocarro vai para Wëlzer Schlass?",
+"nl": "Rijdt deze bus naar Wëlzer Schlass?"
+},
+"Wemperhaart\u00010\u00010": {
+"pt": "Moro em Wemperhaart",
+"nl": "Ik woon in Wemperhaart"
+},
+"Wemperhaart\u00010\u00011": {
+"pt": "Este autocarro vai para Wemperhaart?",
+"nl": "Rijdt deze bus naar Wemperhaart?"
+},
+"Wëncher\u00010\u00010": {
+"pt": "Moro em Wëncher",
+"nl": "Ik woon in Wëncher"
+},
+"Wëncher\u00010\u00011": {
+"pt": "Este autocarro vai para Wëncher?",
+"nl": "Rijdt deze bus naar Wëncher?"
+},
+"Wëndel\u00010\u00010": {
+"pt": "Acho que a tua pequena precisa de uma fralda limpa",
+"nl": "Ik denk dat je kleintje een schone luier nodig heeft"
+},
+"Wëndel\u00011\u00010": {
+"pt": "Acho que o teu pequeno precisa de uma fralda limpa",
+"nl": "Ik denk dat je kleine een schone luier nodig heeft"
+},
+"Wendeltrap\u00010\u00010": {
+"pt": "Só se chega à torre da igreja por uma escada de caracol estreita",
+"nl": "Je kunt enkel via een smalle wenteltrap naar de kerktoren omhoog"
+},
+"wenden\u00010\u00010": {
+"pt": "Para obter mais informações sobre esse subsídio, tens de te dirigir à câmara municipal",
+"nl": "Om meer informatie over die subsidie te krijgen, moet je je tot de gemeente wenden"
+},
+"Wendung\u00010\u00010": {
+"pt": "No fim, a história tomou um rumo que ninguém esperava",
+"nl": "Op het einde nam dat verhaal een wending waar niemand rekening mee had gehouden"
+},
+"Wendung\u00011\u00010": {
+"pt": "As expressões idiomáticas são muitas vezes difíceis de traduzir",
+"nl": "Idiomatische uitdrukkingen zijn vaak moeilijk te vertalen"
+},
+"Wéngert\u00010\u00010": {
+"pt": "O viticultor replantou esta vinha",
+"nl": "De wijnbouwer heeft deze wijngaard opnieuw aangeplant"
+},
+"Wéngert\u00010\u00011": {
+"pt": "A nossa aldeia fica no meio das vinhas",
+"nl": "Ons dorp ligt midden in de wijngaarden"
+},
+"Wénk\u00010\u00010": {
+"pt": "Ele fez-me um sinal e eu percebi logo",
+"nl": "Hij gaf me een wenk en ik begreep het meteen"
+},
+"Wénk\u00010\u00011": {
+"pt": "Isso foi uma indireta bem óbvia",
+"nl": "Dat was een wenk met een zaaglat"
+},
+"Wénkel\u00010\u00010": {
+"pt": "Num triângulo, a soma dos ângulos é sempre 180 graus",
+"nl": "In een driehoek is de som van de hoeken altijd 180 graden"
+},
+"Wénkel\u00010\u00011": {
+"pt": "Fiquei preso no arame farpado e agora tenho um rasgão nas calças",
+"nl": "Ik bleef aan het prikkeldraad hangen en nu heb ik een winkelhaak in mijn broek"
+},
+"Wénkel\u00011\u00010": {
+"pt": "A parede está torta, parece que o estucador se esqueceu do esquadro",
+"nl": "De muur is scheef, het lijkt wel of de plakker de winkelhaak vergeten was"
+},
+"Wénkel\u00012\u00010": {
+"pt": "A polícia revistou todos os cantos da casa",
+"nl": "De politie heeft elke hoek van het huis doorzocht"
+},
+"Wénkel\u00013\u00010": {
+"pt": "Quantos galões tem o general no seu uniforme?",
+"nl": "Hoeveel winkelhaken heeft de generaal op zijn uniform?"
+},
+"Wénkel\u00014\u00010": {
+"pt": "O futebolista teve de rematar de um ângulo impossível",
+"nl": "De voetballer moest vanuit een onmogelijke hoek schieten"
+},
+"Wénkel\u00015\u00010": {
+"pt": "Tive um acidente porque não vi o carro no ângulo morto",
+"nl": "Ik had een ongeval omdat ik de auto in mijn dode hoek over het hoofd had gezien"
+},
+"wénken\u00010\u00010": {
+"pt": "Queria fazer-lhe sinal, mas ele não me viu",
+"nl": "Ik wilde naar hem zwaaien, maar hij zag me niet"
+},
+"wénken\u00010\u00011": {
+"pt": "As crianças da escola estavam ao longo da rua e acenavam com as bandeirinhas",
+"nl": "De schoolkinderen stonden langs de straat en zwaaiden met vlaggetjes"
+},
+"wënsch\u00010\u00010": {
+"pt": "A moldura da porta está empenada",
+"nl": "Het kozijn van de deur is scheefgetrokken"
+},
+"wënsch\u00010\u00011": {
+"pt": "Ele espreitou de forma enviesada",
+"nl": "Hij keek scheef naar binnen"
+},
+"wënschen\u00010\u00010": {
+"pt": "Desejo-te que os teus sonhos se realizem um dia",
+"nl": "Ik wens je dat je dromen ooit uitkomen"
+},
+"wënschen\u00010\u00011": {
+"pt": "Desejo-vos bom apetite!",
+"nl": "Ik wens u smakelijk eten!"
+},
+"wënschen\u00010\u00012": {
+"pt": "Desejamos-vos muita felicidade no novo ano!",
+"nl": "We wensen jullie veel geluk in het nieuwe jaar!"
+},
+"wënschen\u00011\u00010": {
+"pt": "As pessoas desejam uma paz duradoura no mundo",
+"nl": "De mensen wensen zich een blijvende vrede in de wereld"
+},
+"wënschen\u00011\u00011": {
+"pt": "Todo o patrão gostaria de ter um trabalhador tão aplicado",
+"nl": "Elke baas zou zo'n ijverige werknemer wensen"
+},
+"wënschen\u00012\u00010": {
+"pt": "No dia de Ano Novo fomos desejar um bom ano à família",
+"nl": "Nieuwjaarsdag zijn we de familie gaan nieuwjaar wensen"
+},
+"wënschen\u00012\u00011": {
+"pt": "Fomos desejar um bom ano ao vizinho",
+"nl": "We hebben de buurman een gelukkig nieuwjaar gewenst"
+},
+"wënschenswäert\u00010\u00010": {
+"pt": "É desejável simplificar os trâmites administrativos",
+"nl": "Het is wenselijk de administratieve procedures te vereenvoudigen"
+},
+"Wëntger\u00010\u00010": {
+"pt": "Moro em Wëntger",
+"nl": "Ik woon in Wëntger"
+},
+"Wëntger\u00010\u00011": {
+"pt": "Este autocarro vai para Wëntger?",
+"nl": "Rijdt deze bus naar Wëntger?"
+},
+"Wëntreng\u00010\u00010": {
+"pt": "Moro em Wëntreng",
+"nl": "Ik woon in Wëntreng"
+},
+"Wëntreng\u00010\u00011": {
+"pt": "Este autocarro vai para Wëntreng?",
+"nl": "Rijdt deze bus naar Wëntreng?"
+},
+"wenzelen\u00010\u00010": {
+"pt": "Dei voltas na cama a noite toda, não consegui adormecer",
+"nl": "Ik heb de hele nacht liggen woelen, ik kon niet in slaap vallen"
+},
+"wenzelen\u00010\u00011": {
+"pt": "A roda de trás abana",
+"nl": "Het achterwiel wiebelt"
+},
+"wenzelen\u00011\u00010": {
+"pt": "O leitão rebolou-se na lama",
+"nl": "Het biggetje wentelde zich in de modder"
+},
+"Wënzer\u00010\u00010": {
+"pt": "O viticultor espera alguns dias de sol antes da vindima",
+"nl": "De wijnbouwer wacht op een paar zonnige dagen voor de wijnoogst"
+},
+"Wënzer\u00010\u00011": {
+"pt": "A minha cunhada é de uma família de viticultores",
+"nl": "Mijn schoonzus komt uit een wijnbouwersfamilie"
+},
+"Wënzerbetrib\u00010\u00010": {
+"pt": "O meu cunhado é o único herdeiro de uma grande empresa vinícola",
+"nl": "Mijn zwager is de enige erfgenaam van een groot wijnbouwbedrijf"
+},
+"Wënzerin\u00010\u00010": {
+"pt": "A viticultora tem algo para contar sobre cada um dos seus vinhos",
+"nl": "De wijnbouwster weet over elk van haar wijnen iets te vertellen"
+},
+"Werbeen\u00010\u00010": {
+"pt": "A verbena é boa para a digestão",
+"nl": "Verbena is goed voor de spijsvertering"
+},
+"Werbeen\u00010\u00011": {
+"pt": "Quando não consigo adormecer, bebo um chá de verbena",
+"nl": "Als ik niet kan inslapen, drink ik een thee van verbena"
+},
+"werfen\u00010\u00010": {
+"pt": "Atira a bola o mais longe que conseguires!",
+"nl": "Gooi de bal zo ver als je kunt!"
+},
+"werfen\u00010\u00011": {
+"pt": "Assim que começam as férias grandes, atiro a mochila para o canto",
+"nl": "Zodra de grote vakantie begint, gooi ik mijn schooltas in de hoek"
+},
+"werfen\u00010\u00012": {
+"pt": "Não podes meter toda a gente no mesmo saco",
+"nl": "Je kunt de mensen niet allemaal over één kam scheren"
+},
+"werfen\u00010\u00013": {
+"pt": "Meteste a carta na caixa do correio?",
+"nl": "Heb je de brief in de brievenbus gegooid?"
+},
+"werfen\u00010\u00014": {
+"pt": "O ciclista atirou a toalha ao chão",
+"nl": "De wielrenner heeft de handdoek in de ring gegooid"
+},
+"werfen\u00010\u00015": {
+"pt": "O grande abeto faz muita sombra",
+"nl": "De grote den werpt veel schaduw"
+},
+"werfen\u00010\u00016": {
+"pt": "O mau tempo deitou por terra os nossos planos",
+"nl": "Het slechte weer heeft onze plannen in het honderd gestuurd"
+},
+"werfen\u00010\u00017": {
+"pt": "Podes dar uma vista de olhos ao meu texto?",
+"nl": "Kun je een blik op mijn tekst werpen?"
+},
+"werfen\u00010\u00018": {
+"pt": "Quando soube, a mulher pôs o namorado na rua",
+"nl": "Toen ze het te weten kwam, zette de vrouw haar vriend aan de deur"
+},
+"werfen\u00010\u00019": {
+"pt": "Em breve já não terá nada, se continuar a deitar dinheiro fora assim",
+"nl": "Hij zal binnenkort niets meer hebben als hij zo met geld blijft smijten"
+},
+"werfen\u00010\u000110": {
+"pt": "Acho que ela lançou um olhar a ti",
+"nl": "Ik denk dat ze een oogje op je heeft laten vallen"
+},
+"werfen\u00011\u00010": {
+"pt": "A porca teve doze leitões",
+"nl": "De zeug heeft twaalf biggen geworpen"
+},
+"werfen\u00012\u00010": {
+"pt": "O parquet empenou por causa da humidade",
+"nl": "Het parket is door het vocht kromgetrokken"
+},
+"werfen\u00013\u00010": {
+"pt": "No seu desespero, o homem lançou-se de joelhos",
+"nl": "In zijn wanhoop wierp de man zich op de knieën"
+},
+"werfen\u00013\u00011": {
+"pt": "A criança teimosa atirou-se ao chão e gritou muito alto",
+"nl": "Het koppige kind wierp zich op de grond en schreeuwde luid"
+},
+"werfen\u00013\u00012": {
+"pt": "Ele atirou-se ao meu pescoço",
+"nl": "Hij is me om de hals gevallen"
+},
+"werfen\u00013\u00013": {
+"pt": "Naquela discussão, ele fez-se importante",
+"nl": "In die discussie zette hij zich op de borst"
+},
+"Werjem\u00010\u00010": {
+"pt": "Depois de lavares a couve-lombarda, podes cortar as folhas em tiras",
+"nl": "Als je de savooikool gewassen hebt, kun je de bladeren in reepjes snijden"
+},
+"Wermischel\u00010\u00010": {
+"pt": "Queres aletria ou massa de letrinhas no caldo de carne?",
+"nl": "Wil je vermicelli of letterpasta in de runderbouillon?"
+},
+"Wësch\u00011\u00010": {
+"pt": "Depois do passeio, seco o meu cavalo com um punhado de palha",
+"nl": "Na de uitstap wrijf ik mijn paard droog met een bos stro"
+},
+"Wësch\u00011\u00011": {
+"pt": "Pega num punhado de erva para limpar os sapatos",
+"nl": "Neem een bos gras om de schoenen schoon te maken"
+},
+"Wësch\u00011\u00012": {
+"pt": "Cuidado para o punhado de palha não ir parar aos tachos!",
+"nl": "Pas op dat je de bos stro niet in de potten krijgt!"
+},
+"Wësch\u00012\u00010": {
+"pt": "Então dá cá esse papel para eu pôr a minha assinatura!",
+"nl": "Geef dan maar dat papier, dan zet ik mijn handtekening eronder!"
+},
+"Wësch\u00012\u00011": {
+"pt": "E ainda tens o descaramento de me entregar um papel desses!",
+"nl": "En jij hebt nog de brutaliteit om me zo'n papiertje te overhandigen!"
+},
+"wëschen\u00010\u00010": {
+"pt": "Quando acabar de lavar a loiça, passo outra vez rapidamente o esfregão pelo chão",
+"nl": "Als ik klaar ben met afwassen, haal ik nog even snel met de dweil over de vloer"
+},
+"wëschen\u00010\u00011": {
+"pt": "Passa um pano húmido pela mesa, está toda peganhenta!",
+"nl": "Veeg met een vochtige vod over de tafel, hij is helemaal plakkerig!"
+},
+"wëschen\u00010\u00012": {
+"pt": "Os canhotos têm de ter cuidado para não esborratar com a mão a tinta fresca ao escrever",
+"nl": "Linkshandigen moeten opletten dat ze bij het schrijven niet met hun hand over de verse inkt vegen"
+},
+"wëschen\u00011\u00010": {
+"pt": "Limpa as migalhas da mesa!",
+"nl": "Veeg de kruimels van de tafel!"
+},
+"wëschen\u00011\u00011": {
+"pt": "A criança limpou as lágrimas dos olhos",
+"nl": "Het kind veegde de tranen uit zijn ogen"
+},
+"wëschen\u00012\u00010": {
+"pt": "Agora mesmo um rato passou a correr para debaixo do armário",
+"nl": "Net is er een muis onder de kast geschoten"
+},
+"wëschen\u00012\u00011": {
+"pt": "Veio a correr pela esquina como se alguém andasse atrás dele",
+"nl": "Hij kwam om de hoek gestoven alsof er iemand achter hem aan zat"
+},
+"Wëssen\u00010\u00010": {
+"pt": "Nesse domínio só tenho conhecimentos fragmentários",
+"nl": "Op dat gebied heb ik maar fragmentarische kennis"
+},
+"Wëssen\u00010\u00011": {
+"pt": "Podias ajudar-nos, aqui o teu saber faz falta!",
+"nl": "Kun je ons helpen, hier is jouw kennis gevraagd!"
+},
+"wëssen\u00010\u00010": {
+"pt": "O nosso professor sabe muito sobre a mitologia grega",
+"nl": "Onze professor weet veel over de Griekse mythologie"
+},
+"wëssen\u00010\u00011": {
+"pt": "Quem pensa que sabe tudo, na verdade não sabe nada",
+"nl": "Wie denkt dat hij alles weet, weet eigenlijk niets"
+},
+"wëssen\u00011\u00010": {
+"pt": "Sabem se há por aqui perto uma farmácia?",
+"nl": "Weet u of er hier in de buurt een apotheek is?"
+},
+"wëssen\u00011\u00011": {
+"pt": "Eu não sabia que cantavas tão bem",
+"nl": "Ik wist niet dat je zo goed kon zingen"
+},
+"wëssen\u00011\u00012": {
+"pt": "Não conheço ninguém que não tivesse tido medo no meu lugar",
+"nl": "Ik ken niemand die op mijn plaats niet bang zou zijn geweest"
+},
+"wëssen\u00011\u00013": {
+"pt": "Não conheces nenhum remédio contra os pulgões?",
+"nl": "Ken jij geen middel tegen bladluis?"
+},
+"wëssen\u00011\u00014": {
+"pt": "Não sei de cor o horário do autocarro",
+"nl": "Ik weet het uurrooster van de bus niet uit het hoofd"
+},
+"wëssen\u00011\u00015": {
+"pt": "Ele faz como se não soubesse nada disso",
+"nl": "Hij doet alsof hij van niets weet"
+},
+"wëssen\u00011\u00016": {
+"pt": "Já não sei o que fazer com todas estas revistas velhas",
+"nl": "Ik weet niet meer wat ik met al die oude tijdschriften moet aanvangen"
+},
+"wëssen\u00011\u00017": {
+"pt": "Que eu saiba, não",
+"nl": "Niet dat ik weet"
+},
+"wëssen\u00011\u00018": {
+"pt": "Depois daquela discussão não quis saber mais nada dele",
+"nl": "Na die ruzie wilde ik niets meer van hem weten"
+},
+"wëssen\u00011\u00019": {
+"pt": "Não sabiam o que fazer com as mãos",
+"nl": "Ze wisten niet meer wat ze met hun handen moesten doen"
+},
+"wëssen\u00011\u000110": {
+"pt": "Já não sei para onde me virar",
+"nl": "Ik weet niet meer waar ik het zoeken moet"
+},
+"wëssen\u00012\u00010": {
+"pt": "Não sei se desliguei a máquina de café",
+"nl": "Ik weet niet of ik de koffiemachine heb uitgezet"
+},
+"wëssen\u00012\u00011": {
+"pt": "De mim não recebes nem um cêntimo, só para saberes",
+"nl": "Van mij krijg je geen cent, dat je het maar weet"
+},
+"wëssen\u00013\u00010": {
+"pt": "Já não me lembro do que lhe tinha oferecido naquela altura",
+"nl": "Ik weet niet meer wat ik hem toen cadeau had gegeven"
+},
+"wëssen\u00014\u00010": {
+"pt": "Ele sabe comportar-se",
+"nl": "Hij weet zich te gedragen"
+},
+"wëssen\u00014\u00011": {
+"pt": "Ele sabe lidar com pessoas de todas as idades",
+"nl": "Hij weet met oude mensen om te gaan"
+},
+"wëssen\u00014\u00012": {
+"pt": "Sei cantar uma canção sobre isso",
+"nl": "Daar kan ik een lied van zingen"
+},
+"wëssen\u00014\u00013": {
+"pt": "Não lhe leves isso a mal, ele não sabe melhor",
+"nl": "Neem het hem niet kwalijk, hij weet niet beter"
+},
+"wëssen\u00015\u00010": {
+"pt": "Ele sabe sempre melhor",
+"nl": "Hij weet het altijd beter"
+},
+"wëssen\u00015\u00011": {
+"pt": "Ele sabe sempre tudo melhor do que os outros",
+"nl": "Hij weet altijd alles beter"
+},
+"wëssen\u00016\u00010": {
+"pt": "Sabes que mais, vá, hoje vamos acabar mais cedo!",
+"nl": "Weet je wat, kom, we stoppen vandaag wat vroeger!"
+},
+"wëssen\u00017\u00010": {
+"pt": "Que eu saiba, os nossos vizinhos estão de férias",
+"nl": "Voor zover ik weet, zijn onze buren op vakantie"
+},
+"Wëssenschaft\u00010\u00010": {
+"pt": "A astronomia é a ciência do universo",
+"nl": "Sterrenkunde is de wetenschap van het heelal"
+},
+"wëssenschaftlech\u00010\u00010": {
+"pt": "Para esse fenómeno ainda não há explicação científica",
+"nl": "Voor dat fenomeen bestaat nog geen wetenschappelijke verklaring"
+},
+"wëssenschaftlech\u00010\u00011": {
+"pt": "Essa descoberta é uma sensação científica",
+"nl": "Die ontdekking is een wetenschappelijke sensatie"
+},
+"wëssenschaftlech\u00010\u00012": {
+"pt": "Os novos dados já foram avaliados cientificamente?",
+"nl": "Zijn de nieuwe gegevens al wetenschappelijk geëvalueerd?"
+},
+"Wëssenschaftler\u00010\u00010": {
+"pt": "A maioria dos cientistas alerta para as consequências das alterações climáticas",
+"nl": "De meeste wetenschappers waarschuwen voor de gevolgen van de klimaatverandering"
+},
+"Wëssenschaftlerin\u00010\u00010": {
+"pt": "A cientista formada analisa as relações entre o crescimento da população mundial e as alterações climáticas",
+"nl": "De gestudeerde wetenschapster analyseert de verbanden tussen de groei van de wereldbevolking en de klimaatverandering"
+},
+"Wëssensstand\u00010\u00010": {
+"pt": "Para um professor é importante estar sempre atualizado com o estado mais recente do conhecimento na sua matéria",
+"nl": "Voor een leraar is het belangrijk altijd op de hoogte te zijn van de recentste stand van kennis in zijn vak"
+},
+"wëssenswäert\u00010\u00010": {
+"pt": "Nesse folheto os pacientes recebem informações úteis sobre novos métodos de tratamento",
+"nl": "In die brochure krijgen de patiënten wetenswaardige informatie over nieuwe behandelmethoden"
+},
+"wëssenswäert\u00010\u00011": {
+"pt": "Essa palestra não trouxe muita coisa que valesse a pena saber",
+"nl": "Die lezing bracht niet veel wetenswaardigs"
+},
+"Westen\u00010\u00010": {
+"pt": "O sol nasce a leste e põe-se a oeste",
+"nl": "De zon komt op in het oosten en gaat onder in het westen"
+},
+"Westen\u00011\u00010": {
+"pt": "Na rádio anunciaram trovoadas para o oeste do país",
+"nl": "Op de radio meldden ze onweer voor het westen van het land"
+},
+"Westen\u00012\u00010": {
+"pt": "Entre o Leste e o Oeste houve durante muito tempo tensões",
+"nl": "Tussen het oosten en het westen waren er lange tijd spanningen"
+},
+"westlech\u00010\u00010": {
+"pt": "O vento sopra de oeste",
+"nl": "De wind waait uit westelijke richting"
+},
+"westlech\u00010\u00011": {
+"pt": "Na parte ocidental do país há muitos castelos",
+"nl": "In het westelijke deel van het land zijn er veel kastelen"
+},
+"westlech\u00011\u00010": {
+"pt": "Em muitos países asiáticos a música ocidental é popular",
+"nl": "In veel Aziatische landen is westerse muziek populair"
+},
+"westlech\u00011\u00011": {
+"pt": "As pessoas ricas desses países vestem-se à ocidental",
+"nl": "De rijke mensen in die landen kleden zich westers"
+},
+"westlech vun\u00010\u00010": {
+"pt": "A oeste do parque está a nascer um novo bairro",
+"nl": "Ten westen van het park ontstaat een nieuwe wijk"
+},
+"Wett\u00010\u00010": {
+"pt": "Fiz uma aposta com a minha chefe de que o novo estagiário não vai ficar muito tempo connosco",
+"nl": "Ik heb met mijn chef een weddenschap afgesloten dat de nieuwe stagiair niet lang bij ons blijft"
+},
+"Wett\u00010\u00011": {
+"pt": "Aposto o que quiseres que te vais arrepender",
+"nl": "Ik wed alles dat je er spijt van zult krijgen"
+},
+"Wett\u00011\u00010": {
+"pt": "Os meus irmãos fizeram uma corrida",
+"nl": "Mijn broers renden om het hardst"
+},
+"Wett\u00011\u00011": {
+"pt": "Aqueles dois tolos competiram a ver quem bebia mais",
+"nl": "Die twee gekken dronken om het meest"
+},
+"wetten\u00010\u00010": {
+"pt": "Quanto apostamos que acerto no centro do alvo?",
+"nl": "Waar wedden we om dat ik het midden van de schietschijf raak?"
+},
+"wetten\u00010\u00011": {
+"pt": "Vá, apostamos uma grade de cerveja em como a nossa equipa ganha o jogo",
+"nl": "Kom, we wedden om een kratje bier dat onze ploeg de match wint"
+},
+"wetten\u00010\u00012": {
+"pt": "Aposto a cabeça em como aquela empresa vai em breve à falência",
+"nl": "Ik wed mijn hoofd dat dat bedrijf binnenkort failliet gaat"
+},
+"wetten\u00011\u00010": {
+"pt": "O meu irmão chega sempre atrasado, aposto que hoje também não aparece a horas!",
+"nl": "Mijn broer is altijd te laat, ik wed dat hij ook vandaag niet op tijd komt!"
+},
+"wetten\u00011\u00011": {
+"pt": "Podia apostar que aquela vendedora ainda tinha ontem o cabelo louro",
+"nl": "Ik zou kunnen wedden dat die verkoopster gisteren nog blond haar had"
+},
+"wetten\u00012\u00010": {
+"pt": "Para apostar numa corrida de cavalos, é preciso ser maior de idade",
+"nl": "Om te wedden op een paardenrace moet je meerderjarig zijn"
+},
+"Weydeg\u00010\u00010": {
+"pt": "Moro em Weydeg",
+"nl": "Ik woon in Weydeg"
+},
+"Weydeg\u00010\u00011": {
+"pt": "Este autocarro vai para Weydeg?",
+"nl": "Rijdt deze bus naar Weydeg?"
+},
+"Weyderter Haff\u00010\u00010": {
+"pt": "Moro em Weyderter Haff",
+"nl": "Ik woon in Weyderter Haff"
+},
+"Weyderter Haff\u00010\u00011": {
+"pt": "Este autocarro vai para Weyderter Haff?",
+"nl": "Rijdt deze bus naar Weyderter Haff?"
+},
+"Weyer\u00010\u00010": {
+"pt": "Moro em Weyer",
+"nl": "Ik woon in Weyer"
+},
+"Weyer\u00010\u00011": {
+"pt": "Este autocarro vai para Weyer?",
+"nl": "Rijdt deze bus naar Weyer?"
+},
+"Whatsappapero\u00010\u00010": {
+"pt": "Como durante o confinamento não podemos ir tomar uma bebida com os colegas, organizamos todos os fins de semana um aperitivo no WhatsApp",
+"nl": "Omdat we tijdens de lockdown niet met de collega's iets kunnen gaan drinken, organiseren we elk weekend een WhatsApp-aperitief"
+},
+"Whisky\u00010\u00010": {
+"pt": "Bebo sempre o uísque com gelo",
+"nl": "Ik drink whisky altijd met ijs"
+},
+"Whisky\u00011\u00010": {
+"pt": "Depois do jantar bebemos mais dois uísques no bar",
+"nl": "Na het eten dronken we aan de bar nog twee whisky's"
+},
+"Whistleblower\u00010\u00010": {
+"pt": "O denunciante tem de se preparar para um processo longo",
+"nl": "De klokkenluider moet zich op een lang proces voorbereiden"
+},
+"Whistleblowerin\u00010\u00010": {
+"pt": "A denunciante tem de se preparar para um processo longo",
+"nl": "De klokkenluidster moet zich op een lang proces voorbereiden"
+},
+"Wibbel\u00010\u00010": {
+"pt": "O pequeno irrequieto não consegue ficar uma única minuto sossegado na cadeira",
+"nl": "Het kleine wiebelkontje kan geen minuut rustig op een stoel blijven zitten"
+},
+"Wibbeldewapp\u00010\u00010": {
+"pt": "O treme-treme floresce de maio a agosto",
+"nl": "Trilgras bloeit van mei tot augustus"
+},
+"Wibbeldewapp\u00011\u00010": {
+"pt": "O pequeno irrequieto não consegue ficar dois minutos sossegado numa cadeira",
+"nl": "Dat kleine wiebelkontje kan geen twee minuten rustig op een stoel blijven zitten"
+},
+"wibbeleg\u00010\u00010": {
+"pt": "O rapaz irrequieto caiu para trás com a cadeira",
+"nl": "De onrustige jongen viel met zijn stoel achterover"
+},
+"wibbeleg\u00010\u00011": {
+"pt": "Quando o São Nicolau estava para chegar, as crianças ficavam cada vez mais inquietas",
+"nl": "Toen Sinterklaas zou komen, werden de kinderen steeds onrustiger"
+},
+"Wibbelegkeet\u00010\u00010": {
+"pt": "Por causa da sua inquietação, é uma criança bastante cansativa",
+"nl": "Door zijn onrust is dat een nogal vermoeiend kind"
+},
+"wibbelen\u00010\u00010": {
+"pt": "Pensei que a aranha estava morta, mas ainda se mexe",
+"nl": "Ik dacht dat de spin dood was, maar ze beweegt nog"
+},
+"wibbelen\u00011\u00010": {
+"pt": "Não mexas na minha torrezinha, senão cai",
+"nl": "Blijf van mijn torentje af, anders valt het om"
+},
+"wibbelen\u00012\u00010": {
+"pt": "De alegria, o cão abana a cauda",
+"nl": "Van blijdschap kwispelt de hond met zijn staart"
+},
+"wibbelen\u00013\u00010": {
+"pt": "Estamos à espera de uma aprovação; ao que parece, o assunto está prestes a avançar",
+"nl": "We wachten op een goedkeuring, het lijkt erop dat de zaak op komst is"
+},
+"wibbelen\u00014\u00010": {
+"pt": "Foi ele que desencadeou o caso",
+"nl": "Door hem is de zaak aan het rollen gegaan"
+},
+"wibbelen\u00015\u00010": {
+"pt": "Na nossa cave há ratos a fervilhar",
+"nl": "Bij ons in de kelder krioelt het van de muizen"
+},
+"Wichs\u00010\u00010": {
+"pt": "Espero ter comprado o produto certo para o nosso parquet",
+"nl": "Ik hoop dat ik de juiste boenwas voor ons parket gekocht heb"
+},
+"Wichs\u00010\u00011": {
+"pt": "Precisava de uma latinha de graxa preta para os meus sapatos",
+"nl": "Ik zou een potje zwarte schoensmeer voor mijn schoenen nodig hebben"
+},
+"Wichs\u00010\u00012": {
+"pt": "Temo que a reparação do nosso carro vá ficar cara",
+"nl": "Ik vrees dat de herstelling aan onze auto een dure grap wordt"
+},
+"Wichs\u00010\u00013": {
+"pt": "Por hoje já chega!",
+"nl": "Voor vandaag heb ik genoeg gehad!"
+},
+"Wichs\u00010\u00014": {
+"pt": "Esse levou o que merecia",
+"nl": "Die heeft een pak slaag gekregen"
+},
+"Wichsbiischt\u00010\u00010": {
+"pt": "Põe a escova de encerar de volta na lavandaria depois de teres polido o parquet",
+"nl": "Zet de boenborstel terug in de wasruimte nadat je het parket gepoetst hebt"
+},
+"Wichsbiischt\u00010\u00011": {
+"pt": "Cuidado, não uses a escova preta para os sapatos castanhos!",
+"nl": "Pas op, gebruik de zwarte schoenborstel niet voor de bruine schoenen!"
+},
+"wichsen\u00010\u00010": {
+"pt": "O parquet da sala precisava de ser encerado outra vez",
+"nl": "Het parket in de woonkamer zou weer eens geboend moeten worden"
+},
+"wichsen\u00010\u00011": {
+"pt": "Antes do desfile, os recrutas engraxaram as botas",
+"nl": "Voor de parade hebben de rekruten hun laarzen gepoetst"
+},
+"wichsen\u00011\u00010": {
+"pt": "A nossa equipa derrotou o campeão por 3-0",
+"nl": "Onze ploeg heeft de kampioen met 3-0 afgedroogd"
+},
+"wichsen\u00012\u00010": {
+"pt": "Eu masturbo-me todos os dias",
+"nl": "Ik trek mezelf elke dag af"
+},
+"wichteg\u00010\u00010": {
+"pt": "Ainda hoje tenho de falar contigo sobre uma coisa importante",
+"nl": "Ik moet nog vandaag met je over iets belangrijks praten"
+},
+"wichteg\u00010\u00011": {
+"pt": "Não tenho tempo, conta-me só o mais importante!",
+"nl": "Ik heb geen tijd, vertel me gewoon het belangrijkste!"
+},
+"Wichtegkeet\u00010\u00010": {
+"pt": "Com o tempo, as festas religiosas perderam importância",
+"nl": "Na verloop van tijd hebben de kerkelijke feesten aan belang ingeboet"
+},
+"Wick\u00010\u00010": {
+"pt": "Algum maroto cortou o pavio da vela",
+"nl": "Een of andere deugniet heeft de pit van de kaars afgesneden"
+},
+"Wick\u00010\u00011": {
+"pt": "Onde é que ainda se pode comprar pavio para fazer uma vela?",
+"nl": "Waar kan men nog een pit kopen om een kaars te maken?"
+},
+"Wick\u00011\u00010": {
+"pt": "Assim que o rastilho do petardo está a arder, é preciso largá-lo",
+"nl": "Zodra de lont van de rotje brandt, moet men hem laten vallen"
+},
+"Wick\u00012\u00010": {
+"pt": "Ontem apanhei uns jovens a enrolar um charro",
+"nl": "Gisteren betrapte ik een paar jongeren terwijl ze een joint draaiden"
+},
+"Wick\u00013\u00010": {
+"pt": "Como tinha nevado tanto há pouco tempo, ficámos com o carro preso num monte de neve",
+"nl": "Toen het onlangs zoveel gesneeuwd had, bleven we met de auto in een sneeuwbank steken"
+},
+"Wickreng\u00010\u00010": {
+"pt": "Moro em Wickreng",
+"nl": "Ik woon in Wickreng"
+},
+"Wickreng\u00010\u00011": {
+"pt": "Este autocarro vai para Wickreng?",
+"nl": "Rijdt deze bus naar Wickreng?"
+},
+"Widdebierg\u00010\u00010": {
+"pt": "Já estiveste alguma vez em Widdebierg?",
+"nl": "Ben je al eens in Widdebierg geweest?"
+},
+"Widdebierg\u00010\u00011": {
+"pt": "No fim de semana fizemos uma caminhada em Widdebierg",
+"nl": "We zijn in het weekend op de Widdebierg gaan wandelen"
+},
+"Widdem\u00010\u00010": {
+"pt": "A nossa vizinha pode continuar a morar na casa, porque tem o usufruto vitalício dela",
+"nl": "Onze buurvrouw mag in het huis blijven wonen omdat ze er het vruchtgebruik op heeft"
+},
+"widder\u00010\u00010": {
+"pt": "O avançado acertou com a bola na trave",
+"nl": "De spits schoot de bal tegen de lat"
+},
+"widder\u00010\u00011": {
+"pt": "Aninhou-se contra a amiga e adormeceu logo",
+"nl": "Ze nestelde zich tegen haar vriendin aan en viel meteen in slaap"
+},
+"widder\u00010\u00012": {
+"pt": "O autocarro estava tão cheio que íamos uns encostados aos outros",
+"nl": "De bus was zo vol dat we tegen elkaar aan stonden"
 }
 }
