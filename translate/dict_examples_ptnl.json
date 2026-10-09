@@ -174598,5 +174598,905 @@
 "schenken\u00010\u00010": {
 "pt": "O que podemos oferecer ao pai no seu aniversário?",
 "nl": "Wat kunnen we papa voor zijn verjaardag schenken?"
+},
+"schenken\u00010\u00011": {
+"pt": "Ofereci à minha afilhada um globo para a comunhão",
+"nl": "Ik heb mijn petekind een globe voor haar communie geschonken"
+},
+"schenken\u00010\u00012": {
+"pt": "Gosto de oferecer livros",
+"nl": "Ik schenk graag boeken"
+},
+"schenken\u00010\u00013": {
+"pt": "Essa mercadoria, mesmo oferecida, ainda é cara demais",
+"nl": "Die waar is zelfs geschonken nog te duur"
+},
+"schenken\u00010\u00014": {
+"pt": "Naquela loja não te dão nada de graça",
+"nl": "In die winkel krijg je niets cadeau"
+},
+"schenken\u00010\u00015": {
+"pt": "O menu deste restaurante não é barato!",
+"nl": "Het menu in dit restaurant is niet goedkoop!"
+},
+"schenken\u00010\u00016": {
+"pt": "Podes aproveitar esse negócio sem receio, é quase de graça!",
+"nl": "Bij die deal kun je gerust toehappen, het is bijna cadeau!"
+},
+"schenken\u00010\u00017": {
+"pt": "No exame não te dão nada de graça",
+"nl": "In het examen krijg je niets cadeau"
+},
+"schenken\u00010\u00018": {
+"pt": "Essa maçada podes poupá-la!",
+"nl": "Die moeite kun je je besparen!"
+},
+"schenken\u00011\u00010": {
+"pt": "Obrigado por me terem dado a vossa atenção!",
+"nl": "Bedankt dat u mij uw aandacht hebt geschonken!"
+},
+"Schenkung\u00010\u00010": {
+"pt": "A minha mãe transferiu-nos o seu terreno para construção por doação",
+"nl": "Mijn moeder heeft haar bouwgrond via een schenking op ons laten overschrijven"
+},
+"Schenkung\u00010\u00011": {
+"pt": "A coleção de quadros é uma doação dos herdeiros do pintor",
+"nl": "De schilderijenverzameling is een schenking van de erfgenamen van de schilder"
+},
+"schënnen\u00010\u00010": {
+"pt": "O cadáver da vaca está a ser esfolado",
+"nl": "Het kadaver van de koe wordt gevild"
+},
+"schënnen\u00011\u00010": {
+"pt": "Durante quanto tempo ainda pode aquele agricultor maltratar o gado antes de alguém fazer alguma coisa?",
+"nl": "Hoe lang mag die boer zijn vee nog mishandelen voor er iets gebeurt?"
+},
+"schënnen\u00011\u00011": {
+"pt": "Devia ser proibido maltratar assim os empregados!",
+"nl": "Het zou verboden moeten zijn zijn werknemers zo te mishandelen!"
+},
+"schënnen\u00012\u00010": {
+"pt": "Ao cair, o pequeno esfolou os joelhos",
+"nl": "Bij het vallen heeft de kleine zijn knieën geschaafd"
+},
+"schënnen\u00013\u00010": {
+"pt": "Como nos esfalfámos para pôr o jardim em ordem!",
+"nl": "Wat hebben we ons uitgesloofd om de tuin in orde te krijgen!"
+},
+"Schënner\u00010\u00010": {
+"pt": "Nunca venderia o meu velho cavalo ao esfolador!",
+"nl": "Ik zou mijn oude paard nooit aan een paardenslager verkopen!"
+},
+"Schënner\u00011\u00010": {
+"pt": "Na aldeia vizinha há um curandeiro a quem as pessoas vão quando têm dores nas costas",
+"nl": "In het naburige dorp is er een kwakzalver naar wie de mensen gaan als ze rugpijn hebben"
+},
+"Schënner\u00012\u00010": {
+"pt": "Aquele negreiro trata os seus trabalhadores como escravos!",
+"nl": "Die slavendrijver behandelt zijn mensen als slaven!"
+},
+"Schënnerin\u00010\u00010": {
+"pt": "Ontem veio a esfoladora buscar o velho cavalo do agricultor",
+"nl": "Gisteren kwam de paardenslagster het oude paard van de boer ophalen"
+},
+"Schënnerin\u00011\u00010": {
+"pt": "Na aldeia vizinha há uma curandeira que afirma curar todas as doenças com ervas",
+"nl": "In het naburige dorp is er een kruidenvrouw die beweert alle ziekten met kruiden te kunnen genezen"
+},
+"Schënnerin\u00012\u00010": {
+"pt": "Essa patroa trata o seu pessoal como o último dos últimos",
+"nl": "Die slavendrijfster behandelt haar personeel als het laatste van het laatste"
+},
+"Schëpp\u00010\u00010": {
+"pt": "Pega tu na pá, eu pego na picareta!",
+"nl": "Neem jij de schop, ik neem de pikhouweel!"
+},
+"Schëpp\u00010\u00011": {
+"pt": "Vai buscar uma pá e uma escova para apanhar o lixo!",
+"nl": "Ga een stofblik en een borstel zoeken om het vuil op te scheppen!"
+},
+"Schëpp\u00010\u00012": {
+"pt": "Que pá tão grande tem aquela escavadora!",
+"nl": "Wat heeft die graafmachine een grote schep!"
+},
+"Schëpp\u00010\u00013": {
+"pt": "Escapei por um triz à morte",
+"nl": "Ik ben de dood op het nippertje ontsprongen"
+},
+"Schëpp\u00010\u00014": {
+"pt": "Pára de fazer caretas!",
+"nl": "Hou op een scheef gezicht te trekken!"
+},
+"Schëpp\u00010\u00015": {
+"pt": "Os teus colegas gozaram-te à grande",
+"nl": "Je kameraden hebben je flink in de maling genomen"
+},
+"Schëpp\u00011\u00010": {
+"pt": "Varremos cinco pás de lixo",
+"nl": "We hebben vijf schoppen vuil bijeengeveegd"
+},
+"Schëpp\u00011\u00011": {
+"pt": "Se queremos acabar a horas ao meio-dia, temos de acelerar",
+"nl": "Als we tegen de middag klaar willen zijn, moeten we een tandje bijsteken"
+},
+"Schëpp\u00012\u00010": {
+"pt": "Amanhã vem a escavadora ao estaleiro para escavar a cave",
+"nl": "Morgen komt de graafmachine naar de werf om de kelder uit te graven"
+},
+"Schëpp\u00013\u00010": {
+"pt": "Gosto de usar chapéus de abas largas",
+"nl": "Ik draag graag hoeden met brede randen"
+},
+"Schëpp\u00013\u00011": {
+"pt": "Estraguei o meu bom boné de pala grande!",
+"nl": "Ik heb mijn goede pet met de grote klep verknoeid!"
+},
+"schëppen\u00010\u00010": {
+"pt": "Passámos o dia todo a pá carvão",
+"nl": "We hebben de hele dag kolen geschept"
+},
+"schëppen\u00010\u00011": {
+"pt": "As pessoas atiram a neve do passeio para a valeta",
+"nl": "De mensen scheppen de sneeuw van het trottoir in de goot"
+},
+"schëppen\u00010\u00012": {
+"pt": "Pára de te gabar de quantas pás levaste!",
+"nl": "Hou op met opscheppen over hoeveel je geschept hebt!"
+},
+"schëppen\u00011\u00010": {
+"pt": "Abri à pá uma passagem estreita na neve",
+"nl": "Ik heb een smalle doorgang door de sneeuw geschept"
+},
+"Schëppen\u00010\u00010": {
+"pt": "Nesta partida, espadas são trunfo",
+"nl": "In dit spel is schoppen troef"
+},
+"Schëppen\u00010\u00011": {
+"pt": "No meu velho baralho, as espadas já não estão completas, falta o nove",
+"nl": "In mijn oud kaartspel zijn de schoppen niet meer compleet, de negen ontbreekt"
+},
+"Schëppen\u00011\u00010": {
+"pt": "Na última vaza ainda havia três copas e uma espada",
+"nl": "In de laatste slag waren er nog drie harten en een schoppen"
+},
+"Schësser\u00011\u00010": {
+"pt": "Tinha uma diarreia tão forte que não saí da sanita a noite toda!",
+"nl": "Ik had zo'n diarree dat ik de hele nacht niet van de pot kwam!"
+},
+"Schëtter\u00010\u00010": {
+"pt": "Moro em Schëtter",
+"nl": "Ik woon in Schëtter"
+},
+"Schëtter\u00010\u00011": {
+"pt": "Este autocarro vai para Schëtter?",
+"nl": "Rijdt deze bus naar Schëtter?"
+},
+"schëtzeg\u00010\u00010": {
+"pt": "A construção do novo pavilhão desportivo avança rapidamente",
+"nl": "De bouw van de nieuwe sporthal vordert snel"
+},
+"schëtzeg\u00010\u00011": {
+"pt": "O condutor foi mandado parar pela polícia porque ia depressa demais",
+"nl": "De chauffeur werd door de politie aangehouden omdat hij te snel reed"
+},
+"Schi\u00010\u00010": {
+"pt": "Caí a meio da pista e perdi um esqui",
+"nl": "Ik ben midden op de piste gevallen en heb daarbij een ski verloren"
+},
+"Schi\u00011\u00010": {
+"pt": "As crianças aprendem a esquiar sem bastões",
+"nl": "De kinderen leren skiën zonder stokken"
+},
+"Schi\u00011\u00011": {
+"pt": "Por causa dos meus joelhos doridos, já não esquio",
+"nl": "Wegens mijn zere knieën ski ik niet meer"
+},
+"Schibbreger Millen\u00010\u00010": {
+"pt": "Moro em Schibbreger Millen",
+"nl": "Ik woon in Schibbreger Millen"
+},
+"Schibbreger Millen\u00010\u00011": {
+"pt": "Este autocarro vai para Schibbreger Millen?",
+"nl": "Rijdt deze bus naar Schibbreger Millen?"
+},
+"Schibbreger Schlass\u00010\u00010": {
+"pt": "Moro em Schibbreger Schlass",
+"nl": "Ik woon in Schibbreger Schlass"
+},
+"Schibbreger Schlass\u00010\u00011": {
+"pt": "Este autocarro vai para Schibbreger Schlass?",
+"nl": "Rijdt deze bus naar Schibbreger Schlass?"
+},
+"Schibedier\u00010\u00010": {
+"pt": "Queremos separar a sala da cozinha com uma porta de correr",
+"nl": "We zijn van plan onze living met een schuifdeur van de keuken af te scheiden"
+},
+"Schicht\u00010\u00010": {
+"pt": "O lago está sob uma fina camada de gelo",
+"nl": "Het meer ligt onder een dunne laag ijs"
+},
+"Schicht\u00010\u00011": {
+"pt": "A atmosfera da Terra compõe-se de várias camadas",
+"nl": "De atmosfeer van de aarde bestaat uit verschillende lagen"
+},
+"Schicht\u00010\u00012": {
+"pt": "No inverno, o melhor é vestir várias camadas de roupa umas por cima das outras",
+"nl": "In de winter doet men het best meerdere lagen kleren over elkaar aan"
+},
+"Schicht\u00010\u00013": {
+"pt": "O bolo-rei de árvore é cozido camada a camada",
+"nl": "De boomkoek wordt laag na laag gebakken"
+},
+"Schicht\u00010\u00014": {
+"pt": "O teto tem de levar duas demãos de tinta",
+"nl": "Het plafond moet twee lagen verf krijgen"
+},
+"Schicht\u00011\u00010": {
+"pt": "A violência encontra-se em todas as camadas da sociedade",
+"nl": "Geweld vindt men in alle lagen van de maatschappij"
+},
+"Schicht\u00012\u00010": {
+"pt": "Assumi o turno do meu colega na siderurgia",
+"nl": "Ik heb de shift van mijn collega in de staalfabriek overgenomen"
+},
+"Schicht\u00012\u00011": {
+"pt": "Depois do turno, os operários gostam de ir beber um copo juntos",
+"nl": "Na de shift gaan de arbeiders graag samen iets drinken"
+},
+"Schicht\u00012\u00012": {
+"pt": "Na siderurgia trabalha-se por três turnos",
+"nl": "In de staalfabriek wordt in drie ploegen gewerkt"
+},
+"Schicht\u00012\u00013": {
+"pt": "O meu avô trabalhou por turnos toda a vida",
+"nl": "Mijn opa heeft zijn leven lang in ploegen gewerkt"
+},
+"Schicht\u00013\u00010": {
+"pt": "O próximo turno vem substituir-nos dentro de duas horas",
+"nl": "De volgende ploeg komt ons over twee uur aflossen"
+},
+"schick\u00010\u00010": {
+"pt": "Os nossos amigos vivem num bairro elegante",
+"nl": "Onze vrienden wonen in een chique wijk"
+},
+"schick\u00010\u00011": {
+"pt": "A minha colega está sempre muito bem vestida",
+"nl": "Mijn collega is altijd heel chic gekleed"
+},
+"schick\u00011\u00010": {
+"pt": "O meu chefe levou-me flores à clínica, acho que foi um gesto simpático",
+"nl": "Mijn baas bracht me bloemen naar de kliniek, ik vind dat een mooi gebaar"
+},
+"Schicksal\u00010\u00010": {
+"pt": "Antigamente, os Doléiner tinham um destino difícil",
+"nl": "Vroeger hadden de Doléiners een zwaar lot"
+},
+"Schicksal\u00011\u00010": {
+"pt": "O destino foi bom para mim",
+"nl": "Het lot heeft het goed met mij gemeend"
+},
+"Schicksal\u00011\u00011": {
+"pt": "Foi o destino que nos fez encontrar",
+"nl": "Het was het lot dat wij elkaar tegenkwamen"
+},
+"Schicksal\u00011\u00012": {
+"pt": "Isso temos de deixar ao destino",
+"nl": "Dat moeten we aan het lot overlaten"
+},
+"Schicksalsschlag\u00010\u00010": {
+"pt": "Pareces ter superado bem esse golpe do destino",
+"nl": "Je lijkt die klap van het lot goed te hebben doorstaan"
+},
+"Schicksalsschlag\u00010\u00011": {
+"pt": "Os muitos golpes do destino afetaram gravemente os meus familiares",
+"nl": "De vele slagen van het lot hebben mijn familie zwaar aangegrepen"
+},
+"Schidsriichter\u00010\u00010": {
+"pt": "O árbitro mostrou cartão amarelo a um avançado",
+"nl": "De scheidsrechter toonde een spits de gele kaart"
+},
+"Schidsriichterin\u00010\u00010": {
+"pt": "A árbitra mostrou dez cartões amarelos no dérbi",
+"nl": "De scheidsrechter toonde in de derby tien gele kaarten"
+},
+"schiedegen\u00010\u00010": {
+"pt": "Quando o estaleiro for instalado, os comerciantes da rua correm o risco de ser prejudicados",
+"nl": "Wanneer de werf wordt ingericht, riskeren de handelaars uit de straat benadeeld te worden"
+},
+"schiedegen\u00010\u00011": {
+"pt": "O juiz decidiu que todos os lesados devem ser indemnizados",
+"nl": "De rechter besliste dat alle benadeelden vergoed moeten worden"
+},
+"schiedegen\u00010\u00012": {
+"pt": "Se esta noite formos jantar todos juntos, o nosso chefe vai ficar com a carteira bem mais leve",
+"nl": "Als we vanavond samen gaan eten, wordt onze baas flink gepluimd"
+},
+"schiedlech\u00010\u00010": {
+"pt": "Com a erupção vulcânica, foram lançados gases nocivos para a atmosfera",
+"nl": "Door de vulkaanuitbarsting werden schadelijke gassen in de atmosfeer geblazen"
+},
+"schiedlech\u00010\u00011": {
+"pt": "Ver demasiada televisão tem um efeito prejudicial no desenvolvimento da criança",
+"nl": "Te veel tv kijken heeft een schadelijk effect op de ontwikkeling van het kind"
+},
+"schiel\u00010\u00010": {
+"pt": "O nosso cão é cego de um olho",
+"nl": "Onze hond is blind aan één oog"
+},
+"schiel\u00010\u00011": {
+"pt": "O teu carro só tem um farol a funcionar",
+"nl": "Je auto heeft maar één werkende koplamp"
+},
+"schiel\u00011\u00010": {
+"pt": "Tenho um mosquito no olho!",
+"nl": "Ik heb een mug in mijn oog!"
+},
+"schiel\u00012\u00010": {
+"pt": "Não te metas com aquele tipo estúpido!",
+"nl": "Laat je toch niet in met die domme kerel daar!"
+},
+"schiel\u00012\u00011": {
+"pt": "Tens de te portar sempre de forma tão estúpida?",
+"nl": "Moet je je altijd zo stom gedragen?"
+},
+"schiel\u00013\u00010": {
+"pt": "Nunca na vida estive tão bêbado como naquela noite",
+"nl": "Ik was in heel mijn leven nog nooit zo zat als die avond"
+},
+"Schiel\u00010\u00010": {
+"pt": "Deita as cascas para o compostor!",
+"nl": "Gooi de schillen op de compost!"
+},
+"Schiel\u00010\u00011": {
+"pt": "Antigamente, as cascas da fruta e dos legumes davam-se aos porcos",
+"nl": "Vroeger werden de schillen van fruit en groenten aan de varkens gevoerd"
+},
+"schielen\u00010\u00010": {
+"pt": "Ajudas-me a descascar as batatas?",
+"nl": "Help je me de aardappelen schillen?"
+},
+"schielen\u00010\u00011": {
+"pt": "Olha como aquele macaco descasca a banana com tanta habilidade!",
+"nl": "Kijk eens hoe die aap zijn banaan zo behendig schilt!"
+},
+"schielen\u00011\u00010": {
+"pt": "A minha pele está a descamar porque estive demasiado tempo ao sol",
+"nl": "Mijn huid schilfert omdat ik te lang in de zon was"
+},
+"Schielmees\u00010\u00010": {
+"pt": "Quanto tempo incubam os chapins-reais?",
+"nl": "Hoe lang broeden koolmezen?"
+},
+"Schierbaach\u00010\u00010": {
+"pt": "Moro em Schierbaach",
+"nl": "Ik woon in Schierbaach"
+},
+"Schierbaach\u00010\u00011": {
+"pt": "Este autocarro vai para Schierbaach?",
+"nl": "Rijdt deze bus naar Schierbaach?"
+},
+"Schierbel\u00010\u00010": {
+"pt": "Cuidado para não pisares um caco de pés descalços!",
+"nl": "Pas op dat je niet op blote voeten op een scherf trapt!"
+},
+"Schierbel\u00010\u00011": {
+"pt": "Nas escavações, os arqueólogos depararam com interessantes cacos",
+"nl": "Bij de opgravingen stuitten de archeologen op interessante scherven"
+},
+"Schierbel\u00010\u00012": {
+"pt": "Os cacos trazem sorte",
+"nl": "Scherven brengen geluk"
+},
+"Schierbel\u00011\u00010": {
+"pt": "Como me dói a cabeça!",
+"nl": "Wat heb ik hoofdpijn!"
+},
+"Schierbel\u00011\u00011": {
+"pt": "Pergunto-me mesmo o que se passa na tua cabeça!",
+"nl": "Ik vraag me echt af wat er in je hoofd omgaat!"
+},
+"Schierbel\u00011\u00012": {
+"pt": "Aquele Hännes não tem nada na cabeça",
+"nl": "Die Hännes heeft niets in zijn hoofd"
+},
+"schieren\u00010\u00010": {
+"pt": "As crianças puderam ver como as ovelhas eram tosquiadas",
+"nl": "De kinderen mochten zien hoe de schapen geschoren werden"
+},
+"schieren\u00010\u00011": {
+"pt": "Como havia piolhos na escola, as crianças tiveram a cabeça rapada",
+"nl": "Omdat er luizen op school waren, kregen de kinderen hun hoofd kaalgeschoren"
+},
+"schieren\u00011\u00010": {
+"pt": "Devias mandar cortar essa barba!",
+"nl": "Laat die baard van je eens scheren!"
+},
+"schieren\u00011\u00011": {
+"pt": "Para o verão, cortei o cabelo curto",
+"nl": "Voor de zomer liet ik mijn haar kort knippen"
+},
+"Schieren\u00010\u00010": {
+"pt": "Moro em Schieren",
+"nl": "Ik woon in Schieren"
+},
+"Schieren\u00010\u00011": {
+"pt": "Este autocarro vai para Schieren?",
+"nl": "Rijdt deze bus naar Schieren?"
+},
+"Schierener Haff\u00010\u00010": {
+"pt": "Moro em Schierener Haff",
+"nl": "Ik woon in Schierener Haff"
+},
+"Schierener Haff\u00010\u00011": {
+"pt": "Este autocarro vai para Schierener Haff?",
+"nl": "Rijdt deze bus naar Schierener Haff?"
+},
+"Schierener Millen\u00010\u00010": {
+"pt": "Moro em Schierener Millen",
+"nl": "Ik woon in Schierener Millen"
+},
+"Schierener Millen\u00010\u00011": {
+"pt": "Este autocarro vai para Schierener Millen?",
+"nl": "Rijdt deze bus naar Schierener Millen?"
+},
+"Schierfenhaff\u00010\u00010": {
+"pt": "Moro em Schierfenhaff",
+"nl": "Ik woon in Schierfenhaff"
+},
+"Schierfenhaff\u00010\u00011": {
+"pt": "Este autocarro vai para Schierfenhaff?",
+"nl": "Rijdt deze bus naar Schierfenhaff?"
+},
+"Schierlek\u00010\u00010": {
+"pt": "A cicuta cresce muitas vezes à beira dos campos e prados",
+"nl": "De scheerling groeit vaak aan de rand van velden en weiden"
+},
+"Schierm\u00011\u00010": {
+"pt": "As partidas e chegadas dos comboios são indicadas num grande ecrã",
+"nl": "De vertrekken en aankomsten van de treinen worden op een groot scherm getoond"
+},
+"Schierm\u00011\u00011": {
+"pt": "Gostava de comprar um ecrã novo para o computador",
+"nl": "Ik koop graag een nieuw scherm voor de computer"
+},
+"Schierm\u00011\u00012": {
+"pt": "O candidato que ficou com o lugar não estava, no início, no nosso radar",
+"nl": "De kandidaat die de plaats kreeg, hadden we in het begin niet op het scherm"
+},
+"schierpsen\u00010\u00010": {
+"pt": "No verão, os grilos cantam muitas vezes até tarde de noite",
+"nl": "In de zomer sjirpen de krekels vaak tot diep in de nacht"
+},
+"schierpsen\u00011\u00010": {
+"pt": "Na sebe pia um bando inteiro de pardais",
+"nl": "In de haag tjilpt een hele zwerm mussen"
+},
+"Schiertech\u00010\u00010": {
+"pt": "O cozinheiro seca as mãos no avental",
+"nl": "De kok droogt zijn handen aan de schort af"
+},
+"Schiertech\u00010\u00011": {
+"pt": "Quando faço os trabalhos domésticos, uso sempre um avental",
+"nl": "Bij het huishoudelijk werk draag ik altijd een schort"
+},
+"Schiet\u00010\u00010": {
+"pt": "As crianças tentaram apanhar a sua sombra",
+"nl": "De kinderen probeerden hun schaduw te vangen"
+},
+"Schiet\u00010\u00011": {
+"pt": "Ele tem medo da sua própria sombra",
+"nl": "Hij is bang van zijn eigen schaduw"
+},
+"Schiet\u00010\u00012": {
+"pt": "Salta por cima da tua sombra e volta a falar com ele!",
+"nl": "Spring over je schaduw en praat weer met hem!"
+},
+"Schiet\u00010\u00013": {
+"pt": "Ele não chega aos calcanhares da irmã",
+"nl": "Hij haalt het niet bij zijn zus"
+},
+"Schiet\u00011\u00010": {
+"pt": "Prefiro comer à sombra do que ao sol",
+"nl": "Ik eet liever in de schaduw dan in de zon"
+},
+"Schiet\u00011\u00011": {
+"pt": "À tarde, o nosso terraço fica metade à sombra",
+"nl": "In de namiddag ligt ons terras half in de schaduw"
+},
+"Schiethaischen\u00010\u00010": {
+"pt": "Depois da refeição, o padrinho retira-se para o seu abrigo de jardim para dormir uma sesta",
+"nl": "Na het eten trekt de peter zich terug in zijn tuinhuisje om een dutje te doen"
+},
+"schif\u00010\u00010": {
+"pt": "O poste de iluminação torto em que o automobilista bateu tem de ser substituído",
+"nl": "De scheve lantaarnpaal waar de automobilist tegenaan reed, moet vervangen worden"
+},
+"schif\u00010\u00011": {
+"pt": "Não suporto quando um quadro está pendurado torto",
+"nl": "Ik verdraag het niet als een schilderij scheef hangt"
+},
+"schif\u00010\u00012": {
+"pt": "Receio que isto acabe mal",
+"nl": "Ik vrees dat dit scheef zal gaan"
+},
+"schif\u00010\u00013": {
+"pt": "Porque é que me olhas de lado?",
+"nl": "Waarom kijk je me zo scheef aan?"
+},
+"schif\u00010\u00014": {
+"pt": "A minha mãe levou aquela observação muito a mal",
+"nl": "Mijn moeder heeft die opmerking heel scheef opgenomen"
+},
+"Schifer\u00010\u00010": {
+"pt": "Nesta região extraía-se antigamente xisto",
+"nl": "In deze streek werd vroeger leisteen gewonnen"
+},
+"schifer\u00010\u00010": {
+"pt": "Temos o velho lava-loiça de xisto da avó na nossa casa de fim de semana",
+"nl": "We hebben oma's oude leistenen gootsteen in ons weekendhuisje staan"
+},
+"Schifertafel\u00010\u00010": {
+"pt": "Antigamente, todas as crianças tinham uma ardósia na mochila",
+"nl": "Vroeger had elk kind een leien bord in zijn schooltas"
+},
+"Schifertafel\u00010\u00011": {
+"pt": "Todas as manhãs, o patrão escreve o menu numa ardósia",
+"nl": "Elke ochtend schrijft de baas het menu op een leibord"
+},
+"schiffen\u00010\u00010": {
+"pt": "Aquele porco imundo mijou outra vez na empena da casa!",
+"nl": "Die vuilak heeft weer tegen de gevel van het huis geplast!"
+},
+"schiffen\u00011\u00010": {
+"pt": "Agora está outra vez a chover a cântaros!",
+"nl": "Nu giet het alweer!"
+},
+"schifgoen\u00010\u00010": {
+"pt": "Todas as tentativas de tirar o carro do ribeiro com um trator falharam até agora",
+"nl": "Elke poging om de auto met een tractor uit de beek te trekken is tot nu toe mislukt"
+},
+"schifgoen\u00010\u00011": {
+"pt": "Preparaste-te bem para o exame, agora quase nada pode correr mal",
+"nl": "Je hebt je goed op het examen voorbereid, nu kan er bijna niets meer misgaan"
+},
+"schiflafen\u00010\u00010": {
+"pt": "Todas as tentativas de tirar o carro do ribeiro com um trator correram mal até agora",
+"nl": "Elke poging om de auto met een tractor uit de beek te trekken is tot nu toe misgelopen"
+},
+"schiflafen\u00010\u00011": {
+"pt": "Preparaste-te bem para o exame, agora quase nada pode correr mal",
+"nl": "Je hebt je goed op het examen voorbereid, nu kan er bijna niets meer misgaan"
+},
+"Schifueren\u00010\u00010": {
+"pt": "Este ano não caí nem uma única vez a esquiar!",
+"nl": "Dit jaar ben ik bij het skiën geen enkele keer gevallen!"
+},
+"Schifuerer\u00010\u00010": {
+"pt": "Como não sou um bom esquiador, não me atrevo a ir a pistas tão difíceis",
+"nl": "Omdat ik geen goede skiër ben, durf ik niet op zulke zware pistes"
+},
+"Schifuererin\u00010\u00010": {
+"pt": "No inverno, a esquiadora entusiasta encontra-se quase sempre na pista de esqui",
+"nl": "In de winter vindt men de enthousiaste skiester bijna altijd op de skipiste"
+},
+"Schigebitt\u00010\u00010": {
+"pt": "A estrada para a zona de esqui está completamente coberta de neve",
+"nl": "De weg naar het skigebied is helemaal ondergesneeuwd"
+},
+"Schiggeri\u00010\u00010": {
+"pt": "Durante a guerra, a chicória era usada como substituto do café",
+"nl": "In de oorlog werd cichorei als vervanging voor koffie gebruikt"
+},
+"schiggeri\u00010\u00010": {
+"pt": "Depois de alguns copos de Federweißer, ele estava alegre",
+"nl": "Na een paar glazen Federweisser was hij zat"
+},
+"Schiitt\u00010\u00010": {
+"pt": "A situação atual não pode ser vista apenas como um conflito entre xiitas e sunitas",
+"nl": "De huidige situatie kan men niet alleen als een conflict tussen sjiieten en soennieten zien"
+},
+"Schiittentum\u00010\u00010": {
+"pt": "O xiismo é uma das correntes religiosas do islão",
+"nl": "Het sjiisme is een van de religieuze stromingen van de islam"
+},
+"schiittesch\u00010\u00010": {
+"pt": "A população xiita celebrou uma grande festa religiosa",
+"nl": "De sjiitische bevolking vierde een groot religieus feest"
+},
+"Schiittin\u00010\u00010": {
+"pt": "Como xiita, ela pertence a uma corrente religiosa do islão",
+"nl": "Als sjiitische behoort ze tot een religieuze stroming van de islam"
+},
+"Schikan\u00010\u00010": {
+"pt": "Os trabalhadores sofrem com as maldades do capataz",
+"nl": "De arbeiders lijden onder de pesterijen van de voorman"
+},
+"Schikan\u00010\u00011": {
+"pt": "Este procedimento é uma maçada administrativa!",
+"nl": "Deze procedure is een administratieve plaag!"
+},
+"Schikan\u00011\u00010": {
+"pt": "No percurso da escola de condução foram montadas todo o tipo de chicanas",
+"nl": "Op het parcours van de rijschool zijn allerlei chicanes ingebouwd"
+},
+"Schikan\u00011\u00011": {
+"pt": "Serviram-nos um bufete com todos os extras",
+"nl": "We kregen een buffet met alles erop en eraan opgediend"
+},
+"schikanéieren\u00010\u00010": {
+"pt": "Procurei outro emprego porque o meu chefe me estava constantemente a perseguir",
+"nl": "Ik heb een andere plaats gezocht omdat ik door mijn baas voortdurend gepest werd"
+},
+"Schilddrüs\u00010\u00010": {
+"pt": "Tenho de ser operado à tiroide",
+"nl": "Ik moet aan de schildklier geopereerd worden"
+},
+"Schilddrüs\u00010\u00011": {
+"pt": "Um bócio pode ser sintoma de uma tiroide hipoativa",
+"nl": "Een krop kan een symptoom zijn van een traag werkende schildklier"
+},
+"Schilddrüsenënnerfunktioun\u00010\u00010": {
+"pt": "Se alguém engorda sem motivo e não tem energia, a causa pode ser uma tiroide hipoativa",
+"nl": "Als iemand zonder reden bijkomt en geen energie heeft, kan de oorzaak een traag werkende schildklier zijn"
+},
+"Schilddrüseniwwerfunktioun\u00010\u00010": {
+"pt": "Nervosismo, inquietação interior e sede constante podem ser sintomas de hipertiroidismo",
+"nl": "Nervositeit, innerlijke onrust en voortdurende dorst kunnen symptomen zijn van een overactieve schildklier"
+},
+"Schildkröt\u00010\u00010": {
+"pt": "Quando as crianças a quiseram apanhar, a tartaruga recolheu-se na sua carapaça",
+"nl": "Toen de kinderen ze wilden oppakken, trok de schildpad zich terug in haar schild"
+},
+"Schilift\u00010\u00010": {
+"pt": "Por causa da tempestade de neve, o teleférico estava fora de serviço",
+"nl": "Wegens de sneeuwstorm was de skilift buiten bedrijf"
+},
+"Schilift\u00010\u00011": {
+"pt": "Nesta região, vários teleféricos modernos levam as pessoas às pistas",
+"nl": "In deze streek brengen een aantal moderne skiliften de mensen naar de pistes"
+},
+"Schiltzbierg\u00010\u00010": {
+"pt": "Moro em Schiltzbierg",
+"nl": "Ik woon in Schiltzbierg"
+},
+"Schiltzbierg\u00010\u00011": {
+"pt": "Este autocarro vai para Schiltzbierg?",
+"nl": "Rijdt deze bus naar Schiltzbierg?"
+},
+"schimmeg\u00010\u00010": {
+"pt": "Porque é que tens um ar tão envergonhado, andaste a fazer alguma?",
+"nl": "Waarom kijk je zo betrapt, heb je iets uitgespookt?"
+},
+"Schimmel\u00010\u00010": {
+"pt": "Naquela casa velha há bolor em todas as paredes",
+"nl": "In dat oude huis zit overal schimmel op de muren"
+},
+"Schimmel\u00010\u00011": {
+"pt": "Temos de deitar fora esse doce, já tem bolor",
+"nl": "Dat voedsel moeten we weggooien, er zit al schimmel op"
+},
+"schimmeleg\u00010\u00010": {
+"pt": "Deita o pão fora, está todo bolorento!",
+"nl": "Gooi het brood weg, het is helemaal beschimmeld!"
+},
+"schimmelen\u00010\u00010": {
+"pt": "Quando o trigo é armazenado demasiado húmido, depressa começa a mofar",
+"nl": "Als tarwe te vochtig bewaard wordt, begint ze snel te schimmelen"
+},
+"schimmelen\u00010\u00011": {
+"pt": "Assim que o pão mofar, não se deve comer mais",
+"nl": "Zodra het brood schimmelt, moet men het niet meer eten"
+},
+"Schimmer\u00010\u00010": {
+"pt": "O cabelo dele é castanho, com um brilho avermelhado",
+"nl": "Zijn haar is bruin, met een rode glans"
+},
+"Schimmer\u00011\u00010": {
+"pt": "Não faço a mínima ideia de onde vem esse livro",
+"nl": "Ik heb geen flauw idee waar dat boek vandaan komt"
+},
+"Schimmer\u00011\u00011": {
+"pt": "Já não há um vislumbre de esperança de ainda salvar os alpinistas acidentados",
+"nl": "Er bestaat geen sprankje hoop meer om de verongelukte alpinisten nog te redden"
+},
+"schimmeren\u00010\u00010": {
+"pt": "No fim do túnel brilhava uma luz fraca",
+"nl": "Aan het einde van de tunnel schemerde een zwak licht"
+},
+"schimmeren\u00010\u00011": {
+"pt": "Conforme a luz incide, aquele tecido brilha mais azul ou mais violeta",
+"nl": "Naargelang het licht erop valt, schemert die stof meer blauw of meer violet"
+},
+"Schimmt\u00010\u00010": {
+"pt": "Depois da minha gafe, fiquei vermelho de vergonha",
+"nl": "Na mijn blunder was ik rood van schaamte"
+},
+"Schimmt\u00011\u00010": {
+"pt": "Parece que não tens vergonha nenhuma!",
+"nl": "Je zou zeggen dat je geen schaamte hebt!"
+},
+"Schimpans\u00010\u00010": {
+"pt": "Os chimpanzés vivem tanto na floresta tropical como na savana",
+"nl": "Chimpansees leven zowel in het regenwoud als in de savanne"
+},
+"Schimpans\u00010\u00011": {
+"pt": "Os braços dos chimpanzés são mais compridos do que as pernas",
+"nl": "De armen van chimpansees zijn langer dan hun benen"
+},
+"Schinn\u00010\u00010": {
+"pt": "Aos poucos, os carris desta linha vão ser substituídos",
+"nl": "Geleidelijk aan zullen de rails op dit traject vervangen worden"
+},
+"Schinn\u00010\u00011": {
+"pt": "Segue sempre os carris do elétrico e chegas ao centro!",
+"nl": "Volg altijd de tramrails en je komt midden in het centrum!"
+},
+"Schinn\u00010\u00012": {
+"pt": "Muitas mercadorias são transportadas por via férrea",
+"nl": "Veel goederen worden per spoor vervoerd"
+},
+"Schinn\u00010\u00013": {
+"pt": "O comboio descarrilou numa agulha",
+"nl": "De trein is bij een wissel ontspoord"
+},
+"Schinn\u00011\u00010": {
+"pt": "Os cortinados pesados correm num trilho metálico",
+"nl": "De zware gordijnen lopen in een metalen rail"
+},
+"Schinn\u00012\u00010": {
+"pt": "Para um braço partido, aplica-se uma tala ou gesso",
+"nl": "Bij een gebroken arm krijgt men een spalk of gips"
+},
+"Schinn\u00013\u00010": {
+"pt": "O teu irmão deu-me um pontapé na canela!",
+"nl": "Je broer heeft me tegen mijn scheenbeen getrapt!"
+},
+"Schinnebeen\u00010\u00010": {
+"pt": "Ele partiu a tíbia ao esquiar",
+"nl": "Hij heeft bij het skiën zijn scheenbeen gebroken"
+},
+"Schinnebeen\u00010\u00011": {
+"pt": "O jogador viu o cartão amarelo por ter dado um pontapé na canela de um avançado",
+"nl": "De speler kreeg de gele kaart omdat hij een spits tegen het scheenbeen had getrapt"
+},
+"Schinnebeeschoner\u00010\u00010": {
+"pt": "Sem caneleiras, aquela pancada na perna teria doído muito mais",
+"nl": "Zonder scheenbeschermers had die klap tegen het been nog veel meer pijn gedaan"
+},
+"schinnen\u00010\u00010": {
+"pt": "O médico imobilizou com uma tala o braço partido da doente",
+"nl": "De dokter heeft de gebroken arm van de patiënte gespalkt"
+},
+"schinnen\u00010\u00011": {
+"pt": "Com a pata imobilizada, o Mupp só se desloca devagar",
+"nl": "Met zijn gespalkte poot komt Mupp maar langzaam van zijn plaats"
+},
+"Schipist\u00010\u00010": {
+"pt": "O meu irmão caiu na pista de esqui gelada",
+"nl": "Mijn broer is op de bevroren skipiste gevallen"
+},
+"Schipist\u00010\u00011": {
+"pt": "Para chegar àquela pista de esqui, temos de apanhar a gôndola",
+"nl": "Om op die bepaalde skipiste te komen, moeten we de gondel nemen"
+},
+"Schipp\u00010\u00010": {
+"pt": "Quando trabalho nos fundos do armazém, visto sempre uma bata velha",
+"nl": "Als ik achteraan in het magazijn werk, doe ik altijd een oude stofjas aan"
+},
+"Schipp\u00010\u00011": {
+"pt": "A médica é aquela senhora ali com a bata branca",
+"nl": "De dokter is die dame daar met de witte jas"
+},
+"Schissi\u00010\u00010": {
+"pt": "Não precisas de fazer tanto alarido por cada ninharia!",
+"nl": "Je hoeft toch niet voor elk wissewasje zo'n toestand te maken!"
+},
+"Schissi\u00011\u00010": {
+"pt": "No verão só passam disparates na televisão",
+"nl": "In de zomer loopt er op tv alleen maar onzin"
+},
+"Schivakanz\u00010\u00010": {
+"pt": "Este ano vamos de férias de esqui no Carnaval",
+"nl": "Dit jaar gaan we voor carnaval op skivakantie"
+},
+"schizophreen\u00010\u00010": {
+"pt": "Não há uma única causa clara para uma pessoa vir a ser esquizofrénica",
+"nl": "Er is niet één eenduidige oorzaak waarom een mens schizofreen wordt"
+},
+"Schizophrenie\u00010\u00010": {
+"pt": "A esquizofrenia pode ter um efeito negativo no quotidiano do doente",
+"nl": "Schizofrenie kan een negatieve invloed hebben op het dagelijks leven van de patiënt"
+},
+"schlaakseg\u00010\u00010": {
+"pt": "Os filhos dela cresceram todos e tornaram-se rapazes altos e magros",
+"nl": "Haar jongens zijn allemaal slungels geworden"
+},
+"Schlaang\u00010\u00010": {
+"pt": "A cobra aquecia-se ao sol numa grande pedra",
+"nl": "De slang lag zich te koesteren op een grote steen"
+},
+"Schlaang\u00010\u00011": {
+"pt": "Muita gente tem nojo de cobras",
+"nl": "Veel mensen walgen van slangen"
+},
+"Schlaang\u00011\u00010": {
+"pt": "À frente da bilheteira do cinema há uma fila de vários metros",
+"nl": "Voor de bioscoopkassa staat een rij van meters lang"
+},
+"Schlaang\u00011\u00011": {
+"pt": "Se queres ser servido, põe-te na fila!",
+"nl": "Als je bediend wilt worden, ga dan in de rij staan!"
+},
+"Schlaang\u00011\u00012": {
+"pt": "Quando toca a campainha, as crianças fazem fila para sair para o pátio",
+"nl": "Als de bel gaat, vormen de kinderen een rij om naar buiten de speelplaats op te gaan"
+},
+"Schlaangenaadler\u00010\u00010": {
+"pt": "Quanto tempo incubam as águias-cobreiras?",
+"nl": "Hoe lang broeden slangenarenden?"
+},
+"Schlabäizchen\u00010\u00010": {
+"pt": "O patê do nosso talhante é uma verdadeira iguaria",
+"nl": "De paté van onze slager is een echte lekkernij"
+},
+"schlabbereg\u00010\u00010": {
+"pt": "As mangas da sua camisola larga caem-lhe por cima das mãos",
+"nl": "De mouwen van zijn flodderige trui hangen tot over zijn handen"
+},
+"schlabberen\u00010\u00010": {
+"pt": "Desde que emagreci tanto, a minha roupa fica-me larga",
+"nl": "Sinds ik zoveel ben afgevallen, hangen mijn kleren los om me heen"
+},
+"schladdereg\u00010\u00010": {
+"pt": "Daquele adolescente magricela saiu um homem robusto",
+"nl": "Uit die slungelachtige tiener is een stevige kerel gegroeid"
+},
+"schladdereg\u00011\u00010": {
+"pt": "Desta sopa aguada não se fica saciado",
+"nl": "Van deze waterige soep word je niet verzadigd"
+},
+"schladdereg\u00011\u00011": {
+"pt": "O café estava tão aguado que se via o fundo da chávena",
+"nl": "De koffie was zo waterig dat je de bodem van de kop kon zien"
+},
+"Schlag\u00010\u00010": {
+"pt": "A vítima do assalto só se consegue lembrar de uma pancada na cabeça",
+"nl": "Het slachtoffer van de overval kan zich alleen nog een slag op het hoofd herinneren"
+},
+"Schlag\u00010\u00011": {
+"pt": "As molas do carro devem amortecer os solavancos",
+"nl": "De veren van de auto moeten de schokken opvangen"
+},
+"Schlag\u00010\u00012": {
+"pt": "Um golfista experiente sabe exatamente que taco usar para cada tacada",
+"nl": "Een ervaren golfspeler weet precies welke club hij voor welke slag moet nemen"
+},
+"Schlag\u00010\u00013": {
+"pt": "Essa observação foi uma bofetada na cara",
+"nl": "Die opmerking was een slag in het gezicht"
+},
+"Schlag\u00010\u00014": {
+"pt": "A iniciativa toda foi um fracasso total",
+"nl": "Het hele initiatief was een slag in het water"
+},
+"Schlag\u00010\u00015": {
+"pt": "Depois foi golpe atrás de golpe",
+"nl": "Daarna ging het slag op slag"
+},
+"Schlag\u00010\u00016": {
+"pt": "De uma vez só, tudo acabou",
+"nl": "In één klap was alles voorbij"
+},
+"Schlag\u00010\u00017": {
+"pt": "Foi matar dois coelhos de uma cajadada",
+"nl": "Dat waren twee vliegen in één klap"
+},
+"Schlag\u00011\u00010": {
+"pt": "O incêndio foi um golpe duro para o nosso negócio",
+"nl": "De brand was een zware slag voor onze zaak"
+},
+"Schlag\u00011\u00011": {
+"pt": "O falecimento é um duro golpe para toda a família",
+"nl": "Het overlijden is een harde slag voor het hele gezin"
 }
 }
