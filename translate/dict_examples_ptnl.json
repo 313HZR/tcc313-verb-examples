@@ -167398,5 +167398,905 @@
 "Rhythmus\u00010\u00010": {
 "pt": "A mesma melodia soa completamente diferente quando o ritmo muda",
 "nl": "Dezelfde melodie klinkt heel anders wanneer het ritme verandert"
+},
+"Rhythmus\u00010\u00011": {
+"pt": "O bailarino perdeu o ritmo",
+"nl": "De danser is uit het ritme geraakt"
+},
+"Rhythmus\u00010\u00012": {
+"pt": "Simplesmente não tenho (sentido de) ritmo",
+"nl": "Ik heb gewoon geen (gevoel voor) ritme"
+},
+"Rhythmus\u00011\u00010": {
+"pt": "Com esse ritmo nunca acabas o trabalho",
+"nl": "Met dat ritme kom je nooit met het werk klaar"
+},
+"Riad\u00010\u00010": {
+"pt": "Riade é a capital da Arábia Saudita",
+"nl": "Riyad is de hoofdstad van Saoedi-Arabië"
+},
+"Ribb\u00010\u00010": {
+"pt": "Este ano plantámos pela primeira vez nabos no jardim",
+"nl": "We hebben dit jaar voor het eerst rapen in de tuin gezet"
+},
+"richen\u00010\u00010": {
+"pt": "Sinto cheiro a fumo de cigarro, quem fumou aqui?",
+"nl": "Ik ruik sigarettenrook, wie heeft hier gerookt?"
+},
+"richen\u00010\u00011": {
+"pt": "Cheirar a mãe acalma um bebé",
+"nl": "Zijn moeder ruiken kalmeert een baby"
+},
+"richen\u00010\u00012": {
+"pt": "Aqueles dois não se podem ver",
+"nl": "Die twee kunnen elkaar niet luchten"
+},
+"richen\u00011\u00010": {
+"pt": "Quero cheirar o teu perfume novo, passa-me o frasco!",
+"nl": "Ik wil je nieuwe parfum ruiken, geef me even het flesje!"
+},
+"richen\u00012\u00010": {
+"pt": "Depois da festa, a minha camisa cheirava a gordura de fritura",
+"nl": "Na het feest rook mijn hemd naar frituurvet"
+},
+"richen\u00012\u00011": {
+"pt": "No armário da avó cheira sempre tão bem a lavanda",
+"nl": "In oma's kast ruikt het altijd zo lekker naar lavendel"
+},
+"richen\u00012\u00012": {
+"pt": "Na cozinha cheira a queimado",
+"nl": "In de keuken ruikt het verbrand"
+},
+"richen\u00013\u00010": {
+"pt": "As cobras cheiram com a língua",
+"nl": "Slangen ruiken met hun tong"
+},
+"richen\u00014\u00010": {
+"pt": "Cheira lá essa rosa tão bonita!",
+"nl": "Ruik eens aan die mooie roos!"
+},
+"richen\u00014\u00011": {
+"pt": "O teu cão anda sempre a cheirar-me os sapatos",
+"nl": "Je hond gaat voortdurend aan mijn schoenen ruiken"
+},
+"richteg\u00010\u00010": {
+"pt": "Qual é a grafia correta dessa palavra?",
+"nl": "Wat is de juiste spelling van dat woord?"
+},
+"richteg\u00010\u00011": {
+"pt": "Será que este é sequer o caminho certo?",
+"nl": "Is dit eigenlijk wel de juiste weg?"
+},
+"richteg\u00010\u00012": {
+"pt": "O aluno respondeu logo corretamente",
+"nl": "De leerling antwoordde meteen juist"
+},
+"richteg\u00010\u00013": {
+"pt": "O teu relógio está certo?",
+"nl": "Loopt je horloge juist?"
+},
+"richteg\u00010\u00014": {
+"pt": "Aquele não está bom da cabeça",
+"nl": "Die is niet goed bij zijn hoofd"
+},
+"richteg\u00011\u00010": {
+"pt": "Ela tem jeito para fazer a observação certa no momento certo",
+"nl": "Ze heeft het in zich om op het juiste moment de juiste opmerking te maken"
+},
+"richteg\u00011\u00011": {
+"pt": "A agência encontrou finalmente o apartamento certo para mim",
+"nl": "Het bureau heeft eindelijk het juiste appartement voor mij gevonden"
+},
+"richteg\u00011\u00012": {
+"pt": "Esse casaco não assenta bem, experimenta outro!",
+"nl": "Die jas zit niet goed, pas eens een andere aan!"
+},
+"richteg\u00011\u00013": {
+"pt": "Não conheço as pessoas certas",
+"nl": "Ik ken de juiste mensen niet"
+},
+"richteg\u00011\u00014": {
+"pt": "Ainda não encontrei a pessoa certa",
+"nl": "Ik heb de juiste nog niet gevonden"
+},
+"richteg\u00011\u00015": {
+"pt": "Aprende algo de jeito!",
+"nl": "Leer eens iets degelijks!"
+},
+"richteg\u00011\u00016": {
+"pt": "És mesmo a pessoa certa para me fazer essa observação!",
+"nl": "Jij bent me net de juiste om me die opmerking te maken!"
+},
+"richteg\u00012\u00010": {
+"pt": "Será esse o nome verdadeiro dele?",
+"nl": "Is dat zijn echte naam?"
+},
+"richteg\u00012\u00011": {
+"pt": "A criança adotada nunca chegou a conhecer o seu pai verdadeiro",
+"nl": "Het adoptiekind heeft zijn echte vader nooit leren kennen"
+},
+"richteg\u00013\u00010": {
+"pt": "O teu colar é de pérolas verdadeiras?",
+"nl": "Is je ketting van echte parels?"
+},
+"richteg\u00014\u00010": {
+"pt": "Na juventude, ela foi uma verdadeira destemida",
+"nl": "In haar jeugd was ze een echte durfster"
+},
+"richteg\u00014\u00011": {
+"pt": "O vosso quartinho é mesmo acolhedor!",
+"nl": "Jullie kamertje is echt gezellig!"
+},
+"richteg\u00014\u00012": {
+"pt": "Na soirée, as coisas só começaram a animar a sério depois da meia-noite",
+"nl": "Op de soirée ging het pas na middernacht echt los"
+},
+"richteg\u00015\u00010": {
+"pt": "Na verdade, devia receber essas horas como horas extra",
+"nl": "Eigenlijk zou ik die uren als overuren uitbetaald moeten krijgen"
+},
+"Richterskala\u00010\u00010": {
+"pt": "O sismo teve uma magnitude de 5 na escala de Richter",
+"nl": "De aardbeving had een kracht van 5 op de schaal van Richter"
+},
+"Richtlinn\u00010\u00010": {
+"pt": "Faltam diretrizes para agir de forma coerente neste assunto",
+"nl": "Er ontbreken richtlijnen om in die zaak consequent te handelen"
+},
+"Richtung\u00010\u00010": {
+"pt": "O condutor tomou outra direção",
+"nl": "De chauffeur nam een andere richting"
+},
+"Richtung\u00010\u00011": {
+"pt": "Continua mais 15 km em direção ao aeroporto e depois apanhas a saída 8",
+"nl": "Rij nog 15 km in de richting van de luchthaven en neem dan afrit 8"
+},
+"Richtung\u00010\u00012": {
+"pt": "Hoje o vento sopra de várias direções",
+"nl": "Vandaag waait de wind uit verschillende richtingen"
+},
+"Richtung\u00010\u00013": {
+"pt": "Do lado oposto não vem trânsito nenhum",
+"nl": "Uit tegenovergestelde richting komt geen verkeer"
+},
+"Richtung\u00011\u00010": {
+"pt": "O governo toma neste caso uma nova direção",
+"nl": "De regering slaat in deze zaak een nieuwe richting in"
+},
+"Richtung\u00011\u00011": {
+"pt": "Com o seu novo CD, o cantor segue uma direção musical completamente diferente",
+"nl": "Met zijn nieuwe cd gaat de zanger een heel andere muzikale richting uit"
+},
+"Richtung\u00011\u00012": {
+"pt": "Não tenho nada contra as pessoas da iniciativa de cidadãos, mas não gosto da sua orientação geral",
+"nl": "Ik heb niets tegen de mensen van het burgerinitiatief, maar hun hele richting staat me niet aan"
+},
+"Ricotta\u00010\u00010": {
+"pt": "Esta noite há raviólis de espinafres e ricota",
+"nl": "Vanavond is er ravioli met spinazie en ricotta"
+},
+"Ridd\u00010\u00010": {
+"pt": "O teu cão é uma fêmea ou um macho?",
+"nl": "Is je hond een teef of een reu?"
+},
+"Riddo\u00010\u00010": {
+"pt": "As nossas cortinas novas não deixam passar luz suficiente",
+"nl": "Onze nieuwe gordijnen laten niet genoeg licht door"
+},
+"Riddo\u00010\u00010~2": {
+"pt": "Quando toda a gente estava sentada, o pano subiu",
+"nl": "Toen iedereen zat, ging het doek op"
+},
+"Riddosstaang\u00010\u00010": {
+"pt": "A vara das cortinas caiu-me na cabeça quando a quis tirar",
+"nl": "De gordijnroede rolde op mijn hoofd toen ik ze wilde afnemen"
+},
+"Riddosstoft\u00010\u00010": {
+"pt": "Na loja tinham amostras de todos os tecidos de cortinados em várias cores",
+"nl": "In de winkel hadden ze stalen van alle gordijnstoffen in verschillende kleuren"
+},
+"ridicule\u00010\u00010": {
+"pt": "A rivalidade entre aqueles dois grupos corais é absolutamente ridícula",
+"nl": "De rivaliteit tussen die twee zangverenigingen is absoluut belachelijk"
+},
+"ridicule\u00010\u00011": {
+"pt": "Nunca ouvi um argumento tão ridículo!",
+"nl": "Zo'n belachelijk argument heb ik nog nooit gehoord!"
+},
+"ridicule\u00011\u00010": {
+"pt": "A casa deles foi vendida por um preço ridículo",
+"nl": "Hun huis werd voor een belachelijke prijs verkocht"
+},
+"ridicule\u00011\u00011": {
+"pt": "Pelo meu carro recebi uma quantia ridiculamente pequena",
+"nl": "Voor mijn auto kreeg ik een belachelijk klein bedrag"
+},
+"Ried\u00010\u00010": {
+"pt": "Que coisas nojentas aquela pessoa diz!",
+"nl": "Wat een vieze praat voert die!"
+},
+"Ried\u00010\u00011": {
+"pt": "Não me interrompas constantemente!",
+"nl": "Val me niet voortdurend in de rede!"
+},
+"Ried\u00010\u00012": {
+"pt": "Não percas o fio ao que querias dizer!",
+"nl": "Vergeet niet wat je wilde zeggen!"
+},
+"Ried\u00010\u00013": {
+"pt": "Não comeces agora com outra conversa!",
+"nl": "Begin nu niet over iets anders!"
+},
+"Ried\u00010\u00014": {
+"pt": "As coisas que aquele homem diz!",
+"nl": "Wat heeft die man een praatjes!"
+},
+"Ried\u00010\u00015": {
+"pt": "Dei explicações à imprensa",
+"nl": "Ik heb de pers uitleg gegeven"
+},
+"Ried\u00010\u00016": {
+"pt": "Aquela insolência deixa-me sem palavras",
+"nl": "Die brutaliteit maakt me sprakeloos"
+},
+"Ried\u00010\u00017": {
+"pt": "Disso não se falou",
+"nl": "Daarvan was geen sprake"
+},
+"Ried\u00010\u00018": {
+"pt": "No decorrer da conversa, o assunto passou para ti",
+"nl": "In de loop van het gesprek kwam het gesprek op jou"
+},
+"Ried\u00010\u00019": {
+"pt": "Uma palavra puxa outra",
+"nl": "Het ene woord haalt het andere uit"
+},
+"Ried\u00011\u00010": {
+"pt": "Depois do intervalo, o professor chamou os dois rapazes à ordem",
+"nl": "Na de pauze riep de leraar de twee jongens ter verantwoording"
+},
+"Ried\u00012\u00010": {
+"pt": "Aquele tipo tem mesmo uma maneira grosseira de falar!",
+"nl": "Die kerel heeft toch een grove manier van praten!"
+},
+"Ried\u00012\u00011": {
+"pt": "Falar é-lhe fácil",
+"nl": "Praten gaat hem goed af"
+},
+"Ried\u00012\u00012": {
+"pt": "Ele não é bom com as palavras",
+"nl": "Hij is niet sterk in spreken"
+},
+"Ried\u00013\u00010": {
+"pt": "A presidente da câmara fez um discurso na inauguração",
+"nl": "De burgemeester hield bij de inhuldiging een toespraak"
+},
+"Ried\u00014\u00010": {
+"pt": "Atrapalhei-me no meu discurso minuciosamente preparado!",
+"nl": "Ik heb mijn nauwgezet voorbereide toespraak door elkaar gehaald!"
+},
+"Ried\u00015\u00010": {
+"pt": "As crianças têm de passar o texto do discurso direto para o indireto",
+"nl": "De kinderen moeten de tekst van de directe in de indirecte rede zetten"
+},
+"Riedelen\u00010\u00010": {
+"pt": "Tive rubéola e varicela, mas contra o sarampo estava vacinado",
+"nl": "Ik heb rodehond en waterpokken gehad, maar tegen de mazelen was ik ingeënt"
+},
+"rieden\u00010\u00010": {
+"pt": "Os dois políticos ficaram muito tempo parados a conversar",
+"nl": "De twee politici stonden lang bij elkaar te praten"
+},
+"rieden\u00010\u00011": {
+"pt": "O nosso presidente da câmara fala bem",
+"nl": "Onze burgemeester kan goed praten"
+},
+"rieden\u00010\u00012": {
+"pt": "O nosso mais novo já fala como um adulto",
+"nl": "Onze jongste kan al praten als een grote"
+},
+"rieden\u00010\u00013": {
+"pt": "Ele não se deixa convencer",
+"nl": "Hij laat niet met zich praten"
+},
+"rieden\u00011\u00010": {
+"pt": "Pára de falar e trabalha um pouco!",
+"nl": "Hou op met praten en doe eens iets!"
+},
+"rieden\u00012\u00010": {
+"pt": "Que disparates ele diz!",
+"nl": "Wat kraamt die man een onzin uit!"
+},
+"Riedensaart\u00010\u00010": {
+"pt": "Aquela expressão ainda não a conhecia",
+"nl": "Dat gezegde kende ik nog niet"
+},
+"Riedensaart\u00010\u00011": {
+"pt": "A nossa avó anota ditados típicos da sua região",
+"nl": "Onze oma schrijft typische gezegden uit haar streek op"
+},
+"Riedgen\u00010\u00010": {
+"pt": "Moro em Riedgen",
+"nl": "Ik woon in Riedgen"
+},
+"Riedgen\u00010\u00011": {
+"pt": "Este autocarro vai para Riedgen?",
+"nl": "Rijdt deze bus naar Riedgen?"
+},
+"Riedner\u00010\u00010": {
+"pt": "O orador convenceu as pessoas com os seus argumentos",
+"nl": "De spreker heeft de mensen met zijn argumenten overtuigd"
+},
+"Riedner\u00010\u00011": {
+"pt": "No congresso, três oradores tomaram a palavra um após o outro",
+"nl": "Op het congres namen drie sprekers na elkaar het woord"
+},
+"Riedner\u00010\u00012": {
+"pt": "O nosso pároco não é um bom orador",
+"nl": "Onze pastoor is geen goede spreker"
+},
+"Riednerin\u00010\u00010": {
+"pt": "Depois de ter sido apresentada pelo moderador, a oradora tomou a palavra",
+"nl": "Nadat ze door de moderator was voorgesteld, nam de spreekster het woord"
+},
+"Riednerpult\u00010\u00010": {
+"pt": "O político bateu várias vezes com o punho na tribuna durante o seu discurso",
+"nl": "De politicus sloeg tijdens zijn toespraak een paar keer met de vuist op de lessenaar"
+},
+"rieds\u00010\u00010": {
+"pt": "Estávamos mesmo a falar de ti",
+"nl": "We hadden het net over jou"
+},
+"rieds\u00010\u00011": {
+"pt": "Falou de algo importante na última comissão?",
+"nl": "Is er in het laatste comité iets belangrijks besproken?"
+},
+"rieds\u00011\u00010": {
+"pt": "Falou-se em mandar renovar o aquecimento no próximo ano",
+"nl": "Er was sprake van volgend jaar de verwarming te laten vernieuwen"
+},
+"rieds\u00011\u00011": {
+"pt": "Nunca se falou em convidar ou não a tia",
+"nl": "Er was nooit sprake van of tante al dan niet uitgenodigd zou worden"
+},
+"rieds\u00012\u00010": {
+"pt": "Fala-se de uma tributação uniforme da energia",
+"nl": "Er is sprake van een eenvormige belasting op energie"
+},
+"Rief\u00010\u00010": {
+"pt": "O meu pai plantou uma videira junto da pérgola",
+"nl": "Mijn vader heeft een wijnstok bij de pergola geplant"
+},
+"Rief\u00010\u00011": {
+"pt": "O viticultor substituiu as videiras doentes por novas",
+"nl": "De zieke wijnstokken werden door de wijnbouwer door nieuwe vervangen"
+},
+"Rief\u00011\u00010": {
+"pt": "Plantámos uma videira-virgem ao longo da fachada",
+"nl": "We hebben een wilde wingerd langs de gevel geplant"
+},
+"Rieflaus\u00010\u00010": {
+"pt": "A filoxera causou muitos estragos na nossa vinha",
+"nl": "De druifluis heeft in onze wijngaard veel schade aangericht"
+},
+"Riefstack\u00010\u00010": {
+"pt": "O meu pai plantou uma cepa de videira junto da pérgola",
+"nl": "Mijn vader heeft een wijnstok bij de pergola geplant"
+},
+"Riefstack\u00010\u00011": {
+"pt": "O viticultor substituiu as cepas doentes por novas",
+"nl": "De zieke wijnstokken werden door de wijnbouwer door nieuwe vervangen"
+},
+"Riefzort\u00010\u00010": {
+"pt": "A Pinot noir é uma casta com a qual se pode fazer vinho rosé, tinto e branco",
+"nl": "Pinot noir is een druivensoort waarmee men rosé, rode en witte wijn kan maken"
+},
+"Riefzort\u00010\u00011": {
+"pt": "Para este vinho, o viticultor lotou três castas: Riesling, Pinot blanc e Auxerrois",
+"nl": "Voor deze wijn heeft de wijnbouwer drie druivensoorten met elkaar verschneden: riesling, pinot blanc en auxerrois"
+},
+"Riesenhaff\u00010\u00010": {
+"pt": "Moro em Riesenhaff",
+"nl": "Ik woon in Riesenhaff"
+},
+"Riesenhaff\u00010\u00011": {
+"pt": "Este autocarro vai para Riesenhaff?",
+"nl": "Rijdt deze bus naar Riesenhaff?"
+},
+"Riesling\u00010\u00010": {
+"pt": "Hoje passámos o dia todo a vindimar Riesling",
+"nl": "Vandaag hebben we de hele dag riesling geplukt"
+},
+"Riesling\u00011\u00010": {
+"pt": "De todos os vinhos, o Riesling é o que mais gosto",
+"nl": "Van alle wijnen heb ik de riesling het liefst"
+},
+"Riesling\u00011\u00011": {
+"pt": "O viticultor tem dois Rieslings no seu sortimento",
+"nl": "De wijnbouwer heeft twee rieslings in zijn assortiment"
+},
+"Riesling\u00012\u00010": {
+"pt": "Empregado, dois Rieslings, por favor!",
+"nl": "Ober, twee rieslings, alstublieft!"
+},
+"Rieslingspaschtéit\u00010\u00010": {
+"pt": "Naquele talho encontras o melhor paté de Riesling de todo o país",
+"nl": "Bij die slager krijg je de beste rieslingpastei van het hele land"
+},
+"riets\u00010\u00010": {
+"pt": "Parti o braço direito nas férias",
+"nl": "Ik heb in de vakantie mijn rechterarm gebroken"
+},
+"riets\u00010\u00011": {
+"pt": "Ele é o braço direito da chefe",
+"nl": "Hij is de rechterhand van de bazin"
+},
+"riets\u00011\u00010": {
+"pt": "Os partidos de direita formaram uma coligação",
+"nl": "De rechtse partijen hebben een coalitie gevormd"
+},
+"riets\u00011\u00011": {
+"pt": "Nas eleições, vota à direita",
+"nl": "Bij de verkiezingen stemt hij rechts"
+},
+"riets\u00010\u00010~2": {
+"pt": "Olha para a direita para ver se não vem nenhum carro!",
+"nl": "Kijk eens naar rechts of er geen auto aankomt!"
+},
+"riets\u00010\u00011~2": {
+"pt": "À direita da igreja há uma padaria",
+"nl": "Rechts naast de kerk is een bakkerij"
+},
+"riets\u00010\u00012": {
+"pt": "Mantém-te à direita!",
+"nl": "Hou je rechts!"
+},
+"riets\u00010\u00013": {
+"pt": "Quem vem da direita tem prioridade",
+"nl": "Rechts heeft voorrang"
+},
+"rietserhand\u00010\u00010": {
+"pt": "Quando entras na aldeia, tens à direita uma estação de serviço",
+"nl": "Wanneer je het dorp inrijdt, heb je rechts een tankstation"
+},
+"rietserhand\u00010\u00011": {
+"pt": "Se olhares para norte, vês à direita a torre da igreja e à esquerda a floresta",
+"nl": "Als je naar het noorden kijkt, zie je rechts de kerktoren en links het bos"
+},
+"Rietsfouss\u00010\u00010": {
+"pt": "A posição deste livre é ideal para um jogador destro",
+"nl": "De positie van deze vrije trap is ideaal voor een rechtsvoetige speler"
+},
+"Rietshänner\u00010\u00010": {
+"pt": "Estas tesouras são para destros ou canhotos?",
+"nl": "Is deze schaar voor rechtshandigen of linkshandigen?"
+},
+"rietsradikal\u00010\u00010": {
+"pt": "O partido de extrema-direita faz propaganda a favor de uma lei da imigração mais restritiva",
+"nl": "De radicaal-rechtse partij maakt propaganda voor een strengere immigratiewet"
+},
+"Rietsverkéier\u00010\u00010": {
+"pt": "Em toda a Europa vigora a circulação pela direita?",
+"nl": "Geldt in heel Europa het rechtsverkeer?"
+},
+"Rietsverkéier\u00010\u00011": {
+"pt": "O meu colega inglês teve dificuldade em habituar-se à circulação pela direita no Luxemburgo",
+"nl": "Mijn Engelse collega had moeite om aan het rechtsverkeer in Luxemburg te wennen"
+},
+"Rietsvirfaart\u00010\u00010": {
+"pt": "O instrutor de condução chamou-me a atenção para o facto de estarmos a chegar a um cruzamento com prioridade à direita",
+"nl": "De rijinstructeur wees me erop dat we op een kruispunt met voorrang van rechts kwamen"
+},
+"Riga\u00010\u00010": {
+"pt": "Riga é a capital da Letónia",
+"nl": "Riga is de hoofdstad van Letland"
+},
+"riicht\u00010\u00010": {
+"pt": "Ninguém sabe porque é que o condutor derrapou para a valeta naquela estrada reta",
+"nl": "Niemand weet waarom de chauffeur op die rechte weg in de gracht gegleden is"
+},
+"riicht\u00010\u00011": {
+"pt": "Será que isso vai acabar bem?",
+"nl": "Zal dat wel goed aflopen?"
+},
+"riicht\u00011\u00010": {
+"pt": "Põe-te bem direito, senão ficas com as costas curvadas!",
+"nl": "Hou je mooi recht, anders krijg je een kromme rug!"
+},
+"riicht\u00010\u00010~2": {
+"pt": "O condutor foi com a sua carrinha direto contra a árvore",
+"nl": "De chauffeur is met zijn bestelwagen recht tegen de boom gereden"
+},
+"riicht\u00010\u00011~2": {
+"pt": "Chamei-o, mas ele passou direto",
+"nl": "Ik heb hem geroepen, maar hij liep gewoon door"
+},
+"riicht-\u00010\u00010": {
+"pt": "Se tomares essa decisão, tens também de responder por ela!",
+"nl": "Als je die beslissing neemt, moet je er ook voor instaan!"
+},
+"riicht-\u00010\u00011": {
+"pt": "Arranjas problemas com toda a gente e depois sou eu que tenho de pôr tudo em ordem!",
+"nl": "Je krijgt ruzie met iedereen en daarna kan ik het weer rechtzetten!"
+},
+"riichtaus\u00010\u00010": {
+"pt": "Segue mais um pouco em frente e depois, no cruzamento seguinte, vira à direita!",
+"nl": "Rij nog een stukje rechtdoor en sla dan op het volgende kruispunt rechtsaf!"
+},
+"riichtaus\u00010\u00011": {
+"pt": "Olhem em frente, por favor, e digam-me que letras ainda conseguem ler no quadro!",
+"nl": "Kijk alstublieft recht vooruit en zeg me welke letters u nog op het bord kunt lezen!"
+},
+"riichtaus\u00010\u00012": {
+"pt": "Para ir à radiologia, têm de ir em frente até ao fim do corredor e depois tomar a primeira porta à esquerda",
+"nl": "Om naar de röntgen te gaan, moet u rechtdoor tot aan het einde van de gang en dan de eerste deur links nemen"
+},
+"riichtbéien\u00010\u00010": {
+"pt": "Quando quis endireitar os meus óculos de sol, partiram-se",
+"nl": "Toen ik mijn zonnebril wilde rechtbuigen, brak hij"
+},
+"riichtbéien\u00010\u00011": {
+"pt": "No texto, algumas frases tiveram de ser corrigidas",
+"nl": "In de tekst moesten een paar zinnen rechtgezet worden"
+},
+"riichtbéien\u00011\u00010": {
+"pt": "Arranjas problemas com toda a gente e depois sou eu que tenho de pôr tudo em ordem!",
+"nl": "Je krijgt ruzie met iedereen en daarna kan ik het weer rechtzetten!"
+},
+"riichtduerch\u00010\u00010": {
+"pt": "Choveu uma semana inteira sem parar",
+"nl": "Het heeft een week lang aan één stuk door geregend"
+},
+"riichtduerch\u00010\u00011": {
+"pt": "O nosso balcão está, desde há pouco, aberto sem interrupção",
+"nl": "Ons loket is sinds kort doorlopend open"
+},
+"riichtduerch\u00010\u00012": {
+"pt": "O comboio rápido segue direto até à capital",
+"nl": "De sneltrein rijdt non-stop tot in de hoofdstad"
+},
+"riichten\u00010\u00010": {
+"pt": "A polícia apontou os projetores ao navio suspeito",
+"nl": "De politie richtte de schijnwerpers op het verdachte schip"
+},
+"riichten\u00010\u00011": {
+"pt": "Todas as câmaras estavam apontadas à noiva",
+"nl": "Alle camera's waren op de bruid gericht"
+},
+"riichten\u00010\u00012": {
+"pt": "Depois do atentado, o terrorista apontou a arma contra si próprio",
+"nl": "Na de aanslag richtte de terrorist het wapen tegen zichzelf"
+},
+"riichten\u00011\u00010": {
+"pt": "Sentei-me nos meus óculos, agora a armação tem de ser endireitada",
+"nl": "Ik ben op mijn bril gaan zitten, nu moet het montuur rechtgezet worden"
+},
+"riichten\u00012\u00010": {
+"pt": "Ponho o despertador para as cinco horas",
+"nl": "Ik zet de wekker op vijf uur"
+},
+"riichten\u00012\u00011": {
+"pt": "O meu relógio está atrasado, tenho de o acertar",
+"nl": "Mijn horloge loopt achter, ik moet het rechtzetten"
+},
+"riichten\u00013\u00010": {
+"pt": "Já preparámos tudo para a grande festa",
+"nl": "We hebben al alles klaargezet voor het grote feest"
+},
+"riichten\u00014\u00010": {
+"pt": "Dirijo um grande agradecimento aos meus colaboradores pela sua valiosa ajuda",
+"nl": "Ik richt een heel groot dankwoord aan mijn medewerkers voor hun waardevolle hulp"
+},
+"riichten\u00014\u00011": {
+"pt": "Dirigi essa carta diretamente à ministra",
+"nl": "Ik heb dat schrijven rechtstreeks aan de minister gericht"
+},
+"riichten\u00015\u00010": {
+"pt": "Não tens de me julgar!",
+"nl": "Jij hebt over mij niet te oordelen!"
+},
+"riichten\u00016\u00010": {
+"pt": "Preciso de uma hora para me arranjar",
+"nl": "Ik heb een uur nodig om me klaar te maken"
+},
+"riichten\u00016\u00011": {
+"pt": "Agora não estou preparado para receber visitas",
+"nl": "Ik ben nu niet klaar om bezoek te ontvangen"
+},
+"riichten\u00016\u00012": {
+"pt": "Eu tinha preparado para quatro pessoas e depois apareceram seis",
+"nl": "Ik had voor vier mensen klaargemaakt en daarna kwamen er zes"
+},
+"riichten\u00017\u00010": {
+"pt": "Temos de nos adaptar ao tempo",
+"nl": "We moeten ons naar het weer richten"
+},
+"riichten\u00017\u00011": {
+"pt": "O nosso cozinheiro adapta-se inteiramente aos desejos dos convidados",
+"nl": "Onze kok richt zich helemaal naar de wensen van de gasten"
+},
+"riichten\u00017\u00012": {
+"pt": "Se me disseres a que horas chega o teu comboio, posso organizar-me em conformidade",
+"nl": "Als je me zegt hoe laat je trein aankomt, kan ik me daarnaar richten"
+},
+"riichten\u00017\u00013": {
+"pt": "Contigo não há maneira de planear!",
+"nl": "Naar jou kan men zich niet richten!"
+},
+"riichten\u00018\u00010": {
+"pt": "Não discuto com o professor, dirijo-me diretamente ao diretor",
+"nl": "Ik discussieer niet met de leraar, ik wend me rechtstreeks tot de directeur"
+},
+"riichten\u00019\u00010": {
+"pt": "O programa dirige-se sobretudo a jovens",
+"nl": "Het programma richt zich vooral tot jongeren"
+},
+"riichten\u000110\u00010": {
+"pt": "Essa crítica dirige-se contra todo o nosso clube",
+"nl": "Die kritiek is gericht tegen onze hele club"
+},
+"Riichter\u00010\u00010": {
+"pt": "O juiz declarou o arguido culpado nesse caso",
+"nl": "De rechter sprak de beschuldigde in die zaak schuldig uit"
+},
+"riichteran\u00010\u00010": {
+"pt": "Leva o teu guarda-chuva, está a chover a cântaros!",
+"nl": "Neem je paraplu mee, het regent pijpenstelen!"
+},
+"riichteran\u00010\u00011": {
+"pt": "Quando íamos grelhar, começou a chover a cântaros",
+"nl": "Net toen we zouden grillen, begon het pijpenstelen te regenen"
+},
+"riichteraus\u00010\u00010": {
+"pt": "Diz lá às claras que não tens vontade de ir comigo ao cinema!",
+"nl": "Zeg het toch recht uit dat je geen zin hebt om met mij naar de bioscoop te gaan!"
+},
+"riichteraus\u00010\u00011": {
+"pt": "Disse-lhe sem rodeios o que penso dele",
+"nl": "Ik heb hem recht voor de raap gezegd wat ik van hem vind"
+},
+"riichteraus\u00010\u00010~2": {
+"pt": "Gosto de lidar com aquele homem, é tão franco",
+"nl": "Ik heb graag met die man te maken, hij is zo oprecht"
+},
+"riichteraus\u00010\u00011~2": {
+"pt": "Essa espécie de gente tem um modo muito franco",
+"nl": "Dat soort mensen heeft een heel rechtuit manier van doen"
+},
+"riichteraus\u00010\u00012": {
+"pt": "Ele é por vezes muito franco",
+"nl": "Hij is soms heel rechtuit"
+},
+"Riichterin\u00010\u00010": {
+"pt": "A juíza absolveu o arguido",
+"nl": "De rechteres heeft de beschuldigde vrijgesproken"
+},
+"Riichtscheet\u00010\u00010": {
+"pt": "O operário verificou com o nível de bolha que a parede estava ligeiramente torta",
+"nl": "De arbeider stelde met het waterpas vast dat de muur een beetje scheef is"
+},
+"riichtstoen\u00010\u00010": {
+"pt": "Os pais têm de responder pelos filhos menores se estes causarem danos",
+"nl": "De ouders moeten instaan voor hun minderjarige kinderen als die schade veroorzaken"
+},
+"riichtstoen\u00010\u00011": {
+"pt": "Se tomares essa decisão, também terás de responder por ela",
+"nl": "Als je die beslissing neemt, zul je er ook voor moeten instaan"
+},
+"riicht zéien\u00010\u00010": {
+"pt": "Alisa a saia antes de saíres, está um pouco amarrotada!",
+"nl": "Trek je rok nog recht voordat je buitengaat, hij is een beetje gekreukt!"
+},
+"riicht zéien\u00010\u00011": {
+"pt": "A toalha tem de ser alisada antes de se poder pôr a mesa",
+"nl": "Het tafelkleed moet nog recht getrokken worden voordat de tafel gedekt kan worden"
+},
+"Rill\u00010\u00010": {
+"pt": "Esse soalho de madeira não se limpa bem, porque está cheio de ranhuras",
+"nl": "Die houten vloer laat zich niet goed poetsen omdat hij vol groeven zit"
+},
+"Rill\u00010\u00011": {
+"pt": "Aquele velho disco riscado já não se pode ouvir, a agulha salta sempre do sulco",
+"nl": "Naar die oude bekraste plaat kun je niet meer luisteren, de naald springt voortdurend uit de groef"
+},
+"Rimm\u00010\u00010": {
+"pt": "O porteiro tem um molho de chaves pendurado no cinto",
+"nl": "De portier heeft een bos sleutels aan zijn riem hangen"
+},
+"Rimm\u00010\u00011": {
+"pt": "A fivela do meu cinto está partida",
+"nl": "De gesp van mijn riem is stuk"
+},
+"Rimm\u00010\u00012": {
+"pt": "Controla-te!",
+"nl": "Neem jezelf in de hand!"
+},
+"Rimm\u00010\u00013": {
+"pt": "Temos de apertar o cinto",
+"nl": "We moeten de buikriem aanhalen"
+},
+"Rimm\u00011\u00010": {
+"pt": "O meu corta-relva é acionado por uma correia",
+"nl": "Mijn grasmaaier wordt door een riem aangedreven"
+},
+"Rimm\u00011\u00011": {
+"pt": "Comigo, o cinto cai",
+"nl": "Bij mij valt de riem eraf"
+},
+"Rimm\u00012\u00010": {
+"pt": "Fixei as bicicletas ao carro com cintas",
+"nl": "Ik heb de fietsen met riemen op de auto vastgemaakt"
+},
+"Ringbaach\u00010\u00010": {
+"pt": "Moro em Ringbaach",
+"nl": "Ik woon in Ringbaach"
+},
+"Ringbaach\u00010\u00011": {
+"pt": "Este autocarro vai para Ringbaach?",
+"nl": "Rijdt deze bus naar Ringbaach?"
+},
+"ripostéieren\u00010\u00010": {
+"pt": "A experiente política contrapôs logo à afirmação falsa",
+"nl": "De ervaren politica reageerde meteen op de valse bewering"
+},
+"Rippeg\u00010\u00010": {
+"pt": "Moro em Rippeg",
+"nl": "Ik woon in Rippeg"
+},
+"Rippeg\u00010\u00011": {
+"pt": "Este autocarro vai para Rippeg?",
+"nl": "Rijdt deze bus naar Rippeg?"
+},
+"rippen\u00010\u00010": {
+"pt": "O defesa recebeu o cartão amarelo porque tinha empurrado com força um avançado",
+"nl": "De verdediger kreeg de gele kaart omdat hij een spits hard geduwd had"
+},
+"Rippenfellentzündung\u00010\u00010": {
+"pt": "Uma tosse seca e uma dor muito forte ao respirar podem ser sinais de pleurisia",
+"nl": "Een droge hoest en een heel erge pijn bij het ademen kunnen tekenen zijn van pleuritis"
+},
+"Rippweiler\u00010\u00010": {
+"pt": "Moro em Rippweiler",
+"nl": "Ik woon in Rippweiler"
+},
+"Rippweiler\u00010\u00011": {
+"pt": "Este autocarro vai para Rippweiler?",
+"nl": "Rijdt deze bus naar Rippweiler?"
+},
+"Ris\u00010\u00010": {
+"pt": "Em muitos contos há um gigante",
+"nl": "In veel sprookjes komt een reus voor"
+},
+"Ris\u00011\u00010": {
+"pt": "O vosso mais velho tornou-se mesmo um gigante!",
+"nl": "Wat is jullie oudste toch een reus geworden!"
+},
+"riseg\u00010\u00010": {
+"pt": "Na praça do município está a ser erguida uma enorme tenda de circo!",
+"nl": "Op het gemeenteplein wordt een reusachtige circustent opgetrokken!"
+},
+"riseg\u00011\u00010": {
+"pt": "Depois do concerto, o entusiasmo era enorme",
+"nl": "Na het concert was de geestdrift reusachtig"
+},
+"Riselen\u00010\u00010": {
+"pt": "Quatro crianças da nossa turma estão de cama com rubéola",
+"nl": "Vier kinderen uit onze klas liggen met rodehond in bed"
+},
+"Riserad\u00010\u00010": {
+"pt": "Na feira fomos à montanha-russa e à roda gigante",
+"nl": "Op de kermis zijn we op de achtbaan en in het reuzenrad geweest"
+},
+"Risiko\u00010\u00010": {
+"pt": "No inverno, o risco de apanhar uma gripe é maior do que no verão",
+"nl": "In de winter is het risico om griep op te lopen groter dan in de zomer"
+},
+"Risiko\u00010\u00011": {
+"pt": "O especulador correu um grande risco financeiro",
+"nl": "De speculant is een groot financieel risico aangegaan"
+},
+"Risiko\u00010\u00012": {
+"pt": "Esse negócio não implica risco nenhum",
+"nl": "Die deal is met geen enkel risico verbonden"
+},
+"Risikogebitt\u00010\u00010": {
+"pt": "A doente tinha estado numa zona de risco e tem agora os sintomas típicos da infeção viral",
+"nl": "De patiënte was in een risicogebied en heeft nu de typische symptomen van de virusinfectie"
+},
+"Risikogrupp\u00010\u00010": {
+"pt": "As pessoas que pertencem a um grupo de risco têm de ter especial cuidado para não se infetarem com o vírus",
+"nl": "Mensen die tot een risicogroep behoren, moeten extra goed opletten dat ze zich niet met het virus besmetten"
+},
+"Risikopatient\u00010\u00010": {
+"pt": "Os doentes de risco têm muitas vezes mais complicações e uma evolução desfavorável da doença",
+"nl": "Risicopatiënten hebben vaak meer complicaties en een ongunstig verloop van de ziekte"
+},
+"Risikopatientin\u00010\u00010": {
+"pt": "Como sou considerada doente de risco, fui vacinada relativamente cedo contra o coronavírus",
+"nl": "Omdat ik als risicopatiënte gold, werd ik vrij snel tegen het coronavirus ingeënt"
+},
+"Risin\u00010\u00010": {
+"pt": "Também há por vezes gigantas nos contos?",
+"nl": "Zijn er in sprookjes ook weleens reuzinnen?"
+},
+"Risin\u00011\u00010": {
+"pt": "A vossa mais velha tornou-se mesmo uma giganta!",
+"nl": "Wat is jullie oudste toch een reuzin geworden!"
+},
+"Risk\u00010\u00010": {
+"pt": "No inverno, o risco de apanhar uma constipação é maior do que no verão",
+"nl": "In de winter is het risico om verkouden te worden groter dan in de zomer"
+},
+"Risk\u00010\u00011": {
+"pt": "O especulador assumiu um grande risco financeiro",
+"nl": "De speculant heeft een groot financieel risico genomen"
+},
+"Risk\u00010\u00012": {
+"pt": "Esse negócio não está associado a nenhum risco",
+"nl": "Die deal is met geen enkel risico verbonden"
+},
+"riskant\u00010\u00010": {
+"pt": "Acho o teu plano demasiado arriscado",
+"nl": "Ik vind je plan veel te riskant"
+},
+"riskant\u00010\u00011": {
+"pt": "Depois da sua manobra arriscada, o condutor perdeu o controlo do veículo",
+"nl": "Na zijn riskante manoeuvre verloor de chauffeur de controle over zijn voertuig"
+},
+"riskéieren\u00010\u00010": {
+"pt": "O bombeiro arriscou a vida para salvar uma criança",
+"nl": "De brandweerman riskeerde zijn leven om een kind te redden"
+},
+"riskéieren\u00010\u00011": {
+"pt": "Não arriscas nada se participares nesse inquérito",
+"nl": "Je riskeert niets als je aan die enquête meedoet"
+},
+"riskéieren\u00011\u00010": {
+"pt": "No teu lugar, não arriscaria chegar tarde",
+"nl": "In jouw plaats zou ik het niet riskeren te laat te komen"
+},
+"riskéieren\u00011\u00011": {
+"pt": "Arriscarias um salto de paraquedas?",
+"nl": "Zou jij een parachutesprong riskeren?"
+},
+"riskéieren\u00012\u00010": {
+"pt": "Com a inundação, a ponte esteve em risco de ruir",
+"nl": "Bij de overstroming riskeerde de brug in te storten"
+},
+"riskéieren\u00012\u00011": {
+"pt": "Arriscas-te a receber uma multa se estacionares aqui",
+"nl": "Je riskeert een boete (te krijgen) als je hier parkeert"
+},
+"riskéiert\u00010\u00010": {
+"pt": "Acho o teu plano demasiado arriscado",
+"nl": "Ik vind je plan veel te riskant"
+},
+"riskéiert\u00010\u00011": {
+"pt": "Depois da sua manobra arriscada, o condutor perdeu o controlo do veículo",
+"nl": "Na zijn riskante manoeuvre verloor de chauffeur de controle over zijn voertuig"
+},
+"Risotto\u00010\u00010": {
+"pt": "Acho que vou comer o risotto de mexilhões e camarões",
+"nl": "Ik denk dat ik de risotto met mosselen en garnalen neem"
+},
+"Ritschratsch\u00010\u00010": {
+"pt": "Quando era pequeno, tinha sempre sapatos com velcro",
+"nl": "Toen ik klein was, had ik altijd schoenen met klittenband"
+},
+"Ritschratsch\u00010\u00011": {
+"pt": "O velcro encontra-se, entre outros, em casacos, bolsas e babetes",
+"nl": "Klittenband vindt men onder meer op jassen, tassen en slabbetjes"
+},
+"Ritter\u00010\u00010": {
+"pt": "No Carnaval, disfarçámo-nos de cavaleiros",
+"nl": "Voor carnaval hebben we ons als ridders verkleed"
+},
+"Ritter\u00010\u00011": {
+"pt": "Os cavaleiros mediram forças uns com os outros num torneio",
+"nl": "De ridders namen het in een toernooi tegen elkaar op"
+},
+"Rittersall\u00010\u00010": {
+"pt": "A galeria da sala dos cavaleiros foi completamente restaurada",
+"nl": "De galerij van de ridderzaal werd volledig gerestaureerd"
 }
 }
