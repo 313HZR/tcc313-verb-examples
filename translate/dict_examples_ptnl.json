@@ -205198,5 +205198,905 @@
 "Uewereesbech\u00010\u00011": {
 "pt": "Este autocarro vai para Uewereesbech?",
 "nl": "Rijdt deze bus naar Uewereesbech?"
+},
+"Uewerfeelen\u00010\u00010": {
+"pt": "Moro em Uewerfeelen",
+"nl": "Ik woon in Uewerfeelen"
+},
+"Uewerfeelen\u00010\u00011": {
+"pt": "Este autocarro vai para Uewerfeelen?",
+"nl": "Rijdt deze bus naar Uewerfeelen?"
+},
+"Uewerfläch\u00010\u00010": {
+"pt": "Se queres que a superfície do teu novo tampo de mesa fique lisa, tens de a polir mais uma vez",
+"nl": "Als je het oppervlak van je nieuwe tafelblad glad wilt hebben, moet je het nog een keer polijsten"
+},
+"Uewerglabech\u00010\u00010": {
+"pt": "Moro em Uewerglabech",
+"nl": "Ik woon in Uewerglabech"
+},
+"Uewerglabech\u00010\u00011": {
+"pt": "Este autocarro vai para Uewerglabech?",
+"nl": "Rijdt deze bus naar Uewerglabech?"
+},
+"Uewerkäerjeng\u00010\u00010": {
+"pt": "Moro em Uewerkäerjeng",
+"nl": "Ik woon in Uewerkäerjeng"
+},
+"Uewerkäerjeng\u00010\u00011": {
+"pt": "Este autocarro vai para Uewerkäerjeng?",
+"nl": "Rijdt deze bus naar Uewerkäerjeng?"
+},
+"Uewerkierper\u00010\u00010": {
+"pt": "Os nadadores têm geralmente um tronco musculado",
+"nl": "Zwemmers hebben gewoonlijk een gespierd bovenlichaam"
+},
+"Uewerkifer\u00010\u00010": {
+"pt": "O nosso filho tem de arrancar um dente porque o maxilar superior é demasiado estreito para todos os dentes",
+"nl": "Onze zoon moet een tand laten trekken omdat zijn bovenkaak te smal is voor al zijn tanden"
+},
+"Uewerkolpech\u00010\u00010": {
+"pt": "Moro em Uewerkolpech",
+"nl": "Ik woon in Uewerkolpech"
+},
+"Uewerkolpech\u00010\u00011": {
+"pt": "Este autocarro vai para Uewerkolpech?",
+"nl": "Rijdt deze bus naar Uewerkolpech?"
+},
+"Uewerkuer\u00010\u00010": {
+"pt": "Moro em Uewerkuer",
+"nl": "Ik woon in Uewerkuer"
+},
+"Uewerkuer\u00010\u00011": {
+"pt": "Este autocarro vai para Uewerkuer?",
+"nl": "Rijdt deze bus naar Uewerkuer?"
+},
+"Uewermaartel\u00010\u00010": {
+"pt": "Moro em Uewermaartel",
+"nl": "Ik woon in Uewermaartel"
+},
+"Uewermaartel\u00010\u00011": {
+"pt": "Este autocarro vai para Uewermaartel?",
+"nl": "Rijdt deze bus naar Uewermaartel?"
+},
+"Uewerpallen\u00010\u00010": {
+"pt": "Moro em Uewerpallen",
+"nl": "Ik woon in Uewerpallen"
+},
+"Uewerpallen\u00010\u00011": {
+"pt": "Este autocarro vai para Uewerpallen?",
+"nl": "Rijdt deze bus naar Uewerpallen?"
+},
+"Uewerschenkel\u00010\u00010": {
+"pt": "No salto em comprimento distendi um músculo da coxa esquerda",
+"nl": "Bij het verspringen heb ik een spier in mijn linkerbovenbeen verrekt"
+},
+"Uewerschenkel\u00011\u00010": {
+"pt": "Parti o fémur a andar de skate",
+"nl": "Ik heb mijn dijbeen gebroken tijdens het skaten"
+},
+"Uewerstad\u00010\u00010": {
+"pt": "O novo elétrico liga a cidade alta à estação",
+"nl": "De nieuwe tram verbindt de bovenstad met het station"
+},
+"Uewerstad\u00010\u00010~2": {
+"pt": "Moro na cidade alta",
+"nl": "Ik woon in de bovenstad"
+},
+"Uewerstad\u00010\u00011": {
+"pt": "Este autocarro vai para a cidade alta?",
+"nl": "Rijdt deze bus naar de bovenstad?"
+},
+"Uewerwampech\u00010\u00010": {
+"pt": "Moro em Uewerwampech",
+"nl": "Ik woon in Uewerwampech"
+},
+"Uewerwampech\u00010\u00011": {
+"pt": "Este autocarro vai para Uewerwampech?",
+"nl": "Rijdt deze bus naar Uewerwampech?"
+},
+"ufalen\u00010\u00010": {
+"pt": "Quando há reparações a fazer, o técnico tem de estar rapidamente no local",
+"nl": "Wanneer er herstellingen nodig zijn, moet de technicus snel ter plaatse zijn"
+},
+"ufalen\u00010\u00011": {
+"pt": "Todos os anos se geram milhões de toneladas de entulho de construção",
+"nl": "Elk jaar komen er miljoenen tonnen bouwafval vrij"
+},
+"ufälleg\u00010\u00010": {
+"pt": "em criança era propenso a anginas",
+"nl": "Als kind was ik vatbaar voor keelontstekingen"
+},
+"ufälleg\u00010\u00011": {
+"pt": "As pessoas com doenças prévias são mais suscetíveis a complicações em caso de infeção pelo coronavírus",
+"nl": "Mensen met onderliggende aandoeningen zijn vatbaarder voor complicaties bij een besmetting met het coronavirus"
+},
+"ufälleg\u00010\u00012": {
+"pt": "Os bebés que nascem demasiado cedo são muitas vezes mais vulneráveis",
+"nl": "Baby's die te vroeg geboren worden, zijn vaak kwetsbaarder"
+},
+"ufälleg\u00010\u00013": {
+"pt": "Os países economicamente fracos são mais vulneráveis a crises",
+"nl": "Economisch zwakke landen zijn kwetsbaarder voor crisissen"
+},
+"Ufänger\u00010\u00010": {
+"pt": "Um candidato com experiência tem vantagem sobre um principiante",
+"nl": "Een kandidaat met ervaring heeft een voordeel op een beginner"
+},
+"Ufänger\u00010\u00011": {
+"pt": "Inscrevemo-nos no curso de dança, uma vez, no grupo de principiantes",
+"nl": "We hebben ons in de danscursus eens bij de beginners ingeschreven"
+},
+"Ufänger\u00010\u00012": {
+"pt": "A nossa vizinha dá cursos de línguas para principiantes",
+"nl": "Onze buurvrouw geeft taalcursussen voor beginners"
+},
+"Ufängerin\u00010\u00010": {
+"pt": "Para a jovem principiante foi difícil encontrar trabalho",
+"nl": "Voor de jonge beginneling was het moeilijk een baan te vinden"
+},
+"ufangs\u00010\u00010": {
+"pt": "No início, ele teve dificuldade em adaptar-se",
+"nl": "In het begin had hij het moeilijk om zich aan te passen"
+},
+"ufangs\u00010\u00011": {
+"pt": "No fim de contas, tudo não é tão mau como parece no início",
+"nl": "Uiteindelijk is alles niet zo erg als het in het begin lijkt"
+},
+"ufangs\u00010\u00010~2": {
+"pt": "Já no início do mês gastou todo o seu ordenado",
+"nl": "Hij had al aan het begin van de maand zijn hele loon uitgegeven"
+},
+"ufangs\u00010\u00011~2": {
+"pt": "Essa lei foi votada no início do século",
+"nl": "Die wet werd aan het begin van de eeuw gestemd"
+},
+"ufangs\u00010\u00012": {
+"pt": "No início de dezembro caiu a primeira neve",
+"nl": "Begin december viel de eerste sneeuw"
+},
+"ufangs\u00010\u00013": {
+"pt": "Estou nos meus cinquenta e poucos anos",
+"nl": "Ik ben begin vijftig"
+},
+"Ufank\u00010\u00010": {
+"pt": "No início dos saldos, as lojas de roupa estavam cheias de gente",
+"nl": "Bij het begin van de solden zaten de kledingwinkels vol volk"
+},
+"Ufank\u00010\u00011": {
+"pt": "Tratámo-nos por tu desde o início",
+"nl": "We hebben elkaar van in het begin getutoyeerd"
+},
+"Ufank\u00010\u00012": {
+"pt": "No início (da carreira), a jovem atriz só teve pequenos papéis secundários",
+"nl": "In het begin (van haar carrière) kreeg de jonge actrice enkel kleine bijrollen"
+},
+"Ufank\u00010\u00013": {
+"pt": "A indústria automóvel teve os seus inícios no final do século XIX",
+"nl": "De auto-industrie had haar begin aan het einde van de 19e eeuw"
+},
+"Ufank\u00011\u00010": {
+"pt": "No início deste caminho pedestre, sobe-se logo a pique",
+"nl": "Aan het begin van deze wandelweg gaat het meteen bergop"
+},
+"Ufank\u00011\u00011": {
+"pt": "Para enrolar a lã, primeiro tens de encontrar a ponta do novelo",
+"nl": "Om de wol op te winden moet je eerst het begin van de kluwen vinden"
+},
+"ufänken\u00010\u00010": {
+"pt": "Antes de começares o teu discurso, tens de captar a atenção do público",
+"nl": "Voor je je toespraak begint, moet je het gehoor aandacht verschaffen"
+},
+"ufänken\u00010\u00011": {
+"pt": "Começou uma aprendizagem como tipógrafo",
+"nl": "Hij is een leerlingschap als drukker begonnen"
+},
+"ufänken\u00010\u00012": {
+"pt": "O vizinho começou às sete da manhã a cortar a relva",
+"nl": "De buurman begon om zeven uur 's morgens het gras te maaien"
+},
+"ufänken\u00010\u00013": {
+"pt": "Nas férias comecei um livro novo",
+"nl": "Op vakantie ben ik aan een nieuw boek begonnen"
+},
+"ufänken\u00010\u00014": {
+"pt": "Se ao menos nunca me tivesse metido com aquele tipo!",
+"nl": "Had ik me maar nooit met die kerel ingelaten!"
+},
+"ufänken\u00011\u00010": {
+"pt": "Ele não sabe o que fazer com todo o seu dinheiro",
+"nl": "Hij weet niets te beginnen met zijn vele geld"
+},
+"ufänken\u00011\u00011": {
+"pt": "Com essas pesquisas superficiais ninguém consegue fazer nada",
+"nl": "Met dat oppervlakkige onderzoek kan niemand iets beginnen"
+},
+"ufänken\u00011\u00012": {
+"pt": "A polícia não conseguiu fazer nada com as pegadas",
+"nl": "De politie kon niets beginnen met de voetsporen"
+},
+"ufänken\u00011\u00013": {
+"pt": "O que havemos de fazer hoje (com o nosso tempo)?",
+"nl": "Wat gaan we vandaag (met onze tijd) doen?"
+},
+"ufänken\u00011\u00014": {
+"pt": "Não consigo fazer absolutamente nada com essa pessoa",
+"nl": "Ik kan met die persoon helemaal niets beginnen"
+},
+"ufänken\u00011\u00015": {
+"pt": "Com aquele tipo não se faz nada",
+"nl": "Met die kerel is niets te beginnen"
+},
+"ufänken\u00012\u00010": {
+"pt": "Vai buscar uns ramos secos para acender o lume!",
+"nl": "Ga een paar droge takken zoeken om het vuur aan te steken!"
+},
+"ufänken\u00012\u00011": {
+"pt": "Tens um isqueiro para acender o meu cigarro?",
+"nl": "Heb je een aansteker om mijn sigaret aan te steken?"
+},
+"ufänken\u00012\u00012": {
+"pt": "Vai lá acendendo o grilhador, eu abro as garrafas!",
+"nl": "Steek de grill maar al aan, ik open de flessen!"
+},
+"ufänken\u00013\u00010": {
+"pt": "No inverno tem de se acender a luz mais cedo do que no verão",
+"nl": "In de winter moet men het licht vroeger aandoen dan in de zomer"
+},
+"ufänken\u00013\u00011": {
+"pt": "Pelo Natal, à noite acendemos as luzinhas da árvore de Natal",
+"nl": "Rond Kerstmis steken we 's avonds de lichtjes in de kerstboom aan"
+},
+"ufänken\u00014\u00010": {
+"pt": "Começou a trabalhar nos correios nos escalões mais baixos da carreira",
+"nl": "Hij begon (te werken) bij de post op de laagste sport van de carrière"
+},
+"ufänken\u00014\u00011": {
+"pt": "Vão começando, eu chego mais tarde!",
+"nl": "Begin maar alvast, ik kom later!"
+},
+"ufänken\u00014\u00012": {
+"pt": "No pior dos casos, temos de recomeçar do zero",
+"nl": "In het slechtste geval moeten we weer van voren af aan beginnen"
+},
+"ufänken\u00014\u00013": {
+"pt": "As rosas-silvestres começam a ficar vermelhas",
+"nl": "De rozenbottels beginnen rood te worden"
+},
+"ufänken\u00014\u00014": {
+"pt": "Não te esqueças do guarda-chuva, porque está a começar a chover!",
+"nl": "Vergeet je paraplu niet, want het begint te regenen!"
+},
+"ufänken\u00015\u00010": {
+"pt": "A escola começa às oito horas",
+"nl": "De school begint om acht uur"
+},
+"ufänken\u00015\u00011": {
+"pt": "Amanhã começam na Câmara os debates sobre o orçamento do Estado",
+"nl": "Morgen beginnen in de Kamer de debatten over de staatsbegroting"
+},
+"ufänken\u00015\u00012": {
+"pt": "Como os convidados não chegaram, a refeição não pôde começar a horas",
+"nl": "Doordat de gasten niet aankwamen, kon de maaltijd niet op tijd beginnen"
+},
+"ufänken\u00016\u00010": {
+"pt": "Onde começa o vosso terreno?",
+"nl": "Waar begint uw terrein?"
+},
+"Ufanksbuschtaf\u00010\u00010": {
+"pt": "A letra inicial dos substantivos escreve-se com maiúscula em luxemburguês",
+"nl": "De beginletter van zelfstandige naamwoorden wordt in het Luxemburgs met een hoofdletter geschreven"
+},
+"Ufanksschwieregkeet\u00010\u00010": {
+"pt": "Depois de uma série de dificuldades iniciais, a nova empresa ficou financeiramente assegurada relativamente depressa",
+"nl": "Na een reeks beginmoeilijkheden was het nieuwe bedrijf relatief snel financieel gedekt"
+},
+"ufechten\u00010\u00010": {
+"pt": "A advogada aconselhou a sua cliente a contestar a sentença",
+"nl": "De advocate raadde haar cliënte aan het vonnis aan te vechten"
+},
+"ufechten\u00010\u00011": {
+"pt": "Por suspeita de corrupção, os resultados do concurso foram contestados",
+"nl": "Wegens verdenking van corruptie werden de resultaten van de wedstrijd aangevochten"
+},
+"ufeieren\u00010\u00010": {
+"pt": "No domingo vamos ao campo de futebol para apoiar a nossa equipa",
+"nl": "Zondag gaan we naar het voetbalterrein om onze ploeg aan te moedigen"
+},
+"uféieren\u00010\u00010": {
+"pt": "As majorettes encabeçaram o cortejo",
+"nl": "De majorettes leidden de stoet aan"
+},
+"uféieren\u00011\u00010": {
+"pt": "A professora apresentou vários exemplos para sustentar a sua teoria",
+"nl": "De lerares haalde verschillende voorbeelden aan om haar theorie te staven"
+},
+"uféieren\u00012\u00010": {
+"pt": "O jovem camponês engravidou a criada e depois abandonou-a",
+"nl": "De jonge boer maakte de meid zwanger en liet haar daarna zitten"
+},
+"ufëmmen\u00010\u00010": {
+"pt": "É uma arte acender corretamente um cachimbo novo",
+"nl": "Het is een kunst om een nieuwe pijp goed aan te steken"
+},
+"Ufer\u00010\u00010": {
+"pt": "A margem do rio é estabilizada com muros de betão",
+"nl": "De oever van de rivier wordt met betonnen muren gestabiliseerd"
+},
+"Ufer\u00010\u00011": {
+"pt": "Alguns rapazes estavam sentados a pescar ao longo da margem do lago",
+"nl": "Enkele jongens zaten langs de oever van het meer te vissen"
+},
+"Uferleefer\u00010\u00010": {
+"pt": "Quanto tempo chocam os maçaricos-das-rochas?",
+"nl": "Hoe lang broeden de oeverlopers?"
+},
+"uff\u00010\u00010": {
+"pt": "Uf, esta fizemos bem!",
+"nl": "Pfff, dat hebben we gehaald!"
+},
+"uff\u00010\u00011": {
+"pt": "Correu tudo bem, uf!",
+"nl": "Alles is goed gegaan, pff!"
+},
+"uff\u00010\u00012": {
+"pt": "Uf, também podia ter corrido mal!",
+"nl": "Pfff, dat had ook mis kunnen gaan!"
+},
+"ufiichten\u00010\u00010": {
+"pt": "Antes da sua atuação, o trompetista humedece os lábios",
+"nl": "Voor zijn optreden maakt de trompettist zijn lippen nat"
+},
+"ufiichten\u00010\u00011": {
+"pt": "Se se humedecer as camisas, estendem-se com mais facilidade",
+"nl": "Als men de hemden bevochtigt, laten ze zich gemakkelijker strijken"
+},
+"ufillen\u00010\u00010": {
+"pt": "O casaco é bonito, mas é áspero ao toque",
+"nl": "De jas is mooi, maar hij voelt ruw aan"
+},
+"ufillen\u00010\u00011": {
+"pt": "A tua pele está muito seca ao toque",
+"nl": "Je huid voelt heel droog aan"
+},
+"ufillen\u00011\u00010": {
+"pt": "Os meus membros estão hoje muito pesados",
+"nl": "Mijn ledematen voelen vandaag heel zwaar aan"
+},
+"ufléien\u00010\u00010": {
+"pt": "A companhia aérea só voa para alguns destinos durante os meses de verão",
+"nl": "De luchtvaartmaatschappij vliegt sommige bestemmingen enkel tijdens de zomermaanden aan"
+},
+"ufléien\u00010\u00011": {
+"pt": "Como havia demasiado nevoeiro, a piloto aterrou noutro aeroporto",
+"nl": "Omdat er te veel mist was, vloog de piloot een andere luchthaven aan"
+},
+"Ufo\u00010\u00010": {
+"pt": "De vez em quando lê-se no jornal que foi avistado um óvni",
+"nl": "Af en toe leest men in de krant dat er een ufo gezien is"
+},
+"ufréieren\u00010\u00010": {
+"pt": "Estava tanto frio que os limpa-para-brisas do meu carro congelaram",
+"nl": "Het was zo koud dat de ruitenwissers van mijn auto vastgevroren waren"
+},
+"ufrënnen\u00010\u00010": {
+"pt": "Fiz-me depressa amigo dos meus novos colegas de escola",
+"nl": "Ik heb snel vriendschap gesloten met mijn nieuwe klasgenoten"
+},
+"ufrënnen\u00011\u00010": {
+"pt": "Habituei-me depressa à ideia de ir todos os dias de autocarro para o trabalho",
+"nl": "Ik heb me snel met het idee verzoend om elke dag met de bus naar het werk te gaan"
+},
+"ufriessen\u00010\u00010": {
+"pt": "As traças tinham roído o melhor casaco do avô",
+"nl": "De motten hadden aan het beste jasje van opa geknaagd"
+},
+"ufriessen\u00010\u00011": {
+"pt": "Os ratos tinham roído a alface nova",
+"nl": "De muizen hadden aan de jonge sla geknaagd"
+},
+"ufriessen\u00011\u00010": {
+"pt": "A ferrugem tinha corroído muito os tubos",
+"nl": "De roest had de buizen zwaar aangetast"
+},
+"ufriessen\u00012\u00010": {
+"pt": "Nas férias criei barriga",
+"nl": "Op vakantie heb ik een buikje gekweekt"
+},
+"Ufro\u00010\u00010": {
+"pt": "Fizemos um pedido de subsídio",
+"nl": "We hebben een aanvraag voor een subsidie ingediend"
+},
+"Ufro\u00010\u00011": {
+"pt": "Os pedidos são tratados com confidencialidade",
+"nl": "De aanvragen worden vertrouwelijk behandeld"
+},
+"Ufro\u00010\u00012": {
+"pt": "A pedido do governo, a Câmara reúne-se hoje em sessão extraordinária",
+"nl": "Op verzoek van de regering komt de Kamer vandaag in buitengewone zitting bijeen"
+},
+"Ufro\u00011\u00010": {
+"pt": "Onde está o pedido que pus aqui na secretária há cinco minutos?",
+"nl": "Waar is de aanvraag die ik vijf minuten geleden hier op het bureau gelegd heb?"
+},
+"ufroen\u00010\u00010": {
+"pt": "O jornalista pediu uma entrevista à ministra",
+"nl": "De journalist vroeg een interview aan bij de minister"
+},
+"ufroen\u00010\u00011": {
+"pt": "Ainda tenho de pedir um visto no consulado",
+"nl": "Ik moet nog een visum aanvragen bij het consulaat"
+},
+"ufuerderen\u00010\u00010": {
+"pt": "O Ministério Público requisitou todos os processos sobre o inquérito",
+"nl": "Het parket heeft alle dossiers over het onderzoek opgevraagd"
+},
+"Ufuerderung\u00010\u00010": {
+"pt": "Nesta escola são feitas exigências elevadas às crianças",
+"nl": "Op deze school worden hoge eisen aan de kinderen gesteld"
+},
+"Ufuerderung\u00010\u00011": {
+"pt": "Tenho muito medo de não estar à altura dessas exigências",
+"nl": "Ik ben bang dat ik die eisen niet aankan"
+},
+"ufueren\u00010\u00010": {
+"pt": "O condutor arrancou tão bruscamente que as pessoas no autocarro perderam o equilíbrio",
+"nl": "De chauffeur trok zo bruusk op dat de mensen in de bus hun evenwicht verloren"
+},
+"Uganda\u00010\u00010": {
+"pt": "Já estive três vezes no Uganda",
+"nl": "Ik ben al drie keer in Oeganda geweest"
+},
+"Uganda\u00010\u00011": {
+"pt": "Na próxima semana vou ao Uganda",
+"nl": "Volgende week ga ik naar Oeganda"
+},
+"Uganda\u00010\u00012": {
+"pt": "Venho do Uganda",
+"nl": "Ik kom uit Oeganda"
+},
+"Ugander\u00010\u00010": {
+"pt": "O meu melhor amigo é ugandês",
+"nl": "Mijn beste vriend is Oegandees"
+},
+"Uganderin\u00010\u00010": {
+"pt": "A minha melhor amiga é ugandesa",
+"nl": "Mijn beste vriendin is Oegandese"
+},
+"ugandesch\u00010\u00010": {
+"pt": "Na nossa viagem ficámos a conhecer a cultura ugandesa",
+"nl": "Op onze reis hebben we de Oegandese cultuur leren kennen"
+},
+"ugebaut\u00010\u00010": {
+"pt": "A nossa casa só está geminada de um lado",
+"nl": "Ons huis is maar aan één kant aangebouwd"
+},
+"ugebonnen\u00010\u00010": {
+"pt": "Hoje estás mesmo seco, aconteceu alguma coisa?",
+"nl": "Je bent vandaag toch kortaf, is er iets gebeurd?"
+},
+"ugebuer\u00010\u00010": {
+"pt": "Algumas reações têm de ser aprendidas, outras são inatas",
+"nl": "Sommige reacties moet men leren, andere zijn aangeboren"
+},
+"ugebuer\u00010\u00011": {
+"pt": "Aquele nasceu descarado",
+"nl": "Die is brutaal geboren"
+},
+"ugefault\u00010\u00010": {
+"pt": "Não deixes as maçãs podres entre as outras!",
+"nl": "Laat die rotte appels niet tussen de andere liggen!"
+},
+"ugehaucht\u00010\u00010": {
+"pt": "Os artigos daquele jornalista têm um cunho nacionalista",
+"nl": "De artikels van die journalist zijn nationalistisch getint"
+},
+"ugehéieren\u00010\u00010": {
+"pt": "Corre o boato de que pertence a uma seita",
+"nl": "Er wordt gefluisterd dat hij tot een sekte behoort"
+},
+"ugehéieren\u00010\u00011": {
+"pt": "Ela pertence ao mesmo partido há 30 anos",
+"nl": "Ze behoort al 30 jaar tot dezelfde partij"
+},
+"ugeholl\u00010\u00010": {
+"pt": "Antigamente era costume as crianças tratarem os pais por vós",
+"nl": "Vroeger was het gebruikelijk dat kinderen hun ouders vousvoyeerden"
+},
+"ugeholl\u00010\u00011": {
+"pt": "No nosso banco, é costume os funcionários usarem gravata",
+"nl": "Bij ons in de bank is het gebruikelijk dat de bedienden een das dragen"
+},
+"Ugeklot\u00010\u00010": {
+"pt": "A jovem arguida é defendida por uma advogada de renome",
+"nl": "De jonge beschuldigde wordt verdedigd door een gerenommeerde advocate"
+},
+"Ugekloten\u00010\u00010": {
+"pt": "O arguido foi absolvido",
+"nl": "De beschuldigde werd vrijgesproken"
+},
+"Ugekloten\u00010\u00011": {
+"pt": "Os arguidos saíram-se relativamente bem no julgamento",
+"nl": "De beschuldigden kwamen in het proces er relatief goed vanaf"
+},
+"Ugeleeënheet\u00010\u00010": {
+"pt": "Infelizmente não te posso ajudar neste assunto delicado",
+"nl": "In die pijnlijke zaak kan ik je helaas niet helpen"
+},
+"ugeschloen\u00010\u00010": {
+"pt": "Depois do jogo, os jogadores estavam todos arrasados",
+"nl": "Na de match waren alle spelers kapot"
+},
+"ugeschloen\u00010\u00011": {
+"pt": "Desde o escândalo, a política está bastante abalada",
+"nl": "Sinds het schandaal is de politica behoorlijk aangeslagen"
+},
+"ugeschmiert\u00010\u00010": {
+"pt": "Se perdermos o comboio, estamos bem enganados",
+"nl": "Als we de trein missen, zitten we lelijk in de put"
+},
+"ugesinn\u00010\u00010": {
+"pt": "Vê-se-te o cansaço na cara",
+"nl": "Men ziet je de vermoeidheid aan"
+},
+"ugesinn\u00010\u00011": {
+"pt": "Via-se pela cara da mulher que estava envergonhada",
+"nl": "Men kon aan het gezicht van de vrouw zien dat ze beschaamd was"
+},
+"ugesinn\u00011\u00010": {
+"pt": "O tabaco não é considerado um risco para a saúde sem razão",
+"nl": "Tabak wordt niet voor niets als een gevaar voor de gezondheid beschouwd"
+},
+"ugesinn\u00011\u00011": {
+"pt": "Ela considerou a sua decisão o único caminho certo",
+"nl": "Ze beschouwde haar beslissing als de enige juiste weg"
+},
+"ugesinn\u00011\u00012": {
+"pt": "Antigamente considerava-o o meu maior inimigo",
+"nl": "Vroeger beschouwde ik hem als mijn grootste vijand"
+},
+"ugesinn\u00012\u00010": {
+"pt": "O tempo parece relativamente bom hoje",
+"nl": "Het weer ziet er vandaag relatief goed uit"
+},
+"ugesinn\u00012\u00011": {
+"pt": "Parece que com o motor está tudo em ordem",
+"nl": "Het lijkt alsof alles in orde is met de motor"
+},
+"ugesinn\u00010\u00010~2": {
+"pt": "O nosso colaborador é bem visto em todo o lado",
+"nl": "Onze medewerker staat overal (goed) aangeschreven"
+},
+"ugesinn\u00010\u00011~2": {
+"pt": "Quem não faz como os outros depressa é mal visto",
+"nl": "Wie niet doet zoals de anderen, staat snel slecht aangeschreven"
+},
+"ugespaant\u00010\u00010": {
+"pt": "Devido à recessão, a situação no mercado de trabalho está tensa",
+"nl": "Door de recessie is de situatie op de arbeidsmarkt gespannen"
+},
+"ugespaant\u00011\u00010": {
+"pt": "Porque é que ultimamente estás sempre tão tenso?",
+"nl": "Waarom ben je de laatste tijd altijd zo gespannen?"
+},
+"ugewisen\u00010\u00010": {
+"pt": "Nas negociações, o diplomata depende do seu intérprete",
+"nl": "Bij de onderhandelingen is de diplomaat op zijn tolk aangewezen"
+},
+"ugewisen\u00010\u00011": {
+"pt": "Desde o meu acidente, dependo da ajuda de outros",
+"nl": "Sinds mijn ongeval ben ik op hulp van anderen aangewezen"
+},
+"ugewisen\u00010\u00012": {
+"pt": "Dependo de alguém me poder ir buscar de carro",
+"nl": "Ik ben erop aangewezen dat iemand me met de auto kan komen halen"
+},
+"uginn\u00010\u00010": {
+"pt": "Tem de indicar o seu nome e o seu número de telefone",
+"nl": "U moet uw naam en uw telefoonnummer opgeven"
+},
+"uginn\u00010\u00011": {
+"pt": "O arguido deu como álibi que tinha estado no ensaio do coro",
+"nl": "De beschuldigde gaf als alibi op dat hij op de koorrepetitie geweest was"
+},
+"uginn\u00010\u00012": {
+"pt": "Podes indicar-me um bom oftalmologista?",
+"nl": "Kun je me een goede oogarts aanraden?"
+},
+"uginn\u00010\u00013": {
+"pt": "No teu mapa as distâncias estão indicadas em milhas",
+"nl": "Op je kaart zijn de afstanden in mijl opgegeven"
+},
+"uginn\u00011\u00010": {
+"pt": "Não te armes assim em importante!",
+"nl": "Doe toch niet zo opschepperig!"
+},
+"uginn\u00011\u00011": {
+"pt": "Ele está sempre a gabar-se das suas muitas conquistas",
+"nl": "Hij schept altijd op over zijn vele veroveringen"
+},
+"uginn\u00012\u00010": {
+"pt": "Duas pessoas da associação ofereceram-se para fazer batatas fritas na festa",
+"nl": "Twee mensen van de vereniging boden zich aan om op het feest frieten te bakken"
+},
+"ugläichen\u00010\u00010": {
+"pt": "As pessoas gostariam que os salários fossem ajustados ao custo de vida",
+"nl": "De mensen zouden graag zien dat de lonen aan de prijsstijgingen aangepast worden"
+},
+"uglotzen\u00010\u00010": {
+"pt": "Aquele idiota ficou a olhar fixamente para mim a noite toda",
+"nl": "Die sukkel heeft me de hele avond aangestaard"
+},
+"ugoen\u00010\u00010": {
+"pt": "Ele abordou esse tema com muita competência",
+"nl": "Hij is dat onderwerp zeer bekwaam aangepakt"
+},
+"ugoen\u00010\u00011": {
+"pt": "Os partidos abordaram os difíceis debates com otimismo",
+"nl": "De partijen zijn de moeilijke debatten optimistisch aangegaan"
+},
+"ugoen\u00010\u00012": {
+"pt": "Como é que havemos de abordar esta questão?",
+"nl": "Hoe moeten we deze zaak nu aanpakken?"
+},
+"ugoen\u00011\u00010": {
+"pt": "Quando o patrão se reformou, o cozinheiro assumiu o restaurante",
+"nl": "Toen de baas ophield, nam de kok het restaurant over"
+},
+"ugoen\u00012\u00010": {
+"pt": "Quanto à sua honestidade, tenho as minhas dúvidas",
+"nl": "Wat zijn eerlijkheid betreft, heb ik mijn bedenkingen"
+},
+"ugoen\u00012\u00011": {
+"pt": "Quanto às energias renováveis, alguns países estão mais avançados do que outros",
+"nl": "Wat de hernieuwbare energie betreft, staan sommige landen verder dan andere"
+},
+"ugoen\u00012\u00012": {
+"pt": "Quanto à nossa nova colaboradora, estamos todos mais do que satisfeitos",
+"nl": "Wat onze nieuwe medewerkster betreft, zijn we allemaal meer dan tevreden"
+},
+"ugoen\u00013\u00010": {
+"pt": "Esses são pormenores íntimos que não interessam a ninguém",
+"nl": "Dat zijn intieme details die niemand iets aangaan"
+},
+"ugoen\u00013\u00011": {
+"pt": "E, aliás, isso não te diz respeito!",
+"nl": "En trouwens, dat gaat je niets aan!"
+},
+"ugoen\u00013\u00012": {
+"pt": "Estás sempre a meter-te em coisas que não te dizem respeito!",
+"nl": "Je mengt je altijd in dingen die je helemaal niet aangaan!"
+},
+"ugoen\u00014\u00010": {
+"pt": "Que te deu para envergonhar os teus colegas diante de tanta gente?",
+"nl": "Wat bezielt je om je collega's voor zoveel mensen te blameren?"
+},
+"ugoen\u00015\u00010": {
+"pt": "Já não sei exatamente a que horas começa o concerto",
+"nl": "Ik weet niet meer precies hoe laat het concert begint"
+},
+"ugoen\u00015\u00011": {
+"pt": "Com o ano 2001 começou o terceiro milénio",
+"nl": "Met het jaar 2001 begon het derde millennium"
+},
+"ugoen\u00016\u00010": {
+"pt": "Onde começa o vosso terreno?",
+"nl": "Waar begint uw terrein?"
+},
+"ugoen\u00017\u00010": {
+"pt": "As luzes acendem-se todas ao mesmo tempo",
+"nl": "De lichten gaan allemaal tegelijk aan"
+},
+"ugoen\u00017\u00011": {
+"pt": "Quando o ladrão partiu a janela, disparou o alarme",
+"nl": "Toen de dief het raam insloeg, ging het alarm af"
+},
+"ugoen\u00017\u00012": {
+"pt": "O meu carro já não pegava e teve de ser rebocado",
+"nl": "Mijn auto sloeg niet meer aan en moest weggesleept worden"
+},
+"ugoen\u00018\u00010": {
+"pt": "O lume não pega, a lenha está demasiado húmida",
+"nl": "Het vuur wil niet branden, het hout is te vochtig"
+},
+"ugoen\u00019\u00010": {
+"pt": "Os cavalos fugiram ao camponês",
+"nl": "De paarden zijn voor de boer op hol geslagen"
+},
+"ugoen\u000110\u00010": {
+"pt": "O traficante pôs-se a andar quando viu a polícia",
+"nl": "De dealer maakte zich uit de voeten toen hij de politie zag"
+},
+"ugoen\u000110\u00011": {
+"pt": "O tesoureiro fugiu com o dinheiro",
+"nl": "De penningmeester is met de kas gaan lopen"
+},
+"ugoen\u000111\u00010": {
+"pt": "Traz a tua amiga à vontade, não incomoda ninguém",
+"nl": "Neem je vriendin gerust mee, het maakt niemand iets uit"
+},
+"ugoen\u000111\u00011": {
+"pt": "Ele não é forreta, uns trocos não lhe importam",
+"nl": "Hij is niet krenterig, een paar centen maken hem niets uit"
+},
+"ugoen\u000111\u00012": {
+"pt": "Não tenho pressa, uma hora a mais ou a menos não me importa",
+"nl": "Ik heb geen haast, een uur meer of minder maakt me niets uit"
+},
+"ugräifen\u00010\u00010": {
+"pt": "Aquele país atacou o vizinho sem declaração de guerra",
+"nl": "Dat land viel zijn buur aan zonder oorlogsverklaring"
+},
+"ugräifen\u00010\u00011": {
+"pt": "O guarda-florestal foi atacado por um javali",
+"nl": "De boswachter werd aangevallen door een everzwijn"
+},
+"ugräifen\u00011\u00010": {
+"pt": "Os argumentos do orador foram atacados na imprensa",
+"nl": "De argumenten van de spreker werden in de pers aangevallen"
+},
+"ugräifen\u00012\u00010": {
+"pt": "O medicamento atacou fortemente o fígado da paciente",
+"nl": "Het geneesmiddel heeft de lever van de patiënte zwaar aangetast"
+},
+"ugräifen\u00012\u00011": {
+"pt": "Aquela ponte está tão corroída pela ferrugem que tem de ser restaurada",
+"nl": "Die brug is zo zwaar door roest aangetast dat ze gerestaureerd moet worden"
+},
+"ugräifen\u00013\u00010": {
+"pt": "A equipa adversária atacou inesperadamente",
+"nl": "De tegenstander viel onverwacht aan"
+},
+"ugräifen\u00013\u00011": {
+"pt": "O inimigo atacou durante a noite",
+"nl": "De vijand viel 's nachts aan"
+},
+"Ugräifer\u00010\u00010": {
+"pt": "Na fronteira, os soldados repeliram os atacantes",
+"nl": "Aan de grens hebben de soldaten de aanvallers afgeslagen"
+},
+"Ugräiferin\u00010\u00010": {
+"pt": "A polícia procura uma perigosa agressora que terá atacado várias vítimas seguidamente",
+"nl": "De politie zoekt een gevaarlijke aanvalster die meteen verschillende slachtoffers zou aangevallen hebben"
+},
+"ugranzen\u00010\u00010": {
+"pt": "Embora eu tenha sido muito educado, fui maltratado por uma vendedora",
+"nl": "Hoewel ik heel beleefd was, werd ik door een verkoopster afgesnauwd"
+},
+"Ugrëff\u00010\u00010": {
+"pt": "Esse Estado planeia há muito um ataque militar ao seu país vizinho",
+"nl": "Die staat plant al lang een militaire aanval op zijn buurland"
+},
+"Ugrëff\u00011\u00010": {
+"pt": "Na campanha eleitoral há constantemente ataques pessoais contra candidatos individuais",
+"nl": "In de verkiezingscampagne komt het telkens weer tot persoonlijke aanvallen tegen afzonderlijke kandidaten"
+},
+"Ugrëff\u00012\u00010": {
+"pt": "É tempo de pôr mãos à obra nessa reforma",
+"nl": "Het wordt tijd dat we die hervorming aanpakken"
+},
+"ugrëffeg\u00010\u00010": {
+"pt": "O seu comportamento agressivo preocupa-nos",
+"nl": "Zijn agressief gedrag baart ons zorgen"
+},
+"ugrëffeg\u00010\u00011": {
+"pt": "O álcool facilmente torna as pessoas agressivas",
+"nl": "Van alcohol wordt men gemakkelijk agressief"
+},
+"ugrëffeg\u00010\u00012": {
+"pt": "Só me respondem sempre de forma agressiva às minhas perguntas",
+"nl": "Op mijn vragen krijg ik altijd enkel agressieve antwoorden"
+},
+"ugrenzend\u00010\u00010": {
+"pt": "A câmara comprou os terrenos contíguos para ampliar a casa da câmara",
+"nl": "De gemeente kocht de aangrenzende terreinen om het stadhuis uit te breiden"
+},
+"ugrinsen\u00010\u00010": {
+"pt": "Não precisas de me sorrir tão descaradamente!",
+"nl": "Je hoeft me niet zo brutaal aan te grijnzen!"
+},
+"Uhu\u00010\u00010": {
+"pt": "Quanto tempo chocam os bufos-reais?",
+"nl": "Hoe lang broeden de oehoes?"
+},
+"ukatzen\u00010\u00010": {
+"pt": "A teimosia daquele cabrão deixa-me doente!",
+"nl": "De koppigheid van die smeerlap maakt me ziek!"
+},
+"ukéieren\u00010\u00010": {
+"pt": "Já mal conseguimos pôr aquele velho trator a trabalhar",
+"nl": "We kregen die oude tractor bijna niet meer gestart"
+},
+"ukënnegen\u00010\u00010": {
+"pt": "A fiduciária anunciou a contratação de novo pessoal",
+"nl": "De fiduciaire kondigde de aanwerving van nieuw personeel aan"
+},
+"ukënnegen\u00010\u00011": {
+"pt": "A minha tia gosta que eu anuncie a minha visita",
+"nl": "Mijn tante vindt het fijn als ik mijn bezoek bij haar aankondig"
+},
+"ukënnegen\u00011\u00010": {
+"pt": "As nuvens escuras anunciam chuva",
+"nl": "De donkere wolken kondigen regen aan"
+},
+"ukënnegen\u00012\u00010": {
+"pt": "Uma gripe anuncia-se muitas vezes com febre",
+"nl": "Een griep kondigt zich vaak aan met koorts"
+},
+"ukënnegen\u00012\u00011": {
+"pt": "A primavera anuncia-se, os campainhas-brancas já florescem",
+"nl": "De lente kondigt zich aan, de sneeuwklokjes bloeien al"
+},
+"Ukënnegung\u00010\u00010": {
+"pt": "Até agora ficou-se apenas pelo anúncio da sua demissão",
+"nl": "Tot nu toe bleef het enkel bij de aankondiging van zijn ontslag"
+},
+"uketten\u00010\u00010": {
+"pt": "Prendo sempre a minha bicicleta com corrente quando a estaciono algures",
+"nl": "Ik ketting mijn fiets altijd vast als ik hem ergens zet"
+},
+"uketten\u00010\u00011": {
+"pt": "Alguns manifestantes acorrentaram-se à grade diante da embaixada",
+"nl": "Enkele betogers kettenden zich vast aan het hek voor de ambassade"
+},
+"ukierpen\u00010\u00010": {
+"pt": "O condutor deu à manivela do (motor do) automóvel antigo",
+"nl": "De chauffeur draaide de (motor van de) oldtimer aan"
+},
+"uklappen\u00010\u00010": {
+"pt": "Voltou a bater-me à porta, porque precisa de dinheiro",
+"nl": "Hij kwam weer bij mij aankloppen omdat hij geld nodig heeft"
+},
+"ukléngen\u00010\u00010": {
+"pt": "O diretor deixou entender no seu discurso que procura um sucessor",
+"nl": "De directeur liet in zijn toespraak doorschemeren dat hij een opvolger zoekt"
+},
+"uklicken\u00010\u00010": {
+"pt": "Se clicares nessa ligação, chegas à nossa página inicial",
+"nl": "Als je op die link klikt, kom je op onze homepage"
+},
+"uklicken\u00010\u00011": {
+"pt": "Tens de clicar duas vezes no ícone para abrir o documento",
+"nl": "Je moet twee keer op het pictogram klikken om dat document te openen"
+},
+"ukliewen\u00010\u00010": {
+"pt": "O sapateiro voltou a colar a sola dos meus sapatos",
+"nl": "De schoenmaker heeft de zool van mijn schoenen weer aangelijmd"
+},
+"Uklo\u00010\u00010": {
+"pt": "Ainda não é certo se haverá uma acusação contra o arguido",
+"nl": "Het staat nog niet vast of het tot een aanklacht tegen de beschuldigde komt"
+},
+"ukloen\u00010\u00010": {
+"pt": "O Ministério Público acusou-o de homicídio",
+"nl": "Het parket heeft hem van moord aangeklaagd"
+},
+"ukloen\u00010\u00011": {
+"pt": "Os dois funcionários foram acusados de corrupção",
+"nl": "De twee ambtenaren werden wegens corruptie aangeklaagd"
+},
+"uknabberen\u00010\u00010": {
+"pt": "Os ratos tinham roído o chocolate",
+"nl": "De muizen hadden aan de chocolade geknabbeld"
+},
+"uknäppen\u00010\u00010": {
+"pt": "Cuida de abotoar bem o capuz, senão ainda o perdes!",
+"nl": "Zorg dat je je kap goed vastknoopt, anders verlies je hem nog!"
+},
+"uknëppen\u00010\u00010": {
+"pt": "Quero aproveitar diretamente a tua ideia",
+"nl": "Ik wil meteen op je idee voortbouwen"
+},
+"uknëppen\u00010\u00011": {
+"pt": "Depois da doença, o cantor já não conseguiu retomar o seu antigo sucesso",
+"nl": "Na zijn ziekte kon de zanger niet meer aansluiten bij zijn vroegere succes"
+},
+"uknipsen\u00010\u00010": {
+"pt": "Queria acender o candeeiro de pé, mas não encontrei o interruptor",
+"nl": "Ik wilde de staande lamp aanknippen, maar ik vond de schakelaar niet"
+},
+"ukollen\u00010\u00010": {
+"pt": "Tentei voltar a colar as asas da jarra",
+"nl": "Ik heb geprobeerd de oren van de kruik weer aan te plakken"
 }
 }
