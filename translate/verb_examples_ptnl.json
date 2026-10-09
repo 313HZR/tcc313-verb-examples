@@ -422926,5 +422926,5405 @@
 "matrappen\u0001subjunctive\u00013p": {
 "pt": "que eles arrastem os barcos de papel no riacho",
 "nl": "dat zij de papieren bootjes op de beek meesleuren"
+},
+"matrechnen\u0001present\u00011s": {
+"pt": "Eu incluo o café na conta.",
+"nl": "Ik reken de koffie in de rekening mee."
+},
+"matrechnen\u0001present\u00012s": {
+"pt": "Tu incluis o café na conta.",
+"nl": "Jij rekent de koffie in de rekening mee."
+},
+"matrechnen\u0001present\u00013s": {
+"pt": "Ele inclui o café na conta.",
+"nl": "Hij rekent de koffie in de rekening mee."
+},
+"matrechnen\u0001present\u00011p": {
+"pt": "Nós incluímos o café na conta.",
+"nl": "Wij rekenen de koffie in de rekening mee."
+},
+"matrechnen\u0001present\u00012p": {
+"pt": "Vocês incluem o café na conta.",
+"nl": "Jullie rekenen de koffie in de rekening mee."
+},
+"matrechnen\u0001present\u00013p": {
+"pt": "Eles incluem o café na conta.",
+"nl": "Zij rekenen de koffie in de rekening mee."
+},
+"matrechnen\u0001perfect\u00011s": {
+"pt": "Eu incluí o café na conta.",
+"nl": "Ik heb de koffie in de rekening meegerekend."
+},
+"matrechnen\u0001perfect\u00012s": {
+"pt": "Tu incluíste o café na conta.",
+"nl": "Jij hebt de koffie in de rekening meegerekend."
+},
+"matrechnen\u0001perfect\u00013s": {
+"pt": "Ele incluiu o café na conta.",
+"nl": "Hij heeft de koffie in de rekening meegerekend."
+},
+"matrechnen\u0001perfect\u00011p": {
+"pt": "Nós incluímos o café na conta.",
+"nl": "Wij hebben de koffie in de rekening meegerekend."
+},
+"matrechnen\u0001perfect\u00012p": {
+"pt": "Vocês incluíram o café na conta.",
+"nl": "Jullie hebben de koffie in de rekening meegerekend."
+},
+"matrechnen\u0001perfect\u00013p": {
+"pt": "Eles incluíram o café na conta.",
+"nl": "Zij hebben de koffie in de rekening meegerekend."
+},
+"matrechnen\u0001past\u00011s": {
+"pt": "Eu incluí o café na conta.",
+"nl": "Ik rekente de koffie in de rekening mee."
+},
+"matrechnen\u0001past\u00012s": {
+"pt": "Tu incluíste o café na conta.",
+"nl": "Jij rekente de koffie in de rekening mee."
+},
+"matrechnen\u0001past\u00013s": {
+"pt": "Ele incluiu o café na conta.",
+"nl": "Hij rekente de koffie in de rekening mee."
+},
+"matrechnen\u0001past\u00011p": {
+"pt": "Nós incluímos o café na conta.",
+"nl": "Wij rekenten de koffie in de rekening mee."
+},
+"matrechnen\u0001past\u00012p": {
+"pt": "Vocês incluíram o café na conta.",
+"nl": "Jullie rekenten de koffie in de rekening mee."
+},
+"matrechnen\u0001past\u00013p": {
+"pt": "Eles incluíram o café na conta.",
+"nl": "Zij rekenten de koffie in de rekening mee."
+},
+"matrechnen\u0001imperfect\u00011s": {
+"pt": "Eu costumava incluir o café na conta.",
+"nl": "Ik rekente vroeger altijd de koffie in de rekening mee."
+},
+"matrechnen\u0001imperfect\u00012s": {
+"pt": "Tu costumavas incluir o café na conta.",
+"nl": "Jij rekente vroeger altijd de koffie in de rekening mee."
+},
+"matrechnen\u0001imperfect\u00013s": {
+"pt": "Ele costumava incluir o café na conta.",
+"nl": "Hij rekente vroeger altijd de koffie in de rekening mee."
+},
+"matrechnen\u0001imperfect\u00011p": {
+"pt": "Nós costumávamos incluir o café na conta.",
+"nl": "Wij rekenten vroeger altijd de koffie in de rekening mee."
+},
+"matrechnen\u0001imperfect\u00012p": {
+"pt": "Vocês costumavam incluir o café na conta.",
+"nl": "Jullie rekenten vroeger altijd de koffie in de rekening mee."
+},
+"matrechnen\u0001imperfect\u00013p": {
+"pt": "Eles costumavam incluir o café na conta.",
+"nl": "Zij rekenten vroeger altijd de koffie in de rekening mee."
+},
+"matrechnen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha incluído o café na conta.",
+"nl": "Ik had de koffie in de rekening meegerekend."
+},
+"matrechnen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas incluído o café na conta.",
+"nl": "Jij had de koffie in de rekening meegerekend."
+},
+"matrechnen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha incluído o café na conta.",
+"nl": "Hij had de koffie in de rekening meegerekend."
+},
+"matrechnen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos incluído o café na conta.",
+"nl": "Wij hadden de koffie in de rekening meegerekend."
+},
+"matrechnen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham incluído o café na conta.",
+"nl": "Jullie hadden de koffie in de rekening meegerekend."
+},
+"matrechnen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham incluído o café na conta.",
+"nl": "Zij hadden de koffie in de rekening meegerekend."
+},
+"matrechnen\u0001future\u00011s": {
+"pt": "Eu incluirei o café na conta.",
+"nl": "Ik zal de koffie in de rekening meerekenen."
+},
+"matrechnen\u0001future\u00012s": {
+"pt": "Tu incluirás o café na conta.",
+"nl": "Jij zult de koffie in de rekening meerekenen."
+},
+"matrechnen\u0001future\u00013s": {
+"pt": "Ele incluirá o café na conta.",
+"nl": "Hij zal de koffie in de rekening meerekenen."
+},
+"matrechnen\u0001future\u00011p": {
+"pt": "Nós incluiremos o café na conta.",
+"nl": "Wij zullen de koffie in de rekening meerekenen."
+},
+"matrechnen\u0001future\u00012p": {
+"pt": "Vocês incluirão o café na conta.",
+"nl": "Jullie zullen de koffie in de rekening meerekenen."
+},
+"matrechnen\u0001future\u00013p": {
+"pt": "Eles incluirão o café na conta.",
+"nl": "Zij zullen de koffie in de rekening meerekenen."
+},
+"matrechnen\u0001conditional\u00011s": {
+"pt": "Eu incluiria o café na conta.",
+"nl": "Ik zou de koffie in de rekening meerekenen."
+},
+"matrechnen\u0001conditional\u00012s": {
+"pt": "Tu incluirias o café na conta.",
+"nl": "Jij zou de koffie in de rekening meerekenen."
+},
+"matrechnen\u0001conditional\u00013s": {
+"pt": "Ele incluiria o café na conta.",
+"nl": "Hij zou de koffie in de rekening meerekenen."
+},
+"matrechnen\u0001conditional\u00011p": {
+"pt": "Nós incluiríamos o café na conta.",
+"nl": "Wij zouden de koffie in de rekening meerekenen."
+},
+"matrechnen\u0001conditional\u00012p": {
+"pt": "Vocês incluiriam o café na conta.",
+"nl": "Jullie zouden de koffie in de rekening meerekenen."
+},
+"matrechnen\u0001conditional\u00013p": {
+"pt": "Eles incluiriam o café na conta.",
+"nl": "Zij zouden de koffie in de rekening meerekenen."
+},
+"matrechnen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria incluído o café na conta.",
+"nl": "Ik zou de koffie in de rekening hebben meegerekend."
+},
+"matrechnen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias incluído o café na conta.",
+"nl": "Jij zou de koffie in de rekening hebben meegerekend."
+},
+"matrechnen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria incluído o café na conta.",
+"nl": "Hij zou de koffie in de rekening hebben meegerekend."
+},
+"matrechnen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos incluído o café na conta.",
+"nl": "Wij zouden de koffie in de rekening hebben meegerekend."
+},
+"matrechnen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam incluído o café na conta.",
+"nl": "Jullie zouden de koffie in de rekening hebben meegerekend."
+},
+"matrechnen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam incluído o café na conta.",
+"nl": "Zij zouden de koffie in de rekening hebben meegerekend."
+},
+"matrechnen\u0001subjunctive\u00011s": {
+"pt": "que eu inclua o café na conta",
+"nl": "dat ik de koffie in de rekening meereken"
+},
+"matrechnen\u0001subjunctive\u00012s": {
+"pt": "que tu incluas o café na conta",
+"nl": "dat jij de koffie in de rekening meerekent"
+},
+"matrechnen\u0001subjunctive\u00013s": {
+"pt": "que ele inclua o café na conta",
+"nl": "dat hij de koffie in de rekening meerekent"
+},
+"matrechnen\u0001subjunctive\u00011p": {
+"pt": "que nós incluamos o café na conta",
+"nl": "dat wij de koffie in de rekening meerekenen"
+},
+"matrechnen\u0001subjunctive\u00012p": {
+"pt": "que vocês incluam o café na conta",
+"nl": "dat jullie de koffie in de rekening meerekenen"
+},
+"matrechnen\u0001subjunctive\u00013p": {
+"pt": "que eles incluam o café na conta",
+"nl": "dat zij de koffie in de rekening meerekenen"
+},
+"matschaffen\u0001present\u00011s": {
+"pt": "Eu participo no projeto da horta comunitária do bairro.",
+"nl": "Ik werk aan het buurttuinproject mee."
+},
+"matschaffen\u0001present\u00012s": {
+"pt": "Tu participas no projeto da horta comunitária do bairro.",
+"nl": "Jij werkt aan het buurttuinproject mee."
+},
+"matschaffen\u0001present\u00013s": {
+"pt": "Ele participa no projeto da horta comunitária do bairro.",
+"nl": "Hij werkt aan het buurttuinproject mee."
+},
+"matschaffen\u0001present\u00011p": {
+"pt": "Nós participamos no projeto da horta comunitária do bairro.",
+"nl": "Wij werken aan het buurttuinproject mee."
+},
+"matschaffen\u0001present\u00012p": {
+"pt": "Vocês participam no projeto da horta comunitária do bairro.",
+"nl": "Jullie werken aan het buurttuinproject mee."
+},
+"matschaffen\u0001present\u00013p": {
+"pt": "Eles participam no projeto da horta comunitária do bairro.",
+"nl": "Zij werken aan het buurttuinproject mee."
+},
+"matschaffen\u0001perfect\u00011s": {
+"pt": "Eu participei no projeto da horta comunitária do bairro.",
+"nl": "Ik heb aan het buurttuinproject meegewerkt."
+},
+"matschaffen\u0001perfect\u00012s": {
+"pt": "Tu participaste no projeto da horta comunitária do bairro.",
+"nl": "Jij hebt aan het buurttuinproject meegewerkt."
+},
+"matschaffen\u0001perfect\u00013s": {
+"pt": "Ele participou no projeto da horta comunitária do bairro.",
+"nl": "Hij heeft aan het buurttuinproject meegewerkt."
+},
+"matschaffen\u0001perfect\u00011p": {
+"pt": "Nós participámos no projeto da horta comunitária do bairro.",
+"nl": "Wij hebben aan het buurttuinproject meegewerkt."
+},
+"matschaffen\u0001perfect\u00012p": {
+"pt": "Vocês participaram no projeto da horta comunitária do bairro.",
+"nl": "Jullie hebben aan het buurttuinproject meegewerkt."
+},
+"matschaffen\u0001perfect\u00013p": {
+"pt": "Eles participaram no projeto da horta comunitária do bairro.",
+"nl": "Zij hebben aan het buurttuinproject meegewerkt."
+},
+"matschaffen\u0001past\u00011s": {
+"pt": "Eu participei no projeto da horta comunitária do bairro.",
+"nl": "Ik werkde aan het buurttuinproject mee."
+},
+"matschaffen\u0001past\u00012s": {
+"pt": "Tu participaste no projeto da horta comunitária do bairro.",
+"nl": "Jij werkde aan het buurttuinproject mee."
+},
+"matschaffen\u0001past\u00013s": {
+"pt": "Ele participou no projeto da horta comunitária do bairro.",
+"nl": "Hij werkde aan het buurttuinproject mee."
+},
+"matschaffen\u0001past\u00011p": {
+"pt": "Nós participámos no projeto da horta comunitária do bairro.",
+"nl": "Wij werkden aan het buurttuinproject mee."
+},
+"matschaffen\u0001past\u00012p": {
+"pt": "Vocês participaram no projeto da horta comunitária do bairro.",
+"nl": "Jullie werkden aan het buurttuinproject mee."
+},
+"matschaffen\u0001past\u00013p": {
+"pt": "Eles participaram no projeto da horta comunitária do bairro.",
+"nl": "Zij werkden aan het buurttuinproject mee."
+},
+"matschaffen\u0001imperfect\u00011s": {
+"pt": "Eu estava a participar no projeto da horta comunitária do bairro.",
+"nl": "Ik was aan het buurttuinproject aan het meewerken."
+},
+"matschaffen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a participar no projeto da horta comunitária do bairro.",
+"nl": "Jij was aan het buurttuinproject aan het meewerken."
+},
+"matschaffen\u0001imperfect\u00013s": {
+"pt": "Ele estava a participar no projeto da horta comunitária do bairro.",
+"nl": "Hij was aan het buurttuinproject aan het meewerken."
+},
+"matschaffen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a participar no projeto da horta comunitária do bairro.",
+"nl": "Wij waren aan het buurttuinproject aan het meewerken."
+},
+"matschaffen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a participar no projeto da horta comunitária do bairro.",
+"nl": "Jullie waren aan het buurttuinproject aan het meewerken."
+},
+"matschaffen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a participar no projeto da horta comunitária do bairro.",
+"nl": "Zij waren aan het buurttuinproject aan het meewerken."
+},
+"matschaffen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha participado no projeto da horta comunitária do bairro.",
+"nl": "Ik had aan het buurttuinproject meegewerkt."
+},
+"matschaffen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas participado no projeto da horta comunitária do bairro.",
+"nl": "Jij had aan het buurttuinproject meegewerkt."
+},
+"matschaffen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha participado no projeto da horta comunitária do bairro.",
+"nl": "Hij had aan het buurttuinproject meegewerkt."
+},
+"matschaffen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos participado no projeto da horta comunitária do bairro.",
+"nl": "Wij hadden aan het buurttuinproject meegewerkt."
+},
+"matschaffen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham participado no projeto da horta comunitária do bairro.",
+"nl": "Jullie hadden aan het buurttuinproject meegewerkt."
+},
+"matschaffen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham participado no projeto da horta comunitária do bairro.",
+"nl": "Zij hadden aan het buurttuinproject meegewerkt."
+},
+"matschaffen\u0001future\u00011s": {
+"pt": "Eu participarei no projeto da horta comunitária do bairro.",
+"nl": "Ik zal aan het buurttuinproject meewerken."
+},
+"matschaffen\u0001future\u00012s": {
+"pt": "Tu participarás no projeto da horta comunitária do bairro.",
+"nl": "Jij zult aan het buurttuinproject meewerken."
+},
+"matschaffen\u0001future\u00013s": {
+"pt": "Ele participará no projeto da horta comunitária do bairro.",
+"nl": "Hij zal aan het buurttuinproject meewerken."
+},
+"matschaffen\u0001future\u00011p": {
+"pt": "Nós participaremos no projeto da horta comunitária do bairro.",
+"nl": "Wij zullen aan het buurttuinproject meewerken."
+},
+"matschaffen\u0001future\u00012p": {
+"pt": "Vocês participarão no projeto da horta comunitária do bairro.",
+"nl": "Jullie zullen aan het buurttuinproject meewerken."
+},
+"matschaffen\u0001future\u00013p": {
+"pt": "Eles participarão no projeto da horta comunitária do bairro.",
+"nl": "Zij zullen aan het buurttuinproject meewerken."
+},
+"matschaffen\u0001conditional\u00011s": {
+"pt": "Eu participaria no projeto da horta comunitária do bairro.",
+"nl": "Ik zou aan het buurttuinproject meewerken."
+},
+"matschaffen\u0001conditional\u00012s": {
+"pt": "Tu participarias no projeto da horta comunitária do bairro.",
+"nl": "Jij zou aan het buurttuinproject meewerken."
+},
+"matschaffen\u0001conditional\u00013s": {
+"pt": "Ele participaria no projeto da horta comunitária do bairro.",
+"nl": "Hij zou aan het buurttuinproject meewerken."
+},
+"matschaffen\u0001conditional\u00011p": {
+"pt": "Nós participaríamos no projeto da horta comunitária do bairro.",
+"nl": "Wij zouden aan het buurttuinproject meewerken."
+},
+"matschaffen\u0001conditional\u00012p": {
+"pt": "Vocês participariam no projeto da horta comunitária do bairro.",
+"nl": "Jullie zouden aan het buurttuinproject meewerken."
+},
+"matschaffen\u0001conditional\u00013p": {
+"pt": "Eles participariam no projeto da horta comunitária do bairro.",
+"nl": "Zij zouden aan het buurttuinproject meewerken."
+},
+"matschaffen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria participado no projeto da horta comunitária do bairro.",
+"nl": "Ik zou aan het buurttuinproject hebben meegewerkt."
+},
+"matschaffen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias participado no projeto da horta comunitária do bairro.",
+"nl": "Jij zou aan het buurttuinproject hebben meegewerkt."
+},
+"matschaffen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria participado no projeto da horta comunitária do bairro.",
+"nl": "Hij zou aan het buurttuinproject hebben meegewerkt."
+},
+"matschaffen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos participado no projeto da horta comunitária do bairro.",
+"nl": "Wij zouden aan het buurttuinproject hebben meegewerkt."
+},
+"matschaffen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam participado no projeto da horta comunitária do bairro.",
+"nl": "Jullie zouden aan het buurttuinproject hebben meegewerkt."
+},
+"matschaffen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam participado no projeto da horta comunitária do bairro.",
+"nl": "Zij zouden aan het buurttuinproject hebben meegewerkt."
+},
+"matschaffen\u0001subjunctive\u00011s": {
+"pt": "que eu participe no projeto da horta comunitária do bairro",
+"nl": "dat ik aan het buurttuinproject meewerk"
+},
+"matschaffen\u0001subjunctive\u00012s": {
+"pt": "que tu participes no projeto da horta comunitária do bairro",
+"nl": "dat jij aan het buurttuinproject meewerkt"
+},
+"matschaffen\u0001subjunctive\u00013s": {
+"pt": "que ele participe no projeto da horta comunitária do bairro",
+"nl": "dat hij aan het buurttuinproject meewerkt"
+},
+"matschaffen\u0001subjunctive\u00011p": {
+"pt": "que nós participemos no projeto da horta comunitária do bairro",
+"nl": "dat wij aan het buurttuinproject meewerken"
+},
+"matschaffen\u0001subjunctive\u00012p": {
+"pt": "que vocês participem no projeto da horta comunitária do bairro",
+"nl": "dat jullie aan het buurttuinproject meewerken"
+},
+"matschaffen\u0001subjunctive\u00013p": {
+"pt": "que eles participem no projeto da horta comunitária do bairro",
+"nl": "dat zij aan het buurttuinproject meewerken"
+},
+"matschwätzen\u0001present\u00011s": {
+"pt": "Eu tenho uma palavra a dizer no planeamento das férias.",
+"nl": "Ik praat bij de vakantieplanning mee."
+},
+"matschwätzen\u0001present\u00012s": {
+"pt": "Tu tens uma palavra a dizer no planeamento das férias.",
+"nl": "Jij praat bij de vakantieplanning mee."
+},
+"matschwätzen\u0001present\u00013s": {
+"pt": "Ele tem uma palavra a dizer no planeamento das férias.",
+"nl": "Hij praat bij de vakantieplanning mee."
+},
+"matschwätzen\u0001present\u00011p": {
+"pt": "Nós temos uma palavra a dizer no planeamento das férias.",
+"nl": "Wij praten bij de vakantieplanning mee."
+},
+"matschwätzen\u0001present\u00012p": {
+"pt": "Vocês têm uma palavra a dizer no planeamento das férias.",
+"nl": "Jullie praten bij de vakantieplanning mee."
+},
+"matschwätzen\u0001present\u00013p": {
+"pt": "Eles têm uma palavra a dizer no planeamento das férias.",
+"nl": "Zij praten bij de vakantieplanning mee."
+},
+"matschwätzen\u0001perfect\u00011s": {
+"pt": "Eu tive uma palavra a dizer no planeamento das férias.",
+"nl": "Ik heb bij de vakantieplanning meegepraat."
+},
+"matschwätzen\u0001perfect\u00012s": {
+"pt": "Tu tiveste uma palavra a dizer no planeamento das férias.",
+"nl": "Jij hebt bij de vakantieplanning meegepraat."
+},
+"matschwätzen\u0001perfect\u00013s": {
+"pt": "Ele teve uma palavra a dizer no planeamento das férias.",
+"nl": "Hij heeft bij de vakantieplanning meegepraat."
+},
+"matschwätzen\u0001perfect\u00011p": {
+"pt": "Nós tivemos uma palavra a dizer no planeamento das férias.",
+"nl": "Wij hebben bij de vakantieplanning meegepraat."
+},
+"matschwätzen\u0001perfect\u00012p": {
+"pt": "Vocês tiveram uma palavra a dizer no planeamento das férias.",
+"nl": "Jullie hebben bij de vakantieplanning meegepraat."
+},
+"matschwätzen\u0001perfect\u00013p": {
+"pt": "Eles tiveram uma palavra a dizer no planeamento das férias.",
+"nl": "Zij hebben bij de vakantieplanning meegepraat."
+},
+"matschwätzen\u0001past\u00011s": {
+"pt": "Eu tive uma palavra a dizer no planeamento das férias.",
+"nl": "Ik praatte bij de vakantieplanning mee."
+},
+"matschwätzen\u0001past\u00012s": {
+"pt": "Tu tiveste uma palavra a dizer no planeamento das férias.",
+"nl": "Jij praatte bij de vakantieplanning mee."
+},
+"matschwätzen\u0001past\u00013s": {
+"pt": "Ele teve uma palavra a dizer no planeamento das férias.",
+"nl": "Hij praatte bij de vakantieplanning mee."
+},
+"matschwätzen\u0001past\u00011p": {
+"pt": "Nós tivemos uma palavra a dizer no planeamento das férias.",
+"nl": "Wij praatten bij de vakantieplanning mee."
+},
+"matschwätzen\u0001past\u00012p": {
+"pt": "Vocês tiveram uma palavra a dizer no planeamento das férias.",
+"nl": "Jullie praatten bij de vakantieplanning mee."
+},
+"matschwätzen\u0001past\u00013p": {
+"pt": "Eles tiveram uma palavra a dizer no planeamento das férias.",
+"nl": "Zij praatten bij de vakantieplanning mee."
+},
+"matschwätzen\u0001imperfect\u00011s": {
+"pt": "Eu costumava ter uma palavra a dizer no planeamento das férias.",
+"nl": "Ik praatte vroeger altijd bij de vakantieplanning mee."
+},
+"matschwätzen\u0001imperfect\u00012s": {
+"pt": "Tu costumavas ter uma palavra a dizer no planeamento das férias.",
+"nl": "Jij praatte vroeger altijd bij de vakantieplanning mee."
+},
+"matschwätzen\u0001imperfect\u00013s": {
+"pt": "Ele costumava ter uma palavra a dizer no planeamento das férias.",
+"nl": "Hij praatte vroeger altijd bij de vakantieplanning mee."
+},
+"matschwätzen\u0001imperfect\u00011p": {
+"pt": "Nós costumávamos ter uma palavra a dizer no planeamento das férias.",
+"nl": "Wij praatten vroeger altijd bij de vakantieplanning mee."
+},
+"matschwätzen\u0001imperfect\u00012p": {
+"pt": "Vocês costumavam ter uma palavra a dizer no planeamento das férias.",
+"nl": "Jullie praatten vroeger altijd bij de vakantieplanning mee."
+},
+"matschwätzen\u0001imperfect\u00013p": {
+"pt": "Eles costumavam ter uma palavra a dizer no planeamento das férias.",
+"nl": "Zij praatten vroeger altijd bij de vakantieplanning mee."
+},
+"matschwätzen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha tido uma palavra a dizer no planeamento das férias.",
+"nl": "Ik had bij de vakantieplanning meegepraat."
+},
+"matschwätzen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas tido uma palavra a dizer no planeamento das férias.",
+"nl": "Jij had bij de vakantieplanning meegepraat."
+},
+"matschwätzen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha tido uma palavra a dizer no planeamento das férias.",
+"nl": "Hij had bij de vakantieplanning meegepraat."
+},
+"matschwätzen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos tido uma palavra a dizer no planeamento das férias.",
+"nl": "Wij hadden bij de vakantieplanning meegepraat."
+},
+"matschwätzen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham tido uma palavra a dizer no planeamento das férias.",
+"nl": "Jullie hadden bij de vakantieplanning meegepraat."
+},
+"matschwätzen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham tido uma palavra a dizer no planeamento das férias.",
+"nl": "Zij hadden bij de vakantieplanning meegepraat."
+},
+"matschwätzen\u0001future\u00011s": {
+"pt": "Eu terei uma palavra a dizer no planeamento das férias.",
+"nl": "Ik zal bij de vakantieplanning meepraten."
+},
+"matschwätzen\u0001future\u00012s": {
+"pt": "Tu terás uma palavra a dizer no planeamento das férias.",
+"nl": "Jij zult bij de vakantieplanning meepraten."
+},
+"matschwätzen\u0001future\u00013s": {
+"pt": "Ele terá uma palavra a dizer no planeamento das férias.",
+"nl": "Hij zal bij de vakantieplanning meepraten."
+},
+"matschwätzen\u0001future\u00011p": {
+"pt": "Nós teremos uma palavra a dizer no planeamento das férias.",
+"nl": "Wij zullen bij de vakantieplanning meepraten."
+},
+"matschwätzen\u0001future\u00012p": {
+"pt": "Vocês terão uma palavra a dizer no planeamento das férias.",
+"nl": "Jullie zullen bij de vakantieplanning meepraten."
+},
+"matschwätzen\u0001future\u00013p": {
+"pt": "Eles terão uma palavra a dizer no planeamento das férias.",
+"nl": "Zij zullen bij de vakantieplanning meepraten."
+},
+"matschwätzen\u0001conditional\u00011s": {
+"pt": "Eu teria uma palavra a dizer no planeamento das férias.",
+"nl": "Ik zou bij de vakantieplanning meepraten."
+},
+"matschwätzen\u0001conditional\u00012s": {
+"pt": "Tu terias uma palavra a dizer no planeamento das férias.",
+"nl": "Jij zou bij de vakantieplanning meepraten."
+},
+"matschwätzen\u0001conditional\u00013s": {
+"pt": "Ele teria uma palavra a dizer no planeamento das férias.",
+"nl": "Hij zou bij de vakantieplanning meepraten."
+},
+"matschwätzen\u0001conditional\u00011p": {
+"pt": "Nós teríamos uma palavra a dizer no planeamento das férias.",
+"nl": "Wij zouden bij de vakantieplanning meepraten."
+},
+"matschwätzen\u0001conditional\u00012p": {
+"pt": "Vocês teriam uma palavra a dizer no planeamento das férias.",
+"nl": "Jullie zouden bij de vakantieplanning meepraten."
+},
+"matschwätzen\u0001conditional\u00013p": {
+"pt": "Eles teriam uma palavra a dizer no planeamento das férias.",
+"nl": "Zij zouden bij de vakantieplanning meepraten."
+},
+"matschwätzen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria tido uma palavra a dizer no planeamento das férias.",
+"nl": "Ik zou bij de vakantieplanning hebben meegepraat."
+},
+"matschwätzen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias tido uma palavra a dizer no planeamento das férias.",
+"nl": "Jij zou bij de vakantieplanning hebben meegepraat."
+},
+"matschwätzen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria tido uma palavra a dizer no planeamento das férias.",
+"nl": "Hij zou bij de vakantieplanning hebben meegepraat."
+},
+"matschwätzen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos tido uma palavra a dizer no planeamento das férias.",
+"nl": "Wij zouden bij de vakantieplanning hebben meegepraat."
+},
+"matschwätzen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam tido uma palavra a dizer no planeamento das férias.",
+"nl": "Jullie zouden bij de vakantieplanning hebben meegepraat."
+},
+"matschwätzen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam tido uma palavra a dizer no planeamento das férias.",
+"nl": "Zij zouden bij de vakantieplanning hebben meegepraat."
+},
+"matschwätzen\u0001subjunctive\u00011s": {
+"pt": "que eu tenha uma palavra a dizer no planeamento das férias",
+"nl": "dat ik bij de vakantieplanning meepraat"
+},
+"matschwätzen\u0001subjunctive\u00012s": {
+"pt": "que tu tenhas uma palavra a dizer no planeamento das férias",
+"nl": "dat jij bij de vakantieplanning meepraat"
+},
+"matschwätzen\u0001subjunctive\u00013s": {
+"pt": "que ele tenha uma palavra a dizer no planeamento das férias",
+"nl": "dat hij bij de vakantieplanning meepraat"
+},
+"matschwätzen\u0001subjunctive\u00011p": {
+"pt": "que nós tenhamos uma palavra a dizer no planeamento das férias",
+"nl": "dat wij bij de vakantieplanning meepraten"
+},
+"matschwätzen\u0001subjunctive\u00012p": {
+"pt": "que vocês tenham uma palavra a dizer no planeamento das férias",
+"nl": "dat jullie bij de vakantieplanning meepraten"
+},
+"matschwätzen\u0001subjunctive\u00013p": {
+"pt": "que eles tenham uma palavra a dizer no planeamento das férias",
+"nl": "dat zij bij de vakantieplanning meepraten"
+},
+"matspillen\u0001present\u00011s": {
+"pt": "Eu jogo no jogo de futebol no parque.",
+"nl": "Ik speel in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001present\u00012s": {
+"pt": "Tu jogas no jogo de futebol no parque.",
+"nl": "Jij speelt in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001present\u00013s": {
+"pt": "Ele joga no jogo de futebol no parque.",
+"nl": "Hij speelt in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001present\u00011p": {
+"pt": "Nós jogamos no jogo de futebol no parque.",
+"nl": "Wij spelen in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001present\u00012p": {
+"pt": "Vocês jogam no jogo de futebol no parque.",
+"nl": "Jullie spelen in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001present\u00013p": {
+"pt": "Eles jogam no jogo de futebol no parque.",
+"nl": "Zij spelen in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001perfect\u00011s": {
+"pt": "Eu joguei no jogo de futebol no parque.",
+"nl": "Ik heb in de voetbalwedstrijd in het park meegespeeld."
+},
+"matspillen\u0001perfect\u00012s": {
+"pt": "Tu jogaste no jogo de futebol no parque.",
+"nl": "Jij hebt in de voetbalwedstrijd in het park meegespeeld."
+},
+"matspillen\u0001perfect\u00013s": {
+"pt": "Ele jogou no jogo de futebol no parque.",
+"nl": "Hij heeft in de voetbalwedstrijd in het park meegespeeld."
+},
+"matspillen\u0001perfect\u00011p": {
+"pt": "Nós jogámos no jogo de futebol no parque.",
+"nl": "Wij hebben in de voetbalwedstrijd in het park meegespeeld."
+},
+"matspillen\u0001perfect\u00012p": {
+"pt": "Vocês jogaram no jogo de futebol no parque.",
+"nl": "Jullie hebben in de voetbalwedstrijd in het park meegespeeld."
+},
+"matspillen\u0001perfect\u00013p": {
+"pt": "Eles jogaram no jogo de futebol no parque.",
+"nl": "Zij hebben in de voetbalwedstrijd in het park meegespeeld."
+},
+"matspillen\u0001past\u00011s": {
+"pt": "Eu joguei ontem no jogo de futebol no parque.",
+"nl": "Ik speelde gisteren in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001past\u00012s": {
+"pt": "Tu jogaste ontem no jogo de futebol no parque.",
+"nl": "Jij speelde gisteren in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001past\u00013s": {
+"pt": "Ele jogou ontem no jogo de futebol no parque.",
+"nl": "Hij speelde gisteren in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001past\u00011p": {
+"pt": "Nós jogámos ontem no jogo de futebol no parque.",
+"nl": "Wij speelden gisteren in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001past\u00012p": {
+"pt": "Vocês jogaram ontem no jogo de futebol no parque.",
+"nl": "Jullie speelden gisteren in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001past\u00013p": {
+"pt": "Eles jogaram ontem no jogo de futebol no parque.",
+"nl": "Zij speelden gisteren in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001imperfect\u00011s": {
+"pt": "Eu costumava jogar no jogo de futebol no parque.",
+"nl": "Ik speelde vroeger altijd in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001imperfect\u00012s": {
+"pt": "Tu costumavas jogar no jogo de futebol no parque.",
+"nl": "Jij speelde vroeger altijd in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001imperfect\u00013s": {
+"pt": "Ele costumava jogar no jogo de futebol no parque.",
+"nl": "Hij speelde vroeger altijd in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001imperfect\u00011p": {
+"pt": "Nós costumávamos jogar no jogo de futebol no parque.",
+"nl": "Wij speelden vroeger altijd in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001imperfect\u00012p": {
+"pt": "Vocês costumavam jogar no jogo de futebol no parque.",
+"nl": "Jullie speelden vroeger altijd in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001imperfect\u00013p": {
+"pt": "Eles costumavam jogar no jogo de futebol no parque.",
+"nl": "Zij speelden vroeger altijd in de voetbalwedstrijd in het park mee."
+},
+"matspillen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha jogado no jogo de futebol no parque.",
+"nl": "Ik had in de voetbalwedstrijd in het park meegespeeld."
+},
+"matspillen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas jogado no jogo de futebol no parque.",
+"nl": "Jij had in de voetbalwedstrijd in het park meegespeeld."
+},
+"matspillen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha jogado no jogo de futebol no parque.",
+"nl": "Hij had in de voetbalwedstrijd in het park meegespeeld."
+},
+"matspillen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos jogado no jogo de futebol no parque.",
+"nl": "Wij hadden in de voetbalwedstrijd in het park meegespeeld."
+},
+"matspillen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham jogado no jogo de futebol no parque.",
+"nl": "Jullie hadden in de voetbalwedstrijd in het park meegespeeld."
+},
+"matspillen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham jogado no jogo de futebol no parque.",
+"nl": "Zij hadden in de voetbalwedstrijd in het park meegespeeld."
+},
+"matspillen\u0001future\u00011s": {
+"pt": "Eu jogarei no jogo de futebol no parque.",
+"nl": "Ik zal in de voetbalwedstrijd in het park meespelen."
+},
+"matspillen\u0001future\u00012s": {
+"pt": "Tu jogarás no jogo de futebol no parque.",
+"nl": "Jij zult in de voetbalwedstrijd in het park meespelen."
+},
+"matspillen\u0001future\u00013s": {
+"pt": "Ele jogará no jogo de futebol no parque.",
+"nl": "Hij zal in de voetbalwedstrijd in het park meespelen."
+},
+"matspillen\u0001future\u00011p": {
+"pt": "Nós jogaremos no jogo de futebol no parque.",
+"nl": "Wij zullen in de voetbalwedstrijd in het park meespelen."
+},
+"matspillen\u0001future\u00012p": {
+"pt": "Vocês jogarão no jogo de futebol no parque.",
+"nl": "Jullie zullen in de voetbalwedstrijd in het park meespelen."
+},
+"matspillen\u0001future\u00013p": {
+"pt": "Eles jogarão no jogo de futebol no parque.",
+"nl": "Zij zullen in de voetbalwedstrijd in het park meespelen."
+},
+"matspillen\u0001conditional\u00011s": {
+"pt": "Eu jogaria no jogo de futebol no parque.",
+"nl": "Ik zou in de voetbalwedstrijd in het park meespelen."
+},
+"matspillen\u0001conditional\u00012s": {
+"pt": "Tu jogarias no jogo de futebol no parque.",
+"nl": "Jij zou in de voetbalwedstrijd in het park meespelen."
+},
+"matspillen\u0001conditional\u00013s": {
+"pt": "Ele jogaria no jogo de futebol no parque.",
+"nl": "Hij zou in de voetbalwedstrijd in het park meespelen."
+},
+"matspillen\u0001conditional\u00011p": {
+"pt": "Nós jogaríamos no jogo de futebol no parque.",
+"nl": "Wij zouden in de voetbalwedstrijd in het park meespelen."
+},
+"matspillen\u0001conditional\u00012p": {
+"pt": "Vocês jogariam no jogo de futebol no parque.",
+"nl": "Jullie zouden in de voetbalwedstrijd in het park meespelen."
+},
+"matspillen\u0001conditional\u00013p": {
+"pt": "Eles jogariam no jogo de futebol no parque.",
+"nl": "Zij zouden in de voetbalwedstrijd in het park meespelen."
+},
+"matspillen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria jogado no jogo de futebol no parque.",
+"nl": "Ik zou in de voetbalwedstrijd in het park hebben meegespeeld."
+},
+"matspillen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias jogado no jogo de futebol no parque.",
+"nl": "Jij zou in de voetbalwedstrijd in het park hebben meegespeeld."
+},
+"matspillen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria jogado no jogo de futebol no parque.",
+"nl": "Hij zou in de voetbalwedstrijd in het park hebben meegespeeld."
+},
+"matspillen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos jogado no jogo de futebol no parque.",
+"nl": "Wij zouden in de voetbalwedstrijd in het park hebben meegespeeld."
+},
+"matspillen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam jogado no jogo de futebol no parque.",
+"nl": "Jullie zouden in de voetbalwedstrijd in het park hebben meegespeeld."
+},
+"matspillen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam jogado no jogo de futebol no parque.",
+"nl": "Zij zouden in de voetbalwedstrijd in het park hebben meegespeeld."
+},
+"matspillen\u0001subjunctive\u00011s": {
+"pt": "que eu jogue no jogo de futebol no parque",
+"nl": "dat ik in de voetbalwedstrijd in het park meespeel"
+},
+"matspillen\u0001subjunctive\u00012s": {
+"pt": "que tu jogues no jogo de futebol no parque",
+"nl": "dat jij in de voetbalwedstrijd in het park meespeelt"
+},
+"matspillen\u0001subjunctive\u00013s": {
+"pt": "que ele jogue no jogo de futebol no parque",
+"nl": "dat hij in de voetbalwedstrijd in het park meespeelt"
+},
+"matspillen\u0001subjunctive\u00011p": {
+"pt": "que nós joguemos no jogo de futebol no parque",
+"nl": "dat wij in de voetbalwedstrijd in het park meespelen"
+},
+"matspillen\u0001subjunctive\u00012p": {
+"pt": "que vocês joguem no jogo de futebol no parque",
+"nl": "dat jullie in de voetbalwedstrijd in het park meespelen"
+},
+"matspillen\u0001subjunctive\u00013p": {
+"pt": "que eles joguem no jogo de futebol no parque",
+"nl": "dat zij in de voetbalwedstrijd in het park meespelen"
+},
+"matzielen\u0001present\u00011s": {
+"pt": "Eu conto a criança com os convidados.",
+"nl": "Ik tel het kind bij de gasten mee."
+},
+"matzielen\u0001present\u00012s": {
+"pt": "Tu contas a criança com os convidados.",
+"nl": "Jij telt het kind bij de gasten mee."
+},
+"matzielen\u0001present\u00013s": {
+"pt": "Ele conta a criança com os convidados.",
+"nl": "Hij telt het kind bij de gasten mee."
+},
+"matzielen\u0001present\u00011p": {
+"pt": "Nós contamos a criança com os convidados.",
+"nl": "Wij tellen het kind bij de gasten mee."
+},
+"matzielen\u0001present\u00012p": {
+"pt": "Vocês contam a criança com os convidados.",
+"nl": "Jullie tellen het kind bij de gasten mee."
+},
+"matzielen\u0001present\u00013p": {
+"pt": "Eles contam a criança com os convidados.",
+"nl": "Zij tellen het kind bij de gasten mee."
+},
+"matzielen\u0001perfect\u00011s": {
+"pt": "Eu contei a criança com os convidados.",
+"nl": "Ik heb het kind bij de gasten meegeteld."
+},
+"matzielen\u0001perfect\u00012s": {
+"pt": "Tu contaste a criança com os convidados.",
+"nl": "Jij hebt het kind bij de gasten meegeteld."
+},
+"matzielen\u0001perfect\u00013s": {
+"pt": "Ele contou a criança com os convidados.",
+"nl": "Hij heeft het kind bij de gasten meegeteld."
+},
+"matzielen\u0001perfect\u00011p": {
+"pt": "Nós contámos a criança com os convidados.",
+"nl": "Wij hebben het kind bij de gasten meegeteld."
+},
+"matzielen\u0001perfect\u00012p": {
+"pt": "Vocês contaram a criança com os convidados.",
+"nl": "Jullie hebben het kind bij de gasten meegeteld."
+},
+"matzielen\u0001perfect\u00013p": {
+"pt": "Eles contaram a criança com os convidados.",
+"nl": "Zij hebben het kind bij de gasten meegeteld."
+},
+"matzielen\u0001past\u00011s": {
+"pt": "Eu contei a criança com os convidados.",
+"nl": "Ik telde het kind bij de gasten mee."
+},
+"matzielen\u0001past\u00012s": {
+"pt": "Tu contaste a criança com os convidados.",
+"nl": "Jij telde het kind bij de gasten mee."
+},
+"matzielen\u0001past\u00013s": {
+"pt": "Ele contou a criança com os convidados.",
+"nl": "Hij telde het kind bij de gasten mee."
+},
+"matzielen\u0001past\u00011p": {
+"pt": "Nós contámos a criança com os convidados.",
+"nl": "Wij telden het kind bij de gasten mee."
+},
+"matzielen\u0001past\u00012p": {
+"pt": "Vocês contaram a criança com os convidados.",
+"nl": "Jullie telden het kind bij de gasten mee."
+},
+"matzielen\u0001past\u00013p": {
+"pt": "Eles contaram a criança com os convidados.",
+"nl": "Zij telden het kind bij de gasten mee."
+},
+"matzielen\u0001imperfect\u00011s": {
+"pt": "Eu costumava contar a criança com os convidados.",
+"nl": "Ik telde vroeger altijd het kind bij de gasten mee."
+},
+"matzielen\u0001imperfect\u00012s": {
+"pt": "Tu costumavas contar a criança com os convidados.",
+"nl": "Jij telde vroeger altijd het kind bij de gasten mee."
+},
+"matzielen\u0001imperfect\u00013s": {
+"pt": "Ele costumava contar a criança com os convidados.",
+"nl": "Hij telde vroeger altijd het kind bij de gasten mee."
+},
+"matzielen\u0001imperfect\u00011p": {
+"pt": "Nós costumávamos contar a criança com os convidados.",
+"nl": "Wij telden vroeger altijd het kind bij de gasten mee."
+},
+"matzielen\u0001imperfect\u00012p": {
+"pt": "Vocês costumavam contar a criança com os convidados.",
+"nl": "Jullie telden vroeger altijd het kind bij de gasten mee."
+},
+"matzielen\u0001imperfect\u00013p": {
+"pt": "Eles costumavam contar a criança com os convidados.",
+"nl": "Zij telden vroeger altijd het kind bij de gasten mee."
+},
+"matzielen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha contado a criança com os convidados.",
+"nl": "Ik had het kind bij de gasten meegeteld."
+},
+"matzielen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas contado a criança com os convidados.",
+"nl": "Jij had het kind bij de gasten meegeteld."
+},
+"matzielen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha contado a criança com os convidados.",
+"nl": "Hij had het kind bij de gasten meegeteld."
+},
+"matzielen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos contado a criança com os convidados.",
+"nl": "Wij hadden het kind bij de gasten meegeteld."
+},
+"matzielen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham contado a criança com os convidados.",
+"nl": "Jullie hadden het kind bij de gasten meegeteld."
+},
+"matzielen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham contado a criança com os convidados.",
+"nl": "Zij hadden het kind bij de gasten meegeteld."
+},
+"matzielen\u0001future\u00011s": {
+"pt": "Eu contarei a criança com os convidados.",
+"nl": "Ik zal het kind bij de gasten meetellen."
+},
+"matzielen\u0001future\u00012s": {
+"pt": "Tu contarás a criança com os convidados.",
+"nl": "Jij zult het kind bij de gasten meetellen."
+},
+"matzielen\u0001future\u00013s": {
+"pt": "Ele contará a criança com os convidados.",
+"nl": "Hij zal het kind bij de gasten meetellen."
+},
+"matzielen\u0001future\u00011p": {
+"pt": "Nós contaremos a criança com os convidados.",
+"nl": "Wij zullen het kind bij de gasten meetellen."
+},
+"matzielen\u0001future\u00012p": {
+"pt": "Vocês contarão a criança com os convidados.",
+"nl": "Jullie zullen het kind bij de gasten meetellen."
+},
+"matzielen\u0001future\u00013p": {
+"pt": "Eles contarão a criança com os convidados.",
+"nl": "Zij zullen het kind bij de gasten meetellen."
+},
+"matzielen\u0001conditional\u00011s": {
+"pt": "Eu contaria a criança com os convidados.",
+"nl": "Ik zou het kind bij de gasten meetellen."
+},
+"matzielen\u0001conditional\u00012s": {
+"pt": "Tu contarias a criança com os convidados.",
+"nl": "Jij zou het kind bij de gasten meetellen."
+},
+"matzielen\u0001conditional\u00013s": {
+"pt": "Ele contaria a criança com os convidados.",
+"nl": "Hij zou het kind bij de gasten meetellen."
+},
+"matzielen\u0001conditional\u00011p": {
+"pt": "Nós contaríamos a criança com os convidados.",
+"nl": "Wij zouden het kind bij de gasten meetellen."
+},
+"matzielen\u0001conditional\u00012p": {
+"pt": "Vocês contariam a criança com os convidados.",
+"nl": "Jullie zouden het kind bij de gasten meetellen."
+},
+"matzielen\u0001conditional\u00013p": {
+"pt": "Eles contariam a criança com os convidados.",
+"nl": "Zij zouden het kind bij de gasten meetellen."
+},
+"matzielen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria contado a criança com os convidados.",
+"nl": "Ik zou het kind bij de gasten hebben meegeteld."
+},
+"matzielen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias contado a criança com os convidados.",
+"nl": "Jij zou het kind bij de gasten hebben meegeteld."
+},
+"matzielen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria contado a criança com os convidados.",
+"nl": "Hij zou het kind bij de gasten hebben meegeteld."
+},
+"matzielen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos contado a criança com os convidados.",
+"nl": "Wij zouden het kind bij de gasten hebben meegeteld."
+},
+"matzielen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam contado a criança com os convidados.",
+"nl": "Jullie zouden het kind bij de gasten hebben meegeteld."
+},
+"matzielen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam contado a criança com os convidados.",
+"nl": "Zij zouden het kind bij de gasten hebben meegeteld."
+},
+"matzielen\u0001subjunctive\u00011s": {
+"pt": "que eu conte a criança com os convidados",
+"nl": "dat ik het kind bij de gasten meetel"
+},
+"matzielen\u0001subjunctive\u00012s": {
+"pt": "que tu contes a criança com os convidados",
+"nl": "dat jij het kind bij de gasten meetelt"
+},
+"matzielen\u0001subjunctive\u00013s": {
+"pt": "que ele conte a criança com os convidados",
+"nl": "dat hij het kind bij de gasten meetelt"
+},
+"matzielen\u0001subjunctive\u00011p": {
+"pt": "que nós contemos a criança com os convidados",
+"nl": "dat wij het kind bij de gasten meetellen"
+},
+"matzielen\u0001subjunctive\u00012p": {
+"pt": "que vocês contem a criança com os convidados",
+"nl": "dat jullie het kind bij de gasten meetellen"
+},
+"matzielen\u0001subjunctive\u00013p": {
+"pt": "que eles contem a criança com os convidados",
+"nl": "dat zij het kind bij de gasten meetellen"
+},
+"maulen\u0001present\u00011s": {
+"pt": "Eu resmungo por causa do engarrafamento.",
+"nl": "Ik mopper over de file."
+},
+"maulen\u0001present\u00012s": {
+"pt": "Tu resmungas por causa do engarrafamento.",
+"nl": "Jij moppert over de file."
+},
+"maulen\u0001present\u00013s": {
+"pt": "Ele resmunga por causa do engarrafamento.",
+"nl": "Hij moppert over de file."
+},
+"maulen\u0001present\u00011p": {
+"pt": "Nós resmungamos por causa do engarrafamento.",
+"nl": "Wij mopperen over de file."
+},
+"maulen\u0001present\u00012p": {
+"pt": "Vocês resmungam por causa do engarrafamento.",
+"nl": "Jullie mopperen over de file."
+},
+"maulen\u0001present\u00013p": {
+"pt": "Eles resmungam por causa do engarrafamento.",
+"nl": "Zij mopperen over de file."
+},
+"maulen\u0001perfect\u00011s": {
+"pt": "Eu resmunguei por causa do engarrafamento.",
+"nl": "Ik heb over de file gemopperd."
+},
+"maulen\u0001perfect\u00012s": {
+"pt": "Tu resmungaste por causa do engarrafamento.",
+"nl": "Jij hebt over de file gemopperd."
+},
+"maulen\u0001perfect\u00013s": {
+"pt": "Ele resmungou por causa do engarrafamento.",
+"nl": "Hij heeft over de file gemopperd."
+},
+"maulen\u0001perfect\u00011p": {
+"pt": "Nós resmungámos por causa do engarrafamento.",
+"nl": "Wij hebben over de file gemopperd."
+},
+"maulen\u0001perfect\u00012p": {
+"pt": "Vocês resmungaram por causa do engarrafamento.",
+"nl": "Jullie hebben over de file gemopperd."
+},
+"maulen\u0001perfect\u00013p": {
+"pt": "Eles resmungaram por causa do engarrafamento.",
+"nl": "Zij hebben over de file gemopperd."
+},
+"maulen\u0001past\u00011s": {
+"pt": "Eu resmunguei por causa do engarrafamento.",
+"nl": "Ik mopperde over de file."
+},
+"maulen\u0001past\u00012s": {
+"pt": "Tu resmungaste por causa do engarrafamento.",
+"nl": "Jij mopperde over de file."
+},
+"maulen\u0001past\u00013s": {
+"pt": "Ele resmungou por causa do engarrafamento.",
+"nl": "Hij mopperde over de file."
+},
+"maulen\u0001past\u00011p": {
+"pt": "Nós resmungámos por causa do engarrafamento.",
+"nl": "Wij mopperden over de file."
+},
+"maulen\u0001past\u00012p": {
+"pt": "Vocês resmungaram por causa do engarrafamento.",
+"nl": "Jullie mopperden over de file."
+},
+"maulen\u0001past\u00013p": {
+"pt": "Eles resmungaram por causa do engarrafamento.",
+"nl": "Zij mopperden over de file."
+},
+"maulen\u0001imperfect\u00011s": {
+"pt": "Eu estava a resmungar por causa do engarrafamento.",
+"nl": "Ik was over de file aan het mopperen."
+},
+"maulen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a resmungar por causa do engarrafamento.",
+"nl": "Jij was over de file aan het mopperen."
+},
+"maulen\u0001imperfect\u00013s": {
+"pt": "Ele estava a resmungar por causa do engarrafamento.",
+"nl": "Hij was over de file aan het mopperen."
+},
+"maulen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a resmungar por causa do engarrafamento.",
+"nl": "Wij waren over de file aan het mopperen."
+},
+"maulen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a resmungar por causa do engarrafamento.",
+"nl": "Jullie waren over de file aan het mopperen."
+},
+"maulen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a resmungar por causa do engarrafamento.",
+"nl": "Zij waren over de file aan het mopperen."
+},
+"maulen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha resmungado por causa do engarrafamento.",
+"nl": "Ik had over de file gemopperd."
+},
+"maulen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas resmungado por causa do engarrafamento.",
+"nl": "Jij had over de file gemopperd."
+},
+"maulen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha resmungado por causa do engarrafamento.",
+"nl": "Hij had over de file gemopperd."
+},
+"maulen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos resmungado por causa do engarrafamento.",
+"nl": "Wij hadden over de file gemopperd."
+},
+"maulen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham resmungado por causa do engarrafamento.",
+"nl": "Jullie hadden over de file gemopperd."
+},
+"maulen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham resmungado por causa do engarrafamento.",
+"nl": "Zij hadden over de file gemopperd."
+},
+"maulen\u0001future\u00011s": {
+"pt": "Eu resmungarei por causa do engarrafamento.",
+"nl": "Ik zal over de file mopperen."
+},
+"maulen\u0001future\u00012s": {
+"pt": "Tu resmungarás por causa do engarrafamento.",
+"nl": "Jij zult over de file mopperen."
+},
+"maulen\u0001future\u00013s": {
+"pt": "Ele resmungará por causa do engarrafamento.",
+"nl": "Hij zal over de file mopperen."
+},
+"maulen\u0001future\u00011p": {
+"pt": "Nós resmungaremos por causa do engarrafamento.",
+"nl": "Wij zullen over de file mopperen."
+},
+"maulen\u0001future\u00012p": {
+"pt": "Vocês resmungarão por causa do engarrafamento.",
+"nl": "Jullie zullen over de file mopperen."
+},
+"maulen\u0001future\u00013p": {
+"pt": "Eles resmungarão por causa do engarrafamento.",
+"nl": "Zij zullen over de file mopperen."
+},
+"maulen\u0001conditional\u00011s": {
+"pt": "Eu resmungaria por causa do engarrafamento.",
+"nl": "Ik zou over de file mopperen."
+},
+"maulen\u0001conditional\u00012s": {
+"pt": "Tu resmungarias por causa do engarrafamento.",
+"nl": "Jij zou over de file mopperen."
+},
+"maulen\u0001conditional\u00013s": {
+"pt": "Ele resmungaria por causa do engarrafamento.",
+"nl": "Hij zou over de file mopperen."
+},
+"maulen\u0001conditional\u00011p": {
+"pt": "Nós resmungaríamos por causa do engarrafamento.",
+"nl": "Wij zouden over de file mopperen."
+},
+"maulen\u0001conditional\u00012p": {
+"pt": "Vocês resmungariam por causa do engarrafamento.",
+"nl": "Jullie zouden over de file mopperen."
+},
+"maulen\u0001conditional\u00013p": {
+"pt": "Eles resmungariam por causa do engarrafamento.",
+"nl": "Zij zouden over de file mopperen."
+},
+"maulen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria resmungado por causa do engarrafamento.",
+"nl": "Ik zou over de file hebben gemopperd."
+},
+"maulen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias resmungado por causa do engarrafamento.",
+"nl": "Jij zou over de file hebben gemopperd."
+},
+"maulen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria resmungado por causa do engarrafamento.",
+"nl": "Hij zou over de file hebben gemopperd."
+},
+"maulen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos resmungado por causa do engarrafamento.",
+"nl": "Wij zouden over de file hebben gemopperd."
+},
+"maulen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam resmungado por causa do engarrafamento.",
+"nl": "Jullie zouden over de file hebben gemopperd."
+},
+"maulen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam resmungado por causa do engarrafamento.",
+"nl": "Zij zouden over de file hebben gemopperd."
+},
+"maulen\u0001subjunctive\u00011s": {
+"pt": "que eu resmungue por causa do engarrafamento",
+"nl": "dat ik over de file mopper"
+},
+"maulen\u0001subjunctive\u00012s": {
+"pt": "que tu resmungues por causa do engarrafamento",
+"nl": "dat jij over de file moppert"
+},
+"maulen\u0001subjunctive\u00013s": {
+"pt": "que ele resmungue por causa do engarrafamento",
+"nl": "dat hij over de file moppert"
+},
+"maulen\u0001subjunctive\u00011p": {
+"pt": "que nós resmunguemos por causa do engarrafamento",
+"nl": "dat wij over de file mopperen"
+},
+"maulen\u0001subjunctive\u00012p": {
+"pt": "que vocês resmunguem por causa do engarrafamento",
+"nl": "dat jullie over de file mopperen"
+},
+"maulen\u0001subjunctive\u00013p": {
+"pt": "que eles resmunguem por causa do engarrafamento",
+"nl": "dat zij over de file mopperen"
+},
+"maufelen\u0001present\u00011s": {
+"pt": "Eu devoro uma pizza inteira.",
+"nl": "Ik verslind een hele pizza."
+},
+"maufelen\u0001present\u00012s": {
+"pt": "Tu devoras uma pizza inteira.",
+"nl": "Jij verslindt een hele pizza."
+},
+"maufelen\u0001present\u00013s": {
+"pt": "Ele devora uma pizza inteira.",
+"nl": "Hij verslindt een hele pizza."
+},
+"maufelen\u0001present\u00011p": {
+"pt": "Nós devoramos uma pizza inteira.",
+"nl": "Wij verslinden een hele pizza."
+},
+"maufelen\u0001present\u00012p": {
+"pt": "Vocês devoram uma pizza inteira.",
+"nl": "Jullie verslinden een hele pizza."
+},
+"maufelen\u0001present\u00013p": {
+"pt": "Eles devoram uma pizza inteira.",
+"nl": "Zij verslinden een hele pizza."
+},
+"maufelen\u0001perfect\u00011s": {
+"pt": "Eu devorei uma pizza inteira.",
+"nl": "Ik heb een hele pizza verslonden."
+},
+"maufelen\u0001perfect\u00012s": {
+"pt": "Tu devoraste uma pizza inteira.",
+"nl": "Jij hebt een hele pizza verslonden."
+},
+"maufelen\u0001perfect\u00013s": {
+"pt": "Ele devorou uma pizza inteira.",
+"nl": "Hij heeft een hele pizza verslonden."
+},
+"maufelen\u0001perfect\u00011p": {
+"pt": "Nós devorámos uma pizza inteira.",
+"nl": "Wij hebben een hele pizza verslonden."
+},
+"maufelen\u0001perfect\u00012p": {
+"pt": "Vocês devoraram uma pizza inteira.",
+"nl": "Jullie hebben een hele pizza verslonden."
+},
+"maufelen\u0001perfect\u00013p": {
+"pt": "Eles devoraram uma pizza inteira.",
+"nl": "Zij hebben een hele pizza verslonden."
+},
+"maufelen\u0001past\u00011s": {
+"pt": "Eu devorei uma pizza inteira.",
+"nl": "Ik verslond een hele pizza."
+},
+"maufelen\u0001past\u00012s": {
+"pt": "Tu devoraste uma pizza inteira.",
+"nl": "Jij verslond een hele pizza."
+},
+"maufelen\u0001past\u00013s": {
+"pt": "Ele devorou uma pizza inteira.",
+"nl": "Hij verslond een hele pizza."
+},
+"maufelen\u0001past\u00011p": {
+"pt": "Nós devorámos uma pizza inteira.",
+"nl": "Wij verslonden een hele pizza."
+},
+"maufelen\u0001past\u00012p": {
+"pt": "Vocês devoraram uma pizza inteira.",
+"nl": "Jullie verslonden een hele pizza."
+},
+"maufelen\u0001past\u00013p": {
+"pt": "Eles devoraram uma pizza inteira.",
+"nl": "Zij verslonden een hele pizza."
+},
+"maufelen\u0001imperfect\u00011s": {
+"pt": "Eu costumava devorar uma pizza inteira.",
+"nl": "Ik verslond vroeger altijd een hele pizza."
+},
+"maufelen\u0001imperfect\u00012s": {
+"pt": "Tu costumavas devorar uma pizza inteira.",
+"nl": "Jij verslond vroeger altijd een hele pizza."
+},
+"maufelen\u0001imperfect\u00013s": {
+"pt": "Ele costumava devorar uma pizza inteira.",
+"nl": "Hij verslond vroeger altijd een hele pizza."
+},
+"maufelen\u0001imperfect\u00011p": {
+"pt": "Nós costumávamos devorar uma pizza inteira.",
+"nl": "Wij verslonden vroeger altijd een hele pizza."
+},
+"maufelen\u0001imperfect\u00012p": {
+"pt": "Vocês costumavam devorar uma pizza inteira.",
+"nl": "Jullie verslonden vroeger altijd een hele pizza."
+},
+"maufelen\u0001imperfect\u00013p": {
+"pt": "Eles costumavam devorar uma pizza inteira.",
+"nl": "Zij verslonden vroeger altijd een hele pizza."
+},
+"maufelen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha devorado uma pizza inteira.",
+"nl": "Ik had een hele pizza verslonden."
+},
+"maufelen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas devorado uma pizza inteira.",
+"nl": "Jij had een hele pizza verslonden."
+},
+"maufelen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha devorado uma pizza inteira.",
+"nl": "Hij had een hele pizza verslonden."
+},
+"maufelen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos devorado uma pizza inteira.",
+"nl": "Wij hadden een hele pizza verslonden."
+},
+"maufelen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham devorado uma pizza inteira.",
+"nl": "Jullie hadden een hele pizza verslonden."
+},
+"maufelen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham devorado uma pizza inteira.",
+"nl": "Zij hadden een hele pizza verslonden."
+},
+"maufelen\u0001future\u00011s": {
+"pt": "Eu devorarei uma pizza inteira.",
+"nl": "Ik zal een hele pizza verslinden."
+},
+"maufelen\u0001future\u00012s": {
+"pt": "Tu devorarás uma pizza inteira.",
+"nl": "Jij zult een hele pizza verslinden."
+},
+"maufelen\u0001future\u00013s": {
+"pt": "Ele devorará uma pizza inteira.",
+"nl": "Hij zal een hele pizza verslinden."
+},
+"maufelen\u0001future\u00011p": {
+"pt": "Nós devoraremos uma pizza inteira.",
+"nl": "Wij zullen een hele pizza verslinden."
+},
+"maufelen\u0001future\u00012p": {
+"pt": "Vocês devorarão uma pizza inteira.",
+"nl": "Jullie zullen een hele pizza verslinden."
+},
+"maufelen\u0001future\u00013p": {
+"pt": "Eles devorarão uma pizza inteira.",
+"nl": "Zij zullen een hele pizza verslinden."
+},
+"maufelen\u0001conditional\u00011s": {
+"pt": "Eu devoraria uma pizza inteira.",
+"nl": "Ik zou een hele pizza verslinden."
+},
+"maufelen\u0001conditional\u00012s": {
+"pt": "Tu devorarias uma pizza inteira.",
+"nl": "Jij zou een hele pizza verslinden."
+},
+"maufelen\u0001conditional\u00013s": {
+"pt": "Ele devoraria uma pizza inteira.",
+"nl": "Hij zou een hele pizza verslinden."
+},
+"maufelen\u0001conditional\u00011p": {
+"pt": "Nós devoraríamos uma pizza inteira.",
+"nl": "Wij zouden een hele pizza verslinden."
+},
+"maufelen\u0001conditional\u00012p": {
+"pt": "Vocês devorariam uma pizza inteira.",
+"nl": "Jullie zouden een hele pizza verslinden."
+},
+"maufelen\u0001conditional\u00013p": {
+"pt": "Eles devorariam uma pizza inteira.",
+"nl": "Zij zouden een hele pizza verslinden."
+},
+"maufelen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria devorado uma pizza inteira.",
+"nl": "Ik zou een hele pizza hebben verslonden."
+},
+"maufelen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias devorado uma pizza inteira.",
+"nl": "Jij zou een hele pizza hebben verslonden."
+},
+"maufelen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria devorado uma pizza inteira.",
+"nl": "Hij zou een hele pizza hebben verslonden."
+},
+"maufelen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos devorado uma pizza inteira.",
+"nl": "Wij zouden een hele pizza hebben verslonden."
+},
+"maufelen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam devorado uma pizza inteira.",
+"nl": "Jullie zouden een hele pizza hebben verslonden."
+},
+"maufelen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam devorado uma pizza inteira.",
+"nl": "Zij zouden een hele pizza hebben verslonden."
+},
+"maufelen\u0001subjunctive\u00011s": {
+"pt": "que eu devore uma pizza inteira",
+"nl": "dat ik een hele pizza verslind"
+},
+"maufelen\u0001subjunctive\u00012s": {
+"pt": "que tu devores uma pizza inteira",
+"nl": "dat jij een hele pizza verslindt"
+},
+"maufelen\u0001subjunctive\u00013s": {
+"pt": "que ele devore uma pizza inteira",
+"nl": "dat hij een hele pizza verslindt"
+},
+"maufelen\u0001subjunctive\u00011p": {
+"pt": "que nós devoremos uma pizza inteira",
+"nl": "dat wij een hele pizza verslinden"
+},
+"maufelen\u0001subjunctive\u00012p": {
+"pt": "que vocês devorem uma pizza inteira",
+"nl": "dat jullie een hele pizza verslinden"
+},
+"maufelen\u0001subjunctive\u00013p": {
+"pt": "que eles devorem uma pizza inteira",
+"nl": "dat zij een hele pizza verslinden"
+},
+"mauschelen\u0001present\u00011s": {
+"pt": "Eu tramo no café a adjudicação da obra.",
+"nl": "Ik sjacher in het café om de bouwopdracht."
+},
+"mauschelen\u0001present\u00012s": {
+"pt": "Tu tramas no café a adjudicação da obra.",
+"nl": "Jij sjachert in het café om de bouwopdracht."
+},
+"mauschelen\u0001present\u00013s": {
+"pt": "Ele trama no café a adjudicação da obra.",
+"nl": "Hij sjachert in het café om de bouwopdracht."
+},
+"mauschelen\u0001present\u00011p": {
+"pt": "Nós tramamos no café a adjudicação da obra.",
+"nl": "Wij sjacheren in het café om de bouwopdracht."
+},
+"mauschelen\u0001present\u00012p": {
+"pt": "Vocês tramam no café a adjudicação da obra.",
+"nl": "Jullie sjacheren in het café om de bouwopdracht."
+},
+"mauschelen\u0001present\u00013p": {
+"pt": "Eles tramam no café a adjudicação da obra.",
+"nl": "Zij sjacheren in het café om de bouwopdracht."
+},
+"mauschelen\u0001perfect\u00011s": {
+"pt": "Eu tramei no café a adjudicação da obra.",
+"nl": "Ik heb in het café om de bouwopdracht gesjacherd."
+},
+"mauschelen\u0001perfect\u00012s": {
+"pt": "Tu tramaste no café a adjudicação da obra.",
+"nl": "Jij hebt in het café om de bouwopdracht gesjacherd."
+},
+"mauschelen\u0001perfect\u00013s": {
+"pt": "Ele tramou no café a adjudicação da obra.",
+"nl": "Hij heeft in het café om de bouwopdracht gesjacherd."
+},
+"mauschelen\u0001perfect\u00011p": {
+"pt": "Nós tramámos no café a adjudicação da obra.",
+"nl": "Wij hebben in het café om de bouwopdracht gesjacherd."
+},
+"mauschelen\u0001perfect\u00012p": {
+"pt": "Vocês tramaram no café a adjudicação da obra.",
+"nl": "Jullie hebben in het café om de bouwopdracht gesjacherd."
+},
+"mauschelen\u0001perfect\u00013p": {
+"pt": "Eles tramaram no café a adjudicação da obra.",
+"nl": "Zij hebben in het café om de bouwopdracht gesjacherd."
+},
+"mauschelen\u0001past\u00011s": {
+"pt": "Eu tramei no café a adjudicação da obra.",
+"nl": "Ik sjacherde in het café om de bouwopdracht."
+},
+"mauschelen\u0001past\u00012s": {
+"pt": "Tu tramaste no café a adjudicação da obra.",
+"nl": "Jij sjacherde in het café om de bouwopdracht."
+},
+"mauschelen\u0001past\u00013s": {
+"pt": "Ele tramou no café a adjudicação da obra.",
+"nl": "Hij sjacherde in het café om de bouwopdracht."
+},
+"mauschelen\u0001past\u00011p": {
+"pt": "Nós tramámos no café a adjudicação da obra.",
+"nl": "Wij sjacherden in het café om de bouwopdracht."
+},
+"mauschelen\u0001past\u00012p": {
+"pt": "Vocês tramaram no café a adjudicação da obra.",
+"nl": "Jullie sjacherden in het café om de bouwopdracht."
+},
+"mauschelen\u0001past\u00013p": {
+"pt": "Eles tramaram no café a adjudicação da obra.",
+"nl": "Zij sjacherden in het café om de bouwopdracht."
+},
+"mauschelen\u0001imperfect\u00011s": {
+"pt": "Eu estava a tramar no café a adjudicação da obra.",
+"nl": "Ik was in het café om de bouwopdracht aan het sjacheren."
+},
+"mauschelen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a tramar no café a adjudicação da obra.",
+"nl": "Jij was in het café om de bouwopdracht aan het sjacheren."
+},
+"mauschelen\u0001imperfect\u00013s": {
+"pt": "Ele estava a tramar no café a adjudicação da obra.",
+"nl": "Hij was in het café om de bouwopdracht aan het sjacheren."
+},
+"mauschelen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a tramar no café a adjudicação da obra.",
+"nl": "Wij waren in het café om de bouwopdracht aan het sjacheren."
+},
+"mauschelen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a tramar no café a adjudicação da obra.",
+"nl": "Jullie waren in het café om de bouwopdracht aan het sjacheren."
+},
+"mauschelen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a tramar no café a adjudicação da obra.",
+"nl": "Zij waren in het café om de bouwopdracht aan het sjacheren."
+},
+"mauschelen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha tramado no café a adjudicação da obra.",
+"nl": "Ik had in het café om de bouwopdracht gesjacherd."
+},
+"mauschelen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas tramado no café a adjudicação da obra.",
+"nl": "Jij had in het café om de bouwopdracht gesjacherd."
+},
+"mauschelen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha tramado no café a adjudicação da obra.",
+"nl": "Hij had in het café om de bouwopdracht gesjacherd."
+},
+"mauschelen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos tramado no café a adjudicação da obra.",
+"nl": "Wij hadden in het café om de bouwopdracht gesjacherd."
+},
+"mauschelen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham tramado no café a adjudicação da obra.",
+"nl": "Jullie hadden in het café om de bouwopdracht gesjacherd."
+},
+"mauschelen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham tramado no café a adjudicação da obra.",
+"nl": "Zij hadden in het café om de bouwopdracht gesjacherd."
+},
+"mauschelen\u0001future\u00011s": {
+"pt": "Eu tramarei no café a adjudicação da obra.",
+"nl": "Ik zal in het café om de bouwopdracht sjacheren."
+},
+"mauschelen\u0001future\u00012s": {
+"pt": "Tu tramarás no café a adjudicação da obra.",
+"nl": "Jij zult in het café om de bouwopdracht sjacheren."
+},
+"mauschelen\u0001future\u00013s": {
+"pt": "Ele tramará no café a adjudicação da obra.",
+"nl": "Hij zal in het café om de bouwopdracht sjacheren."
+},
+"mauschelen\u0001future\u00011p": {
+"pt": "Nós tramaremos no café a adjudicação da obra.",
+"nl": "Wij zullen in het café om de bouwopdracht sjacheren."
+},
+"mauschelen\u0001future\u00012p": {
+"pt": "Vocês tramarão no café a adjudicação da obra.",
+"nl": "Jullie zullen in het café om de bouwopdracht sjacheren."
+},
+"mauschelen\u0001future\u00013p": {
+"pt": "Eles tramarão no café a adjudicação da obra.",
+"nl": "Zij zullen in het café om de bouwopdracht sjacheren."
+},
+"mauschelen\u0001conditional\u00011s": {
+"pt": "Eu tramaria no café a adjudicação da obra.",
+"nl": "Ik zou in het café om de bouwopdracht sjacheren."
+},
+"mauschelen\u0001conditional\u00012s": {
+"pt": "Tu tramarias no café a adjudicação da obra.",
+"nl": "Jij zou in het café om de bouwopdracht sjacheren."
+},
+"mauschelen\u0001conditional\u00013s": {
+"pt": "Ele tramaria no café a adjudicação da obra.",
+"nl": "Hij zou in het café om de bouwopdracht sjacheren."
+},
+"mauschelen\u0001conditional\u00011p": {
+"pt": "Nós tramaríamos no café a adjudicação da obra.",
+"nl": "Wij zouden in het café om de bouwopdracht sjacheren."
+},
+"mauschelen\u0001conditional\u00012p": {
+"pt": "Vocês tramariam no café a adjudicação da obra.",
+"nl": "Jullie zouden in het café om de bouwopdracht sjacheren."
+},
+"mauschelen\u0001conditional\u00013p": {
+"pt": "Eles tramariam no café a adjudicação da obra.",
+"nl": "Zij zouden in het café om de bouwopdracht sjacheren."
+},
+"mauschelen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria tramado no café a adjudicação da obra.",
+"nl": "Ik zou in het café om de bouwopdracht hebben gesjacherd."
+},
+"mauschelen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias tramado no café a adjudicação da obra.",
+"nl": "Jij zou in het café om de bouwopdracht hebben gesjacherd."
+},
+"mauschelen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria tramado no café a adjudicação da obra.",
+"nl": "Hij zou in het café om de bouwopdracht hebben gesjacherd."
+},
+"mauschelen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos tramado no café a adjudicação da obra.",
+"nl": "Wij zouden in het café om de bouwopdracht hebben gesjacherd."
+},
+"mauschelen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam tramado no café a adjudicação da obra.",
+"nl": "Jullie zouden in het café om de bouwopdracht hebben gesjacherd."
+},
+"mauschelen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam tramado no café a adjudicação da obra.",
+"nl": "Zij zouden in het café om de bouwopdracht hebben gesjacherd."
+},
+"mauschelen\u0001subjunctive\u00011s": {
+"pt": "que eu trame no café a adjudicação da obra",
+"nl": "dat ik in het café om de bouwopdracht sjacher"
+},
+"mauschelen\u0001subjunctive\u00012s": {
+"pt": "que tu trames no café a adjudicação da obra",
+"nl": "dat jij in het café om de bouwopdracht sjachert"
+},
+"mauschelen\u0001subjunctive\u00013s": {
+"pt": "que ele trame no café a adjudicação da obra",
+"nl": "dat hij in het café om de bouwopdracht sjachert"
+},
+"mauschelen\u0001subjunctive\u00011p": {
+"pt": "que nós tramemos no café a adjudicação da obra",
+"nl": "dat wij in het café om de bouwopdracht sjacheren"
+},
+"mauschelen\u0001subjunctive\u00012p": {
+"pt": "que vocês tramem no café a adjudicação da obra",
+"nl": "dat jullie in het café om de bouwopdracht sjacheren"
+},
+"mauschelen\u0001subjunctive\u00013p": {
+"pt": "que eles tramem no café a adjudicação da obra",
+"nl": "dat zij in het café om de bouwopdracht sjacheren"
+},
+"meckeren\u0001present\u00011s": {
+"pt": "Eu balo à porta do estábulo.",
+"nl": "Ik mekker bij de staldeur."
+},
+"meckeren\u0001present\u00012s": {
+"pt": "Tu balas à porta do estábulo.",
+"nl": "Jij mekkert bij de staldeur."
+},
+"meckeren\u0001present\u00013s": {
+"pt": "Ele bala à porta do estábulo.",
+"nl": "Hij mekkert bij de staldeur."
+},
+"meckeren\u0001present\u00011p": {
+"pt": "Nós balamos à porta do estábulo.",
+"nl": "Wij mekkeren bij de staldeur."
+},
+"meckeren\u0001present\u00012p": {
+"pt": "Vocês balam à porta do estábulo.",
+"nl": "Jullie mekkeren bij de staldeur."
+},
+"meckeren\u0001present\u00013p": {
+"pt": "Eles balam à porta do estábulo.",
+"nl": "Zij mekkeren bij de staldeur."
+},
+"meckeren\u0001perfect\u00011s": {
+"pt": "Eu balei à porta do estábulo.",
+"nl": "Ik heb bij de staldeur gemekkerd."
+},
+"meckeren\u0001perfect\u00012s": {
+"pt": "Tu balaste à porta do estábulo.",
+"nl": "Jij hebt bij de staldeur gemekkerd."
+},
+"meckeren\u0001perfect\u00013s": {
+"pt": "Ele balou à porta do estábulo.",
+"nl": "Hij heeft bij de staldeur gemekkerd."
+},
+"meckeren\u0001perfect\u00011p": {
+"pt": "Nós balámos à porta do estábulo.",
+"nl": "Wij hebben bij de staldeur gemekkerd."
+},
+"meckeren\u0001perfect\u00012p": {
+"pt": "Vocês balaram à porta do estábulo.",
+"nl": "Jullie hebben bij de staldeur gemekkerd."
+},
+"meckeren\u0001perfect\u00013p": {
+"pt": "Eles balaram à porta do estábulo.",
+"nl": "Zij hebben bij de staldeur gemekkerd."
+},
+"meckeren\u0001past\u00011s": {
+"pt": "Eu balei à porta do estábulo.",
+"nl": "Ik mekkerde bij de staldeur."
+},
+"meckeren\u0001past\u00012s": {
+"pt": "Tu balaste à porta do estábulo.",
+"nl": "Jij mekkerde bij de staldeur."
+},
+"meckeren\u0001past\u00013s": {
+"pt": "Ele balou à porta do estábulo.",
+"nl": "Hij mekkerde bij de staldeur."
+},
+"meckeren\u0001past\u00011p": {
+"pt": "Nós balámos à porta do estábulo.",
+"nl": "Wij mekkerden bij de staldeur."
+},
+"meckeren\u0001past\u00012p": {
+"pt": "Vocês balaram à porta do estábulo.",
+"nl": "Jullie mekkerden bij de staldeur."
+},
+"meckeren\u0001past\u00013p": {
+"pt": "Eles balaram à porta do estábulo.",
+"nl": "Zij mekkerden bij de staldeur."
+},
+"meckeren\u0001imperfect\u00011s": {
+"pt": "Eu estava a balar à porta do estábulo.",
+"nl": "Ik was bij de staldeur aan het mekkeren."
+},
+"meckeren\u0001imperfect\u00012s": {
+"pt": "Tu estavas a balar à porta do estábulo.",
+"nl": "Jij was bij de staldeur aan het mekkeren."
+},
+"meckeren\u0001imperfect\u00013s": {
+"pt": "Ele estava a balar à porta do estábulo.",
+"nl": "Hij was bij de staldeur aan het mekkeren."
+},
+"meckeren\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a balar à porta do estábulo.",
+"nl": "Wij waren bij de staldeur aan het mekkeren."
+},
+"meckeren\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a balar à porta do estábulo.",
+"nl": "Jullie waren bij de staldeur aan het mekkeren."
+},
+"meckeren\u0001imperfect\u00013p": {
+"pt": "Eles estavam a balar à porta do estábulo.",
+"nl": "Zij waren bij de staldeur aan het mekkeren."
+},
+"meckeren\u0001pluperfect\u00011s": {
+"pt": "Eu tinha balado à porta do estábulo.",
+"nl": "Ik had bij de staldeur gemekkerd."
+},
+"meckeren\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas balado à porta do estábulo.",
+"nl": "Jij had bij de staldeur gemekkerd."
+},
+"meckeren\u0001pluperfect\u00013s": {
+"pt": "Ele tinha balado à porta do estábulo.",
+"nl": "Hij had bij de staldeur gemekkerd."
+},
+"meckeren\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos balado à porta do estábulo.",
+"nl": "Wij hadden bij de staldeur gemekkerd."
+},
+"meckeren\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham balado à porta do estábulo.",
+"nl": "Jullie hadden bij de staldeur gemekkerd."
+},
+"meckeren\u0001pluperfect\u00013p": {
+"pt": "Eles tinham balado à porta do estábulo.",
+"nl": "Zij hadden bij de staldeur gemekkerd."
+},
+"meckeren\u0001future\u00011s": {
+"pt": "Eu balarei à porta do estábulo.",
+"nl": "Ik zal bij de staldeur mekkeren."
+},
+"meckeren\u0001future\u00012s": {
+"pt": "Tu balarás à porta do estábulo.",
+"nl": "Jij zult bij de staldeur mekkeren."
+},
+"meckeren\u0001future\u00013s": {
+"pt": "Ele balará à porta do estábulo.",
+"nl": "Hij zal bij de staldeur mekkeren."
+},
+"meckeren\u0001future\u00011p": {
+"pt": "Nós balaremos à porta do estábulo.",
+"nl": "Wij zullen bij de staldeur mekkeren."
+},
+"meckeren\u0001future\u00012p": {
+"pt": "Vocês balarão à porta do estábulo.",
+"nl": "Jullie zullen bij de staldeur mekkeren."
+},
+"meckeren\u0001future\u00013p": {
+"pt": "Eles balarão à porta do estábulo.",
+"nl": "Zij zullen bij de staldeur mekkeren."
+},
+"meckeren\u0001conditional\u00011s": {
+"pt": "Eu balaria à porta do estábulo.",
+"nl": "Ik zou bij de staldeur mekkeren."
+},
+"meckeren\u0001conditional\u00012s": {
+"pt": "Tu balarias à porta do estábulo.",
+"nl": "Jij zou bij de staldeur mekkeren."
+},
+"meckeren\u0001conditional\u00013s": {
+"pt": "Ele balaria à porta do estábulo.",
+"nl": "Hij zou bij de staldeur mekkeren."
+},
+"meckeren\u0001conditional\u00011p": {
+"pt": "Nós balaríamos à porta do estábulo.",
+"nl": "Wij zouden bij de staldeur mekkeren."
+},
+"meckeren\u0001conditional\u00012p": {
+"pt": "Vocês balariam à porta do estábulo.",
+"nl": "Jullie zouden bij de staldeur mekkeren."
+},
+"meckeren\u0001conditional\u00013p": {
+"pt": "Eles balariam à porta do estábulo.",
+"nl": "Zij zouden bij de staldeur mekkeren."
+},
+"meckeren\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria balado à porta do estábulo.",
+"nl": "Ik zou bij de staldeur hebben gemekkerd."
+},
+"meckeren\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias balado à porta do estábulo.",
+"nl": "Jij zou bij de staldeur hebben gemekkerd."
+},
+"meckeren\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria balado à porta do estábulo.",
+"nl": "Hij zou bij de staldeur hebben gemekkerd."
+},
+"meckeren\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos balado à porta do estábulo.",
+"nl": "Wij zouden bij de staldeur hebben gemekkerd."
+},
+"meckeren\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam balado à porta do estábulo.",
+"nl": "Jullie zouden bij de staldeur hebben gemekkerd."
+},
+"meckeren\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam balado à porta do estábulo.",
+"nl": "Zij zouden bij de staldeur hebben gemekkerd."
+},
+"meckeren\u0001subjunctive\u00011s": {
+"pt": "que eu bale à porta do estábulo",
+"nl": "dat ik bij de staldeur mekker"
+},
+"meckeren\u0001subjunctive\u00012s": {
+"pt": "que tu bales à porta do estábulo",
+"nl": "dat jij bij de staldeur mekkert"
+},
+"meckeren\u0001subjunctive\u00013s": {
+"pt": "que ele bale à porta do estábulo",
+"nl": "dat hij bij de staldeur mekkert"
+},
+"meckeren\u0001subjunctive\u00011p": {
+"pt": "que nós balemos à porta do estábulo",
+"nl": "dat wij bij de staldeur mekkeren"
+},
+"meckeren\u0001subjunctive\u00012p": {
+"pt": "que vocês balem à porta do estábulo",
+"nl": "dat jullie bij de staldeur mekkeren"
+},
+"meckeren\u0001subjunctive\u00013p": {
+"pt": "que eles balem à porta do estábulo",
+"nl": "dat zij bij de staldeur mekkeren"
+},
+"mautschen\u0001present\u00011s": {
+"pt": "Eu macero as cerejas em rum.",
+"nl": "Ik week de kersen in rum."
+},
+"mautschen\u0001present\u00012s": {
+"pt": "Tu maceras as cerejas em rum.",
+"nl": "Jij weekt de kersen in rum."
+},
+"mautschen\u0001present\u00013s": {
+"pt": "Ele macera as cerejas em rum.",
+"nl": "Hij weekt de kersen in rum."
+},
+"mautschen\u0001present\u00011p": {
+"pt": "Nós maceramos as cerejas em rum.",
+"nl": "Wij weken de kersen in rum."
+},
+"mautschen\u0001present\u00012p": {
+"pt": "Vocês maceram as cerejas em rum.",
+"nl": "Jullie weken de kersen in rum."
+},
+"mautschen\u0001present\u00013p": {
+"pt": "Eles maceram as cerejas em rum.",
+"nl": "Zij weken de kersen in rum."
+},
+"mautschen\u0001perfect\u00011s": {
+"pt": "Eu macerei as cerejas em rum.",
+"nl": "Ik heb de kersen in rum geweekt."
+},
+"mautschen\u0001perfect\u00012s": {
+"pt": "Tu maceraste as cerejas em rum.",
+"nl": "Jij hebt de kersen in rum geweekt."
+},
+"mautschen\u0001perfect\u00013s": {
+"pt": "Ele macerou as cerejas em rum.",
+"nl": "Hij heeft de kersen in rum geweekt."
+},
+"mautschen\u0001perfect\u00011p": {
+"pt": "Nós macerámos as cerejas em rum.",
+"nl": "Wij hebben de kersen in rum geweekt."
+},
+"mautschen\u0001perfect\u00012p": {
+"pt": "Vocês maceraram as cerejas em rum.",
+"nl": "Jullie hebben de kersen in rum geweekt."
+},
+"mautschen\u0001perfect\u00013p": {
+"pt": "Eles maceraram as cerejas em rum.",
+"nl": "Zij hebben de kersen in rum geweekt."
+},
+"mautschen\u0001past\u00011s": {
+"pt": "Eu macerei as cerejas em rum.",
+"nl": "Ik weekte de kersen in rum."
+},
+"mautschen\u0001past\u00012s": {
+"pt": "Tu maceraste as cerejas em rum.",
+"nl": "Jij weekte de kersen in rum."
+},
+"mautschen\u0001past\u00013s": {
+"pt": "Ele macerou as cerejas em rum.",
+"nl": "Hij weekte de kersen in rum."
+},
+"mautschen\u0001past\u00011p": {
+"pt": "Nós macerámos as cerejas em rum.",
+"nl": "Wij weekten de kersen in rum."
+},
+"mautschen\u0001past\u00012p": {
+"pt": "Vocês maceraram as cerejas em rum.",
+"nl": "Jullie weekten de kersen in rum."
+},
+"mautschen\u0001past\u00013p": {
+"pt": "Eles maceraram as cerejas em rum.",
+"nl": "Zij weekten de kersen in rum."
+},
+"mautschen\u0001imperfect\u00011s": {
+"pt": "Eu estava a macerar as cerejas em rum.",
+"nl": "Ik was de kersen in rum aan het weken."
+},
+"mautschen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a macerar as cerejas em rum.",
+"nl": "Jij was de kersen in rum aan het weken."
+},
+"mautschen\u0001imperfect\u00013s": {
+"pt": "Ele estava a macerar as cerejas em rum.",
+"nl": "Hij was de kersen in rum aan het weken."
+},
+"mautschen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a macerar as cerejas em rum.",
+"nl": "Wij waren de kersen in rum aan het weken."
+},
+"mautschen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a macerar as cerejas em rum.",
+"nl": "Jullie waren de kersen in rum aan het weken."
+},
+"mautschen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a macerar as cerejas em rum.",
+"nl": "Zij waren de kersen in rum aan het weken."
+},
+"mautschen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha macerado as cerejas em rum.",
+"nl": "Ik had de kersen in rum geweekt."
+},
+"mautschen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas macerado as cerejas em rum.",
+"nl": "Jij had de kersen in rum geweekt."
+},
+"mautschen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha macerado as cerejas em rum.",
+"nl": "Hij had de kersen in rum geweekt."
+},
+"mautschen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos macerado as cerejas em rum.",
+"nl": "Wij hadden de kersen in rum geweekt."
+},
+"mautschen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham macerado as cerejas em rum.",
+"nl": "Jullie hadden de kersen in rum geweekt."
+},
+"mautschen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham macerado as cerejas em rum.",
+"nl": "Zij hadden de kersen in rum geweekt."
+},
+"mautschen\u0001future\u00011s": {
+"pt": "Eu macerarei as cerejas em rum.",
+"nl": "Ik zal de kersen in rum weken."
+},
+"mautschen\u0001future\u00012s": {
+"pt": "Tu macerarás as cerejas em rum.",
+"nl": "Jij zult de kersen in rum weken."
+},
+"mautschen\u0001future\u00013s": {
+"pt": "Ele macerará as cerejas em rum.",
+"nl": "Hij zal de kersen in rum weken."
+},
+"mautschen\u0001future\u00011p": {
+"pt": "Nós maceraremos as cerejas em rum.",
+"nl": "Wij zullen de kersen in rum weken."
+},
+"mautschen\u0001future\u00012p": {
+"pt": "Vocês macerarão as cerejas em rum.",
+"nl": "Jullie zullen de kersen in rum weken."
+},
+"mautschen\u0001future\u00013p": {
+"pt": "Eles macerarão as cerejas em rum.",
+"nl": "Zij zullen de kersen in rum weken."
+},
+"mautschen\u0001conditional\u00011s": {
+"pt": "Eu maceraria as cerejas em rum.",
+"nl": "Ik zou de kersen in rum weken."
+},
+"mautschen\u0001conditional\u00012s": {
+"pt": "Tu macerarias as cerejas em rum.",
+"nl": "Jij zou de kersen in rum weken."
+},
+"mautschen\u0001conditional\u00013s": {
+"pt": "Ele maceraria as cerejas em rum.",
+"nl": "Hij zou de kersen in rum weken."
+},
+"mautschen\u0001conditional\u00011p": {
+"pt": "Nós maceraríamos as cerejas em rum.",
+"nl": "Wij zouden de kersen in rum weken."
+},
+"mautschen\u0001conditional\u00012p": {
+"pt": "Vocês macerariam as cerejas em rum.",
+"nl": "Jullie zouden de kersen in rum weken."
+},
+"mautschen\u0001conditional\u00013p": {
+"pt": "Eles macerariam as cerejas em rum.",
+"nl": "Zij zouden de kersen in rum weken."
+},
+"mautschen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria macerado as cerejas em rum.",
+"nl": "Ik zou de kersen in rum hebben geweekt."
+},
+"mautschen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias macerado as cerejas em rum.",
+"nl": "Jij zou de kersen in rum hebben geweekt."
+},
+"mautschen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria macerado as cerejas em rum.",
+"nl": "Hij zou de kersen in rum hebben geweekt."
+},
+"mautschen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos macerado as cerejas em rum.",
+"nl": "Wij zouden de kersen in rum hebben geweekt."
+},
+"mautschen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam macerado as cerejas em rum.",
+"nl": "Jullie zouden de kersen in rum hebben geweekt."
+},
+"mautschen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam macerado as cerejas em rum.",
+"nl": "Zij zouden de kersen in rum hebben geweekt."
+},
+"mautschen\u0001subjunctive\u00011s": {
+"pt": "que eu macere as cerejas em rum",
+"nl": "dat ik de kersen in rum week"
+},
+"mautschen\u0001subjunctive\u00012s": {
+"pt": "que tu maceres as cerejas em rum",
+"nl": "dat jij de kersen in rum weekt"
+},
+"mautschen\u0001subjunctive\u00013s": {
+"pt": "que ele macere as cerejas em rum",
+"nl": "dat hij de kersen in rum weekt"
+},
+"mautschen\u0001subjunctive\u00011p": {
+"pt": "que nós maceremos as cerejas em rum",
+"nl": "dat wij de kersen in rum weken"
+},
+"mautschen\u0001subjunctive\u00012p": {
+"pt": "que vocês macerem as cerejas em rum",
+"nl": "dat jullie de kersen in rum weken"
+},
+"mautschen\u0001subjunctive\u00013p": {
+"pt": "que eles macerem as cerejas em rum",
+"nl": "dat zij de kersen in rum weken"
+},
+"meditéieren\u0001present\u00011s": {
+"pt": "Eu medito no jardim.",
+"nl": "Ik mediteer in de tuin."
+},
+"meditéieren\u0001present\u00012s": {
+"pt": "Tu meditas no jardim.",
+"nl": "Jij mediteert in de tuin."
+},
+"meditéieren\u0001present\u00013s": {
+"pt": "Ele medita no jardim.",
+"nl": "Hij mediteert in de tuin."
+},
+"meditéieren\u0001present\u00011p": {
+"pt": "Nós meditamos no jardim.",
+"nl": "Wij mediteren in de tuin."
+},
+"meditéieren\u0001present\u00012p": {
+"pt": "Vocês meditam no jardim.",
+"nl": "Jullie mediteren in de tuin."
+},
+"meditéieren\u0001present\u00013p": {
+"pt": "Eles meditam no jardim.",
+"nl": "Zij mediteren in de tuin."
+},
+"meditéieren\u0001perfect\u00011s": {
+"pt": "Eu meditei no jardim.",
+"nl": "Ik heb in de tuin gemediteerd."
+},
+"meditéieren\u0001perfect\u00012s": {
+"pt": "Tu meditaste no jardim.",
+"nl": "Jij hebt in de tuin gemediteerd."
+},
+"meditéieren\u0001perfect\u00013s": {
+"pt": "Ele meditou no jardim.",
+"nl": "Hij heeft in de tuin gemediteerd."
+},
+"meditéieren\u0001perfect\u00011p": {
+"pt": "Nós meditámos no jardim.",
+"nl": "Wij hebben in de tuin gemediteerd."
+},
+"meditéieren\u0001perfect\u00012p": {
+"pt": "Vocês meditaram no jardim.",
+"nl": "Jullie hebben in de tuin gemediteerd."
+},
+"meditéieren\u0001perfect\u00013p": {
+"pt": "Eles meditaram no jardim.",
+"nl": "Zij hebben in de tuin gemediteerd."
+},
+"meditéieren\u0001past\u00011s": {
+"pt": "Eu meditei no jardim.",
+"nl": "Ik mediteerde in de tuin."
+},
+"meditéieren\u0001past\u00012s": {
+"pt": "Tu meditaste no jardim.",
+"nl": "Jij mediteerde in de tuin."
+},
+"meditéieren\u0001past\u00013s": {
+"pt": "Ele meditou no jardim.",
+"nl": "Hij mediteerde in de tuin."
+},
+"meditéieren\u0001past\u00011p": {
+"pt": "Nós meditámos no jardim.",
+"nl": "Wij mediteerden in de tuin."
+},
+"meditéieren\u0001past\u00012p": {
+"pt": "Vocês meditaram no jardim.",
+"nl": "Jullie mediteerden in de tuin."
+},
+"meditéieren\u0001past\u00013p": {
+"pt": "Eles meditaram no jardim.",
+"nl": "Zij mediteerden in de tuin."
+},
+"meditéieren\u0001imperfect\u00011s": {
+"pt": "Eu estava a meditar no jardim.",
+"nl": "Ik was in de tuin aan het mediteren."
+},
+"meditéieren\u0001imperfect\u00012s": {
+"pt": "Tu estavas a meditar no jardim.",
+"nl": "Jij was in de tuin aan het mediteren."
+},
+"meditéieren\u0001imperfect\u00013s": {
+"pt": "Ele estava a meditar no jardim.",
+"nl": "Hij was in de tuin aan het mediteren."
+},
+"meditéieren\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a meditar no jardim.",
+"nl": "Wij waren in de tuin aan het mediteren."
+},
+"meditéieren\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a meditar no jardim.",
+"nl": "Jullie waren in de tuin aan het mediteren."
+},
+"meditéieren\u0001imperfect\u00013p": {
+"pt": "Eles estavam a meditar no jardim.",
+"nl": "Zij waren in de tuin aan het mediteren."
+},
+"meditéieren\u0001pluperfect\u00011s": {
+"pt": "Eu tinha meditado no jardim.",
+"nl": "Ik had in de tuin gemediteerd."
+},
+"meditéieren\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas meditado no jardim.",
+"nl": "Jij had in de tuin gemediteerd."
+},
+"meditéieren\u0001pluperfect\u00013s": {
+"pt": "Ele tinha meditado no jardim.",
+"nl": "Hij had in de tuin gemediteerd."
+},
+"meditéieren\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos meditado no jardim.",
+"nl": "Wij hadden in de tuin gemediteerd."
+},
+"meditéieren\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham meditado no jardim.",
+"nl": "Jullie hadden in de tuin gemediteerd."
+},
+"meditéieren\u0001pluperfect\u00013p": {
+"pt": "Eles tinham meditado no jardim.",
+"nl": "Zij hadden in de tuin gemediteerd."
+},
+"meditéieren\u0001future\u00011s": {
+"pt": "Eu meditarei no jardim.",
+"nl": "Ik zal in de tuin mediteren."
+},
+"meditéieren\u0001future\u00012s": {
+"pt": "Tu meditarás no jardim.",
+"nl": "Jij zult in de tuin mediteren."
+},
+"meditéieren\u0001future\u00013s": {
+"pt": "Ele meditará no jardim.",
+"nl": "Hij zal in de tuin mediteren."
+},
+"meditéieren\u0001future\u00011p": {
+"pt": "Nós meditaremos no jardim.",
+"nl": "Wij zullen in de tuin mediteren."
+},
+"meditéieren\u0001future\u00012p": {
+"pt": "Vocês meditarão no jardim.",
+"nl": "Jullie zullen in de tuin mediteren."
+},
+"meditéieren\u0001future\u00013p": {
+"pt": "Eles meditarão no jardim.",
+"nl": "Zij zullen in de tuin mediteren."
+},
+"meditéieren\u0001conditional\u00011s": {
+"pt": "Eu meditaria no jardim.",
+"nl": "Ik zou in de tuin mediteren."
+},
+"meditéieren\u0001conditional\u00012s": {
+"pt": "Tu meditarias no jardim.",
+"nl": "Jij zou in de tuin mediteren."
+},
+"meditéieren\u0001conditional\u00013s": {
+"pt": "Ele meditaria no jardim.",
+"nl": "Hij zou in de tuin mediteren."
+},
+"meditéieren\u0001conditional\u00011p": {
+"pt": "Nós meditaríamos no jardim.",
+"nl": "Wij zouden in de tuin mediteren."
+},
+"meditéieren\u0001conditional\u00012p": {
+"pt": "Vocês meditariam no jardim.",
+"nl": "Jullie zouden in de tuin mediteren."
+},
+"meditéieren\u0001conditional\u00013p": {
+"pt": "Eles meditariam no jardim.",
+"nl": "Zij zouden in de tuin mediteren."
+},
+"meditéieren\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria meditado no jardim.",
+"nl": "Ik zou in de tuin hebben gemediteerd."
+},
+"meditéieren\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias meditado no jardim.",
+"nl": "Jij zou in de tuin hebben gemediteerd."
+},
+"meditéieren\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria meditado no jardim.",
+"nl": "Hij zou in de tuin hebben gemediteerd."
+},
+"meditéieren\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos meditado no jardim.",
+"nl": "Wij zouden in de tuin hebben gemediteerd."
+},
+"meditéieren\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam meditado no jardim.",
+"nl": "Jullie zouden in de tuin hebben gemediteerd."
+},
+"meditéieren\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam meditado no jardim.",
+"nl": "Zij zouden in de tuin hebben gemediteerd."
+},
+"meditéieren\u0001subjunctive\u00011s": {
+"pt": "que eu medite no jardim",
+"nl": "dat ik in de tuin mediteer"
+},
+"meditéieren\u0001subjunctive\u00012s": {
+"pt": "que tu medites no jardim",
+"nl": "dat jij in de tuin mediteert"
+},
+"meditéieren\u0001subjunctive\u00013s": {
+"pt": "que ele medite no jardim",
+"nl": "dat hij in de tuin mediteert"
+},
+"meditéieren\u0001subjunctive\u00011p": {
+"pt": "que nós meditemos no jardim",
+"nl": "dat wij in de tuin mediteren"
+},
+"meditéieren\u0001subjunctive\u00012p": {
+"pt": "que vocês meditem no jardim",
+"nl": "dat jullie in de tuin mediteren"
+},
+"meditéieren\u0001subjunctive\u00013p": {
+"pt": "que eles meditem no jardim",
+"nl": "dat zij in de tuin mediteren"
+},
+"meeschteren\u0001present\u00011s": {
+"pt": "Eu domino a situação difícil.",
+"nl": "Ik beheers de moeilijke situatie."
+},
+"meeschteren\u0001present\u00012s": {
+"pt": "Tu dominas a situação difícil.",
+"nl": "Jij beheerst de moeilijke situatie."
+},
+"meeschteren\u0001present\u00013s": {
+"pt": "Ele domina a situação difícil.",
+"nl": "Hij beheerst de moeilijke situatie."
+},
+"meeschteren\u0001present\u00011p": {
+"pt": "Nós dominamos a situação difícil.",
+"nl": "Wij beheersen de moeilijke situatie."
+},
+"meeschteren\u0001present\u00012p": {
+"pt": "Vocês dominam a situação difícil.",
+"nl": "Jullie beheersen de moeilijke situatie."
+},
+"meeschteren\u0001present\u00013p": {
+"pt": "Eles dominam a situação difícil.",
+"nl": "Zij beheersen de moeilijke situatie."
+},
+"meeschteren\u0001perfect\u00011s": {
+"pt": "Eu dominei a situação difícil.",
+"nl": "Ik heb de moeilijke situatie beheerst."
+},
+"meeschteren\u0001perfect\u00012s": {
+"pt": "Tu dominaste a situação difícil.",
+"nl": "Jij hebt de moeilijke situatie beheerst."
+},
+"meeschteren\u0001perfect\u00013s": {
+"pt": "Ele dominou a situação difícil.",
+"nl": "Hij heeft de moeilijke situatie beheerst."
+},
+"meeschteren\u0001perfect\u00011p": {
+"pt": "Nós dominámos a situação difícil.",
+"nl": "Wij hebben de moeilijke situatie beheerst."
+},
+"meeschteren\u0001perfect\u00012p": {
+"pt": "Vocês dominaram a situação difícil.",
+"nl": "Jullie hebben de moeilijke situatie beheerst."
+},
+"meeschteren\u0001perfect\u00013p": {
+"pt": "Eles dominaram a situação difícil.",
+"nl": "Zij hebben de moeilijke situatie beheerst."
+},
+"meeschteren\u0001past\u00011s": {
+"pt": "Eu dominei a situação difícil.",
+"nl": "Ik beheerste de moeilijke situatie."
+},
+"meeschteren\u0001past\u00012s": {
+"pt": "Tu dominaste a situação difícil.",
+"nl": "Jij beheerste de moeilijke situatie."
+},
+"meeschteren\u0001past\u00013s": {
+"pt": "Ele dominou a situação difícil.",
+"nl": "Hij beheerste de moeilijke situatie."
+},
+"meeschteren\u0001past\u00011p": {
+"pt": "Nós dominámos a situação difícil.",
+"nl": "Wij beheersten de moeilijke situatie."
+},
+"meeschteren\u0001past\u00012p": {
+"pt": "Vocês dominaram a situação difícil.",
+"nl": "Jullie beheersten de moeilijke situatie."
+},
+"meeschteren\u0001past\u00013p": {
+"pt": "Eles dominaram a situação difícil.",
+"nl": "Zij beheersten de moeilijke situatie."
+},
+"meeschteren\u0001imperfect\u00011s": {
+"pt": "Eu estava a dominar a situação difícil.",
+"nl": "Ik was de moeilijke situatie aan het beheersen."
+},
+"meeschteren\u0001imperfect\u00012s": {
+"pt": "Tu estavas a dominar a situação difícil.",
+"nl": "Jij was de moeilijke situatie aan het beheersen."
+},
+"meeschteren\u0001imperfect\u00013s": {
+"pt": "Ele estava a dominar a situação difícil.",
+"nl": "Hij was de moeilijke situatie aan het beheersen."
+},
+"meeschteren\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a dominar a situação difícil.",
+"nl": "Wij waren de moeilijke situatie aan het beheersen."
+},
+"meeschteren\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a dominar a situação difícil.",
+"nl": "Jullie waren de moeilijke situatie aan het beheersen."
+},
+"meeschteren\u0001imperfect\u00013p": {
+"pt": "Eles estavam a dominar a situação difícil.",
+"nl": "Zij waren de moeilijke situatie aan het beheersen."
+},
+"meeschteren\u0001pluperfect\u00011s": {
+"pt": "Eu tinha dominado a situação difícil.",
+"nl": "Ik had de moeilijke situatie beheerst."
+},
+"meeschteren\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas dominado a situação difícil.",
+"nl": "Jij had de moeilijke situatie beheerst."
+},
+"meeschteren\u0001pluperfect\u00013s": {
+"pt": "Ele tinha dominado a situação difícil.",
+"nl": "Hij had de moeilijke situatie beheerst."
+},
+"meeschteren\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos dominado a situação difícil.",
+"nl": "Wij hadden de moeilijke situatie beheerst."
+},
+"meeschteren\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham dominado a situação difícil.",
+"nl": "Jullie hadden de moeilijke situatie beheerst."
+},
+"meeschteren\u0001pluperfect\u00013p": {
+"pt": "Eles tinham dominado a situação difícil.",
+"nl": "Zij hadden de moeilijke situatie beheerst."
+},
+"meeschteren\u0001future\u00011s": {
+"pt": "Eu dominarei a situação difícil.",
+"nl": "Ik zal de moeilijke situatie beheersen."
+},
+"meeschteren\u0001future\u00012s": {
+"pt": "Tu dominarás a situação difícil.",
+"nl": "Jij zult de moeilijke situatie beheersen."
+},
+"meeschteren\u0001future\u00013s": {
+"pt": "Ele dominará a situação difícil.",
+"nl": "Hij zal de moeilijke situatie beheersen."
+},
+"meeschteren\u0001future\u00011p": {
+"pt": "Nós dominaremos a situação difícil.",
+"nl": "Wij zullen de moeilijke situatie beheersen."
+},
+"meeschteren\u0001future\u00012p": {
+"pt": "Vocês dominarão a situação difícil.",
+"nl": "Jullie zullen de moeilijke situatie beheersen."
+},
+"meeschteren\u0001future\u00013p": {
+"pt": "Eles dominarão a situação difícil.",
+"nl": "Zij zullen de moeilijke situatie beheersen."
+},
+"meeschteren\u0001conditional\u00011s": {
+"pt": "Eu dominaria a situação difícil.",
+"nl": "Ik zou de moeilijke situatie beheersen."
+},
+"meeschteren\u0001conditional\u00012s": {
+"pt": "Tu dominarias a situação difícil.",
+"nl": "Jij zou de moeilijke situatie beheersen."
+},
+"meeschteren\u0001conditional\u00013s": {
+"pt": "Ele dominaria a situação difícil.",
+"nl": "Hij zou de moeilijke situatie beheersen."
+},
+"meeschteren\u0001conditional\u00011p": {
+"pt": "Nós dominaríamos a situação difícil.",
+"nl": "Wij zouden de moeilijke situatie beheersen."
+},
+"meeschteren\u0001conditional\u00012p": {
+"pt": "Vocês dominariam a situação difícil.",
+"nl": "Jullie zouden de moeilijke situatie beheersen."
+},
+"meeschteren\u0001conditional\u00013p": {
+"pt": "Eles dominariam a situação difícil.",
+"nl": "Zij zouden de moeilijke situatie beheersen."
+},
+"meeschteren\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria dominado a situação difícil.",
+"nl": "Ik zou de moeilijke situatie hebben beheerst."
+},
+"meeschteren\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias dominado a situação difícil.",
+"nl": "Jij zou de moeilijke situatie hebben beheerst."
+},
+"meeschteren\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria dominado a situação difícil.",
+"nl": "Hij zou de moeilijke situatie hebben beheerst."
+},
+"meeschteren\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos dominado a situação difícil.",
+"nl": "Wij zouden de moeilijke situatie hebben beheerst."
+},
+"meeschteren\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam dominado a situação difícil.",
+"nl": "Jullie zouden de moeilijke situatie hebben beheerst."
+},
+"meeschteren\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam dominado a situação difícil.",
+"nl": "Zij zouden de moeilijke situatie hebben beheerst."
+},
+"meeschteren\u0001subjunctive\u00011s": {
+"pt": "que eu domine a situação difícil",
+"nl": "dat ik de moeilijke situatie beheers"
+},
+"meeschteren\u0001subjunctive\u00012s": {
+"pt": "que tu domines a situação difícil",
+"nl": "dat jij de moeilijke situatie beheerst"
+},
+"meeschteren\u0001subjunctive\u00013s": {
+"pt": "que ele domine a situação difícil",
+"nl": "dat hij de moeilijke situatie beheerst"
+},
+"meeschteren\u0001subjunctive\u00011p": {
+"pt": "que nós dominemos a situação difícil",
+"nl": "dat wij de moeilijke situatie beheersen"
+},
+"meeschteren\u0001subjunctive\u00012p": {
+"pt": "que vocês dominem a situação difícil",
+"nl": "dat jullie de moeilijke situatie beheersen"
+},
+"meeschteren\u0001subjunctive\u00013p": {
+"pt": "que eles dominem a situação difícil",
+"nl": "dat zij de moeilijke situatie beheersen"
+},
+"meesselen\u0001present\u00011s": {
+"pt": "Eu gravo o nome na pedra.",
+"nl": "Ik beitel de naam in de steen."
+},
+"meesselen\u0001present\u00012s": {
+"pt": "Tu gravas o nome na pedra.",
+"nl": "Jij beitelt de naam in de steen."
+},
+"meesselen\u0001present\u00013s": {
+"pt": "Ele grava o nome na pedra.",
+"nl": "Hij beitelt de naam in de steen."
+},
+"meesselen\u0001present\u00011p": {
+"pt": "Nós gravamos o nome na pedra.",
+"nl": "Wij beitelen de naam in de steen."
+},
+"meesselen\u0001present\u00012p": {
+"pt": "Vocês gravam o nome na pedra.",
+"nl": "Jullie beitelen de naam in de steen."
+},
+"meesselen\u0001present\u00013p": {
+"pt": "Eles gravam o nome na pedra.",
+"nl": "Zij beitelen de naam in de steen."
+},
+"meesselen\u0001perfect\u00011s": {
+"pt": "Eu gravei o nome na pedra.",
+"nl": "Ik heb de naam in de steen gebeiteld."
+},
+"meesselen\u0001perfect\u00012s": {
+"pt": "Tu gravaste o nome na pedra.",
+"nl": "Jij hebt de naam in de steen gebeiteld."
+},
+"meesselen\u0001perfect\u00013s": {
+"pt": "Ele gravou o nome na pedra.",
+"nl": "Hij heeft de naam in de steen gebeiteld."
+},
+"meesselen\u0001perfect\u00011p": {
+"pt": "Nós gravámos o nome na pedra.",
+"nl": "Wij hebben de naam in de steen gebeiteld."
+},
+"meesselen\u0001perfect\u00012p": {
+"pt": "Vocês gravaram o nome na pedra.",
+"nl": "Jullie hebben de naam in de steen gebeiteld."
+},
+"meesselen\u0001perfect\u00013p": {
+"pt": "Eles gravaram o nome na pedra.",
+"nl": "Zij hebben de naam in de steen gebeiteld."
+},
+"meesselen\u0001past\u00011s": {
+"pt": "Eu gravei ontem o nome na pedra.",
+"nl": "Ik beitelde gisteren de naam in de steen."
+},
+"meesselen\u0001past\u00012s": {
+"pt": "Tu gravaste ontem o nome na pedra.",
+"nl": "Jij beitelde gisteren de naam in de steen."
+},
+"meesselen\u0001past\u00013s": {
+"pt": "Ele gravou ontem o nome na pedra.",
+"nl": "Hij beitelde gisteren de naam in de steen."
+},
+"meesselen\u0001past\u00011p": {
+"pt": "Nós gravámos ontem o nome na pedra.",
+"nl": "Wij beitelden gisteren de naam in de steen."
+},
+"meesselen\u0001past\u00012p": {
+"pt": "Vocês gravaram ontem o nome na pedra.",
+"nl": "Jullie beitelden gisteren de naam in de steen."
+},
+"meesselen\u0001past\u00013p": {
+"pt": "Eles gravaram ontem o nome na pedra.",
+"nl": "Zij beitelden gisteren de naam in de steen."
+},
+"meesselen\u0001imperfect\u00011s": {
+"pt": "Eu estava a gravar o nome na pedra.",
+"nl": "Ik was de naam in de steen aan het beitelen."
+},
+"meesselen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a gravar o nome na pedra.",
+"nl": "Jij was de naam in de steen aan het beitelen."
+},
+"meesselen\u0001imperfect\u00013s": {
+"pt": "Ele estava a gravar o nome na pedra.",
+"nl": "Hij was de naam in de steen aan het beitelen."
+},
+"meesselen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a gravar o nome na pedra.",
+"nl": "Wij waren de naam in de steen aan het beitelen."
+},
+"meesselen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a gravar o nome na pedra.",
+"nl": "Jullie waren de naam in de steen aan het beitelen."
+},
+"meesselen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a gravar o nome na pedra.",
+"nl": "Zij waren de naam in de steen aan het beitelen."
+},
+"meesselen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha gravado o nome na pedra.",
+"nl": "Ik had de naam in de steen gebeiteld."
+},
+"meesselen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas gravado o nome na pedra.",
+"nl": "Jij had de naam in de steen gebeiteld."
+},
+"meesselen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha gravado o nome na pedra.",
+"nl": "Hij had de naam in de steen gebeiteld."
+},
+"meesselen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos gravado o nome na pedra.",
+"nl": "Wij hadden de naam in de steen gebeiteld."
+},
+"meesselen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham gravado o nome na pedra.",
+"nl": "Jullie hadden de naam in de steen gebeiteld."
+},
+"meesselen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham gravado o nome na pedra.",
+"nl": "Zij hadden de naam in de steen gebeiteld."
+},
+"meesselen\u0001future\u00011s": {
+"pt": "Eu gravarei o nome na pedra.",
+"nl": "Ik zal de naam in de steen beitelen."
+},
+"meesselen\u0001future\u00012s": {
+"pt": "Tu gravarás o nome na pedra.",
+"nl": "Jij zult de naam in de steen beitelen."
+},
+"meesselen\u0001future\u00013s": {
+"pt": "Ele gravará o nome na pedra.",
+"nl": "Hij zal de naam in de steen beitelen."
+},
+"meesselen\u0001future\u00011p": {
+"pt": "Nós gravaremos o nome na pedra.",
+"nl": "Wij zullen de naam in de steen beitelen."
+},
+"meesselen\u0001future\u00012p": {
+"pt": "Vocês gravarão o nome na pedra.",
+"nl": "Jullie zullen de naam in de steen beitelen."
+},
+"meesselen\u0001future\u00013p": {
+"pt": "Eles gravarão o nome na pedra.",
+"nl": "Zij zullen de naam in de steen beitelen."
+},
+"meesselen\u0001conditional\u00011s": {
+"pt": "Eu gravaria o nome na pedra.",
+"nl": "Ik zou de naam in de steen beitelen."
+},
+"meesselen\u0001conditional\u00012s": {
+"pt": "Tu gravarias o nome na pedra.",
+"nl": "Jij zou de naam in de steen beitelen."
+},
+"meesselen\u0001conditional\u00013s": {
+"pt": "Ele gravaria o nome na pedra.",
+"nl": "Hij zou de naam in de steen beitelen."
+},
+"meesselen\u0001conditional\u00011p": {
+"pt": "Nós gravaríamos o nome na pedra.",
+"nl": "Wij zouden de naam in de steen beitelen."
+},
+"meesselen\u0001conditional\u00012p": {
+"pt": "Vocês gravariam o nome na pedra.",
+"nl": "Jullie zouden de naam in de steen beitelen."
+},
+"meesselen\u0001conditional\u00013p": {
+"pt": "Eles gravariam o nome na pedra.",
+"nl": "Zij zouden de naam in de steen beitelen."
+},
+"meesselen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria gravado o nome na pedra.",
+"nl": "Ik zou de naam in de steen hebben gebeiteld."
+},
+"meesselen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias gravado o nome na pedra.",
+"nl": "Jij zou de naam in de steen hebben gebeiteld."
+},
+"meesselen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria gravado o nome na pedra.",
+"nl": "Hij zou de naam in de steen hebben gebeiteld."
+},
+"meesselen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos gravado o nome na pedra.",
+"nl": "Wij zouden de naam in de steen hebben gebeiteld."
+},
+"meesselen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam gravado o nome na pedra.",
+"nl": "Jullie zouden de naam in de steen hebben gebeiteld."
+},
+"meesselen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam gravado o nome na pedra.",
+"nl": "Zij zouden de naam in de steen hebben gebeiteld."
+},
+"meesselen\u0001subjunctive\u00011s": {
+"pt": "que eu grave o nome na pedra",
+"nl": "dat ik de naam in de steen beitel"
+},
+"meesselen\u0001subjunctive\u00012s": {
+"pt": "que tu graves o nome na pedra",
+"nl": "dat jij de naam in de steen beitelt"
+},
+"meesselen\u0001subjunctive\u00013s": {
+"pt": "que ele grave o nome na pedra",
+"nl": "dat hij de naam in de steen beitelt"
+},
+"meesselen\u0001subjunctive\u00011p": {
+"pt": "que nós gravemos o nome na pedra",
+"nl": "dat wij de naam in de steen beitelen"
+},
+"meesselen\u0001subjunctive\u00012p": {
+"pt": "que vocês gravem o nome na pedra",
+"nl": "dat jullie de naam in de steen beitelen"
+},
+"meesselen\u0001subjunctive\u00013p": {
+"pt": "que eles gravem o nome na pedra",
+"nl": "dat zij de naam in de steen beitelen"
+},
+"mëffelen\u0001present\u00011s": {
+"pt": "Eu cheiro mal no carro depois do jogo.",
+"nl": "Ik stink in de auto na de wedstrijd."
+},
+"mëffelen\u0001present\u00012s": {
+"pt": "Tu cheiras mal no carro depois do jogo.",
+"nl": "Jij stinkt in de auto na de wedstrijd."
+},
+"mëffelen\u0001present\u00013s": {
+"pt": "Ele cheira mal no carro depois do jogo.",
+"nl": "Hij stinkt in de auto na de wedstrijd."
+},
+"mëffelen\u0001present\u00011p": {
+"pt": "Nós cheiramos mal no carro depois do jogo.",
+"nl": "Wij stinken in de auto na de wedstrijd."
+},
+"mëffelen\u0001present\u00012p": {
+"pt": "Vocês cheiram mal no carro depois do jogo.",
+"nl": "Jullie stinken in de auto na de wedstrijd."
+},
+"mëffelen\u0001present\u00013p": {
+"pt": "Eles cheiram mal no carro depois do jogo.",
+"nl": "Zij stinken in de auto na de wedstrijd."
+},
+"mëffelen\u0001perfect\u00011s": {
+"pt": "Eu cheirei mal no carro depois do jogo.",
+"nl": "Ik heb in de auto na de wedstrijd gestonken."
+},
+"mëffelen\u0001perfect\u00012s": {
+"pt": "Tu cheiraste mal no carro depois do jogo.",
+"nl": "Jij hebt in de auto na de wedstrijd gestonken."
+},
+"mëffelen\u0001perfect\u00013s": {
+"pt": "Ele cheirou mal no carro depois do jogo.",
+"nl": "Hij heeft in de auto na de wedstrijd gestonken."
+},
+"mëffelen\u0001perfect\u00011p": {
+"pt": "Nós cheirámos mal no carro depois do jogo.",
+"nl": "Wij hebben in de auto na de wedstrijd gestonken."
+},
+"mëffelen\u0001perfect\u00012p": {
+"pt": "Vocês cheiraram mal no carro depois do jogo.",
+"nl": "Jullie hebben in de auto na de wedstrijd gestonken."
+},
+"mëffelen\u0001perfect\u00013p": {
+"pt": "Eles cheiraram mal no carro depois do jogo.",
+"nl": "Zij hebben in de auto na de wedstrijd gestonken."
+},
+"mëffelen\u0001past\u00011s": {
+"pt": "Eu cheirei mal no carro depois do jogo.",
+"nl": "Ik stonk in de auto na de wedstrijd."
+},
+"mëffelen\u0001past\u00012s": {
+"pt": "Tu cheiraste mal no carro depois do jogo.",
+"nl": "Jij stonk in de auto na de wedstrijd."
+},
+"mëffelen\u0001past\u00013s": {
+"pt": "Ele cheirou mal no carro depois do jogo.",
+"nl": "Hij stonk in de auto na de wedstrijd."
+},
+"mëffelen\u0001past\u00011p": {
+"pt": "Nós cheirámos mal no carro depois do jogo.",
+"nl": "Wij stonken in de auto na de wedstrijd."
+},
+"mëffelen\u0001past\u00012p": {
+"pt": "Vocês cheiraram mal no carro depois do jogo.",
+"nl": "Jullie stonken in de auto na de wedstrijd."
+},
+"mëffelen\u0001past\u00013p": {
+"pt": "Eles cheiraram mal no carro depois do jogo.",
+"nl": "Zij stonken in de auto na de wedstrijd."
+},
+"mëffelen\u0001imperfect\u00011s": {
+"pt": "Eu costumava cheirar mal no carro depois do jogo.",
+"nl": "Ik stonk vroeger altijd in de auto na de wedstrijd."
+},
+"mëffelen\u0001imperfect\u00012s": {
+"pt": "Tu costumavas cheirar mal no carro depois do jogo.",
+"nl": "Jij stonk vroeger altijd in de auto na de wedstrijd."
+},
+"mëffelen\u0001imperfect\u00013s": {
+"pt": "Ele costumava cheirar mal no carro depois do jogo.",
+"nl": "Hij stonk vroeger altijd in de auto na de wedstrijd."
+},
+"mëffelen\u0001imperfect\u00011p": {
+"pt": "Nós costumávamos cheirar mal no carro depois do jogo.",
+"nl": "Wij stonken vroeger altijd in de auto na de wedstrijd."
+},
+"mëffelen\u0001imperfect\u00012p": {
+"pt": "Vocês costumavam cheirar mal no carro depois do jogo.",
+"nl": "Jullie stonken vroeger altijd in de auto na de wedstrijd."
+},
+"mëffelen\u0001imperfect\u00013p": {
+"pt": "Eles costumavam cheirar mal no carro depois do jogo.",
+"nl": "Zij stonken vroeger altijd in de auto na de wedstrijd."
+},
+"mëffelen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha cheirado mal no carro depois do jogo.",
+"nl": "Ik had in de auto na de wedstrijd gestonken."
+},
+"mëffelen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas cheirado mal no carro depois do jogo.",
+"nl": "Jij had in de auto na de wedstrijd gestonken."
+},
+"mëffelen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha cheirado mal no carro depois do jogo.",
+"nl": "Hij had in de auto na de wedstrijd gestonken."
+},
+"mëffelen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos cheirado mal no carro depois do jogo.",
+"nl": "Wij hadden in de auto na de wedstrijd gestonken."
+},
+"mëffelen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham cheirado mal no carro depois do jogo.",
+"nl": "Jullie hadden in de auto na de wedstrijd gestonken."
+},
+"mëffelen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham cheirado mal no carro depois do jogo.",
+"nl": "Zij hadden in de auto na de wedstrijd gestonken."
+},
+"mëffelen\u0001future\u00011s": {
+"pt": "Eu cheirarei mal no carro depois do jogo.",
+"nl": "Ik zal in de auto na de wedstrijd stinken."
+},
+"mëffelen\u0001future\u00012s": {
+"pt": "Tu cheirarás mal no carro depois do jogo.",
+"nl": "Jij zult in de auto na de wedstrijd stinken."
+},
+"mëffelen\u0001future\u00013s": {
+"pt": "Ele cheirará mal no carro depois do jogo.",
+"nl": "Hij zal in de auto na de wedstrijd stinken."
+},
+"mëffelen\u0001future\u00011p": {
+"pt": "Nós cheiraremos mal no carro depois do jogo.",
+"nl": "Wij zullen in de auto na de wedstrijd stinken."
+},
+"mëffelen\u0001future\u00012p": {
+"pt": "Vocês cheirarão mal no carro depois do jogo.",
+"nl": "Jullie zullen in de auto na de wedstrijd stinken."
+},
+"mëffelen\u0001future\u00013p": {
+"pt": "Eles cheirarão mal no carro depois do jogo.",
+"nl": "Zij zullen in de auto na de wedstrijd stinken."
+},
+"mëffelen\u0001conditional\u00011s": {
+"pt": "Eu cheiraria mal no carro depois do jogo.",
+"nl": "Ik zou in de auto na de wedstrijd stinken."
+},
+"mëffelen\u0001conditional\u00012s": {
+"pt": "Tu cheirarias mal no carro depois do jogo.",
+"nl": "Jij zou in de auto na de wedstrijd stinken."
+},
+"mëffelen\u0001conditional\u00013s": {
+"pt": "Ele cheiraria mal no carro depois do jogo.",
+"nl": "Hij zou in de auto na de wedstrijd stinken."
+},
+"mëffelen\u0001conditional\u00011p": {
+"pt": "Nós cheiraríamos mal no carro depois do jogo.",
+"nl": "Wij zouden in de auto na de wedstrijd stinken."
+},
+"mëffelen\u0001conditional\u00012p": {
+"pt": "Vocês cheirariam mal no carro depois do jogo.",
+"nl": "Jullie zouden in de auto na de wedstrijd stinken."
+},
+"mëffelen\u0001conditional\u00013p": {
+"pt": "Eles cheirariam mal no carro depois do jogo.",
+"nl": "Zij zouden in de auto na de wedstrijd stinken."
+},
+"mëffelen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria cheirado mal no carro depois do jogo.",
+"nl": "Ik zou in de auto na de wedstrijd hebben gestonken."
+},
+"mëffelen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias cheirado mal no carro depois do jogo.",
+"nl": "Jij zou in de auto na de wedstrijd hebben gestonken."
+},
+"mëffelen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria cheirado mal no carro depois do jogo.",
+"nl": "Hij zou in de auto na de wedstrijd hebben gestonken."
+},
+"mëffelen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos cheirado mal no carro depois do jogo.",
+"nl": "Wij zouden in de auto na de wedstrijd hebben gestonken."
+},
+"mëffelen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam cheirado mal no carro depois do jogo.",
+"nl": "Jullie zouden in de auto na de wedstrijd hebben gestonken."
+},
+"mëffelen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam cheirado mal no carro depois do jogo.",
+"nl": "Zij zouden in de auto na de wedstrijd hebben gestonken."
+},
+"mëffelen\u0001subjunctive\u00011s": {
+"pt": "que eu cheire mal no carro depois do jogo",
+"nl": "dat ik in de auto na de wedstrijd stink"
+},
+"mëffelen\u0001subjunctive\u00012s": {
+"pt": "que tu cheires mal no carro depois do jogo",
+"nl": "dat jij in de auto na de wedstrijd stinkt"
+},
+"mëffelen\u0001subjunctive\u00013s": {
+"pt": "que ele cheire mal no carro depois do jogo",
+"nl": "dat hij in de auto na de wedstrijd stinkt"
+},
+"mëffelen\u0001subjunctive\u00011p": {
+"pt": "que nós cheiremos mal no carro depois do jogo",
+"nl": "dat wij in de auto na de wedstrijd stinken"
+},
+"mëffelen\u0001subjunctive\u00012p": {
+"pt": "que vocês cheirem mal no carro depois do jogo",
+"nl": "dat jullie in de auto na de wedstrijd stinken"
+},
+"mëffelen\u0001subjunctive\u00013p": {
+"pt": "que eles cheirem mal no carro depois do jogo",
+"nl": "dat zij in de auto na de wedstrijd stinken"
+},
+"meiden\u0001present\u00011s": {
+"pt": "Eu evito a rua principal.",
+"nl": "Ik mijd de hoofdstraat."
+},
+"meiden\u0001present\u00012s": {
+"pt": "Tu evitas a rua principal.",
+"nl": "Jij mijdt de hoofdstraat."
+},
+"meiden\u0001present\u00013s": {
+"pt": "Ele evita a rua principal.",
+"nl": "Hij mijdt de hoofdstraat."
+},
+"meiden\u0001present\u00011p": {
+"pt": "Nós evitamos a rua principal.",
+"nl": "Wij mijden de hoofdstraat."
+},
+"meiden\u0001present\u00012p": {
+"pt": "Vocês evitam a rua principal.",
+"nl": "Jullie mijden de hoofdstraat."
+},
+"meiden\u0001present\u00013p": {
+"pt": "Eles evitam a rua principal.",
+"nl": "Zij mijden de hoofdstraat."
+},
+"meiden\u0001perfect\u00011s": {
+"pt": "Eu evitei a rua principal.",
+"nl": "Ik heb de hoofdstraat gemeden."
+},
+"meiden\u0001perfect\u00012s": {
+"pt": "Tu evitaste a rua principal.",
+"nl": "Jij hebt de hoofdstraat gemeden."
+},
+"meiden\u0001perfect\u00013s": {
+"pt": "Ele evitou a rua principal.",
+"nl": "Hij heeft de hoofdstraat gemeden."
+},
+"meiden\u0001perfect\u00011p": {
+"pt": "Nós evitámos a rua principal.",
+"nl": "Wij hebben de hoofdstraat gemeden."
+},
+"meiden\u0001perfect\u00012p": {
+"pt": "Vocês evitaram a rua principal.",
+"nl": "Jullie hebben de hoofdstraat gemeden."
+},
+"meiden\u0001perfect\u00013p": {
+"pt": "Eles evitaram a rua principal.",
+"nl": "Zij hebben de hoofdstraat gemeden."
+},
+"meiden\u0001past\u00011s": {
+"pt": "Eu evitei ontem a rua principal.",
+"nl": "Ik meed gisteren de hoofdstraat."
+},
+"meiden\u0001past\u00012s": {
+"pt": "Tu evitaste ontem a rua principal.",
+"nl": "Jij meed gisteren de hoofdstraat."
+},
+"meiden\u0001past\u00013s": {
+"pt": "Ele evitou ontem a rua principal.",
+"nl": "Hij meed gisteren de hoofdstraat."
+},
+"meiden\u0001past\u00011p": {
+"pt": "Nós evitámos ontem a rua principal.",
+"nl": "Wij meden gisteren de hoofdstraat."
+},
+"meiden\u0001past\u00012p": {
+"pt": "Vocês evitaram ontem a rua principal.",
+"nl": "Jullie meden gisteren de hoofdstraat."
+},
+"meiden\u0001past\u00013p": {
+"pt": "Eles evitaram ontem a rua principal.",
+"nl": "Zij meden gisteren de hoofdstraat."
+},
+"meiden\u0001imperfect\u00011s": {
+"pt": "Eu costumava evitar a rua principal.",
+"nl": "Ik meed vroeger altijd de hoofdstraat."
+},
+"meiden\u0001imperfect\u00012s": {
+"pt": "Tu costumavas evitar a rua principal.",
+"nl": "Jij meed vroeger altijd de hoofdstraat."
+},
+"meiden\u0001imperfect\u00013s": {
+"pt": "Ele costumava evitar a rua principal.",
+"nl": "Hij meed vroeger altijd de hoofdstraat."
+},
+"meiden\u0001imperfect\u00011p": {
+"pt": "Nós costumávamos evitar a rua principal.",
+"nl": "Wij meden vroeger altijd de hoofdstraat."
+},
+"meiden\u0001imperfect\u00012p": {
+"pt": "Vocês costumavam evitar a rua principal.",
+"nl": "Jullie meden vroeger altijd de hoofdstraat."
+},
+"meiden\u0001imperfect\u00013p": {
+"pt": "Eles costumavam evitar a rua principal.",
+"nl": "Zij meden vroeger altijd de hoofdstraat."
+},
+"meiden\u0001pluperfect\u00011s": {
+"pt": "Eu tinha evitado a rua principal.",
+"nl": "Ik had de hoofdstraat gemeden."
+},
+"meiden\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas evitado a rua principal.",
+"nl": "Jij had de hoofdstraat gemeden."
+},
+"meiden\u0001pluperfect\u00013s": {
+"pt": "Ele tinha evitado a rua principal.",
+"nl": "Hij had de hoofdstraat gemeden."
+},
+"meiden\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos evitado a rua principal.",
+"nl": "Wij hadden de hoofdstraat gemeden."
+},
+"meiden\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham evitado a rua principal.",
+"nl": "Jullie hadden de hoofdstraat gemeden."
+},
+"meiden\u0001pluperfect\u00013p": {
+"pt": "Eles tinham evitado a rua principal.",
+"nl": "Zij hadden de hoofdstraat gemeden."
+},
+"meiden\u0001future\u00011s": {
+"pt": "Eu evitarei a rua principal.",
+"nl": "Ik zal de hoofdstraat mijden."
+},
+"meiden\u0001future\u00012s": {
+"pt": "Tu evitarás a rua principal.",
+"nl": "Jij zult de hoofdstraat mijden."
+},
+"meiden\u0001future\u00013s": {
+"pt": "Ele evitará a rua principal.",
+"nl": "Hij zal de hoofdstraat mijden."
+},
+"meiden\u0001future\u00011p": {
+"pt": "Nós evitaremos a rua principal.",
+"nl": "Wij zullen de hoofdstraat mijden."
+},
+"meiden\u0001future\u00012p": {
+"pt": "Vocês evitarão a rua principal.",
+"nl": "Jullie zullen de hoofdstraat mijden."
+},
+"meiden\u0001future\u00013p": {
+"pt": "Eles evitarão a rua principal.",
+"nl": "Zij zullen de hoofdstraat mijden."
+},
+"meiden\u0001conditional\u00011s": {
+"pt": "Eu evitaria a rua principal.",
+"nl": "Ik zou de hoofdstraat mijden."
+},
+"meiden\u0001conditional\u00012s": {
+"pt": "Tu evitarias a rua principal.",
+"nl": "Jij zou de hoofdstraat mijden."
+},
+"meiden\u0001conditional\u00013s": {
+"pt": "Ele evitaria a rua principal.",
+"nl": "Hij zou de hoofdstraat mijden."
+},
+"meiden\u0001conditional\u00011p": {
+"pt": "Nós evitaríamos a rua principal.",
+"nl": "Wij zouden de hoofdstraat mijden."
+},
+"meiden\u0001conditional\u00012p": {
+"pt": "Vocês evitariam a rua principal.",
+"nl": "Jullie zouden de hoofdstraat mijden."
+},
+"meiden\u0001conditional\u00013p": {
+"pt": "Eles evitariam a rua principal.",
+"nl": "Zij zouden de hoofdstraat mijden."
+},
+"meiden\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria evitado a rua principal.",
+"nl": "Ik zou de hoofdstraat hebben gemeden."
+},
+"meiden\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias evitado a rua principal.",
+"nl": "Jij zou de hoofdstraat hebben gemeden."
+},
+"meiden\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria evitado a rua principal.",
+"nl": "Hij zou de hoofdstraat hebben gemeden."
+},
+"meiden\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos evitado a rua principal.",
+"nl": "Wij zouden de hoofdstraat hebben gemeden."
+},
+"meiden\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam evitado a rua principal.",
+"nl": "Jullie zouden de hoofdstraat hebben gemeden."
+},
+"meiden\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam evitado a rua principal.",
+"nl": "Zij zouden de hoofdstraat hebben gemeden."
+},
+"meiden\u0001subjunctive\u00011s": {
+"pt": "que eu evite a rua principal",
+"nl": "dat ik de hoofdstraat mijd"
+},
+"meiden\u0001subjunctive\u00012s": {
+"pt": "que tu evites a rua principal",
+"nl": "dat jij de hoofdstraat mijdt"
+},
+"meiden\u0001subjunctive\u00013s": {
+"pt": "que ele evite a rua principal",
+"nl": "dat hij de hoofdstraat mijdt"
+},
+"meiden\u0001subjunctive\u00011p": {
+"pt": "que nós evitemos a rua principal",
+"nl": "dat wij de hoofdstraat mijden"
+},
+"meiden\u0001subjunctive\u00012p": {
+"pt": "que vocês evitem a rua principal",
+"nl": "dat jullie de hoofdstraat mijden"
+},
+"meiden\u0001subjunctive\u00013p": {
+"pt": "que eles evitem a rua principal",
+"nl": "dat zij de hoofdstraat mijden"
+},
+"méien\u0001present\u00011s": {
+"pt": "Eu corto a relva no jardim.",
+"nl": "Ik maai het gras in de tuin."
+},
+"méien\u0001present\u00012s": {
+"pt": "Tu cortas a relva no jardim.",
+"nl": "Jij maait het gras in de tuin."
+},
+"méien\u0001present\u00013s": {
+"pt": "Ele corta a relva no jardim.",
+"nl": "Hij maait het gras in de tuin."
+},
+"méien\u0001present\u00011p": {
+"pt": "Nós cortamos a relva no jardim.",
+"nl": "Wij maaien het gras in de tuin."
+},
+"méien\u0001present\u00012p": {
+"pt": "Vocês cortam a relva no jardim.",
+"nl": "Jullie maaien het gras in de tuin."
+},
+"méien\u0001present\u00013p": {
+"pt": "Eles cortam a relva no jardim.",
+"nl": "Zij maaien het gras in de tuin."
+},
+"méien\u0001perfect\u00011s": {
+"pt": "Eu cortei a relva no jardim.",
+"nl": "Ik heb het gras in de tuin gemaaid."
+},
+"méien\u0001perfect\u00012s": {
+"pt": "Tu cortaste a relva no jardim.",
+"nl": "Jij hebt het gras in de tuin gemaaid."
+},
+"méien\u0001perfect\u00013s": {
+"pt": "Ele cortou a relva no jardim.",
+"nl": "Hij heeft het gras in de tuin gemaaid."
+},
+"méien\u0001perfect\u00011p": {
+"pt": "Nós cortámos a relva no jardim.",
+"nl": "Wij hebben het gras in de tuin gemaaid."
+},
+"méien\u0001perfect\u00012p": {
+"pt": "Vocês cortaram a relva no jardim.",
+"nl": "Jullie hebben het gras in de tuin gemaaid."
+},
+"méien\u0001perfect\u00013p": {
+"pt": "Eles cortaram a relva no jardim.",
+"nl": "Zij hebben het gras in de tuin gemaaid."
+},
+"méien\u0001past\u00011s": {
+"pt": "Eu cortei ontem a relva no jardim.",
+"nl": "Ik maaide gisteren het gras in de tuin."
+},
+"méien\u0001past\u00012s": {
+"pt": "Tu cortaste ontem a relva no jardim.",
+"nl": "Jij maaide gisteren het gras in de tuin."
+},
+"méien\u0001past\u00013s": {
+"pt": "Ele cortou ontem a relva no jardim.",
+"nl": "Hij maaide gisteren het gras in de tuin."
+},
+"méien\u0001past\u00011p": {
+"pt": "Nós cortámos ontem a relva no jardim.",
+"nl": "Wij maaiden gisteren het gras in de tuin."
+},
+"méien\u0001past\u00012p": {
+"pt": "Vocês cortaram ontem a relva no jardim.",
+"nl": "Jullie maaiden gisteren het gras in de tuin."
+},
+"méien\u0001past\u00013p": {
+"pt": "Eles cortaram ontem a relva no jardim.",
+"nl": "Zij maaiden gisteren het gras in de tuin."
+},
+"méien\u0001imperfect\u00011s": {
+"pt": "Eu costumava cortar a relva no jardim.",
+"nl": "Ik maaide vroeger altijd het gras in de tuin."
+},
+"méien\u0001imperfect\u00012s": {
+"pt": "Tu costumavas cortar a relva no jardim.",
+"nl": "Jij maaide vroeger altijd het gras in de tuin."
+},
+"méien\u0001imperfect\u00013s": {
+"pt": "Ele costumava cortar a relva no jardim.",
+"nl": "Hij maaide vroeger altijd het gras in de tuin."
+},
+"méien\u0001imperfect\u00011p": {
+"pt": "Nós costumávamos cortar a relva no jardim.",
+"nl": "Wij maaiden vroeger altijd het gras in de tuin."
+},
+"méien\u0001imperfect\u00012p": {
+"pt": "Vocês costumavam cortar a relva no jardim.",
+"nl": "Jullie maaiden vroeger altijd het gras in de tuin."
+},
+"méien\u0001imperfect\u00013p": {
+"pt": "Eles costumavam cortar a relva no jardim.",
+"nl": "Zij maaiden vroeger altijd het gras in de tuin."
+},
+"méien\u0001pluperfect\u00011s": {
+"pt": "Eu tinha cortado a relva no jardim.",
+"nl": "Ik had het gras in de tuin gemaaid."
+},
+"méien\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas cortado a relva no jardim.",
+"nl": "Jij had het gras in de tuin gemaaid."
+},
+"méien\u0001pluperfect\u00013s": {
+"pt": "Ele tinha cortado a relva no jardim.",
+"nl": "Hij had het gras in de tuin gemaaid."
+},
+"méien\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos cortado a relva no jardim.",
+"nl": "Wij hadden het gras in de tuin gemaaid."
+},
+"méien\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham cortado a relva no jardim.",
+"nl": "Jullie hadden het gras in de tuin gemaaid."
+},
+"méien\u0001pluperfect\u00013p": {
+"pt": "Eles tinham cortado a relva no jardim.",
+"nl": "Zij hadden het gras in de tuin gemaaid."
+},
+"méien\u0001future\u00011s": {
+"pt": "Eu cortarei a relva no jardim.",
+"nl": "Ik zal het gras in de tuin maaien."
+},
+"méien\u0001future\u00012s": {
+"pt": "Tu cortarás a relva no jardim.",
+"nl": "Jij zult het gras in de tuin maaien."
+},
+"méien\u0001future\u00013s": {
+"pt": "Ele cortará a relva no jardim.",
+"nl": "Hij zal het gras in de tuin maaien."
+},
+"méien\u0001future\u00011p": {
+"pt": "Nós cortaremos a relva no jardim.",
+"nl": "Wij zullen het gras in de tuin maaien."
+},
+"méien\u0001future\u00012p": {
+"pt": "Vocês cortarão a relva no jardim.",
+"nl": "Jullie zullen het gras in de tuin maaien."
+},
+"méien\u0001future\u00013p": {
+"pt": "Eles cortarão a relva no jardim.",
+"nl": "Zij zullen het gras in de tuin maaien."
+},
+"méien\u0001conditional\u00011s": {
+"pt": "Eu cortaria a relva no jardim.",
+"nl": "Ik zou het gras in de tuin maaien."
+},
+"méien\u0001conditional\u00012s": {
+"pt": "Tu cortarias a relva no jardim.",
+"nl": "Jij zou het gras in de tuin maaien."
+},
+"méien\u0001conditional\u00013s": {
+"pt": "Ele cortaria a relva no jardim.",
+"nl": "Hij zou het gras in de tuin maaien."
+},
+"méien\u0001conditional\u00011p": {
+"pt": "Nós cortaríamos a relva no jardim.",
+"nl": "Wij zouden het gras in de tuin maaien."
+},
+"méien\u0001conditional\u00012p": {
+"pt": "Vocês cortariam a relva no jardim.",
+"nl": "Jullie zouden het gras in de tuin maaien."
+},
+"méien\u0001conditional\u00013p": {
+"pt": "Eles cortariam a relva no jardim.",
+"nl": "Zij zouden het gras in de tuin maaien."
+},
+"méien\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria cortado a relva no jardim.",
+"nl": "Ik zou het gras in de tuin hebben gemaaid."
+},
+"méien\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias cortado a relva no jardim.",
+"nl": "Jij zou het gras in de tuin hebben gemaaid."
+},
+"méien\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria cortado a relva no jardim.",
+"nl": "Hij zou het gras in de tuin hebben gemaaid."
+},
+"méien\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos cortado a relva no jardim.",
+"nl": "Wij zouden het gras in de tuin hebben gemaaid."
+},
+"méien\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam cortado a relva no jardim.",
+"nl": "Jullie zouden het gras in de tuin hebben gemaaid."
+},
+"méien\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam cortado a relva no jardim.",
+"nl": "Zij zouden het gras in de tuin hebben gemaaid."
+},
+"méien\u0001subjunctive\u00011s": {
+"pt": "que eu corte a relva no jardim",
+"nl": "dat ik het gras in de tuin maai"
+},
+"méien\u0001subjunctive\u00012s": {
+"pt": "que tu cortes a relva no jardim",
+"nl": "dat jij het gras in de tuin maait"
+},
+"méien\u0001subjunctive\u00013s": {
+"pt": "que ele corte a relva no jardim",
+"nl": "dat hij het gras in de tuin maait"
+},
+"méien\u0001subjunctive\u00011p": {
+"pt": "que nós cortemos a relva no jardim",
+"nl": "dat wij het gras in de tuin maaien"
+},
+"méien\u0001subjunctive\u00012p": {
+"pt": "que vocês cortem a relva no jardim",
+"nl": "dat jullie het gras in de tuin maaien"
+},
+"méien\u0001subjunctive\u00013p": {
+"pt": "que eles cortem a relva no jardim",
+"nl": "dat zij het gras in de tuin maaien"
+},
+"mellen\u0001present\u00011s": {
+"pt": "Eu anuncio o atraso do comboio.",
+"nl": "Ik meld de vertraging van de trein."
+},
+"mellen\u0001present\u00012s": {
+"pt": "Tu anuncias o atraso do comboio.",
+"nl": "Jij meldt de vertraging van de trein."
+},
+"mellen\u0001present\u00013s": {
+"pt": "Ele anuncia o atraso do comboio.",
+"nl": "Hij meldt de vertraging van de trein."
+},
+"mellen\u0001present\u00011p": {
+"pt": "Nós anunciamos o atraso do comboio.",
+"nl": "Wij melden de vertraging van de trein."
+},
+"mellen\u0001present\u00012p": {
+"pt": "Vocês anunciam o atraso do comboio.",
+"nl": "Jullie melden de vertraging van de trein."
+},
+"mellen\u0001present\u00013p": {
+"pt": "Eles anunciam o atraso do comboio.",
+"nl": "Zij melden de vertraging van de trein."
+},
+"mellen\u0001perfect\u00011s": {
+"pt": "Eu anunciei o atraso do comboio.",
+"nl": "Ik heb de vertraging van de trein gemeld."
+},
+"mellen\u0001perfect\u00012s": {
+"pt": "Tu anunciaste o atraso do comboio.",
+"nl": "Jij hebt de vertraging van de trein gemeld."
+},
+"mellen\u0001perfect\u00013s": {
+"pt": "Ele anunciou o atraso do comboio.",
+"nl": "Hij heeft de vertraging van de trein gemeld."
+},
+"mellen\u0001perfect\u00011p": {
+"pt": "Nós anunciámos o atraso do comboio.",
+"nl": "Wij hebben de vertraging van de trein gemeld."
+},
+"mellen\u0001perfect\u00012p": {
+"pt": "Vocês anunciaram o atraso do comboio.",
+"nl": "Jullie hebben de vertraging van de trein gemeld."
+},
+"mellen\u0001perfect\u00013p": {
+"pt": "Eles anunciaram o atraso do comboio.",
+"nl": "Zij hebben de vertraging van de trein gemeld."
+},
+"mellen\u0001past\u00011s": {
+"pt": "Eu anunciei o atraso do comboio.",
+"nl": "Ik meldde de vertraging van de trein."
+},
+"mellen\u0001past\u00012s": {
+"pt": "Tu anunciaste o atraso do comboio.",
+"nl": "Jij meldde de vertraging van de trein."
+},
+"mellen\u0001past\u00013s": {
+"pt": "Ele anunciou o atraso do comboio.",
+"nl": "Hij meldde de vertraging van de trein."
+},
+"mellen\u0001past\u00011p": {
+"pt": "Nós anunciámos o atraso do comboio.",
+"nl": "Wij meldden de vertraging van de trein."
+},
+"mellen\u0001past\u00012p": {
+"pt": "Vocês anunciaram o atraso do comboio.",
+"nl": "Jullie meldden de vertraging van de trein."
+},
+"mellen\u0001past\u00013p": {
+"pt": "Eles anunciaram o atraso do comboio.",
+"nl": "Zij meldden de vertraging van de trein."
+},
+"mellen\u0001imperfect\u00011s": {
+"pt": "Eu estava a anunciar o atraso do comboio.",
+"nl": "Ik was de vertraging van de trein aan het melden."
+},
+"mellen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a anunciar o atraso do comboio.",
+"nl": "Jij was de vertraging van de trein aan het melden."
+},
+"mellen\u0001imperfect\u00013s": {
+"pt": "Ele estava a anunciar o atraso do comboio.",
+"nl": "Hij was de vertraging van de trein aan het melden."
+},
+"mellen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a anunciar o atraso do comboio.",
+"nl": "Wij waren de vertraging van de trein aan het melden."
+},
+"mellen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a anunciar o atraso do comboio.",
+"nl": "Jullie waren de vertraging van de trein aan het melden."
+},
+"mellen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a anunciar o atraso do comboio.",
+"nl": "Zij waren de vertraging van de trein aan het melden."
+},
+"mellen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha anunciado o atraso do comboio.",
+"nl": "Ik had de vertraging van de trein gemeld."
+},
+"mellen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas anunciado o atraso do comboio.",
+"nl": "Jij had de vertraging van de trein gemeld."
+},
+"mellen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha anunciado o atraso do comboio.",
+"nl": "Hij had de vertraging van de trein gemeld."
+},
+"mellen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos anunciado o atraso do comboio.",
+"nl": "Wij hadden de vertraging van de trein gemeld."
+},
+"mellen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham anunciado o atraso do comboio.",
+"nl": "Jullie hadden de vertraging van de trein gemeld."
+},
+"mellen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham anunciado o atraso do comboio.",
+"nl": "Zij hadden de vertraging van de trein gemeld."
+},
+"mellen\u0001future\u00011s": {
+"pt": "Eu anunciarei o atraso do comboio.",
+"nl": "Ik zal de vertraging van de trein melden."
+},
+"mellen\u0001future\u00012s": {
+"pt": "Tu anunciarás o atraso do comboio.",
+"nl": "Jij zult de vertraging van de trein melden."
+},
+"mellen\u0001future\u00013s": {
+"pt": "Ele anunciará o atraso do comboio.",
+"nl": "Hij zal de vertraging van de trein melden."
+},
+"mellen\u0001future\u00011p": {
+"pt": "Nós anunciaremos o atraso do comboio.",
+"nl": "Wij zullen de vertraging van de trein melden."
+},
+"mellen\u0001future\u00012p": {
+"pt": "Vocês anunciarão o atraso do comboio.",
+"nl": "Jullie zullen de vertraging van de trein melden."
+},
+"mellen\u0001future\u00013p": {
+"pt": "Eles anunciarão o atraso do comboio.",
+"nl": "Zij zullen de vertraging van de trein melden."
+},
+"mellen\u0001conditional\u00011s": {
+"pt": "Eu anunciaria o atraso do comboio.",
+"nl": "Ik zou de vertraging van de trein melden."
+},
+"mellen\u0001conditional\u00012s": {
+"pt": "Tu anunciarias o atraso do comboio.",
+"nl": "Jij zou de vertraging van de trein melden."
+},
+"mellen\u0001conditional\u00013s": {
+"pt": "Ele anunciaria o atraso do comboio.",
+"nl": "Hij zou de vertraging van de trein melden."
+},
+"mellen\u0001conditional\u00011p": {
+"pt": "Nós anunciaríamos o atraso do comboio.",
+"nl": "Wij zouden de vertraging van de trein melden."
+},
+"mellen\u0001conditional\u00012p": {
+"pt": "Vocês anunciariam o atraso do comboio.",
+"nl": "Jullie zouden de vertraging van de trein melden."
+},
+"mellen\u0001conditional\u00013p": {
+"pt": "Eles anunciariam o atraso do comboio.",
+"nl": "Zij zouden de vertraging van de trein melden."
+},
+"mellen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria anunciado o atraso do comboio.",
+"nl": "Ik zou de vertraging van de trein hebben gemeld."
+},
+"mellen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias anunciado o atraso do comboio.",
+"nl": "Jij zou de vertraging van de trein hebben gemeld."
+},
+"mellen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria anunciado o atraso do comboio.",
+"nl": "Hij zou de vertraging van de trein hebben gemeld."
+},
+"mellen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos anunciado o atraso do comboio.",
+"nl": "Wij zouden de vertraging van de trein hebben gemeld."
+},
+"mellen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam anunciado o atraso do comboio.",
+"nl": "Jullie zouden de vertraging van de trein hebben gemeld."
+},
+"mellen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam anunciado o atraso do comboio.",
+"nl": "Zij zouden de vertraging van de trein hebben gemeld."
+},
+"mellen\u0001subjunctive\u00011s": {
+"pt": "que eu anuncie o atraso do comboio",
+"nl": "dat ik de vertraging van de trein meld"
+},
+"mellen\u0001subjunctive\u00012s": {
+"pt": "que tu anuncies o atraso do comboio",
+"nl": "dat jij de vertraging van de trein meldt"
+},
+"mellen\u0001subjunctive\u00013s": {
+"pt": "que ele anuncie o atraso do comboio",
+"nl": "dat hij de vertraging van de trein meldt"
+},
+"mellen\u0001subjunctive\u00011p": {
+"pt": "que nós anunciemos o atraso do comboio",
+"nl": "dat wij de vertraging van de trein melden"
+},
+"mellen\u0001subjunctive\u00012p": {
+"pt": "que vocês anunciem o atraso do comboio",
+"nl": "dat jullie de vertraging van de trein melden"
+},
+"mellen\u0001subjunctive\u00013p": {
+"pt": "que eles anunciem o atraso do comboio",
+"nl": "dat zij de vertraging van de trein melden"
+},
+"menacéieren\u0001present\u00011s": {
+"pt": "Eu ameaço o vizinho com a polícia.",
+"nl": "Ik bedreig de buurman met de politie."
+},
+"menacéieren\u0001present\u00012s": {
+"pt": "Tu ameaças o vizinho com a polícia.",
+"nl": "Jij bedreigt de buurman met de politie."
+},
+"menacéieren\u0001present\u00013s": {
+"pt": "Ele ameaça o vizinho com a polícia.",
+"nl": "Hij bedreigt de buurman met de politie."
+},
+"menacéieren\u0001present\u00011p": {
+"pt": "Nós ameaçamos o vizinho com a polícia.",
+"nl": "Wij bedreigen de buurman met de politie."
+},
+"menacéieren\u0001present\u00012p": {
+"pt": "Vocês ameaçam o vizinho com a polícia.",
+"nl": "Jullie bedreigen de buurman met de politie."
+},
+"menacéieren\u0001present\u00013p": {
+"pt": "Eles ameaçam o vizinho com a polícia.",
+"nl": "Zij bedreigen de buurman met de politie."
+},
+"menacéieren\u0001perfect\u00011s": {
+"pt": "Eu ameacei o vizinho com a polícia.",
+"nl": "Ik heb de buurman met de politie bedreigd."
+},
+"menacéieren\u0001perfect\u00012s": {
+"pt": "Tu ameaçaste o vizinho com a polícia.",
+"nl": "Jij hebt de buurman met de politie bedreigd."
+},
+"menacéieren\u0001perfect\u00013s": {
+"pt": "Ele ameaçou o vizinho com a polícia.",
+"nl": "Hij heeft de buurman met de politie bedreigd."
+},
+"menacéieren\u0001perfect\u00011p": {
+"pt": "Nós ameaçámos o vizinho com a polícia.",
+"nl": "Wij hebben de buurman met de politie bedreigd."
+},
+"menacéieren\u0001perfect\u00012p": {
+"pt": "Vocês ameaçaram o vizinho com a polícia.",
+"nl": "Jullie hebben de buurman met de politie bedreigd."
+},
+"menacéieren\u0001perfect\u00013p": {
+"pt": "Eles ameaçaram o vizinho com a polícia.",
+"nl": "Zij hebben de buurman met de politie bedreigd."
+},
+"menacéieren\u0001past\u00011s": {
+"pt": "Eu ameacei o vizinho com a polícia.",
+"nl": "Ik bedreigde de buurman met de politie."
+},
+"menacéieren\u0001past\u00012s": {
+"pt": "Tu ameaçaste o vizinho com a polícia.",
+"nl": "Jij bedreigde de buurman met de politie."
+},
+"menacéieren\u0001past\u00013s": {
+"pt": "Ele ameaçou o vizinho com a polícia.",
+"nl": "Hij bedreigde de buurman met de politie."
+},
+"menacéieren\u0001past\u00011p": {
+"pt": "Nós ameaçámos o vizinho com a polícia.",
+"nl": "Wij bedreigden de buurman met de politie."
+},
+"menacéieren\u0001past\u00012p": {
+"pt": "Vocês ameaçaram o vizinho com a polícia.",
+"nl": "Jullie bedreigden de buurman met de politie."
+},
+"menacéieren\u0001past\u00013p": {
+"pt": "Eles ameaçaram o vizinho com a polícia.",
+"nl": "Zij bedreigden de buurman met de politie."
+},
+"menacéieren\u0001imperfect\u00011s": {
+"pt": "Eu estava a ameaçar o vizinho com a polícia.",
+"nl": "Ik was de buurman met de politie aan het bedreigen."
+},
+"menacéieren\u0001imperfect\u00012s": {
+"pt": "Tu estavas a ameaçar o vizinho com a polícia.",
+"nl": "Jij was de buurman met de politie aan het bedreigen."
+},
+"menacéieren\u0001imperfect\u00013s": {
+"pt": "Ele estava a ameaçar o vizinho com a polícia.",
+"nl": "Hij was de buurman met de politie aan het bedreigen."
+},
+"menacéieren\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a ameaçar o vizinho com a polícia.",
+"nl": "Wij waren de buurman met de politie aan het bedreigen."
+},
+"menacéieren\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a ameaçar o vizinho com a polícia.",
+"nl": "Jullie waren de buurman met de politie aan het bedreigen."
+},
+"menacéieren\u0001imperfect\u00013p": {
+"pt": "Eles estavam a ameaçar o vizinho com a polícia.",
+"nl": "Zij waren de buurman met de politie aan het bedreigen."
+},
+"menacéieren\u0001pluperfect\u00011s": {
+"pt": "Eu tinha ameaçado o vizinho com a polícia.",
+"nl": "Ik had de buurman met de politie bedreigd."
+},
+"menacéieren\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas ameaçado o vizinho com a polícia.",
+"nl": "Jij had de buurman met de politie bedreigd."
+},
+"menacéieren\u0001pluperfect\u00013s": {
+"pt": "Ele tinha ameaçado o vizinho com a polícia.",
+"nl": "Hij had de buurman met de politie bedreigd."
+},
+"menacéieren\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos ameaçado o vizinho com a polícia.",
+"nl": "Wij hadden de buurman met de politie bedreigd."
+},
+"menacéieren\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham ameaçado o vizinho com a polícia.",
+"nl": "Jullie hadden de buurman met de politie bedreigd."
+},
+"menacéieren\u0001pluperfect\u00013p": {
+"pt": "Eles tinham ameaçado o vizinho com a polícia.",
+"nl": "Zij hadden de buurman met de politie bedreigd."
+},
+"menacéieren\u0001future\u00011s": {
+"pt": "Eu ameaçarei o vizinho com a polícia.",
+"nl": "Ik zal de buurman met de politie bedreigen."
+},
+"menacéieren\u0001future\u00012s": {
+"pt": "Tu ameaçarás o vizinho com a polícia.",
+"nl": "Jij zult de buurman met de politie bedreigen."
+},
+"menacéieren\u0001future\u00013s": {
+"pt": "Ele ameaçará o vizinho com a polícia.",
+"nl": "Hij zal de buurman met de politie bedreigen."
+},
+"menacéieren\u0001future\u00011p": {
+"pt": "Nós ameaçaremos o vizinho com a polícia.",
+"nl": "Wij zullen de buurman met de politie bedreigen."
+},
+"menacéieren\u0001future\u00012p": {
+"pt": "Vocês ameaçarão o vizinho com a polícia.",
+"nl": "Jullie zullen de buurman met de politie bedreigen."
+},
+"menacéieren\u0001future\u00013p": {
+"pt": "Eles ameaçarão o vizinho com a polícia.",
+"nl": "Zij zullen de buurman met de politie bedreigen."
+},
+"menacéieren\u0001conditional\u00011s": {
+"pt": "Eu ameaçaria o vizinho com a polícia.",
+"nl": "Ik zou de buurman met de politie bedreigen."
+},
+"menacéieren\u0001conditional\u00012s": {
+"pt": "Tu ameaçarias o vizinho com a polícia.",
+"nl": "Jij zou de buurman met de politie bedreigen."
+},
+"menacéieren\u0001conditional\u00013s": {
+"pt": "Ele ameaçaria o vizinho com a polícia.",
+"nl": "Hij zou de buurman met de politie bedreigen."
+},
+"menacéieren\u0001conditional\u00011p": {
+"pt": "Nós ameaçaríamos o vizinho com a polícia.",
+"nl": "Wij zouden de buurman met de politie bedreigen."
+},
+"menacéieren\u0001conditional\u00012p": {
+"pt": "Vocês ameaçariam o vizinho com a polícia.",
+"nl": "Jullie zouden de buurman met de politie bedreigen."
+},
+"menacéieren\u0001conditional\u00013p": {
+"pt": "Eles ameaçariam o vizinho com a polícia.",
+"nl": "Zij zouden de buurman met de politie bedreigen."
+},
+"menacéieren\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria ameaçado o vizinho com a polícia.",
+"nl": "Ik zou de buurman met de politie hebben bedreigd."
+},
+"menacéieren\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias ameaçado o vizinho com a polícia.",
+"nl": "Jij zou de buurman met de politie hebben bedreigd."
+},
+"menacéieren\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria ameaçado o vizinho com a polícia.",
+"nl": "Hij zou de buurman met de politie hebben bedreigd."
+},
+"menacéieren\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos ameaçado o vizinho com a polícia.",
+"nl": "Wij zouden de buurman met de politie hebben bedreigd."
+},
+"menacéieren\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam ameaçado o vizinho com a polícia.",
+"nl": "Jullie zouden de buurman met de politie hebben bedreigd."
+},
+"menacéieren\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam ameaçado o vizinho com a polícia.",
+"nl": "Zij zouden de buurman met de politie hebben bedreigd."
+},
+"menacéieren\u0001subjunctive\u00011s": {
+"pt": "que eu ameace o vizinho com a polícia",
+"nl": "dat ik de buurman met de politie bedreig"
+},
+"menacéieren\u0001subjunctive\u00012s": {
+"pt": "que tu ameaces o vizinho com a polícia",
+"nl": "dat jij de buurman met de politie bedreigt"
+},
+"menacéieren\u0001subjunctive\u00013s": {
+"pt": "que ele ameace o vizinho com a polícia",
+"nl": "dat hij de buurman met de politie bedreigt"
+},
+"menacéieren\u0001subjunctive\u00011p": {
+"pt": "que nós ameacemos o vizinho com a polícia",
+"nl": "dat wij de buurman met de politie bedreigen"
+},
+"menacéieren\u0001subjunctive\u00012p": {
+"pt": "que vocês ameacem o vizinho com a polícia",
+"nl": "dat jullie de buurman met de politie bedreigen"
+},
+"menacéieren\u0001subjunctive\u00013p": {
+"pt": "que eles ameacem o vizinho com a polícia",
+"nl": "dat zij de buurman met de politie bedreigen"
+},
+"mentionéieren\u0001present\u00011s": {
+"pt": "Eu menciono o problema na reunião.",
+"nl": "Ik noem het probleem in de vergadering."
+},
+"mentionéieren\u0001present\u00012s": {
+"pt": "Tu mencionas o problema na reunião.",
+"nl": "Jij noemt het probleem in de vergadering."
+},
+"mentionéieren\u0001present\u00013s": {
+"pt": "Ele menciona o problema na reunião.",
+"nl": "Hij noemt het probleem in de vergadering."
+},
+"mentionéieren\u0001present\u00011p": {
+"pt": "Nós mencionamos o problema na reunião.",
+"nl": "Wij noemen het probleem in de vergadering."
+},
+"mentionéieren\u0001present\u00012p": {
+"pt": "Vocês mencionam o problema na reunião.",
+"nl": "Jullie noemen het probleem in de vergadering."
+},
+"mentionéieren\u0001present\u00013p": {
+"pt": "Eles mencionam o problema na reunião.",
+"nl": "Zij noemen het probleem in de vergadering."
+},
+"mentionéieren\u0001perfect\u00011s": {
+"pt": "Eu mencionei o problema na reunião.",
+"nl": "Ik heb het probleem in de vergadering genoemd."
+},
+"mentionéieren\u0001perfect\u00012s": {
+"pt": "Tu mencionaste o problema na reunião.",
+"nl": "Jij hebt het probleem in de vergadering genoemd."
+},
+"mentionéieren\u0001perfect\u00013s": {
+"pt": "Ele mencionou o problema na reunião.",
+"nl": "Hij heeft het probleem in de vergadering genoemd."
+},
+"mentionéieren\u0001perfect\u00011p": {
+"pt": "Nós mencionámos o problema na reunião.",
+"nl": "Wij hebben het probleem in de vergadering genoemd."
+},
+"mentionéieren\u0001perfect\u00012p": {
+"pt": "Vocês mencionaram o problema na reunião.",
+"nl": "Jullie hebben het probleem in de vergadering genoemd."
+},
+"mentionéieren\u0001perfect\u00013p": {
+"pt": "Eles mencionaram o problema na reunião.",
+"nl": "Zij hebben het probleem in de vergadering genoemd."
+},
+"mentionéieren\u0001past\u00011s": {
+"pt": "Eu mencionei o problema na reunião.",
+"nl": "Ik noemde het probleem in de vergadering."
+},
+"mentionéieren\u0001past\u00012s": {
+"pt": "Tu mencionaste o problema na reunião.",
+"nl": "Jij noemde het probleem in de vergadering."
+},
+"mentionéieren\u0001past\u00013s": {
+"pt": "Ele mencionou o problema na reunião.",
+"nl": "Hij noemde het probleem in de vergadering."
+},
+"mentionéieren\u0001past\u00011p": {
+"pt": "Nós mencionámos o problema na reunião.",
+"nl": "Wij noemden het probleem in de vergadering."
+},
+"mentionéieren\u0001past\u00012p": {
+"pt": "Vocês mencionaram o problema na reunião.",
+"nl": "Jullie noemden het probleem in de vergadering."
+},
+"mentionéieren\u0001past\u00013p": {
+"pt": "Eles mencionaram o problema na reunião.",
+"nl": "Zij noemden het probleem in de vergadering."
+},
+"mentionéieren\u0001imperfect\u00011s": {
+"pt": "Eu costumava mencionar o problema na reunião.",
+"nl": "Ik noemde vroeger altijd het probleem in de vergadering."
+},
+"mentionéieren\u0001imperfect\u00012s": {
+"pt": "Tu costumavas mencionar o problema na reunião.",
+"nl": "Jij noemde vroeger altijd het probleem in de vergadering."
+},
+"mentionéieren\u0001imperfect\u00013s": {
+"pt": "Ele costumava mencionar o problema na reunião.",
+"nl": "Hij noemde vroeger altijd het probleem in de vergadering."
+},
+"mentionéieren\u0001imperfect\u00011p": {
+"pt": "Nós costumávamos mencionar o problema na reunião.",
+"nl": "Wij noemden vroeger altijd het probleem in de vergadering."
+},
+"mentionéieren\u0001imperfect\u00012p": {
+"pt": "Vocês costumavam mencionar o problema na reunião.",
+"nl": "Jullie noemden vroeger altijd het probleem in de vergadering."
+},
+"mentionéieren\u0001imperfect\u00013p": {
+"pt": "Eles costumavam mencionar o problema na reunião.",
+"nl": "Zij noemden vroeger altijd het probleem in de vergadering."
+},
+"mentionéieren\u0001pluperfect\u00011s": {
+"pt": "Eu tinha mencionado o problema na reunião.",
+"nl": "Ik had het probleem in de vergadering genoemd."
+},
+"mentionéieren\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas mencionado o problema na reunião.",
+"nl": "Jij had het probleem in de vergadering genoemd."
+},
+"mentionéieren\u0001pluperfect\u00013s": {
+"pt": "Ele tinha mencionado o problema na reunião.",
+"nl": "Hij had het probleem in de vergadering genoemd."
+},
+"mentionéieren\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos mencionado o problema na reunião.",
+"nl": "Wij hadden het probleem in de vergadering genoemd."
+},
+"mentionéieren\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham mencionado o problema na reunião.",
+"nl": "Jullie hadden het probleem in de vergadering genoemd."
+},
+"mentionéieren\u0001pluperfect\u00013p": {
+"pt": "Eles tinham mencionado o problema na reunião.",
+"nl": "Zij hadden het probleem in de vergadering genoemd."
+},
+"mentionéieren\u0001future\u00011s": {
+"pt": "Eu mencionarei o problema na reunião.",
+"nl": "Ik zal het probleem in de vergadering noemen."
+},
+"mentionéieren\u0001future\u00012s": {
+"pt": "Tu mencionarás o problema na reunião.",
+"nl": "Jij zult het probleem in de vergadering noemen."
+},
+"mentionéieren\u0001future\u00013s": {
+"pt": "Ele mencionará o problema na reunião.",
+"nl": "Hij zal het probleem in de vergadering noemen."
+},
+"mentionéieren\u0001future\u00011p": {
+"pt": "Nós mencionaremos o problema na reunião.",
+"nl": "Wij zullen het probleem in de vergadering noemen."
+},
+"mentionéieren\u0001future\u00012p": {
+"pt": "Vocês mencionarão o problema na reunião.",
+"nl": "Jullie zullen het probleem in de vergadering noemen."
+},
+"mentionéieren\u0001future\u00013p": {
+"pt": "Eles mencionarão o problema na reunião.",
+"nl": "Zij zullen het probleem in de vergadering noemen."
+},
+"mentionéieren\u0001conditional\u00011s": {
+"pt": "Eu mencionaria o problema na reunião.",
+"nl": "Ik zou het probleem in de vergadering noemen."
+},
+"mentionéieren\u0001conditional\u00012s": {
+"pt": "Tu mencionarias o problema na reunião.",
+"nl": "Jij zou het probleem in de vergadering noemen."
+},
+"mentionéieren\u0001conditional\u00013s": {
+"pt": "Ele mencionaria o problema na reunião.",
+"nl": "Hij zou het probleem in de vergadering noemen."
+},
+"mentionéieren\u0001conditional\u00011p": {
+"pt": "Nós mencionaríamos o problema na reunião.",
+"nl": "Wij zouden het probleem in de vergadering noemen."
+},
+"mentionéieren\u0001conditional\u00012p": {
+"pt": "Vocês mencionariam o problema na reunião.",
+"nl": "Jullie zouden het probleem in de vergadering noemen."
+},
+"mentionéieren\u0001conditional\u00013p": {
+"pt": "Eles mencionariam o problema na reunião.",
+"nl": "Zij zouden het probleem in de vergadering noemen."
+},
+"mentionéieren\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria mencionado o problema na reunião.",
+"nl": "Ik zou het probleem in de vergadering hebben genoemd."
+},
+"mentionéieren\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias mencionado o problema na reunião.",
+"nl": "Jij zou het probleem in de vergadering hebben genoemd."
+},
+"mentionéieren\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria mencionado o problema na reunião.",
+"nl": "Hij zou het probleem in de vergadering hebben genoemd."
+},
+"mentionéieren\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos mencionado o problema na reunião.",
+"nl": "Wij zouden het probleem in de vergadering hebben genoemd."
+},
+"mentionéieren\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam mencionado o problema na reunião.",
+"nl": "Jullie zouden het probleem in de vergadering hebben genoemd."
+},
+"mentionéieren\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam mencionado o problema na reunião.",
+"nl": "Zij zouden het probleem in de vergadering hebben genoemd."
+},
+"mentionéieren\u0001subjunctive\u00011s": {
+"pt": "que eu mencione o problema na reunião",
+"nl": "dat ik het probleem in de vergadering noem"
+},
+"mentionéieren\u0001subjunctive\u00012s": {
+"pt": "que tu menciones o problema na reunião",
+"nl": "dat jij het probleem in de vergadering noemt"
+},
+"mentionéieren\u0001subjunctive\u00013s": {
+"pt": "que ele mencione o problema na reunião",
+"nl": "dat hij het probleem in de vergadering noemt"
+},
+"mentionéieren\u0001subjunctive\u00011p": {
+"pt": "que nós mencionemos o problema na reunião",
+"nl": "dat wij het probleem in de vergadering noemen"
+},
+"mentionéieren\u0001subjunctive\u00012p": {
+"pt": "que vocês mencionem o problema na reunião",
+"nl": "dat jullie het probleem in de vergadering noemen"
+},
+"mentionéieren\u0001subjunctive\u00013p": {
+"pt": "que eles mencionem o problema na reunião",
+"nl": "dat zij het probleem in de vergadering noemen"
+},
+"mengen\u0001present\u00011s": {
+"pt": "Eu acho que o teste é demasiado difícil.",
+"nl": "Ik denk dat de toets te moeilijk is."
+},
+"mengen\u0001present\u00012s": {
+"pt": "Tu achas que o teste é demasiado difícil.",
+"nl": "Jij denkt dat de toets te moeilijk is."
+},
+"mengen\u0001present\u00013s": {
+"pt": "Ele acha que o teste é demasiado difícil.",
+"nl": "Hij denkt dat de toets te moeilijk is."
+},
+"mengen\u0001present\u00011p": {
+"pt": "Nós achamos que o teste é demasiado difícil.",
+"nl": "Wij denken dat de toets te moeilijk is."
+},
+"mengen\u0001present\u00012p": {
+"pt": "Vocês acham que o teste é demasiado difícil.",
+"nl": "Jullie denken dat de toets te moeilijk is."
+},
+"mengen\u0001present\u00013p": {
+"pt": "Eles acham que o teste é demasiado difícil.",
+"nl": "Zij denken dat de toets te moeilijk is."
+},
+"mengen\u0001perfect\u00011s": {
+"pt": "Eu achei que o teste era demasiado difícil.",
+"nl": "Ik heb gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001perfect\u00012s": {
+"pt": "Tu achaste que o teste era demasiado difícil.",
+"nl": "Jij hebt gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001perfect\u00013s": {
+"pt": "Ele achou que o teste era demasiado difícil.",
+"nl": "Hij heeft gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001perfect\u00011p": {
+"pt": "Nós achámos que o teste era demasiado difícil.",
+"nl": "Wij hebben gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001perfect\u00012p": {
+"pt": "Vocês acharam que o teste era demasiado difícil.",
+"nl": "Jullie hebben gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001perfect\u00013p": {
+"pt": "Eles acharam que o teste era demasiado difícil.",
+"nl": "Zij hebben gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001past\u00011s": {
+"pt": "Eu achei que o teste era demasiado difícil.",
+"nl": "Ik dacht dat de toets te moeilijk was."
+},
+"mengen\u0001past\u00012s": {
+"pt": "Tu achaste que o teste era demasiado difícil.",
+"nl": "Jij dacht dat de toets te moeilijk was."
+},
+"mengen\u0001past\u00013s": {
+"pt": "Ele achou que o teste era demasiado difícil.",
+"nl": "Hij dacht dat de toets te moeilijk was."
+},
+"mengen\u0001past\u00011p": {
+"pt": "Nós achámos que o teste era demasiado difícil.",
+"nl": "Wij dachten dat de toets te moeilijk was."
+},
+"mengen\u0001past\u00012p": {
+"pt": "Vocês acharam que o teste era demasiado difícil.",
+"nl": "Jullie dachten dat de toets te moeilijk was."
+},
+"mengen\u0001past\u00013p": {
+"pt": "Eles acharam que o teste era demasiado difícil.",
+"nl": "Zij dachten dat de toets te moeilijk was."
+},
+"mengen\u0001imperfect\u00011s": {
+"pt": "Eu achava sempre que o teste era demasiado difícil.",
+"nl": "Ik dacht altijd dat de toets te moeilijk was."
+},
+"mengen\u0001imperfect\u00012s": {
+"pt": "Tu achavas sempre que o teste era demasiado difícil.",
+"nl": "Jij dacht altijd dat de toets te moeilijk was."
+},
+"mengen\u0001imperfect\u00013s": {
+"pt": "Ele achava sempre que o teste era demasiado difícil.",
+"nl": "Hij dacht altijd dat de toets te moeilijk was."
+},
+"mengen\u0001imperfect\u00011p": {
+"pt": "Nós achávamos sempre que o teste era demasiado difícil.",
+"nl": "Wij dachten altijd dat de toets te moeilijk was."
+},
+"mengen\u0001imperfect\u00012p": {
+"pt": "Vocês achavam sempre que o teste era demasiado difícil.",
+"nl": "Jullie dachten altijd dat de toets te moeilijk was."
+},
+"mengen\u0001imperfect\u00013p": {
+"pt": "Eles achavam sempre que o teste era demasiado difícil.",
+"nl": "Zij dachten altijd dat de toets te moeilijk was."
+},
+"mengen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha achado que o teste era demasiado difícil.",
+"nl": "Ik had gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas achado que o teste era demasiado difícil.",
+"nl": "Jij had gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha achado que o teste era demasiado difícil.",
+"nl": "Hij had gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos achado que o teste era demasiado difícil.",
+"nl": "Wij hadden gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham achado que o teste era demasiado difícil.",
+"nl": "Jullie hadden gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham achado que o teste era demasiado difícil.",
+"nl": "Zij hadden gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001future\u00011s": {
+"pt": "Eu acharei que o teste é demasiado difícil.",
+"nl": "Ik zal denken dat de toets te moeilijk is."
+},
+"mengen\u0001future\u00012s": {
+"pt": "Tu acharás que o teste é demasiado difícil.",
+"nl": "Jij zult denken dat de toets te moeilijk is."
+},
+"mengen\u0001future\u00013s": {
+"pt": "Ele achará que o teste é demasiado difícil.",
+"nl": "Hij zal denken dat de toets te moeilijk is."
+},
+"mengen\u0001future\u00011p": {
+"pt": "Nós acharemos que o teste é demasiado difícil.",
+"nl": "Wij zullen denken dat de toets te moeilijk is."
+},
+"mengen\u0001future\u00012p": {
+"pt": "Vocês acharão que o teste é demasiado difícil.",
+"nl": "Jullie zullen denken dat de toets te moeilijk is."
+},
+"mengen\u0001future\u00013p": {
+"pt": "Eles acharão que o teste é demasiado difícil.",
+"nl": "Zij zullen denken dat de toets te moeilijk is."
+},
+"mengen\u0001conditional\u00011s": {
+"pt": "Eu acharia que o teste é demasiado difícil.",
+"nl": "Ik zou denken dat de toets te moeilijk is."
+},
+"mengen\u0001conditional\u00012s": {
+"pt": "Tu acharias que o teste é demasiado difícil.",
+"nl": "Jij zou denken dat de toets te moeilijk is."
+},
+"mengen\u0001conditional\u00013s": {
+"pt": "Ele acharia que o teste é demasiado difícil.",
+"nl": "Hij zou denken dat de toets te moeilijk is."
+},
+"mengen\u0001conditional\u00011p": {
+"pt": "Nós acharíamos que o teste é demasiado difícil.",
+"nl": "Wij zouden denken dat de toets te moeilijk is."
+},
+"mengen\u0001conditional\u00012p": {
+"pt": "Vocês achariam que o teste é demasiado difícil.",
+"nl": "Jullie zouden denken dat de toets te moeilijk is."
+},
+"mengen\u0001conditional\u00013p": {
+"pt": "Eles achariam que o teste é demasiado difícil.",
+"nl": "Zij zouden denken dat de toets te moeilijk is."
+},
+"mengen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria achado que o teste era demasiado difícil.",
+"nl": "Ik zou hebben gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias achado que o teste era demasiado difícil.",
+"nl": "Jij zou hebben gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria achado que o teste era demasiado difícil.",
+"nl": "Hij zou hebben gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos achado que o teste era demasiado difícil.",
+"nl": "Wij zouden hebben gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam achado que o teste era demasiado difícil.",
+"nl": "Jullie zouden hebben gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam achado que o teste era demasiado difícil.",
+"nl": "Zij zouden hebben gedacht dat de toets te moeilijk was."
+},
+"mengen\u0001subjunctive\u00011s": {
+"pt": "que eu ache que o teste é demasiado difícil",
+"nl": "dat ik denk dat de toets te moeilijk is"
+},
+"mengen\u0001subjunctive\u00012s": {
+"pt": "que tu aches que o teste é demasiado difícil",
+"nl": "dat jij denk dat de toets te moeilijk is"
+},
+"mengen\u0001subjunctive\u00013s": {
+"pt": "que ele ache que o teste é demasiado difícil",
+"nl": "dat hij denk dat de toets te moeilijk is"
+},
+"mengen\u0001subjunctive\u00011p": {
+"pt": "que nós achemos que o teste é demasiado difícil",
+"nl": "dat wij denk dat de toets te moeilijk is"
+},
+"mengen\u0001subjunctive\u00012p": {
+"pt": "que vocês achem que o teste é demasiado difícil",
+"nl": "dat jullie denk dat de toets te moeilijk is"
+},
+"mengen\u0001subjunctive\u00013p": {
+"pt": "que eles achem que o teste é demasiado difícil",
+"nl": "dat zij denk dat de toets te moeilijk is"
+},
+"mëschen\u0001present\u00011s": {
+"pt": "Eu misturo a tinta no balde.",
+"nl": "Ik meng de verf in de emmer."
+},
+"mëschen\u0001present\u00012s": {
+"pt": "Tu misturas a tinta no balde.",
+"nl": "Jij mengt de verf in de emmer."
+},
+"mëschen\u0001present\u00013s": {
+"pt": "Ele mistura a tinta no balde.",
+"nl": "Hij mengt de verf in de emmer."
+},
+"mëschen\u0001present\u00011p": {
+"pt": "Nós misturamos a tinta no balde.",
+"nl": "Wij mengen de verf in de emmer."
+},
+"mëschen\u0001present\u00012p": {
+"pt": "Vocês misturam a tinta no balde.",
+"nl": "Jullie mengen de verf in de emmer."
+},
+"mëschen\u0001present\u00013p": {
+"pt": "Eles misturam a tinta no balde.",
+"nl": "Zij mengen de verf in de emmer."
+},
+"mëschen\u0001perfect\u00011s": {
+"pt": "Eu misturei a tinta no balde.",
+"nl": "Ik heb de verf in de emmer gemengd."
+},
+"mëschen\u0001perfect\u00012s": {
+"pt": "Tu misturaste a tinta no balde.",
+"nl": "Jij hebt de verf in de emmer gemengd."
+},
+"mëschen\u0001perfect\u00013s": {
+"pt": "Ele misturou a tinta no balde.",
+"nl": "Hij heeft de verf in de emmer gemengd."
+},
+"mëschen\u0001perfect\u00011p": {
+"pt": "Nós misturámos a tinta no balde.",
+"nl": "Wij hebben de verf in de emmer gemengd."
+},
+"mëschen\u0001perfect\u00012p": {
+"pt": "Vocês misturaram a tinta no balde.",
+"nl": "Jullie hebben de verf in de emmer gemengd."
+},
+"mëschen\u0001perfect\u00013p": {
+"pt": "Eles misturaram a tinta no balde.",
+"nl": "Zij hebben de verf in de emmer gemengd."
+},
+"mëschen\u0001past\u00011s": {
+"pt": "Eu misturei a tinta no balde.",
+"nl": "Ik mengde de verf in de emmer."
+},
+"mëschen\u0001past\u00012s": {
+"pt": "Tu misturaste a tinta no balde.",
+"nl": "Jij mengde de verf in de emmer."
+},
+"mëschen\u0001past\u00013s": {
+"pt": "Ele misturou a tinta no balde.",
+"nl": "Hij mengde de verf in de emmer."
+},
+"mëschen\u0001past\u00011p": {
+"pt": "Nós misturámos a tinta no balde.",
+"nl": "Wij mengden de verf in de emmer."
+},
+"mëschen\u0001past\u00012p": {
+"pt": "Vocês misturaram a tinta no balde.",
+"nl": "Jullie mengden de verf in de emmer."
+},
+"mëschen\u0001past\u00013p": {
+"pt": "Eles misturaram a tinta no balde.",
+"nl": "Zij mengden de verf in de emmer."
+},
+"mëschen\u0001imperfect\u00011s": {
+"pt": "Eu estava a misturar a tinta no balde.",
+"nl": "Ik was de verf in de emmer aan het mengen."
+},
+"mëschen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a misturar a tinta no balde.",
+"nl": "Jij was de verf in de emmer aan het mengen."
+},
+"mëschen\u0001imperfect\u00013s": {
+"pt": "Ele estava a misturar a tinta no balde.",
+"nl": "Hij was de verf in de emmer aan het mengen."
+},
+"mëschen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a misturar a tinta no balde.",
+"nl": "Wij waren de verf in de emmer aan het mengen."
+},
+"mëschen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a misturar a tinta no balde.",
+"nl": "Jullie waren de verf in de emmer aan het mengen."
+},
+"mëschen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a misturar a tinta no balde.",
+"nl": "Zij waren de verf in de emmer aan het mengen."
+},
+"mëschen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha misturado a tinta no balde.",
+"nl": "Ik had de verf in de emmer gemengd."
+},
+"mëschen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas misturado a tinta no balde.",
+"nl": "Jij had de verf in de emmer gemengd."
+},
+"mëschen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha misturado a tinta no balde.",
+"nl": "Hij had de verf in de emmer gemengd."
+},
+"mëschen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos misturado a tinta no balde.",
+"nl": "Wij hadden de verf in de emmer gemengd."
+},
+"mëschen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham misturado a tinta no balde.",
+"nl": "Jullie hadden de verf in de emmer gemengd."
+},
+"mëschen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham misturado a tinta no balde.",
+"nl": "Zij hadden de verf in de emmer gemengd."
+},
+"mëschen\u0001future\u00011s": {
+"pt": "Eu misturarei a tinta no balde.",
+"nl": "Ik zal de verf in de emmer mengen."
+},
+"mëschen\u0001future\u00012s": {
+"pt": "Tu misturarás a tinta no balde.",
+"nl": "Jij zult de verf in de emmer mengen."
+},
+"mëschen\u0001future\u00013s": {
+"pt": "Ele misturará a tinta no balde.",
+"nl": "Hij zal de verf in de emmer mengen."
+},
+"mëschen\u0001future\u00011p": {
+"pt": "Nós misturaremos a tinta no balde.",
+"nl": "Wij zullen de verf in de emmer mengen."
+},
+"mëschen\u0001future\u00012p": {
+"pt": "Vocês misturarão a tinta no balde.",
+"nl": "Jullie zullen de verf in de emmer mengen."
+},
+"mëschen\u0001future\u00013p": {
+"pt": "Eles misturarão a tinta no balde.",
+"nl": "Zij zullen de verf in de emmer mengen."
+},
+"mëschen\u0001conditional\u00011s": {
+"pt": "Eu misturaria a tinta no balde.",
+"nl": "Ik zou de verf in de emmer mengen."
+},
+"mëschen\u0001conditional\u00012s": {
+"pt": "Tu misturarias a tinta no balde.",
+"nl": "Jij zou de verf in de emmer mengen."
+},
+"mëschen\u0001conditional\u00013s": {
+"pt": "Ele misturaria a tinta no balde.",
+"nl": "Hij zou de verf in de emmer mengen."
+},
+"mëschen\u0001conditional\u00011p": {
+"pt": "Nós misturaríamos a tinta no balde.",
+"nl": "Wij zouden de verf in de emmer mengen."
+},
+"mëschen\u0001conditional\u00012p": {
+"pt": "Vocês misturariam a tinta no balde.",
+"nl": "Jullie zouden de verf in de emmer mengen."
+},
+"mëschen\u0001conditional\u00013p": {
+"pt": "Eles misturariam a tinta no balde.",
+"nl": "Zij zouden de verf in de emmer mengen."
+},
+"mëschen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria misturado a tinta no balde.",
+"nl": "Ik zou de verf in de emmer hebben gemengd."
+},
+"mëschen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias misturado a tinta no balde.",
+"nl": "Jij zou de verf in de emmer hebben gemengd."
+},
+"mëschen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria misturado a tinta no balde.",
+"nl": "Hij zou de verf in de emmer hebben gemengd."
+},
+"mëschen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos misturado a tinta no balde.",
+"nl": "Wij zouden de verf in de emmer hebben gemengd."
+},
+"mëschen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam misturado a tinta no balde.",
+"nl": "Jullie zouden de verf in de emmer hebben gemengd."
+},
+"mëschen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam misturado a tinta no balde.",
+"nl": "Zij zouden de verf in de emmer hebben gemengd."
+},
+"mëschen\u0001subjunctive\u00011s": {
+"pt": "que eu misture a tinta no balde",
+"nl": "dat ik de verf in de emmer meng"
+},
+"mëschen\u0001subjunctive\u00012s": {
+"pt": "que tu mistures a tinta no balde",
+"nl": "dat jij de verf in de emmer mengt"
+},
+"mëschen\u0001subjunctive\u00013s": {
+"pt": "que ele misture a tinta no balde",
+"nl": "dat hij de verf in de emmer mengt"
+},
+"mëschen\u0001subjunctive\u00011p": {
+"pt": "que nós misturemos a tinta no balde",
+"nl": "dat wij de verf in de emmer mengen"
+},
+"mëschen\u0001subjunctive\u00012p": {
+"pt": "que vocês misturem a tinta no balde",
+"nl": "dat jullie de verf in de emmer mengen"
+},
+"mëschen\u0001subjunctive\u00013p": {
+"pt": "que eles misturem a tinta no balde",
+"nl": "dat zij de verf in de emmer mengen"
+},
+"mëschten\u0001present\u00011s": {
+"pt": "Eu limpo a estrebaria.",
+"nl": "Ik mest de paardenstal uit."
+},
+"mëschten\u0001present\u00012s": {
+"pt": "Tu limpas a estrebaria.",
+"nl": "Jij mest de paardenstal uit."
+},
+"mëschten\u0001present\u00013s": {
+"pt": "Ele limpa a estrebaria.",
+"nl": "Hij mest de paardenstal uit."
+},
+"mëschten\u0001present\u00011p": {
+"pt": "Nós limpamos a estrebaria.",
+"nl": "Wij mesten de paardenstal uit."
+},
+"mëschten\u0001present\u00012p": {
+"pt": "Vocês limpam a estrebaria.",
+"nl": "Jullie mesten de paardenstal uit."
+},
+"mëschten\u0001present\u00013p": {
+"pt": "Eles limpam a estrebaria.",
+"nl": "Zij mesten de paardenstal uit."
+},
+"mëschten\u0001perfect\u00011s": {
+"pt": "Eu limpei a estrebaria.",
+"nl": "Ik heb de paardenstal uitgemest."
+},
+"mëschten\u0001perfect\u00012s": {
+"pt": "Tu limpaste a estrebaria.",
+"nl": "Jij hebt de paardenstal uitgemest."
+},
+"mëschten\u0001perfect\u00013s": {
+"pt": "Ele limpou a estrebaria.",
+"nl": "Hij heeft de paardenstal uitgemest."
+},
+"mëschten\u0001perfect\u00011p": {
+"pt": "Nós limpámos a estrebaria.",
+"nl": "Wij hebben de paardenstal uitgemest."
+},
+"mëschten\u0001perfect\u00012p": {
+"pt": "Vocês limparam a estrebaria.",
+"nl": "Jullie hebben de paardenstal uitgemest."
+},
+"mëschten\u0001perfect\u00013p": {
+"pt": "Eles limparam a estrebaria.",
+"nl": "Zij hebben de paardenstal uitgemest."
+},
+"mëschten\u0001past\u00011s": {
+"pt": "Eu limpei a estrebaria.",
+"nl": "Ik mestte de paardenstal uit."
+},
+"mëschten\u0001past\u00012s": {
+"pt": "Tu limpaste a estrebaria.",
+"nl": "Jij mestte de paardenstal uit."
+},
+"mëschten\u0001past\u00013s": {
+"pt": "Ele limpou a estrebaria.",
+"nl": "Hij mestte de paardenstal uit."
+},
+"mëschten\u0001past\u00011p": {
+"pt": "Nós limpámos a estrebaria.",
+"nl": "Wij mestten de paardenstal uit."
+},
+"mëschten\u0001past\u00012p": {
+"pt": "Vocês limparam a estrebaria.",
+"nl": "Jullie mestten de paardenstal uit."
+},
+"mëschten\u0001past\u00013p": {
+"pt": "Eles limparam a estrebaria.",
+"nl": "Zij mestten de paardenstal uit."
+},
+"mëschten\u0001imperfect\u00011s": {
+"pt": "Eu estava a limpar a estrebaria.",
+"nl": "Ik was de paardenstal aan het uitmesten."
+},
+"mëschten\u0001imperfect\u00012s": {
+"pt": "Tu estavas a limpar a estrebaria.",
+"nl": "Jij was de paardenstal aan het uitmesten."
+},
+"mëschten\u0001imperfect\u00013s": {
+"pt": "Ele estava a limpar a estrebaria.",
+"nl": "Hij was de paardenstal aan het uitmesten."
+},
+"mëschten\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a limpar a estrebaria.",
+"nl": "Wij waren de paardenstal aan het uitmesten."
+},
+"mëschten\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a limpar a estrebaria.",
+"nl": "Jullie waren de paardenstal aan het uitmesten."
+},
+"mëschten\u0001imperfect\u00013p": {
+"pt": "Eles estavam a limpar a estrebaria.",
+"nl": "Zij waren de paardenstal aan het uitmesten."
+},
+"mëschten\u0001pluperfect\u00011s": {
+"pt": "Eu tinha limpado a estrebaria.",
+"nl": "Ik had de paardenstal uitgemest."
+},
+"mëschten\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas limpado a estrebaria.",
+"nl": "Jij had de paardenstal uitgemest."
+},
+"mëschten\u0001pluperfect\u00013s": {
+"pt": "Ele tinha limpado a estrebaria.",
+"nl": "Hij had de paardenstal uitgemest."
+},
+"mëschten\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos limpado a estrebaria.",
+"nl": "Wij hadden de paardenstal uitgemest."
+},
+"mëschten\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham limpado a estrebaria.",
+"nl": "Jullie hadden de paardenstal uitgemest."
+},
+"mëschten\u0001pluperfect\u00013p": {
+"pt": "Eles tinham limpado a estrebaria.",
+"nl": "Zij hadden de paardenstal uitgemest."
+},
+"mëschten\u0001future\u00011s": {
+"pt": "Eu limparei a estrebaria.",
+"nl": "Ik zal de paardenstal uitmesten."
+},
+"mëschten\u0001future\u00012s": {
+"pt": "Tu limparás a estrebaria.",
+"nl": "Jij zult de paardenstal uitmesten."
+},
+"mëschten\u0001future\u00013s": {
+"pt": "Ele limpará a estrebaria.",
+"nl": "Hij zal de paardenstal uitmesten."
+},
+"mëschten\u0001future\u00011p": {
+"pt": "Nós limparemos a estrebaria.",
+"nl": "Wij zullen de paardenstal uitmesten."
+},
+"mëschten\u0001future\u00012p": {
+"pt": "Vocês limparão a estrebaria.",
+"nl": "Jullie zullen de paardenstal uitmesten."
+},
+"mëschten\u0001future\u00013p": {
+"pt": "Eles limparão a estrebaria.",
+"nl": "Zij zullen de paardenstal uitmesten."
+},
+"mëschten\u0001conditional\u00011s": {
+"pt": "Eu limparia a estrebaria.",
+"nl": "Ik zou de paardenstal uitmesten."
+},
+"mëschten\u0001conditional\u00012s": {
+"pt": "Tu limparias a estrebaria.",
+"nl": "Jij zou de paardenstal uitmesten."
+},
+"mëschten\u0001conditional\u00013s": {
+"pt": "Ele limparia a estrebaria.",
+"nl": "Hij zou de paardenstal uitmesten."
+},
+"mëschten\u0001conditional\u00011p": {
+"pt": "Nós limparíamos a estrebaria.",
+"nl": "Wij zouden de paardenstal uitmesten."
+},
+"mëschten\u0001conditional\u00012p": {
+"pt": "Vocês limpariam a estrebaria.",
+"nl": "Jullie zouden de paardenstal uitmesten."
+},
+"mëschten\u0001conditional\u00013p": {
+"pt": "Eles limpariam a estrebaria.",
+"nl": "Zij zouden de paardenstal uitmesten."
+},
+"mëschten\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria limpado a estrebaria.",
+"nl": "Ik zou de paardenstal hebben uitgemest."
+},
+"mëschten\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias limpado a estrebaria.",
+"nl": "Jij zou de paardenstal hebben uitgemest."
+},
+"mëschten\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria limpado a estrebaria.",
+"nl": "Hij zou de paardenstal hebben uitgemest."
+},
+"mëschten\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos limpado a estrebaria.",
+"nl": "Wij zouden de paardenstal hebben uitgemest."
+},
+"mëschten\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam limpado a estrebaria.",
+"nl": "Jullie zouden de paardenstal hebben uitgemest."
+},
+"mëschten\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam limpado a estrebaria.",
+"nl": "Zij zouden de paardenstal hebben uitgemest."
+},
+"mëschten\u0001subjunctive\u00011s": {
+"pt": "que eu limpe a estrebaria",
+"nl": "dat ik de paardenstal uitmest"
+},
+"mëschten\u0001subjunctive\u00012s": {
+"pt": "que tu limpes a estrebaria",
+"nl": "dat jij de paardenstal uitmest"
+},
+"mëschten\u0001subjunctive\u00013s": {
+"pt": "que ele limpe a estrebaria",
+"nl": "dat hij de paardenstal uitmest"
+},
+"mëschten\u0001subjunctive\u00011p": {
+"pt": "que nós limpemos a estrebaria",
+"nl": "dat wij de paardenstal uitmesten"
+},
+"mëschten\u0001subjunctive\u00012p": {
+"pt": "que vocês limpem a estrebaria",
+"nl": "dat jullie de paardenstal uitmesten"
+},
+"mëschten\u0001subjunctive\u00013p": {
+"pt": "que eles limpem a estrebaria",
+"nl": "dat zij de paardenstal uitmesten"
+},
+"mëssbrauchen\u0001present\u00011s": {
+"pt": "Eu uso a impressora do escritório.",
+"nl": "Ik misbruik de kantoorprinter."
+},
+"mëssbrauchen\u0001present\u00012s": {
+"pt": "Tu usas a impressora do escritório.",
+"nl": "Jij misbruikt de kantoorprinter."
+},
+"mëssbrauchen\u0001present\u00013s": {
+"pt": "Ele usa a impressora do escritório.",
+"nl": "Hij misbruikt de kantoorprinter."
+},
+"mëssbrauchen\u0001present\u00011p": {
+"pt": "Nós usamos a impressora do escritório.",
+"nl": "Wij misbruiken de kantoorprinter."
+},
+"mëssbrauchen\u0001present\u00012p": {
+"pt": "Vocês usam a impressora do escritório.",
+"nl": "Jullie misbruiken de kantoorprinter."
+},
+"mëssbrauchen\u0001present\u00013p": {
+"pt": "Eles usam a impressora do escritório.",
+"nl": "Zij misbruiken de kantoorprinter."
+},
+"mëssbrauchen\u0001perfect\u00011s": {
+"pt": "Eu usei a impressora do escritório.",
+"nl": "Ik heb de kantoorprinter misbruikt."
+},
+"mëssbrauchen\u0001perfect\u00012s": {
+"pt": "Tu usaste a impressora do escritório.",
+"nl": "Jij hebt de kantoorprinter misbruikt."
+},
+"mëssbrauchen\u0001perfect\u00013s": {
+"pt": "Ele usou a impressora do escritório.",
+"nl": "Hij heeft de kantoorprinter misbruikt."
+},
+"mëssbrauchen\u0001perfect\u00011p": {
+"pt": "Nós usámos a impressora do escritório.",
+"nl": "Wij hebben de kantoorprinter misbruikt."
+},
+"mëssbrauchen\u0001perfect\u00012p": {
+"pt": "Vocês usaram a impressora do escritório.",
+"nl": "Jullie hebben de kantoorprinter misbruikt."
+},
+"mëssbrauchen\u0001perfect\u00013p": {
+"pt": "Eles usaram a impressora do escritório.",
+"nl": "Zij hebben de kantoorprinter misbruikt."
+},
+"mëssbrauchen\u0001past\u00011s": {
+"pt": "Eu usei a impressora do escritório.",
+"nl": "Ik misbruikte de kantoorprinter."
+},
+"mëssbrauchen\u0001past\u00012s": {
+"pt": "Tu usaste a impressora do escritório.",
+"nl": "Jij misbruikte de kantoorprinter."
+},
+"mëssbrauchen\u0001past\u00013s": {
+"pt": "Ele usou a impressora do escritório.",
+"nl": "Hij misbruikte de kantoorprinter."
+},
+"mëssbrauchen\u0001past\u00011p": {
+"pt": "Nós usámos a impressora do escritório.",
+"nl": "Wij misbruikten de kantoorprinter."
+},
+"mëssbrauchen\u0001past\u00012p": {
+"pt": "Vocês usaram a impressora do escritório.",
+"nl": "Jullie misbruikten de kantoorprinter."
+},
+"mëssbrauchen\u0001past\u00013p": {
+"pt": "Eles usaram a impressora do escritório.",
+"nl": "Zij misbruikten de kantoorprinter."
+},
+"mëssbrauchen\u0001imperfect\u00011s": {
+"pt": "Eu costumava usar a impressora do escritório.",
+"nl": "Ik misbruikte vroeger altijd de kantoorprinter."
+},
+"mëssbrauchen\u0001imperfect\u00012s": {
+"pt": "Tu costumavas usar a impressora do escritório.",
+"nl": "Jij misbruikte vroeger altijd de kantoorprinter."
+},
+"mëssbrauchen\u0001imperfect\u00013s": {
+"pt": "Ele costumava usar a impressora do escritório.",
+"nl": "Hij misbruikte vroeger altijd de kantoorprinter."
+},
+"mëssbrauchen\u0001imperfect\u00011p": {
+"pt": "Nós costumávamos usar a impressora do escritório.",
+"nl": "Wij misbruikten vroeger altijd de kantoorprinter."
+},
+"mëssbrauchen\u0001imperfect\u00012p": {
+"pt": "Vocês costumavam usar a impressora do escritório.",
+"nl": "Jullie misbruikten vroeger altijd de kantoorprinter."
+},
+"mëssbrauchen\u0001imperfect\u00013p": {
+"pt": "Eles costumavam usar a impressora do escritório.",
+"nl": "Zij misbruikten vroeger altijd de kantoorprinter."
+},
+"mëssbrauchen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha usado a impressora do escritório.",
+"nl": "Ik had de kantoorprinter misbruikt."
+},
+"mëssbrauchen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas usado a impressora do escritório.",
+"nl": "Jij had de kantoorprinter misbruikt."
+},
+"mëssbrauchen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha usado a impressora do escritório.",
+"nl": "Hij had de kantoorprinter misbruikt."
+},
+"mëssbrauchen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos usado a impressora do escritório.",
+"nl": "Wij hadden de kantoorprinter misbruikt."
+},
+"mëssbrauchen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham usado a impressora do escritório.",
+"nl": "Jullie hadden de kantoorprinter misbruikt."
+},
+"mëssbrauchen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham usado a impressora do escritório.",
+"nl": "Zij hadden de kantoorprinter misbruikt."
+},
+"mëssbrauchen\u0001future\u00011s": {
+"pt": "Eu usarei a impressora do escritório.",
+"nl": "Ik zal de kantoorprinter misbruiken."
+},
+"mëssbrauchen\u0001future\u00012s": {
+"pt": "Tu usarás a impressora do escritório.",
+"nl": "Jij zult de kantoorprinter misbruiken."
+},
+"mëssbrauchen\u0001future\u00013s": {
+"pt": "Ele usará a impressora do escritório.",
+"nl": "Hij zal de kantoorprinter misbruiken."
+},
+"mëssbrauchen\u0001future\u00011p": {
+"pt": "Nós usaremos a impressora do escritório.",
+"nl": "Wij zullen de kantoorprinter misbruiken."
+},
+"mëssbrauchen\u0001future\u00012p": {
+"pt": "Vocês usarão a impressora do escritório.",
+"nl": "Jullie zullen de kantoorprinter misbruiken."
+},
+"mëssbrauchen\u0001future\u00013p": {
+"pt": "Eles usarão a impressora do escritório.",
+"nl": "Zij zullen de kantoorprinter misbruiken."
+},
+"mëssbrauchen\u0001conditional\u00011s": {
+"pt": "Eu usaria a impressora do escritório.",
+"nl": "Ik zou de kantoorprinter misbruiken."
+},
+"mëssbrauchen\u0001conditional\u00012s": {
+"pt": "Tu usarias a impressora do escritório.",
+"nl": "Jij zou de kantoorprinter misbruiken."
+},
+"mëssbrauchen\u0001conditional\u00013s": {
+"pt": "Ele usaria a impressora do escritório.",
+"nl": "Hij zou de kantoorprinter misbruiken."
+},
+"mëssbrauchen\u0001conditional\u00011p": {
+"pt": "Nós usaríamos a impressora do escritório.",
+"nl": "Wij zouden de kantoorprinter misbruiken."
+},
+"mëssbrauchen\u0001conditional\u00012p": {
+"pt": "Vocês usariam a impressora do escritório.",
+"nl": "Jullie zouden de kantoorprinter misbruiken."
+},
+"mëssbrauchen\u0001conditional\u00013p": {
+"pt": "Eles usariam a impressora do escritório.",
+"nl": "Zij zouden de kantoorprinter misbruiken."
+},
+"mëssbrauchen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria usado a impressora do escritório.",
+"nl": "Ik zou de kantoorprinter hebben misbruikt."
+},
+"mëssbrauchen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias usado a impressora do escritório.",
+"nl": "Jij zou de kantoorprinter hebben misbruikt."
+},
+"mëssbrauchen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria usado a impressora do escritório.",
+"nl": "Hij zou de kantoorprinter hebben misbruikt."
+},
+"mëssbrauchen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos usado a impressora do escritório.",
+"nl": "Wij zouden de kantoorprinter hebben misbruikt."
+},
+"mëssbrauchen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam usado a impressora do escritório.",
+"nl": "Jullie zouden de kantoorprinter hebben misbruikt."
+},
+"mëssbrauchen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam usado a impressora do escritório.",
+"nl": "Zij zouden de kantoorprinter hebben misbruikt."
+},
+"mëssbrauchen\u0001subjunctive\u00011s": {
+"pt": "que eu use a impressora do escritório",
+"nl": "dat ik de kantoorprinter misbruik"
+},
+"mëssbrauchen\u0001subjunctive\u00012s": {
+"pt": "que tu uses a impressora do escritório",
+"nl": "dat jij de kantoorprinter misbruikt"
+},
+"mëssbrauchen\u0001subjunctive\u00013s": {
+"pt": "que ele use a impressora do escritório",
+"nl": "dat hij de kantoorprinter misbruikt"
+},
+"mëssbrauchen\u0001subjunctive\u00011p": {
+"pt": "que nós usemos a impressora do escritório",
+"nl": "dat wij de kantoorprinter misbruiken"
+},
+"mëssbrauchen\u0001subjunctive\u00012p": {
+"pt": "que vocês usem a impressora do escritório",
+"nl": "dat jullie de kantoorprinter misbruiken"
+},
+"mëssbrauchen\u0001subjunctive\u00013p": {
+"pt": "que eles usem a impressora do escritório",
+"nl": "dat zij de kantoorprinter misbruiken"
+},
+"mëssen\u0001present\u00011s": {
+"pt": "Eu tenho saudades do jardim velho.",
+"nl": "Ik vermis de oude tuin."
+},
+"mëssen\u0001present\u00012s": {
+"pt": "Tu tens saudades do jardim velho.",
+"nl": "Jij vermist de oude tuin."
+},
+"mëssen\u0001present\u00013s": {
+"pt": "Ele tem saudades do jardim velho.",
+"nl": "Hij vermist de oude tuin."
+},
+"mëssen\u0001present\u00011p": {
+"pt": "Nós temos saudades do jardim velho.",
+"nl": "Wij vermissen de oude tuin."
+},
+"mëssen\u0001present\u00012p": {
+"pt": "Vocês têm saudades do jardim velho.",
+"nl": "Jullie vermissen de oude tuin."
+},
+"mëssen\u0001present\u00013p": {
+"pt": "Eles têm saudades do jardim velho.",
+"nl": "Zij vermissen de oude tuin."
+},
+"mëssen\u0001perfect\u00011s": {
+"pt": "Eu tive saudades do jardim velho.",
+"nl": "Ik heb de oude tuin vermist."
+},
+"mëssen\u0001perfect\u00012s": {
+"pt": "Tu tiveste saudades do jardim velho.",
+"nl": "Jij hebt de oude tuin vermist."
+},
+"mëssen\u0001perfect\u00013s": {
+"pt": "Ele teve saudades do jardim velho.",
+"nl": "Hij heeft de oude tuin vermist."
+},
+"mëssen\u0001perfect\u00011p": {
+"pt": "Nós tivemos saudades do jardim velho.",
+"nl": "Wij hebben de oude tuin vermist."
+},
+"mëssen\u0001perfect\u00012p": {
+"pt": "Vocês tiveram saudades do jardim velho.",
+"nl": "Jullie hebben de oude tuin vermist."
+},
+"mëssen\u0001perfect\u00013p": {
+"pt": "Eles tiveram saudades do jardim velho.",
+"nl": "Zij hebben de oude tuin vermist."
+},
+"mëssen\u0001past\u00011s": {
+"pt": "Eu tive saudades do jardim velho.",
+"nl": "Ik vermiste de oude tuin."
+},
+"mëssen\u0001past\u00012s": {
+"pt": "Tu tiveste saudades do jardim velho.",
+"nl": "Jij vermiste de oude tuin."
+},
+"mëssen\u0001past\u00013s": {
+"pt": "Ele teve saudades do jardim velho.",
+"nl": "Hij vermiste de oude tuin."
+},
+"mëssen\u0001past\u00011p": {
+"pt": "Nós tivemos saudades do jardim velho.",
+"nl": "Wij vermisten de oude tuin."
+},
+"mëssen\u0001past\u00012p": {
+"pt": "Vocês tiveram saudades do jardim velho.",
+"nl": "Jullie vermisten de oude tuin."
+},
+"mëssen\u0001past\u00013p": {
+"pt": "Eles tiveram saudades do jardim velho.",
+"nl": "Zij vermisten de oude tuin."
+},
+"mëssen\u0001imperfect\u00011s": {
+"pt": "Eu costumava ter saudades do jardim velho.",
+"nl": "Ik vermiste altijd de oude tuin."
+},
+"mëssen\u0001imperfect\u00012s": {
+"pt": "Tu costumavas ter saudades do jardim velho.",
+"nl": "Jij vermiste altijd de oude tuin."
+},
+"mëssen\u0001imperfect\u00013s": {
+"pt": "Ele costumava ter saudades do jardim velho.",
+"nl": "Hij vermiste altijd de oude tuin."
+},
+"mëssen\u0001imperfect\u00011p": {
+"pt": "Nós costumávamos ter saudades do jardim velho.",
+"nl": "Wij vermisten altijd de oude tuin."
+},
+"mëssen\u0001imperfect\u00012p": {
+"pt": "Vocês costumavam ter saudades do jardim velho.",
+"nl": "Jullie vermisten altijd de oude tuin."
+},
+"mëssen\u0001imperfect\u00013p": {
+"pt": "Eles costumavam ter saudades do jardim velho.",
+"nl": "Zij vermisten altijd de oude tuin."
+},
+"mëssen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha tido saudades do jardim velho.",
+"nl": "Ik had de oude tuin vermist."
+},
+"mëssen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas tido saudades do jardim velho.",
+"nl": "Jij had de oude tuin vermist."
+},
+"mëssen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha tido saudades do jardim velho.",
+"nl": "Hij had de oude tuin vermist."
+},
+"mëssen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos tido saudades do jardim velho.",
+"nl": "Wij hadden de oude tuin vermist."
+},
+"mëssen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham tido saudades do jardim velho.",
+"nl": "Jullie hadden de oude tuin vermist."
+},
+"mëssen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham tido saudades do jardim velho.",
+"nl": "Zij hadden de oude tuin vermist."
+},
+"mëssen\u0001future\u00011s": {
+"pt": "Eu terei saudades do jardim velho.",
+"nl": "Ik zal de oude tuin vermissen."
+},
+"mëssen\u0001future\u00012s": {
+"pt": "Tu terás saudades do jardim velho.",
+"nl": "Jij zult de oude tuin vermissen."
+},
+"mëssen\u0001future\u00013s": {
+"pt": "Ele terá saudades do jardim velho.",
+"nl": "Hij zal de oude tuin vermissen."
+},
+"mëssen\u0001future\u00011p": {
+"pt": "Nós teremos saudades do jardim velho.",
+"nl": "Wij zullen de oude tuin vermissen."
+},
+"mëssen\u0001future\u00012p": {
+"pt": "Vocês terão saudades do jardim velho.",
+"nl": "Jullie zullen de oude tuin vermissen."
+},
+"mëssen\u0001future\u00013p": {
+"pt": "Eles terão saudades do jardim velho.",
+"nl": "Zij zullen de oude tuin vermissen."
+},
+"mëssen\u0001conditional\u00011s": {
+"pt": "Eu teria saudades do jardim velho.",
+"nl": "Ik zou de oude tuin vermissen."
+},
+"mëssen\u0001conditional\u00012s": {
+"pt": "Tu terias saudades do jardim velho.",
+"nl": "Jij zou de oude tuin vermissen."
+},
+"mëssen\u0001conditional\u00013s": {
+"pt": "Ele teria saudades do jardim velho.",
+"nl": "Hij zou de oude tuin vermissen."
+},
+"mëssen\u0001conditional\u00011p": {
+"pt": "Nós teríamos saudades do jardim velho.",
+"nl": "Wij zouden de oude tuin vermissen."
+},
+"mëssen\u0001conditional\u00012p": {
+"pt": "Vocês teriam saudades do jardim velho.",
+"nl": "Jullie zouden de oude tuin vermissen."
+},
+"mëssen\u0001conditional\u00013p": {
+"pt": "Eles teriam saudades do jardim velho.",
+"nl": "Zij zouden de oude tuin vermissen."
+},
+"mëssen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria tido saudades do jardim velho.",
+"nl": "Ik zou de oude tuin hebben vermist."
+},
+"mëssen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias tido saudades do jardim velho.",
+"nl": "Jij zou de oude tuin hebben vermist."
+},
+"mëssen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria tido saudades do jardim velho.",
+"nl": "Hij zou de oude tuin hebben vermist."
+},
+"mëssen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos tido saudades do jardim velho.",
+"nl": "Wij zouden de oude tuin hebben vermist."
+},
+"mëssen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam tido saudades do jardim velho.",
+"nl": "Jullie zouden de oude tuin hebben vermist."
+},
+"mëssen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam tido saudades do jardim velho.",
+"nl": "Zij zouden de oude tuin hebben vermist."
+},
+"mëssen\u0001subjunctive\u00011s": {
+"pt": "que eu tenha saudades do jardim velho",
+"nl": "dat ik de oude tuin vermis"
+},
+"mëssen\u0001subjunctive\u00012s": {
+"pt": "que tu tenhas saudades do jardim velho",
+"nl": "dat jij de oude tuin vermist"
+},
+"mëssen\u0001subjunctive\u00013s": {
+"pt": "que ele tenha saudades do jardim velho",
+"nl": "dat hij de oude tuin vermist"
+},
+"mëssen\u0001subjunctive\u00011p": {
+"pt": "que nós tenhamos saudades do jardim velho",
+"nl": "dat wij de oude tuin vermissen"
+},
+"mëssen\u0001subjunctive\u00012p": {
+"pt": "que vocês tenham saudades do jardim velho",
+"nl": "dat jullie de oude tuin vermissen"
+},
+"mëssen\u0001subjunctive\u00013p": {
+"pt": "que eles tenham saudades do jardim velho",
+"nl": "dat zij de oude tuin vermissen"
+},
+"mësshandelen\u0001present\u00011s": {
+"pt": "Eu maltrato o cão",
+"nl": "Ik mishandel de hond"
+},
+"mësshandelen\u0001present\u00012s": {
+"pt": "Tu maltratas o cão",
+"nl": "Jij mishandelt de hond"
+},
+"mësshandelen\u0001present\u00013s": {
+"pt": "Ele maltrata o cão",
+"nl": "Hij mishandelt de hond"
+},
+"mësshandelen\u0001present\u00011p": {
+"pt": "Nós maltratamos o cão",
+"nl": "Wij mishandelen de hond"
+},
+"mësshandelen\u0001present\u00012p": {
+"pt": "Vocês maltratam o cão",
+"nl": "Jullie mishandelen de hond"
+},
+"mësshandelen\u0001present\u00013p": {
+"pt": "Eles maltratam o cão",
+"nl": "Zij mishandelen de hond"
+},
+"mësshandelen\u0001perfect\u00011s": {
+"pt": "Eu maltratei o cão",
+"nl": "Ik heb de hond mishandeld"
+},
+"mësshandelen\u0001perfect\u00012s": {
+"pt": "Tu maltrataste o cão",
+"nl": "Jij hebt de hond mishandeld"
+},
+"mësshandelen\u0001perfect\u00013s": {
+"pt": "Ele maltratou o cão",
+"nl": "Hij heeft de hond mishandeld"
+},
+"mësshandelen\u0001perfect\u00011p": {
+"pt": "Nós maltratámos o cão",
+"nl": "Wij hebben de hond mishandeld"
+},
+"mësshandelen\u0001perfect\u00012p": {
+"pt": "Vocês maltrataram o cão",
+"nl": "Jullie hebben de hond mishandeld"
+},
+"mësshandelen\u0001perfect\u00013p": {
+"pt": "Eles maltrataram o cão",
+"nl": "Zij hebben de hond mishandeld"
+},
+"mësshandelen\u0001past\u00011s": {
+"pt": "Eu maltratei o cão",
+"nl": "Ik mishandelde de hond"
+},
+"mësshandelen\u0001past\u00012s": {
+"pt": "Tu maltrataste o cão",
+"nl": "Jij mishandelde de hond"
+},
+"mësshandelen\u0001past\u00013s": {
+"pt": "Ele maltratou o cão",
+"nl": "Hij mishandelde de hond"
+},
+"mësshandelen\u0001past\u00011p": {
+"pt": "Nós maltratámos o cão",
+"nl": "Wij mishandelden de hond"
+},
+"mësshandelen\u0001past\u00012p": {
+"pt": "Vocês maltrataram o cão",
+"nl": "Jullie mishandelden de hond"
+},
+"mësshandelen\u0001past\u00013p": {
+"pt": "Eles maltrataram o cão",
+"nl": "Zij mishandelden de hond"
+},
+"mësshandelen\u0001imperfect\u00011s": {
+"pt": "Eu estava a maltratar o cão",
+"nl": "Ik was de hond aan het mishandelen"
+},
+"mësshandelen\u0001imperfect\u00012s": {
+"pt": "Tu estavas a maltratar o cão",
+"nl": "Jij was de hond aan het mishandelen"
+},
+"mësshandelen\u0001imperfect\u00013s": {
+"pt": "Ele estava a maltratar o cão",
+"nl": "Hij was de hond aan het mishandelen"
+},
+"mësshandelen\u0001imperfect\u00011p": {
+"pt": "Nós estávamos a maltratar o cão",
+"nl": "Wij waren de hond aan het mishandelen"
+},
+"mësshandelen\u0001imperfect\u00012p": {
+"pt": "Vocês estavam a maltratar o cão",
+"nl": "Jullie waren de hond aan het mishandelen"
+},
+"mësshandelen\u0001imperfect\u00013p": {
+"pt": "Eles estavam a maltratar o cão",
+"nl": "Zij waren de hond aan het mishandelen"
+},
+"mësshandelen\u0001pluperfect\u00011s": {
+"pt": "Eu tinha maltratado o cão",
+"nl": "Ik had de hond mishandeld"
+},
+"mësshandelen\u0001pluperfect\u00012s": {
+"pt": "Tu tinhas maltratado o cão",
+"nl": "Jij had de hond mishandeld"
+},
+"mësshandelen\u0001pluperfect\u00013s": {
+"pt": "Ele tinha maltratado o cão",
+"nl": "Hij had de hond mishandeld"
+},
+"mësshandelen\u0001pluperfect\u00011p": {
+"pt": "Nós tínhamos maltratado o cão",
+"nl": "Wij hadden de hond mishandeld"
+},
+"mësshandelen\u0001pluperfect\u00012p": {
+"pt": "Vocês tinham maltratado o cão",
+"nl": "Jullie hadden de hond mishandeld"
+},
+"mësshandelen\u0001pluperfect\u00013p": {
+"pt": "Eles tinham maltratado o cão",
+"nl": "Zij hadden de hond mishandeld"
+},
+"mësshandelen\u0001future\u00011s": {
+"pt": "Eu maltratarei o cão",
+"nl": "Ik zal de hond mishandelen"
+},
+"mësshandelen\u0001future\u00012s": {
+"pt": "Tu maltratarás o cão",
+"nl": "Jij zult de hond mishandelen"
+},
+"mësshandelen\u0001future\u00013s": {
+"pt": "Ele maltratará o cão",
+"nl": "Hij zal de hond mishandelen"
+},
+"mësshandelen\u0001future\u00011p": {
+"pt": "Nós maltrataremos o cão",
+"nl": "Wij zullen de hond mishandelen"
+},
+"mësshandelen\u0001future\u00012p": {
+"pt": "Vocês maltratarão o cão",
+"nl": "Jullie zullen de hond mishandelen"
+},
+"mësshandelen\u0001future\u00013p": {
+"pt": "Eles maltratarão o cão",
+"nl": "Zij zullen de hond mishandelen"
+},
+"mësshandelen\u0001conditional\u00011s": {
+"pt": "Eu maltrataria o cão",
+"nl": "Ik zou de hond mishandelen"
+},
+"mësshandelen\u0001conditional\u00012s": {
+"pt": "Tu maltratarias o cão",
+"nl": "Jij zou de hond mishandelen"
+},
+"mësshandelen\u0001conditional\u00013s": {
+"pt": "Ele maltrataria o cão",
+"nl": "Hij zou de hond mishandelen"
+},
+"mësshandelen\u0001conditional\u00011p": {
+"pt": "Nós maltrataríamos o cão",
+"nl": "Wij zouden de hond mishandelen"
+},
+"mësshandelen\u0001conditional\u00012p": {
+"pt": "Vocês maltratariam o cão",
+"nl": "Jullie zouden de hond mishandelen"
+},
+"mësshandelen\u0001conditional\u00013p": {
+"pt": "Eles maltratariam o cão",
+"nl": "Zij zouden de hond mishandelen"
+},
+"mësshandelen\u0001conditional_perfect\u00011s": {
+"pt": "Eu teria maltratado o cão",
+"nl": "Ik zou de hond hebben mishandeld"
+},
+"mësshandelen\u0001conditional_perfect\u00012s": {
+"pt": "Tu terias maltratado o cão",
+"nl": "Jij zou de hond hebben mishandeld"
+},
+"mësshandelen\u0001conditional_perfect\u00013s": {
+"pt": "Ele teria maltratado o cão",
+"nl": "Hij zou de hond hebben mishandeld"
+},
+"mësshandelen\u0001conditional_perfect\u00011p": {
+"pt": "Nós teríamos maltratado o cão",
+"nl": "Wij zouden de hond hebben mishandeld"
+},
+"mësshandelen\u0001conditional_perfect\u00012p": {
+"pt": "Vocês teriam maltratado o cão",
+"nl": "Jullie zouden de hond hebben mishandeld"
+},
+"mësshandelen\u0001conditional_perfect\u00013p": {
+"pt": "Eles teriam maltratado o cão",
+"nl": "Zij zouden de hond hebben mishandeld"
+},
+"mësshandelen\u0001subjunctive\u00011s": {
+"pt": "que eu maltrate o cão",
+"nl": "dat ik de hond mishandel"
+},
+"mësshandelen\u0001subjunctive\u00012s": {
+"pt": "que tu maltrates o cão",
+"nl": "dat jij de hond mishandelt"
+},
+"mësshandelen\u0001subjunctive\u00013s": {
+"pt": "que ele maltrate o cão",
+"nl": "dat hij de hond mishandelt"
+},
+"mësshandelen\u0001subjunctive\u00011p": {
+"pt": "que nós maltratemos o cão",
+"nl": "dat wij de hond mishandelen"
+},
+"mësshandelen\u0001subjunctive\u00012p": {
+"pt": "que vocês maltratem o cão",
+"nl": "dat jullie de hond mishandelen"
+},
+"mësshandelen\u0001subjunctive\u00013p": {
+"pt": "que eles maltratem o cão",
+"nl": "dat zij de hond mishandelen"
 }
 }
