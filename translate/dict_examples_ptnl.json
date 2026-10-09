@@ -141298,5 +141298,905 @@
 "onbegräiflech\u00010\u00010": {
 "pt": "A tua decisão é-me incompreensível",
 "nl": "Je beslissing is voor mij onbegrijpelijk"
+},
+"onbegräiflech\u00010\u00011": {
+"pt": "É inconcebível como uma empresa tão séria pôde falir",
+"nl": "Het is onbegrijpelijk hoe zo'n degelijk bedrijf failliet kon gaan"
+},
+"onbegrënnt\u00010\u00010": {
+"pt": "As tuas dúvidas são infundadas",
+"nl": "Je twijfels zijn ongegrond"
+},
+"onbegrënnt\u00010\u00011": {
+"pt": "A criança tem um medo infundado de monstros marinhos",
+"nl": "Dat kind heeft een ongegronde angst voor zeemonsters"
+},
+"onbegrenzt\u00010\u00010": {
+"pt": "A nossa Terra não tem recursos ilimitados",
+"nl": "Onze aarde heeft geen onbegrensde hulpbronnen"
+},
+"onbegrenzt\u00010\u00011": {
+"pt": "Duvido que seja a terra das possibilidades ilimitadas",
+"nl": "Ik betwijfel of het het land van de onbegrensde mogelijkheden is"
+},
+"onbegrenzt\u00010\u00012": {
+"pt": "Poder-se-ia pensar que o oceano se estende sem limites",
+"nl": "Men zou denken dat de oceaan zich onbegrensd uitstrekt"
+},
+"onbehollef\u00010\u00010": {
+"pt": "Na costura sou muito desajeitada",
+"nl": "Met naaien ben ik erg onhandig"
+},
+"onbehollef\u00010\u00011": {
+"pt": "Quem se atira às coisas de forma tão desajeitada como tu não pode ter êxito",
+"nl": "Als je het zo onhandig aanpakt als jij, kun je niet slagen"
+},
+"onbekannt\u00010\u00010": {
+"pt": "A obra desse escritor é-me totalmente desconhecida",
+"nl": "Het werk van die schrijver is mij totaal onbekend"
+},
+"onbeléift\u00010\u00010": {
+"pt": "Esse político é tão impopular que quase não teve votos",
+"nl": "Die politicus is zo impopulair dat hij bijna geen stemmen kreeg"
+},
+"onbeléift\u00010\u00011": {
+"pt": "Com a tua arrogância, tornas-te impopular em todo o lado",
+"nl": "Met je hoogmoed maak je je overal onbemind"
+},
+"onbemierkt\u00010\u00010": {
+"pt": "O carteirista desapareceu sem ser notado no meio da multidão",
+"nl": "De zakkenroller verdween ongemerkt in de menigte"
+},
+"onbemierkt\u00010\u00011": {
+"pt": "No intervalo do jogo em casa, saímos sem ninguém notar",
+"nl": "In de rust van de thuiswedstrijd slopen we ongemerkt naar buiten"
+},
+"onbenotzt\u00010\u00010": {
+"pt": "Os talheres estiveram anos por usar na gaveta",
+"nl": "Het bestek lag jarenlang ongebruikt in de la"
+},
+"onbequeem\u00010\u00010": {
+"pt": "Que cadeiras tão desconfortáveis têm vocês aqui!",
+"nl": "Wat hebben jullie hier een oncomfortabele stoelen!"
+},
+"onbequeem\u00010\u00011": {
+"pt": "Como se está mal sentado aqui!",
+"nl": "Wat zit je hier oncomfortabel!"
+},
+"onbequeem\u00011\u00010": {
+"pt": "Ele é uma pessoa incómoda",
+"nl": "Hij is een lastig mens"
+},
+"onbequeem\u00011\u00011": {
+"pt": "O jornalista fez ao ministro uma série de perguntas incómodas",
+"nl": "De journalist stelde de minister een reeks ongemakkelijke vragen"
+},
+"onberechenbar\u00010\u00010": {
+"pt": "Em abril o tempo é muitas vezes imprevisível",
+"nl": "In april is het weer vaak onberekenbaar"
+},
+"onberechenbar\u00010\u00011": {
+"pt": "Aquele tipo é imprevisível, nunca se sabe como vai reagir",
+"nl": "Die kerel is onberekenbaar, je weet nooit hoe hij zal reageren"
+},
+"onbeschreiflech\u00010\u00010": {
+"pt": "Tinha um medo indescritível de que te acontecesse alguma coisa",
+"nl": "Ik had een onbeschrijflijke angst dat jou iets zou overkomen"
+},
+"onbeschreiflech\u00010\u00011": {
+"pt": "Desta montanha, a vista é indescritivelmente bela",
+"nl": "Vanaf deze berg is het uitzicht onbeschrijflijk mooi"
+},
+"onbeschreiflech\u00010\u00012": {
+"pt": "Tenho um número incrível de livros",
+"nl": "Ik heb een onvoorstelbaar aantal boeken"
+},
+"onbeschwéiert\u00010\u00010": {
+"pt": "Ainda hoje gosto de recordar a minha infância despreocupada",
+"nl": "Ik denk vandaag nog graag terug aan mijn onbezorgde kindertijd"
+},
+"onbeschwéiert\u00010\u00011": {
+"pt": "Numa zona de coexistência, deve poder deixar-se as crianças brincar despreocupadamente",
+"nl": "In een woonerf moet men de kinderen onbezorgd kunnen laten spelen"
+},
+"onbestänneg\u00010\u00010": {
+"pt": "O tempo está instável, leva antes um guarda-chuva!",
+"nl": "Het weer is wisselvallig, neem liever een paraplu mee!"
+},
+"onbestänneg\u00010\u00011": {
+"pt": "Ele tem um carácter instável",
+"nl": "Hij heeft een onstandvastig karakter"
+},
+"onbestëmmt\u00010\u00010": {
+"pt": "Esta rua está cortada por tempo indeterminado",
+"nl": "Deze straat is voor onbepaalde tijd afgesloten"
+},
+"onbestëmmt\u00011\u00010": {
+"pt": "Den é um artigo definido, en é um artigo indefinido",
+"nl": "Den is een bepaald lidwoord, en is een onbepaald lidwoord"
+},
+"onbestridden\u00010\u00010": {
+"pt": "É um facto incontestado que o tabaco faz mal à saúde",
+"nl": "Het is een onbetwist feit dat tabak slecht is voor de gezondheid"
+},
+"onbestuet\u00010\u00010": {
+"pt": "As pessoas casadas estão num escalão de impostos diferente do das solteiras",
+"nl": "Gehuwden vallen in een andere belastingschijf dan ongehuwden"
+},
+"onbeweeglech\u00010\u00010": {
+"pt": "Um torno é composto por uma parte móvel e outra imóvel",
+"nl": "Een bankschroef bestaat uit een beweegbaar en een onbeweeglijk deel"
+},
+"onbewosst\u00010\u00010": {
+"pt": "Com um gesto inconsciente, traiu-se",
+"nl": "Door een onbewust gebaar verried hij zich"
+},
+"onbewosst\u00010\u00011": {
+"pt": "A respiração acontece de forma inconsciente",
+"nl": "Ademhalen gebeurt onbewust"
+},
+"onbewunnt\u00010\u00010": {
+"pt": "Aquela casa está desabitada há mais de dez anos",
+"nl": "Dat huis staat al meer dan tien jaar onbewoond"
+},
+"onbewunnt\u00010\u00011": {
+"pt": "Esta ilha desabitada é uma reserva natural",
+"nl": "Dit onbewoonde eiland is een natuurreservaat"
+},
+"onbezuelt\u00010\u00010": {
+"pt": "Tenho uma pilha de faturas por pagar na gaveta",
+"nl": "Ik heb een hele stapel onbetaalde rekeningen in de la liggen"
+},
+"onbezuelt\u00011\u00010": {
+"pt": "Um dos meus colegas de trabalho pediu licença sem vencimento para viajar à volta do mundo",
+"nl": "Een van mijn collega's nam onbetaald verlof om de wereld rond te reizen"
+},
+"ondäitlech\u00010\u00010": {
+"pt": "Ainda tens uma letra ilegível",
+"nl": "Je hebt nog steeds een onduidelijk handschrift"
+},
+"ondäitlech\u00010\u00011": {
+"pt": "Fala de forma tão pouco clara que quase não se percebe",
+"nl": "Hij praat zo onduidelijk dat je hem bijna niet verstaat"
+},
+"ondankbar\u00010\u00010": {
+"pt": "Não sejas tão ingrato e egoísta!",
+"nl": "Wees toch niet zo ondankbaar en egoïstisch!"
+},
+"ondankbar\u00011\u00010": {
+"pt": "Calhou-me a ingrata tarefa de lavar a alface",
+"nl": "Ik kreeg het ondankbare karwei om de sla schoon te maken"
+},
+"ondankbar\u00011\u00011": {
+"pt": "A nossa equipa ficou num ingrato quarto lugar",
+"nl": "Onze ploeg eindigde op een ondankbare vierde plaats"
+},
+"ondefinéierbar\u00010\u00010": {
+"pt": "Durante a noite, fui acordado por um barulho indefinível",
+"nl": "'s Nachts werd ik gewekt door een niet te omschrijven geluid"
+},
+"ondefinéierbar\u00010\u00011": {
+"pt": "De sobremesa houve um pedaço de bolo com um creme indefinível",
+"nl": "Als dessert was er een stuk taart met een ondefinieerbare crème"
+},
+"ondeklinéierbar\u00010\u00010": {
+"pt": "Em luxemburguês há uma série de adjetivos indeclináveis",
+"nl": "In het Luxemburgs zijn er een aantal onverbuigbare adjectieven"
+},
+"ondenkbar\u00010\u00010": {
+"pt": "Um telefone sem fio era impensável há 50 anos",
+"nl": "Een telefoon zonder snoer was vijftig jaar geleden ondenkbaar"
+},
+"ondicht\u00010\u00010": {
+"pt": "O cano do esgoto foi substituído porque tinha fugas",
+"nl": "De buis van de afvoer werd vervangen omdat hij lekte"
+},
+"ondicht\u00010\u00011": {
+"pt": "Quando começou a chover, notámos que a nossa tenda tinha fugas",
+"nl": "Toen het begon te regenen, merkten we dat onze tent lekte"
+},
+"ondiplomatesch\u00010\u00010": {
+"pt": "Com as suas declarações pouco diplomáticas, o presidente pode prejudicar o país",
+"nl": "Met zijn ondiplomatieke uitspraken zou de president het land kunnen schaden"
+},
+"ondiplomatesch\u00010\u00011": {
+"pt": "Comportaste-te de forma bastante pouco diplomática neste assunto",
+"nl": "Je hebt je in deze zaak behoorlijk ondiplomatiek gedragen"
+},
+"onduerchsiichteg\u00010\u00010": {
+"pt": "Precisamos de cortinas opacas para a casa de banho",
+"nl": "We hebben ondoorzichtige gordijnen nodig voor de badkamer"
+},
+"onduerchsiichteg\u00011\u00010": {
+"pt": "No tribunal está a ser tratado de momento um caso obscuro",
+"nl": "Bij de rechtbank wordt momenteel een ondoorzichtige zaak behandeld"
+},
+"onduerchsiichteg\u00011\u00011": {
+"pt": "São conhecidos por trabalharem com métodos pouco transparentes",
+"nl": "Ze staan erom bekend met ondoorzichtige methoden te werken"
+},
+"ondugen\u00010\u00010": {
+"pt": "Por mais difíceis que os nossos filhos sejam em casa, tão bem comportados são em casa dos outros",
+"nl": "Zo onhandelbaar als onze kinderen thuis zijn, zo braaf zijn ze bij andere mensen"
+},
+"ondugen\u00010\u00011": {
+"pt": "Não sejas tão teimoso e comporta-te!",
+"nl": "Wees niet zo ongehoorzaam en gedraag je eens!"
+},
+"ondugen\u00011\u00010": {
+"pt": "Naquela madeira há alguns nós rebeldes",
+"nl": "In dat hout zitten een paar weerbarstige knopen"
+},
+"ondugen\u00011\u00011": {
+"pt": "É difícil cavar aquele solo rebelde",
+"nl": "Het is moeilijk om die weerbarstige grond om te spitten"
+},
+"ondugen\u00011\u00012": {
+"pt": "A cabeleireira teve muita dificuldade em pôr em forma o meu cabelo rebelde",
+"nl": "De kapster had alle moeite om mijn weerbarstige haar in model te krijgen"
+},
+"Ondugend\u00010\u00010": {
+"pt": "A impertinência é um dos seus muitos defeitos",
+"nl": "De brutaliteit is een van zijn vele ondeugden"
+},
+"onecht\u00010\u00010": {
+"pt": "Como tenho alergia ao níquel, não suporto muita bijuteria falsa",
+"nl": "Omdat ik een nikkelallergie heb, kan ik veel namaakjuwelen niet verdragen"
+},
+"oneens\u00010\u00010": {
+"pt": "Ainda não estamos de acordo sobre onde ir de férias",
+"nl": "We zijn het nog altijd oneens over waar we op vakantie gaan"
+},
+"onéierlech\u00010\u00010": {
+"pt": "Nas férias fomos enganados por um taxista desonesto",
+"nl": "Tijdens de vakantie werden we opgelicht door een oneerlijke taxichauffeur"
+},
+"Onéierlechkeet\u00010\u00010": {
+"pt": "A tua desonestidade desiludiu-me profundamente",
+"nl": "Je oneerlijkheid heeft me bitter teleurgesteld"
+},
+"onëmgänglech\u00010\u00010": {
+"pt": "Para manter o orçamento equilibrado, certas medidas de poupança são inevitáveis",
+"nl": "Om het budget in evenwicht te houden, zijn bepaalde besparingsmaatregelen onvermijdelijk"
+},
+"onempfindlech\u00010\u00010": {
+"pt": "O sol não me incomoda muito, tenho uma pele muito pouco sensível",
+"nl": "De zon doet me niet veel, ik heb een heel ongevoelige huid"
+},
+"onempfindlech\u00010\u00011": {
+"pt": "As plantas do terraço são insensíveis ao frio",
+"nl": "De planten op het terras zijn ongevoelig voor de kou"
+},
+"onendlech\u00010\u00010": {
+"pt": "O horizonte parece infinito",
+"nl": "De horizon lijkt oneindig"
+},
+"onendlech\u00010\u00011": {
+"pt": "Contigo é preciso ter uma paciência infinita!",
+"nl": "Met jou moet men oneindig veel geduld hebben!"
+},
+"onendlech\u00010\u00012": {
+"pt": "A discussão interminável não levou a nenhum resultado",
+"nl": "De eindeloze discussie leidde tot geen enkel resultaat"
+},
+"onendlech\u00010\u00013": {
+"pt": "O orador falou infinitamente tempo",
+"nl": "De spreker sprak oneindig lang"
+},
+"onendlech\u00010\u00014": {
+"pt": "A palestra durou uma eternidade",
+"nl": "De lezing duurde tot in het oneindige"
+},
+"Onendlechkeet\u00010\u00010": {
+"pt": "Há teorias que põem em causa a infinitude do universo",
+"nl": "Er zijn theorieën die de oneindigheid van het universum in twijfel trekken"
+},
+"One-Night-Stand\u00010\u00010": {
+"pt": "Antes da minha relação atual, tive uma ou outra aventura de uma noite",
+"nl": "Voor mijn huidige relatie had ik wel eens een one-night-stand"
+},
+"onentschëllegt\u00010\u00010": {
+"pt": "O aluno apanhou uma retenção devido a uma série de faltas injustificadas",
+"nl": "De leerling kreeg nablijven wegens een reeks onverschoonde afwezigheden"
+},
+"onentschëllegt\u00010\u00011": {
+"pt": "Um dos nossos clarinetistas já faltou várias vezes ao ensaio sem justificação",
+"nl": "Een van onze klarinettisten heeft al een paar keer onverschoond op de repetitie ontbroken"
+},
+"onerfreelech\u00010\u00010": {
+"pt": "Num dia tão bonito não quero falar de coisas desagradáveis",
+"nl": "Op zo'n mooie dag wil ik niet over onaangename dingen praten"
+},
+"onerfreelech\u00010\u00011": {
+"pt": "Temos algumas notícias desagradáveis para si",
+"nl": "We hebben enkele onaangename berichten voor u"
+},
+"onerfueren\u00010\u00010": {
+"pt": "Também se devia dar uma oportunidade a candidatos sem experiência",
+"nl": "Men moet ook onervaren kandidaten een kans geven"
+},
+"onerhéiert\u00010\u00010": {
+"pt": "Nessa loja pedem preços exorbitantes",
+"nl": "In die winkel vragen ze onhoorbare prijzen"
+},
+"onerhéiert\u00010\u00011": {
+"pt": "É inaudito como aquele trata as suas pessoas!",
+"nl": "Het is ongehoord hoe die met zijn mensen omgaat!"
+},
+"onerhéiert\u00010\u00012": {
+"pt": "Fizeste-nos exigências exorbitantes",
+"nl": "Je hebt ongehoord hoge eisen aan ons gesteld"
+},
+"onerhéiert\u00011\u00010": {
+"pt": "Tivemos uma sorte incrível",
+"nl": "We hadden een ongelooflijke kans"
+},
+"onerhéiert\u00011\u00011": {
+"pt": "Essa empresária ficou incrivelmente rica",
+"nl": "Die zakenvrouw is ongelooflijk rijk geworden"
+},
+"onerhéiert\u00011\u00012": {
+"pt": "Aquele tipo ganhou uma quantidade de dinheiro inaudita",
+"nl": "Die kerel heeft een ongelooflijke hoop geld verdiend"
+},
+"onerkannt\u00010\u00010": {
+"pt": "O seu cancro passou muito tempo por diagnosticar",
+"nl": "Zijn kanker is lang onopgemerkt gebleven"
+},
+"onerkannt\u00010\u00011": {
+"pt": "O espião trabalhou durante anos, sem ser descoberto, como secretário do ministro do Exército",
+"nl": "De spion werkte jarenlang onopgemerkt als secretaris van de minister van Defensie"
+},
+"onerklärlech\u00010\u00010": {
+"pt": "As joias desapareceram de forma inexplicável",
+"nl": "De juwelen zijn op onverklaarbare wijze verdwenen"
+},
+"onermiddlech\u00010\u00010": {
+"pt": "O nosso vizinho foi homenageado pelo seu empenho incansável nos bombeiros",
+"nl": "Onze buurman werd gehuldigd voor zijn onvermoeibare inzet bij de brandweer"
+},
+"onermiddlech\u00010\u00011": {
+"pt": "Há anos que se empenha incansavelmente na proteção da natureza",
+"nl": "Al jaren zet ze zich onvermoeibaar in voor natuurbehoud"
+},
+"onerwaart\u00010\u00010": {
+"pt": "Fiquei mesmo contente com essa visita inesperada!",
+"nl": "Ik was echt blij met dat onverwachte bezoek!"
+},
+"onerwaart\u00010\u00011": {
+"pt": "Ela morreu inesperadamente",
+"nl": "Ze is onverwacht overleden"
+},
+"onerwaart\u00010\u00012": {
+"pt": "Adivinha quem acabou de entrar pela porta, de repente!",
+"nl": "Raad eens wie er nu helemaal onverwacht de deur binnenkomt!"
+},
+"onerwënscht\u00010\u00010": {
+"pt": "Assim que surgirem efeitos secundários indesejáveis num medicamento, deve consultar-se o médico",
+"nl": "Zodra er ongewenste bijwerkingen bij een geneesmiddel optreden, moet men naar de dokter gaan"
+},
+"onerwënscht\u00010\u00011": {
+"pt": "Aqui não são bem-vindos os homens sem gravata!",
+"nl": "Heren zonder das zijn hier niet welkom!"
+},
+"onfäeg\u00010\u00010": {
+"pt": "De pura alegria, fiquei por um momento incapaz de dizer o que quer que fosse",
+"nl": "Van louter vreugde was ik een ogenblik niet in staat iets te zeggen"
+},
+"onfäeg\u00010\u00011": {
+"pt": "Aquele rapaz é incapaz de ficar sentado no banco dois minutos em sossego",
+"nl": "Die jongen is niet in staat twee minuten rustig op de bank te zitten"
+},
+"onfäeg\u00011\u00010": {
+"pt": "Parece que aqui só lidamos com gente incompetente",
+"nl": "Het lijkt alsof we hier met louter onbekwame mensen te maken hebben"
+},
+"onfair\u00010\u00010": {
+"pt": "Muita gente chamou injusta à decisão do árbitro",
+"nl": "Veel mensen noemden de beslissing van de scheidsrechter oneerlijk"
+},
+"onfair\u00010\u00011": {
+"pt": "Acho injusto que tu possas andar de bicicleta e eu tenha de ir a pé",
+"nl": "Ik vind het oneerlijk dat jij met de fiets mag en ik te voet moet gaan"
+},
+"onfair\u00010\u00012": {
+"pt": "Comportou-se de forma injusta durante a discussão",
+"nl": "Hij heeft zich tijdens die discussie oneerlijk gedragen"
+},
+"Onfall\u00010\u00010": {
+"pt": "Ontem à noite um jovem condutor teve um acidente grave",
+"nl": "Gisteravond had een jonge bestuurder een zwaar ongeval"
+},
+"Onfallversécherung\u00010\u00010": {
+"pt": "Se um trabalhador na obra não estiver declarado, não tem seguro de acidentes",
+"nl": "Als een arbeider op de bouwplaats niet is aangemeld, heeft hij geen ongevallenverzekering"
+},
+"Onfallversécherung\u00010\u00011": {
+"pt": "O meu seguro de vida inclui também um seguro de acidentes?",
+"nl": "Is er bij mijn levensverzekering ook een ongevallenverzekering inbegrepen?"
+},
+"onfeelbar\u00010\u00010": {
+"pt": "Ninguém deve pensar que é infalível",
+"nl": "Niemand moet denken dat hij onfeilbaar is"
+},
+"onfeelbar\u00011\u00010": {
+"pt": "Alguns animais têm um instinto infalível para o perigo",
+"nl": "Sommige dieren hebben een onfeilbaar gevoel voor gevaar"
+},
+"onfeelbar\u00010\u00010~2": {
+"pt": "Isso leva inevitavelmente a uma catástrofe",
+"nl": "Dat leidt onvermijdelijk tot een catastrofe"
+},
+"onfeelbar\u00010\u00011": {
+"pt": "Aquele tipo diz infalivelmente uma tolice sempre que abre a boca",
+"nl": "Die kerel zegt onfeilbaar een dwaasheid, telkens als hij zijn mond opendoet"
+},
+"Onfeelbarkeet\u00010\u00010": {
+"pt": "Infalibilidade não existe em nenhuma profissão",
+"nl": "Onfeilbaarheid bestaat in geen enkel beroep"
+},
+"onflektéiert\u00010\u00010": {
+"pt": "Em luxemburguês, o adjetivo permanece não flexionado em certas construções",
+"nl": "In het Luxemburgs blijft het adjectief in bepaalde constructies onverbogen"
+},
+"onfräiwëlleg\u00010\u00010": {
+"pt": "Tivemos uma escala não prevista",
+"nl": "We hadden een onvrijwillige tussenlanding"
+},
+"onfräiwëlleg\u00010\u00011": {
+"pt": "Fomos obrigados a fazer um grande desvio",
+"nl": "We hebben onvrijwillig een grote omweg moeten maken"
+},
+"onfräiwëlleg\u00011\u00010": {
+"pt": "A sua comicidade involuntária faz-me sempre rir",
+"nl": "Zijn onvrijwillige komiek doet me altijd lachen"
+},
+"onfräiwëlleg\u00011\u00011": {
+"pt": "Ouvi sem querer o que eles disseram",
+"nl": "Ik heb onvrijwillig meegekregen wat ze zeiden"
+},
+"onfrëndlech\u00010\u00010": {
+"pt": "O nosso porteiro tem um feitio pouco simpático",
+"nl": "Onze portier heeft een onvriendelijk karakter"
+},
+"onfrëndlech\u00010\u00011": {
+"pt": "Como estás hoje outra vez pouco simpático!",
+"nl": "Wat ben je vandaag weer onvriendelijk!"
+},
+"onfrëndlech\u00010\u00012": {
+"pt": "Não voltamos a esse restaurante porque da última vez fomos recebidos de forma pouco amável",
+"nl": "We gaan niet meer naar dat restaurant omdat we de laatste keer onvriendelijk werden ontvangen"
+},
+"onfrëndlech\u00011\u00010": {
+"pt": "Com um tempo tão desagradável estou sempre de mau humor",
+"nl": "Bij zulk onaangenaam weer ben ik altijd slecht gehumeurd"
+},
+"Onfrëndlechkeet\u00010\u00010": {
+"pt": "As pessoas evitam-no por causa da sua falta de simpatia",
+"nl": "De mensen mijden hem wegens zijn onvriendelijkheid"
+},
+"onfruchtbar\u00010\u00010": {
+"pt": "Sem água, até o melhor solo se torna infértil",
+"nl": "Zonder water wordt zelfs de beste grond onvruchtbaar"
+},
+"onfruchtbar\u00011\u00010": {
+"pt": "Os machos são estéreis",
+"nl": "Muildieren zijn onvruchtbaar"
+},
+"Onfruchtbarkeet\u00010\u00010": {
+"pt": "A infertilidade desse solo deve-se à erosão",
+"nl": "De onvruchtbaarheid van die grond is aan erosie toe te schrijven"
+},
+"Onfruchtbarkeet\u00011\u00010": {
+"pt": "Essa doença pode levar à infertilidade",
+"nl": "Die ziekte kan tot onvruchtbaarheid leiden"
+},
+"Onfruchtbarkeet\u00011\u00011": {
+"pt": "A infertilidade de um casal pode ter várias causas",
+"nl": "De onvruchtbaarheid van een koppel kan een aantal oorzaken hebben"
+},
+"ONG\u00010\u00010": {
+"pt": "A nossa ONG está ativa em todo o mundo no domínio da proteção do ambiente",
+"nl": "Onze ngo is wereldwijd actief op het gebied van milieubescherming"
+},
+"ONG\u00010\u00011": {
+"pt": "O Ministério da Cooperação prorrogou as convenções com as ONG",
+"nl": "Het ministerie van Samenwerking heeft de overeenkomsten met de ngo's verlengd"
+},
+"ongär\u00010\u00010": {
+"pt": "Conduzo a contragosto quando está escuro",
+"nl": "Ik rijd ongaarne met de auto als het donker is"
+},
+"ongär\u00010\u00011": {
+"pt": "Não leio a contragosto os romances desse autor",
+"nl": "Ik lees de romans van die auteur niet ongaarne"
+},
+"ongebilt\u00010\u00010": {
+"pt": "Esse homem não é estúpido, mas completamente inculto",
+"nl": "Die man is niet dom, maar totaal ongeschoold"
+},
+"ongebraucht\u00010\u00010": {
+"pt": "Temos ainda muitas toalhas por usar em casa",
+"nl": "We hebben thuis nog veel ongebruikte handdoeken liggen"
+},
+"ongebraucht\u00010\u00011": {
+"pt": "Embora o meu casaco estivesse praticamente por usar, dei-o ao contentor de roupa",
+"nl": "Hoewel mijn jas praktisch ongebruikt was, heb ik hem aan de kledinginzameling gegeven"
+},
+"ongebremst\u00010\u00010": {
+"pt": "O carro embateu na árvore sem travar",
+"nl": "De auto reed ongeremd tegen de boom"
+},
+"ongebremst\u00010\u00010~2": {
+"pt": "Trabalha com um zelo desenfreado na sua tese de doutoramento",
+"nl": "Hij werkt met ongeremde ijver aan zijn doctoraat"
+},
+"Ongedanken\u00010\u00010": {
+"pt": "Por distração, tinha-me esquecido de fechar a porta de casa à chave",
+"nl": "Uit verstrooidheid was ik vergeten de voordeur op slot te doen"
+},
+"Ongedanken\u00010\u00011": {
+"pt": "Por distração, pus o telemóvel no frigorífico",
+"nl": "Ik heb per ongeluk, in gedachten, mijn gsm in de koelkast gelegd"
+},
+"ongedeckt\u00010\u00010": {
+"pt": "Antigamente, os comerciantes andavam atormentados com cheques sem provisão",
+"nl": "Vroeger werden zakenlui vaak geplaagd door ongedekte cheques"
+},
+"ongedëlleg\u00010\u00010": {
+"pt": "Não sejas tão impaciente!",
+"nl": "Wees toch niet zo ongeduldig!"
+},
+"ongedëlleg\u00010\u00011": {
+"pt": "Ele olhou para o relógio com impaciência",
+"nl": "Hij keek ongeduldig op de klok"
+},
+"Ongedold\u00010\u00010": {
+"pt": "Por pura impaciência, as crianças ficaram cada vez mais inquietas",
+"nl": "Van louter ongeduld werden de kinderen steeds onrustiger"
+},
+"Ongedold\u00010\u00011": {
+"pt": "Ó impaciente, não podes esperar cinco minutos?",
+"nl": "Jij met je ongeduld, kun je geen vijf minuten wachten?"
+},
+"ongeféier\u00010\u00010": {
+"pt": "Diz-me o preço aproximado do teu sistema de som",
+"nl": "Zeg me de ongeveer prijs van je stereo-installatie"
+},
+"ongeféier\u00010\u00011": {
+"pt": "Um euro equivale a cerca de 40 antigos francos luxemburgueses",
+"nl": "Eén euro komt overeen met ongeveer 40 oude Luxemburgse frank"
+},
+"ongeféierlech\u00010\u00010": {
+"pt": "Há desportos perigosos e desportos sem perigo",
+"nl": "Er zijn gevaarlijke en ongevaarlijke sporten"
+},
+"ongeféierlech\u00010\u00011": {
+"pt": "Ser telhador não é uma profissão sem perigo",
+"nl": "Dakdekker is geen ongevaarlijk beroep"
+},
+"ongeféierlech\u00010\u00012": {
+"pt": "Não é totalmente isento de perigo ir nadar para o rio",
+"nl": "Het is niet helemaal ongevaarlijk om in de rivier te gaan zwemmen"
+},
+"ongefleegt\u00010\u00010": {
+"pt": "O nosso cão não gosta de ser penteado, por isso tem um ar tão desgrenhado",
+"nl": "Onze hond laat zich niet graag kammen, daarom ziet hij er zo ongverzorgd uit"
+},
+"ongefleegt\u00010\u00011": {
+"pt": "Vou fazer a barba para a entrevista de emprego, não quero deixar uma impressão desleixada",
+"nl": "Ik scheer mijn baard voor mijn sollicitatiegesprek, ik wil geen ongeverzorgde indruk achterlaten"
+},
+"ongefrot\u00010\u00010": {
+"pt": "Ele dá constantemente a sua opinião sem que lha peçam",
+"nl": "Hij geeft voortdurend ongevraagd zijn mening"
+},
+"ongehalen\u00010\u00010": {
+"pt": "Não fiques tão zangado!",
+"nl": "Wees niet zo boos!"
+},
+"Ongeheier\u00010\u00010": {
+"pt": "No meu sonho, um monstro saiu rastejando de um lago",
+"nl": "In mijn droom kroop er een monster uit een vijver"
+},
+"ongeheier\u00010\u00010": {
+"pt": "Gostei muito da tensão enorme do livro",
+"nl": "Ik vond de enorme spanning in het boek erg goed"
+},
+"ongeheier\u00010\u00011": {
+"pt": "A morte do presidente é uma perda enorme para o país",
+"nl": "De dood van de president is een enorm verlies voor het land"
+},
+"ongeheier\u00010\u00012": {
+"pt": "Ao meio-dia tenho um encontro extremamente importante",
+"nl": "Tussen de middag heb ik een buitengewoon belangrijke afspraak"
+},
+"ongeheierlech\u00010\u00010": {
+"pt": "Isso é um descaramento inaudito!",
+"nl": "Dat is een ongehoorde brutaliteit!"
+},
+"ongehuwwelt\u00010\u00010": {
+"pt": "Aquele grosseirão não tem mesmo nenhuns modos!",
+"nl": "Die ongeschaafde kerel heeft ook helemaal geen manieren!"
+},
+"ongekämmt\u00010\u00010": {
+"pt": "Não podes ir ao médico por lavar e por pentear!",
+"nl": "Je kunt toch niet ongewassen en ongekamd naar de dokter gaan!"
+},
+"ongekierzt\u00010\u00010": {
+"pt": "No festival é exibida a versão integral do filme",
+"nl": "Op het festival wordt de onverkorte versie van de film getoond"
+},
+"ongeleeën\u00010\u00010": {
+"pt": "Chegas a uma hora inoportuna",
+"nl": "Je komt op een ongelegen moment"
+},
+"ongeleeën\u00010\u00011": {
+"pt": "Chegas-me a uma hora má",
+"nl": "Je komt me ongelegen"
+},
+"ongemälleg\u00010\u00010": {
+"pt": "Quando ouvi passos no jardim da frente na noite passada, senti-me pouco à vontade",
+"nl": "Toen ik gisternacht stappen in de voortuin hoorde, voelde ik me niet op mijn gemak"
+},
+"ongemälleg\u00011\u00010": {
+"pt": "Depois de comer, senti-me de repente indisposto",
+"nl": "Na het eten werd ik plotseling onwel"
+},
+"ongemälleg\u00012\u00010": {
+"pt": "Pergunto-me como é que esta história desagradável vai continuar",
+"nl": "Ik vraag me af hoe die onaangename geschiedenis verder gaat"
+},
+"ongemittlech\u00010\u00010": {
+"pt": "Quando chove, o campismo é desconfortável",
+"nl": "Als het regent, is het op de camping ongezellig"
+},
+"ongemittlech\u00010\u00011": {
+"pt": "Naquela casa grande há um ambiente pouco acolhedor",
+"nl": "In dat grote huis hangt een ongezellige sfeer"
+},
+"ongenee\u00010\u00010": {
+"pt": "A tua descrição era tão imprecisa que só encontrei a tua casa depois de muito procurar",
+"nl": "Je beschrijving was zo onnauwkeurig dat ik je huis pas na lang zoeken vond"
+},
+"ongenéiert\u00010\u00010": {
+"pt": "O teu comportamento descontraído incomoda o grupo todo",
+"nl": "Je ongegeneerde gedrag stoort de hele groep"
+},
+"ongenéiert\u00010\u00011": {
+"pt": "Aquele descarado abraçou-me como se me conhecesse desde sempre",
+"nl": "Die onbeschaamde kerel omhelsde me alsof hij me al eeuwen kende"
+},
+"ongenéiert\u00010\u00012": {
+"pt": "Durante a refeição, arrotou sem a menor cerimónia",
+"nl": "Hij boerde tijdens het eten volkomen ongegeneerd"
+},
+"ongënschteg\u00010\u00010": {
+"pt": "Hoje o tempo está desfavorável para fazer um piquenique",
+"nl": "Het weer is vandaag ongunstig om te gaan picknicken"
+},
+"ongënschteg\u00010\u00011": {
+"pt": "Aquela loja não tem muitos clientes, fica num local demasiado desfavorável",
+"nl": "Die winkel heeft niet veel klanten, hij ligt op een te ongunstige plek"
+},
+"ongenügend\u00010\u00010": {
+"pt": "Se 50 % dos alunos têm conhecimentos insuficientes em ciências, temos de questionar o nosso sistema escolar",
+"nl": "Als 50 % van de leerlingen onvoldoende kennis van de wetenschappen heeft, moeten we ons schoolsysteem in vraag stellen"
+},
+"ongenügend\u00010\u00011": {
+"pt": "O apoio da câmara às associações é absolutamente insuficiente",
+"nl": "De steun van de gemeente voor de verenigingen is absoluut onvoldoende"
+},
+"ongenügend\u00010\u00012": {
+"pt": "Esse aluno não se pode permitir mais uma nota negativa",
+"nl": "Die leerling kan zich geen onvoldoende meer permitteren"
+},
+"ongeplangt\u00010\u00010": {
+"pt": "Devido ao mau tempo, tivemos uma escala não planeada",
+"nl": "Door het slechte weer hadden we een ongeplande tussenlanding"
+},
+"ongerecht\u00010\u00010": {
+"pt": "Isso é uma distribuição injusta das tarefas!",
+"nl": "Dat is een onrechtvaardige verdeling van de taken!"
+},
+"ongerecht\u00010\u00011": {
+"pt": "Sinto-me tratado de forma injusta pelo professor",
+"nl": "Ik voel me door de leraar onrechtvaardig behandeld"
+},
+"Ongerechtegkeet\u00010\u00010": {
+"pt": "A sua injustiça deixa-me furioso",
+"nl": "Zijn onrechtvaardigheid maakt me woedend"
+},
+"Ongerechtegkeet\u00011\u00010": {
+"pt": "O mundo está cheio de injustiças",
+"nl": "De wereld zit vol onrechtvaardigheden"
+},
+"Ongereimtheet\u00010\u00010": {
+"pt": "Na declaração do arguido havia muitas incoerências",
+"nl": "In de verklaring van de beklaagde zaten veel onsamenhangendheden"
+},
+"ongerued\u00010\u00010": {
+"pt": "O número de membros da comissão deve ser ímpar",
+"nl": "Het aantal commissieleden moet oneven zijn"
+},
+"ongeschécklech\u00010\u00010": {
+"pt": "Sou desajeitado demais para esse trabalho delicado",
+"nl": "Ik ben te onhandig voor dat delicate werk"
+},
+"Ongeschécklechkeet\u00010\u00010": {
+"pt": "As pessoas riram-se à gargalhada da minha falta de jeito",
+"nl": "De mensen lagen krom van het lachen om mijn onhandigheid"
+},
+"ongeschminkt\u00010\u00010": {
+"pt": "Não saio de casa sem maquilhagem",
+"nl": "Ik ga het huis niet uit zonder make-up"
+},
+"ongeschminkt\u00010\u00011": {
+"pt": "Queremos ouvir a verdade sem disfarces!",
+"nl": "We willen de onopgesmukte waarheid horen!"
+},
+"ongeschriwwen\u00010\u00010": {
+"pt": "É uma regra não escrita no nosso clube que um novo membro tem de pagar uma rodada",
+"nl": "Het is een ongeschreven regel in onze club dat een nieuw lid een rondje moet geven"
+},
+"ongeschützt\u00010\u00010": {
+"pt": "O sexo sem proteção pode levar a uma gravidez",
+"nl": "Onbeschermde geslachtsgemeenschap kan tot een zwangerschap leiden"
+},
+"ongeseent\u00010\u00010": {
+"pt": "Os acólitos roubaram algumas hóstias não consagradas",
+"nl": "De misdienaars hebben enkele ongewijde hosties gestolen"
+},
+"ongeseent\u00010\u00011": {
+"pt": "Mantém os teus dedos profanos longe do meu computador!",
+"nl": "Blijf met je ongewijde vingers van mijn computer af!"
+},
+"ongesond\u00010\u00010": {
+"pt": "Tens uma cor pouco saudável na cara, estás doente?",
+"nl": "Je hebt een ongezonde kleur in je gezicht, ben je ziek?"
+},
+"ongesond\u00010\u00011": {
+"pt": "O nosso vizinho tem um aspeto tão pouco saudável, acho que lhe falta alguma coisa",
+"nl": "Onze buurman ziet er zo ongezond uit, ik denk dat er iets mis met hem is"
+},
+"ongesond\u00011\u00010": {
+"pt": "Por causa de todas aquelas fábricas, o ar nesta região é pouco saudável",
+"nl": "Door al die fabrieken is de lucht in deze streek ongezond"
+},
+"ongesond\u00011\u00011": {
+"pt": "Tem problemas de peso porque vive de forma pouco saudável",
+"nl": "Hij heeft gewichtsproblemen omdat hij ongezond leeft"
+},
+"ongespëtzt\u00010\u00010": {
+"pt": "Os lápis afiados são mais caros do que os por afiar",
+"nl": "De geslepen potloden zijn duurder dan de ongeslepen"
+},
+"ongespëtzt\u00010\u00011": {
+"pt": "Aquele irrita-me, apetecia-me espalmá-lo!",
+"nl": "Die werkt op mijn zenuwen, ik zou hem plat willen slaan!"
+},
+"ongestéiert\u00010\u00010": {
+"pt": "Durante a hora de almoço gosto de estar sossegado",
+"nl": "Tijdens de middagpauze zit ik graag ongestoord"
+},
+"ongestéiert\u00010\u00011": {
+"pt": "Hoje ainda não tivemos um minuto de sossego",
+"nl": "Vandaag hadden we nog geen enkele ongestoorde minuut"
+},
+"ongestéiert\u00010\u00012": {
+"pt": "À noite gostava de ver as notícias na televisão sem ser incomodado",
+"nl": "'s Avonds zou ik graag ongestoord naar het nieuws op tv kijken"
+},
+"ongestrooft\u00010\u00010": {
+"pt": "Um crime assim não pode ficar impune",
+"nl": "Zo'n misdrijf mag niet ongestraft blijven"
+},
+"ongestrooft\u00010\u00011": {
+"pt": "Safou-se sem castigo",
+"nl": "Hij is ongestraft weggekomen"
+},
+"ongewäsch\u00010\u00010": {
+"pt": "Não podes ir ao médico por lavar e por pentear!",
+"nl": "Je kunt toch niet ongewassen en ongekamd naar de dokter gaan!"
+},
+"ongewäsch\u00010\u00011": {
+"pt": "Não venhas para a mesa com as mãos por lavar!",
+"nl": "Kom me niet met ongewassen handen aan tafel!"
+},
+"ongewäsch\u00010\u00012": {
+"pt": "Mantém os teus dedos por lavar longe do meu computador!",
+"nl": "Blijf met je ongewassen vingers van mijn computer af!"
+},
+"ongewéinlech\u00010\u00010": {
+"pt": "Um menu tão exótico é invulgar para um casamento",
+"nl": "Zo'n exotisch menu is ongewoon voor een bruiloft"
+},
+"ongewéinlech\u00010\u00011": {
+"pt": "Para esse aluno, esta prestação foi extraordinária",
+"nl": "Voor die leerling was deze prestatie ongewoon"
+},
+"ongewéinlech\u00010\u00012": {
+"pt": "A aluna trabalhou extraordinariamente bem",
+"nl": "De leerlinge heeft buitengewoon goed gewerkt"
+},
+"ongewéinlech\u00010\u00013": {
+"pt": "Choveu este verão durante um tempo invulgarmente longo",
+"nl": "Het heeft deze zomer ongewoon lang geregend"
+},
+"ongewëss\u00010\u00010": {
+"pt": "O futuro dessas pequenas empresas é incerto",
+"nl": "De toekomst van die kleine bedrijven is onzeker"
+},
+"ongewëss\u00010\u00011": {
+"pt": "Ainda é incerto se ele aceita o lugar",
+"nl": "Het is nog onzeker of hij die baan aanneemt"
+},
+"Ongewëssen\u00010\u00010": {
+"pt": "Deixaram as pessoas na zona de crise na incerteza sobre o que aconteceria a seguir",
+"nl": "Ze lieten de mensen in het crisisgebied in het ongewisse over hoe het verder zou gaan"
+},
+"Ongewëssheet\u00010\u00010": {
+"pt": "Esta incerteza está a matar-me!",
+"nl": "Die onzekerheid maakt me gek!"
+},
+"Ongewëssheet\u00010\u00011": {
+"pt": "Deixaram as pessoas na zona de crise na incerteza sobre o que aconteceria a seguir",
+"nl": "Ze lieten de mensen in het crisisgebied in onzekerheid over hoe het verder zou gaan"
+},
+"ongewinnt\u00010\u00010": {
+"pt": "Ele não sabia como reagir àquela situação invulgar",
+"nl": "Hij wist niet hoe hij op die ongewone situatie moest reageren"
+},
+"ongewinnt\u00010\u00011": {
+"pt": "A minha tia não suportou o calor invulgar",
+"nl": "Mijn tante kon de ongewone hitte niet verdragen"
+},
+"ongewollt\u00010\u00010": {
+"pt": "Na experiência ocorreu uma reação química indesejada",
+"nl": "Bij het experiment kwam het tot een ongewenste chemische reactie"
+},
+"ongewollt\u00010\u00011": {
+"pt": "Meteu-nos, sem querer, num sarilho",
+"nl": "Hij heeft ons ongewild in de nesten gebracht"
+},
+"ongezillt\u00010\u00010": {
+"pt": "Hoje havia muitas crianças mal-educadas no parque infantil",
+"nl": "Vandaag waren er veel ongemanierde kinderen op de speelplaats"
+},
+"ongezillt\u00010\u00011": {
+"pt": "Uma coisa tão mal-educada nunca me tinha aparecido",
+"nl": "Zoiets ongemanierds ben ik nog nooit tegengekomen"
+},
+"ongezwongen\u00010\u00010": {
+"pt": "Na festa de Natal da nossa empresa havia um ambiente descontraído",
+"nl": "Op het kerstfeest van ons bedrijf was er een ongedwongen sfeer"
+},
+"ongezwongen\u00010\u00011": {
+"pt": "A ministra conversou de forma muito descontraída com o seu motorista",
+"nl": "De minister praatte heel ongedwongen met haar chauffeur"
+},
+"ongläich\u00010\u00010": {
+"pt": "Os dois irmãos são muito diferentes de feitio",
+"nl": "De twee broers zijn qua karakter heel ongelijk"
+},
+"ongläich\u00010\u00011": {
+"pt": "Que casal tão desigual que aqueles dois formam!",
+"nl": "Wat zijn die twee toch een ongelijk koppel!"
+},
+"Ongläichheet\u00010\u00010": {
+"pt": "Em muitos países ainda há desigualdades salariais entre homens e mulheres",
+"nl": "In veel landen bestaan er nog loonongelijkheden tussen mannen en vrouwen"
+},
+"Ongläichheet\u00010\u00011": {
+"pt": "As desigualdades na sociedade levam muitas vezes a conflitos",
+"nl": "Ongelijkheden in de samenleving leiden vaak tot conflicten"
+},
+"Ongléck\u00010\u00010": {
+"pt": "Na pedreira aconteceu um acidente grave",
+"nl": "In de groeve is een zwaar ongeluk gebeurd"
+},
+"Ongléck\u00010\u00011": {
+"pt": "Neste cruzamento perigoso acontecem muitos acidentes",
+"nl": "Op dit gevaarlijke kruispunt gebeuren veel ongelukken"
 }
 }
