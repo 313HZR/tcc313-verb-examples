@@ -149398,5 +149398,905 @@
 "pardon\u00011\u00010": {
 "pt": "Desculpe, acabei de lhe pisar o pé?",
 "nl": "Pardon, ben ik u daarnet op uw voet getrapt?"
+},
+"pardon\u00011\u00011": {
+"pt": "Desculpa, se te magoei com a minha observação!",
+"nl": "Pardon, als ik je met mijn opmerking gekwetst heb!"
+},
+"pardon\u00012\u00010": {
+"pt": "Como? (O que disse?)",
+"nl": "Pardon? (Wat zei u?)"
+},
+"pardon\u00013\u00010": {
+"pt": "Como? Não me digas que ganharam!",
+"nl": "Pardon? Zeg me niet dat ze gewonnen hebben!"
+},
+"pardon\u00013\u00011": {
+"pt": "Como? Isso é inaceitável!",
+"nl": "Pardon? Dat is onaanvaardbaar!"
+},
+"pardon\u00013\u00012": {
+"pt": "Como? Estás doido?",
+"nl": "Pardon? Ben je gek geworden?"
+},
+"Parechoc\u00010\u00010": {
+"pt": "O teu carro tem uma mossa no pára-choques traseiro",
+"nl": "Je auto heeft een deuk in de achterbumper"
+},
+"Paréck\u00010\u00010": {
+"pt": "Comprei uma peruca verde para o Carnaval",
+"nl": "Ik heb een groene pruik gekocht voor carnaval"
+},
+"Paréck\u00010\u00011": {
+"pt": "No meu cabeleireiro fazem-se perucas de cabelo natural",
+"nl": "Bij mijn kapper krijg je pruiken van natuurlijk haar"
+},
+"paréieren\u00010\u00010": {
+"pt": "Pusemos a trela ao cão porque ele não queria obedecer",
+"nl": "We hebben de hond aangelijnd omdat hij niet wilde gehoorzamen"
+},
+"Pärel\u00010\u00010": {
+"pt": "Uma vez encontrou uma pérola numa ostra",
+"nl": "Hij heeft eens een parel in een oester gevonden"
+},
+"Pärel\u00010\u00011": {
+"pt": "Essas pérolas não são verdadeiras!",
+"nl": "Die parels zijn niet echt!"
+},
+"Pärel\u00011\u00010": {
+"pt": "Falta uma conta no meu terço",
+"nl": "Er ontbreekt een kraal aan mijn rozenkrans"
+},
+"Pärel\u00011\u00011": {
+"pt": "As meninas gostam de fazer colares com todo o tipo de contas",
+"nl": "De kleine meisjes maken graag kettingen van allerlei kralen"
+},
+"Pärel\u00012\u00010": {
+"pt": "De pura excitação, o candidato tinha gotas de suor na testa",
+"nl": "Van louter opwinding had de kandidaat zweetdruppels op zijn voorhoofd"
+},
+"Pärel\u00012\u00011": {
+"pt": "De manhã, as gotas de orvalho estavam sobre os prados",
+"nl": "'s Ochtends lagen de dauwdruppels op de weiden"
+},
+"Pärel\u00013\u00010": {
+"pt": "No concerto, a banda tocou algumas joias do seu arquivo",
+"nl": "Op het concert speelde de fanfare enkele parels uit haar archief"
+},
+"Pärel\u00014\u00010": {
+"pt": "A nossa empregada de limpeza é uma pérola!",
+"nl": "Onze poetsvrouw is een parel!"
+},
+"Pärel\u00010\u00010~2": {
+"pt": "Moro em Perlé",
+"nl": "Ik woon in Perlé"
+},
+"Pärel\u00010\u00011~2": {
+"pt": "Este autocarro vai para Perlé?",
+"nl": "Rijdt deze bus naar Perlé?"
+},
+"Päreleketten\u00010\u00010": {
+"pt": "O bebé puxou tanto o colar de pérolas da avó que ele se partiu",
+"nl": "De baby heeft zo aan oma's parelketting getrokken dat hij kapot is"
+},
+"pärelen\u00010\u00010": {
+"pt": "O suor perla-lhe na testa",
+"nl": "Het zweet parelt hem op het voorhoofd"
+},
+"pärelen\u00011\u00010": {
+"pt": "O champanhe borbulhava bem no copo",
+"nl": "De champagne parelde mooi in het glas"
+},
+"pärelen\u00012\u00010": {
+"pt": "O suor escorria da testa do candidato",
+"nl": "Het zweet parelde van het voorhoofd van de kandidaat"
+},
+"Parfum\u00010\u00010": {
+"pt": "A minha irmã recebeu de prenda de anos um frasco de perfume",
+"nl": "Mijn zus kreeg voor haar verjaardag een flacon parfum cadeau"
+},
+"Parfum\u00010\u00011": {
+"pt": "No elevador cheira a perfume barato",
+"nl": "In de lift ruikt het naar goedkoop parfum"
+},
+"Parfum\u00010\u00012": {
+"pt": "Aqui dentro não cheira propriamente a perfume",
+"nl": "Hier binnen ruikt het niet bepaald naar parfum"
+},
+"Parfum\u00011\u00010": {
+"pt": "Aquelas flores têm um perfume penetrante",
+"nl": "Die bloemen hebben een doordringend parfum"
+},
+"parfüméieren\u00010\u00010": {
+"pt": "Ela perfuma sempre o pescoço",
+"nl": "Ze parfumeert altijd haar nek"
+},
+"parfüméieren\u00010\u00011": {
+"pt": "Hoje puseste demasiado perfume!",
+"nl": "Je hebt je vandaag te veel geparfumeerd!"
+},
+"parfüméieren\u00011\u00010": {
+"pt": "As flores perfumam a sala inteira",
+"nl": "De bloemen parfumeren de hele ruimte"
+},
+"Parfümerie\u00010\u00010": {
+"pt": "Na perfumaria recebi uma amostra de um creme novo",
+"nl": "In de parfumerie kreeg ik een staal van een nieuwe crème"
+},
+"Parfümerie\u00011\u00010": {
+"pt": "Esse produto encontra-se na secção de perfumaria",
+"nl": "Dat product vindt u in het parfumerieschap"
+},
+"Parfümerie\u00011\u00011": {
+"pt": "A minha mãe leva toda a sua coleção de perfumes para as férias",
+"nl": "Mijn moeder neemt haar hele parfumcollectie mee op vakantie"
+},
+"Paritéit\u00010\u00010": {
+"pt": "As estatísticas mostram que ainda não existe paridade salarial entre mulheres e homens",
+"nl": "De statistieken tonen aan dat er tussen vrouwen en mannen nog altijd geen gelijkheid van lonen bestaat"
+},
+"Park\u00010\u00010": {
+"pt": "Gosto de me sentar num banco no parque para ver passar as pessoas",
+"nl": "Ik zit graag in het park op een bank om naar de mensen te kijken"
+},
+"Park\u00010\u00011": {
+"pt": "À volta de todo o parque há uma grade alta",
+"nl": "Rond het hele park staat een hoog hek"
+},
+"Park\u00011\u00010": {
+"pt": "Desde ontem, o nosso pequeno tenta levantar-se sozinho no parque",
+"nl": "Sinds gisteren probeert ons kleintje in de box alleen op te staan"
+},
+"Park\u00010\u00010~2": {
+"pt": "Moro no bairro Park",
+"nl": "Ik woon in de wijk Park"
+},
+"Park\u00010\u00011~2": {
+"pt": "Este autocarro vai para o bairro Park?",
+"nl": "Rijdt deze bus naar de wijk Park?"
+},
+"Parka\u00010\u00010": {
+"pt": "Está frio lá fora, põe o parka!",
+"nl": "Het is koud buiten, trek je parka aan!"
+},
+"Park-and-ride\u00010\u00010": {
+"pt": "Gosto de estacionar naquele parque de estacionamento dissuasor porque é gratuito",
+"nl": "Ik parkeer graag op die park-and-ride omdat hij gratis is"
+},
+"Park-and-ride\u00010\u00011": {
+"pt": "Do parque dissuasor sai um elétrico para o estádio de dez em dez minutos",
+"nl": "Vanaf de park-and-ride rijdt er elke tien minuten een tram naar het stadion"
+},
+"Parkauer\u00010\u00010": {
+"pt": "Não tenho moedas suficientes para o parquímetro!",
+"nl": "Ik heb niet genoeg munten voor de parkeermeter!"
+},
+"parken\u00010\u00010": {
+"pt": "O homem manobrou muito tempo antes de estacionar bem o carro",
+"nl": "De man heeft lang gemanoeuvreerd voordat hij zijn auto goed had geparkeerd"
+},
+"parken\u00010\u00011": {
+"pt": "O meu carro está estacionado não muito longe",
+"nl": "Mijn auto staat niet ver van hier geparkeerd"
+},
+"Parkhaus\u00010\u00010": {
+"pt": "O novo parque de estacionamento coberto tem 900 lugares",
+"nl": "De nieuwe parkeergarage heeft 900 plaatsen"
+},
+"Parkhaus\u00010\u00011": {
+"pt": "Os parques de estacionamento à volta da cidade estão bem ocupados durante a semana",
+"nl": "De parkeergarages rond de stad zijn doordeweeks goed bezet"
+},
+"Park Housen\u00010\u00010": {
+"pt": "Sabes quantas localidades tem o município de Parc Hosingen?",
+"nl": "Weet je hoeveel dorpen de gemeente Parc Hosingen heeft?"
+},
+"Parking\u00010\u00010": {
+"pt": "À entrada do parque de estacionamento vai ser instalada uma cancela automática",
+"nl": "Aan de ingang van de parking wordt een automatische slagboom geïnstalleerd"
+},
+"Parking\u00010\u00011": {
+"pt": "Na praça do mercado está a ser construído um novo parque de estacionamento subterrâneo",
+"nl": "Op het marktplein wordt een nieuwe ondergrondse parking gebouwd"
+},
+"Parkinson\u00010\u00010": {
+"pt": "Rigidez e tremores são dois sintomas de Parkinson",
+"nl": "Stijfheid en trillen zijn twee symptomen van parkinson"
+},
+"Parkplaz\u00010\u00010": {
+"pt": "Não encontrámos lugar para estacionar",
+"nl": "We hebben geen parkeerplaats gevonden"
+},
+"Parkplaz\u00010\u00011": {
+"pt": "Mesmo ao lado do edifício principal são instalados lugares de estacionamento para pessoas com deficiência",
+"nl": "Vlak naast het hoofdgebouw worden parkeerplaatsen voor mensen met een handicap aangelegd"
+},
+"Parkplaz\u00011\u00010": {
+"pt": "Em frente à câmara municipal há um grande parque de estacionamento",
+"nl": "Voor het stadhuis is een grote parkeerplaats"
+},
+"Parkscheif\u00010\u00010": {
+"pt": "Levou uma multa porque se tinha esquecido do disco de estacionamento",
+"nl": "Ze kreeg een proces-verbaal omdat ze haar parkeerschijf was vergeten"
+},
+"Parkticket\u00010\u00010": {
+"pt": "Onde fica a máquina mais próxima onde posso ir buscar um bilhete de estacionamento?",
+"nl": "Waar is de volgende automaat waar ik een parkeerticket kan gaan halen?"
+},
+"Parkzäit\u00010\u00010": {
+"pt": "Nesta zona, o tempo de estacionamento está limitado a duas horas",
+"nl": "In deze zone is de parkeertijd beperkt tot twee uur"
+},
+"Parlament\u00010\u00010": {
+"pt": "Este partido tem a maioria no parlamento",
+"nl": "Deze partij heeft de meerderheid in het parlement"
+},
+"Parlament\u00011\u00010": {
+"pt": "A fachada do parlamento está a ser restaurada",
+"nl": "De gevel van het parlement wordt gerestaureerd"
+},
+"parlamentaresch\u00010\u00010": {
+"pt": "Os deputados estão sob o estatuto de imunidade parlamentar",
+"nl": "De volksvertegenwoordigers staan onder het statuut van de parlementaire onschendbaarheid"
+},
+"parlamentaresch\u00010\u00011": {
+"pt": "A pergunta parlamentar é reencaminhada para o ministro competente",
+"nl": "De parlementaire vraag wordt doorgestuurd naar de bevoegde minister"
+},
+"Parlamentarier\u00010\u00010": {
+"pt": "Alguns parlamentares abandonaram a sessão da Câmara em protesto",
+"nl": "Enkele parlementsleden verlieten uit protest de Kamerzitting"
+},
+"Parlamentarierin\u00010\u00010": {
+"pt": "A parlamentar atacou duramente a oposição",
+"nl": "De parlementariër viel de oppositie hevig aan"
+},
+"Parlamentswal\u00010\u00010": {
+"pt": "Nas últimas eleições legislativas, o nosso partido obteve um quarto dos votos",
+"nl": "Bij de laatste parlementsverkiezingen kreeg onze partij een kwart van de stemmen"
+},
+"Parmesan\u00010\u00010": {
+"pt": "Queria ainda um pouco de parmesão para os esparguetes, por favor",
+"nl": "Ik zou graag nog wat parmezaan voor de spaghetti willen, alstublieft"
+},
+"parodéieren\u00010\u00010": {
+"pt": "Aquele humorista imita bem vários cantores",
+"nl": "Die komiek kan verschillende zangers goed parodiëren"
+},
+"Parodie\u00010\u00010": {
+"pt": "No programa desta noite há uma paródia de uma peça de teatro clássica",
+"nl": "Op het programma staat vanavond een parodie op een klassiek toneelstuk"
+},
+"Parodontos\u00010\u00010": {
+"pt": "Se a periodontite não for tratada, o doente acaba por perder os dentes",
+"nl": "Als parodontose niet wordt behandeld, vallen de tanden van de patiënt er op een dag uit"
+},
+"Parol\u00010\u00010": {
+"pt": "As paredes estavam rabiscadas com slogans xenófobos",
+"nl": "De muren waren met xenofobe leuzen beklad"
+},
+"Parquet\u00010\u00010": {
+"pt": "Como revestimento do chão, prefiro o parquet",
+"nl": "Als vloerbedekking heb ik het liefst parket"
+},
+"Parquet\u00010\u00011": {
+"pt": "Ele deixa simplesmente cair a cinza do cigarro no parquet",
+"nl": "Hij laat de as van zijn sigaret gewoon op het parket vallen"
+},
+"Parquet\u00010\u00012": {
+"pt": "Que espessura têm as ripas do vosso parquet?",
+"nl": "Welke dikte hebben de latten van uw parket?"
+},
+"Parquet\u00010\u00010~2": {
+"pt": "Neste caso, a polícia acionou o Ministério Público",
+"nl": "In deze zaak heeft de politie het parket ingeschakeld"
+},
+"Parquet\u00010\u00011~2": {
+"pt": "Por ordem do Ministério Público foi feito um inquérito",
+"nl": "Op bevel van het parket werd een onderzoek uitgevoerd"
+},
+"Part\u00010\u00010": {
+"pt": "Um acionista importante tenciona vender as suas partes da empresa",
+"nl": "Een belangrijke aandeelhouder is van plan zijn aandelen in het bedrijf te verkopen"
+},
+"Partei\u00010\u00010": {
+"pt": "O nosso partido tem oito lugares na Câmara",
+"nl": "Onze partij heeft acht zetels in de Kamer"
+},
+"Partei\u00010\u00011": {
+"pt": "Para obterem a maioria, os dois partidos juntaram-se",
+"nl": "Om een meerderheid te krijgen, hebben de twee partijen zich verenigd"
+},
+"Partei\u00011\u00010": {
+"pt": "O partido adversário contratou um novo advogado",
+"nl": "De tegenpartij heeft een nieuwe advocaat genomen"
+},
+"Partei\u00012\u00010": {
+"pt": "Toma sempre o partido dos fracos",
+"nl": "Hij kiest altijd partij voor de zwakken"
+},
+"Parteichef\u00010\u00010": {
+"pt": "O líder do partido ainda tem a confiança da comissão nacional",
+"nl": "De partijleider heeft nog altijd het vertrouwen van het nationaal comité"
+},
+"Parteicheffin\u00010\u00010": {
+"pt": "A comissão nacional continuava a confiar na líder do partido mesmo depois desse incidente",
+"nl": "Het nationaal comité had ook na dat voorval nog altijd vertrouwen in de partijleidster"
+},
+"parteiesch\u00010\u00010": {
+"pt": "Tive a impressão de que o árbitro tinha sido parcial",
+"nl": "Ik had de indruk dat de scheidsrechter partijdig was geweest"
+},
+"Parteipresident\u00010\u00010": {
+"pt": "Fala-se de um jovem deputado como sucessor do atual presidente do partido",
+"nl": "Een jonge volksvertegenwoordiger wordt genoemd als opvolger van de huidige partijvoorzitter"
+},
+"Parteipresidentin\u00010\u00010": {
+"pt": "A presidente do partido pronunciou-se energicamente contra a xenofobia",
+"nl": "De partijvoorzitster sprak zich energiek uit tegen vreemdelingenhaat"
+},
+"Parteispëtzt\u00010\u00010": {
+"pt": "O congresso decidiu renovar a direção do partido",
+"nl": "Het congres heeft besloten de partijtop te vernieuwen"
+},
+"Parteispëtzt\u00010\u00011": {
+"pt": "As duas direções partidárias reuniram-se para discutir uma possível coligação",
+"nl": "De twee partijtoppen hebben elkaar ontmoet om over een mogelijke coalitie te praten"
+},
+"Partenariat\u00010\u00010": {
+"pt": "Para uma guarda de crianças eficaz, dependemos de parcerias com os municípios vizinhos",
+"nl": "Voor een doeltreffende kinderopvang zijn we aangewezen op partnerschappen met de buurgemeenten"
+},
+"Partenariat\u00010\u00011": {
+"pt": "O nosso novo projeto foi realizado em parceria com a câmara e o Ministério da Cultura",
+"nl": "Ons nieuwe project werd in partnerschap met de gemeente en het ministerie van Cultuur gerealiseerd"
+},
+"Partenariat\u00011\u00010": {
+"pt": "A parceria entre as famílias e as estruturas de acolhimento deve ser reforçada",
+"nl": "Het partnerschap tussen de gezinnen en de opvangstructuren moet worden versterkt"
+},
+"Partenariat\u00011\u00011": {
+"pt": "A organização escolar é elaborada em parceria com representantes dos pais, o corpo docente e a câmara",
+"nl": "De schoolorganisatie komt tot stand in samenwerking met ouderafgevaardigden, onderwijzend personeel en gemeente"
+},
+"Partenariat\u00012\u00010": {
+"pt": "Quais são as diferenças entre um casamento e uma parceria (registada)?",
+"nl": "Wat zijn de verschillen tussen een huwelijk en een (geregistreerd) partnerschap?"
+},
+"Partenariat\u00012\u00011": {
+"pt": "Muitos casais jovens vivem numa parceria registada",
+"nl": "Veel jonge koppels leven in een geregistreerd partnerschap"
+},
+"Parterre\u00010\u00010": {
+"pt": "Para a ópera, reservei-nos três lugares na plateia",
+"nl": "Voor de opera heb ik drie plaatsen in het parterre voor ons gereserveerd"
+},
+"Participant\u00010\u00010": {
+"pt": "No fim da formação, cada participante recebe um certificado",
+"nl": "Na afloop van de opleiding krijgt elke deelnemer een certificaat"
+},
+"Participant\u00010\u00011": {
+"pt": "Depois do curso, muitos participantes fizeram perguntas",
+"nl": "Na de cursus stelden veel deelnemers vragen"
+},
+"Participante\u00010\u00010": {
+"pt": "Uma participante do nosso curso não chegou a fazer perguntas ao formador",
+"nl": "Een deelneemster aan onze cursus is er niet toe gekomen de opleider vragen te stellen"
+},
+"Participatioun\u00010\u00010": {
+"pt": "A participação da nossa banda embelezou a festa",
+"nl": "De deelname van onze fanfare heeft het feest opgeluisterd"
+},
+"Participatioun\u00011\u00010": {
+"pt": "Quem se inscreve para a refeição tem de pagar uma pequena comparticipação",
+"nl": "Wie zich voor het eten opgeeft, moet een kleine bijdrage betalen"
+},
+"participativ\u00010\u00010": {
+"pt": "Os referendos fazem parte de uma democracia participativa",
+"nl": "Referenda horen bij een participatieve democratie"
+},
+"participéieren\u00010\u00010": {
+"pt": "A nossa equipa não participou este ano no campeonato",
+"nl": "Onze ploeg heeft dit jaar niet aan het kampioenschap deelgenomen"
+},
+"participéieren\u00010\u00011": {
+"pt": "Esta aluna simplesmente não participa durante as aulas",
+"nl": "Deze leerlinge neemt tijdens de lessen gewoon niet deel"
+},
+"participéieren\u00011\u00010": {
+"pt": "O Estado participa com um crédito na construção do pavilhão desportivo",
+"nl": "De staat draagt met een krediet bij aan de bouw van de sporthal"
+},
+"Participe passé\u00010\u00010": {
+"pt": "O particípio passado do verbo kaalwen é gekaleft",
+"nl": "Het voltooid deelwoord van het werkwoord kaalwen is gekaleft"
+},
+"Participe présent\u00010\u00010": {
+"pt": "O particípio presente quase não é usado em luxemburguês",
+"nl": "Het tegenwoordig deelwoord wordt in het Luxemburgs nauwelijks gebruikt"
+},
+"Partie\u00010\u00010": {
+"pt": "Anda, vamos jogar uma partida de moinho!",
+"nl": "Kom, laten we een partijtje molenspel spelen!"
+},
+"Partie\u00010\u00011": {
+"pt": "Ontem na pista de bowling ganhámos duas partidas e perdemos três",
+"nl": "Gisteren op de kegelbaan hebben we twee partijen gewonnen en drie verloren"
+},
+"Partie\u00011\u00010": {
+"pt": "Algumas pessoas não querem ter nada a ver com esse caso",
+"nl": "Een aantal mensen wil niets met die zaak te maken hebben"
+},
+"Partie\u00011\u00011": {
+"pt": "Alguns lugares já estão reservados",
+"nl": "Een aantal plaatsen is al gereserveerd"
+},
+"Partie\u00011\u00012": {
+"pt": "O bebé já conhece uma boa série de palavras",
+"nl": "De baby kent al een hele reeks woorden"
+},
+"Partie\u00011\u00013": {
+"pt": "Ainda nos ocorreram bastantes perguntas",
+"nl": "We zijn nog een aantal vragen te binnen geschoten"
+},
+"Partie\u00012\u00010": {
+"pt": "Aconteça o que acontecer, a minha mãe está sempre do meu lado",
+"nl": "Wat er ook gebeurt, mijn moeder kiest altijd mijn kant"
+},
+"Partie\u00012\u00011": {
+"pt": "Podes contar comigo para ficar do teu lado!",
+"nl": "Reken erop dat ik jouw kant kies!"
+},
+"Partie\u00013\u00010": {
+"pt": "Ao casar com aquela mulher rica, ele fez realmente um bom negócio!",
+"nl": "Met die rijke vrouw heeft hij toch een goede partij gedaan!"
+},
+"Partie\u00014\u00010": {
+"pt": "A rica viúva é um bom partido",
+"nl": "De rijke weduwe is een goede partij"
+},
+"partiell\u00010\u00010": {
+"pt": "Até agora só há resultados parciais",
+"nl": "Tot nu toe liggen er alleen partiële resultaten voor"
+},
+"Partikel\u00010\u00010": {
+"pt": "Este filtro retira as partículas nocivas do ar",
+"nl": "Deze filter haalt de schadelijke deeltjes uit de lucht"
+},
+"Partikel\u00011\u00010": {
+"pt": "É muitas vezes difícil traduzir uma partícula para outra língua",
+"nl": "Het is vaak moeilijk om een partikel in een andere taal te vertalen"
+},
+"Partisan\u00010\u00010": {
+"pt": "Os soldados fuzilaram os três partisans",
+"nl": "De soldaten hebben de drie partizanen doodgeschoten"
+},
+"Partisanin\u00010\u00010": {
+"pt": "Por ordem superior, os soldados fuzilaram a partisan",
+"nl": "Op bevel hebben de soldaten de partizane doodgeschoten"
+},
+"Partitioun\u00010\u00010": {
+"pt": "A pianista tocou o concerto inteiro sem partitura",
+"nl": "De pianiste speelde het hele concert zonder partituur"
+},
+"Partitioun\u00011\u00010": {
+"pt": "Tenho uma partição no meu disco rígido onde só guardo fotografias",
+"nl": "Ik heb op mijn harde schijf een partitie waarop ik alleen foto's bewaar"
+},
+"Partitur\u00010\u00010": {
+"pt": "A pianista tocou o concerto inteiro sem partitura",
+"nl": "De pianiste speelde het hele concert zonder partituur"
+},
+"Partner\u00010\u00010": {
+"pt": "Procuro um sócio para abrir um negócio",
+"nl": "Ik zoek een partner om een zaak te openen"
+},
+"Partner\u00011\u00010": {
+"pt": "O meu parceiro e eu registámos a nossa parceria na semana passada",
+"nl": "Mijn partner en ik zijn vorige week een geregistreerd partnerschap aangegaan"
+},
+"Partner\u00012\u00010": {
+"pt": "O tenista não encontrou parceiro para os pares",
+"nl": "De tennisser vond geen partner voor het dubbel"
+},
+"Partner\u00013\u00010": {
+"pt": "Os nossos parceiros europeus estão dispostos a apoiar esta política",
+"nl": "Onze Europese partners zijn bereid dit beleid te steunen"
+},
+"Partnerin\u00010\u00010": {
+"pt": "A minha parceira e eu registámos a nossa parceria na semana passada",
+"nl": "Mijn partner en ik zijn vorige week een geregistreerd partnerschap aangegaan"
+},
+"Partnerin\u00011\u00010": {
+"pt": "A tenista encontrou uma nova parceira para os pares",
+"nl": "De tennisster heeft een nieuwe partner voor het dubbel gevonden"
+},
+"Partnerin\u00012\u00010": {
+"pt": "Dirijo a empresa juntamente com a minha sócia",
+"nl": "Ik leid het bedrijf samen met mijn partner"
+},
+"Partnerschaft\u00010\u00010": {
+"pt": "Para além do casamento, hoje existem outras formas de relação",
+"nl": "Naast het huwelijk bestaan er tegenwoordig andere vormen van partnerschap"
+},
+"Partnerschaft\u00011\u00010": {
+"pt": "Alguns municípios têm uma parceria cultural com localidades estrangeiras",
+"nl": "Sommige gemeenten hebben een cultureel partnerschap met buitenlandse plaatsen"
+},
+"partout\u00010\u00010": {
+"pt": "Querias absolutamente que fosse assim!",
+"nl": "Je wilde het toch absoluut zo hebben!"
+},
+"partout\u00010\u00011": {
+"pt": "Ela recusava-se em absoluto a entrar no autocarro",
+"nl": "Ze wilde absoluut niet in de bus stappen"
+},
+"Party\u00010\u00010": {
+"pt": "Os vizinhos dão uma festa esta noite",
+"nl": "De buren geven vanavond een feest"
+},
+"Parvis\u00010\u00010": {
+"pt": "O padre recebeu os noivos no adro da igreja",
+"nl": "De pastoor ontving het bruidspaar op het kerkplein"
+},
+"Parvis\u00010\u00011": {
+"pt": "Para as festividades foi erguida uma tribuna no largo da câmara municipal",
+"nl": "Voor de festiviteiten werd op het plein van het gemeentehuis een tribune opgericht"
+},
+"Parzeläin\u00010\u00010": {
+"pt": "Os nossos interruptores são todos de porcelana",
+"nl": "Onze schakelaars zijn allemaal van porselein"
+},
+"Parzeläin\u00011\u00010": {
+"pt": "Quando vamos visitar, não precisas de tirar a porcelana boa!",
+"nl": "Wanneer we op bezoek komen, hoef je het porselein niet tevoorschijn te halen!"
+},
+"Parzeläin\u00011\u00011": {
+"pt": "Na fúria, ele partiu a porcelana",
+"nl": "In zijn woede sloeg hij het porselein kapot"
+},
+"Parzeläin\u00011\u00012": {
+"pt": "Naquela discussão partiu-se muita porcelana",
+"nl": "Bij die ruzie ging veel porselein aan diggelen"
+},
+"parzeläins\u00010\u00010": {
+"pt": "A minha tia tem uma estatueta de porcelana valiosa na sua vitrina",
+"nl": "Mijn tante heeft een waardevol porseleinen beeldje in haar vitrine staan"
+},
+"Parzeläinshéngchen\u00010\u00010": {
+"pt": "Quanto tempo chocam os codornizões?",
+"nl": "Hoe lang broeden porseleinhoentjes?"
+},
+"Parzeläinstaass\u00010\u00010": {
+"pt": "Aquelas colheres de café feias não combinam nada com as tuas lindas chávenas de porcelana",
+"nl": "Die lelijke koffielepels passen absoluut niet bij je mooie porseleinen kopjes"
+},
+"Parzell\u00010\u00010": {
+"pt": "Essa parcela tem de ser medida pelo cadastro",
+"nl": "Dat perceel moet door het kadaster worden opgemeten"
+},
+"Pascha\u00010\u00010": {
+"pt": "Põe lá uma mão também, seu preguiçoso!",
+"nl": "Steek ook eens een hand uit de mouw, jij luiaard!"
+},
+"Paschtéit\u00010\u00010": {
+"pt": "Cuidado para não partires o vol-au-vent quando o encheres!",
+"nl": "Pas op dat je de vol-au-vent niet breekt wanneer je hem vult!"
+},
+"Paschtéit\u00011\u00010": {
+"pt": "Neste restaurante comem-se os melhores vol-au-vents",
+"nl": "In dit restaurant krijg je de beste vol-au-vent te eten"
+},
+"Paschtouer\u00010\u00010": {
+"pt": "A nossa paróquia vai ter um novo pároco",
+"nl": "Onze parochie krijgt een nieuwe pastoor"
+},
+"Paschtouer\u00010\u00011": {
+"pt": "Hoje em dia não há párocos suficientes para tantas paróquias",
+"nl": "Tegenwoordig zijn er niet genoeg pastoors voor al die parochies"
+},
+"Paschtouer\u00010\u00012": {
+"pt": "Devias ter ouvido, o padre só prega uma vez!",
+"nl": "Je had moeten luisteren, de pastoor preekt maar één keer!"
+},
+"Paschtouer\u00010\u00013": {
+"pt": "Quando chove no padre, pinga no sacristão",
+"nl": "Als het op de pastoor regent, druppelt het op de koster"
+},
+"Paschtouer\u00011\u00010": {
+"pt": "O nosso mais velho vai ser padre",
+"nl": "Onze oudste gaat voor priester studeren"
+},
+"Paschtoueschhaus\u00010\u00010": {
+"pt": "O conselho paroquial reúne-se na casa paroquial",
+"nl": "De kerkraad vergadert in de pastorie"
+},
+"Paschtoueschhaus\u00010\u00011": {
+"pt": "A casa paroquial fica geralmente mesmo ao lado da igreja",
+"nl": "De pastorie staat meestal vlak naast de kerk"
+},
+"Pass\u00010\u00010": {
+"pt": "Para fazer o check-in, tens de mostrar o teu passaporte",
+"nl": "Om in te checken moet je je paspoort tonen"
+},
+"Pass\u00010\u00011": {
+"pt": "Os meus pais mandaram renovar os passaportes",
+"nl": "Mijn ouders hebben hun paspoorten laten vernieuwen"
+},
+"Pass\u00011\u00010": {
+"pt": "Com este passe entro em todos os museus",
+"nl": "Met deze pas kom ik in elk museum binnen"
+},
+"Pass\u00010\u00010~2": {
+"pt": "O médio fez um passe ao avançado",
+"nl": "De middenvelder gaf de spits een pass"
+},
+"Pass\u00010\u00010~3": {
+"pt": "No topo do desfiladeiro nevava",
+"nl": "Boven op de pas had het gesneeuwd"
+},
+"passabel\u00010\u00010": {
+"pt": "Já não tenho no armário nenhum fato decente!",
+"nl": "Ik heb geen behoorlijk kostuum meer in de kast!"
+},
+"Passage\u00010\u00010": {
+"pt": "Esta passagem estreita leva ao centro histórico",
+"nl": "Deze smalle doorgang leidt naar de oude stad"
+},
+"Passage\u00011\u00010": {
+"pt": "Este sinal significa que se aproxima uma passagem para bicicletas",
+"nl": "Dit bord betekent dat er een fietsoversteekplaats aankomt"
+},
+"Passage\u00012\u00010": {
+"pt": "Nessa longa galeria há dez lojas",
+"nl": "In die lange passage zijn tien winkels"
+},
+"Passage\u00013\u00010": {
+"pt": "Lê-me mais uma passagem do teu diário!",
+"nl": "Lees me nog een passage uit je dagboek voor!"
+},
+"Passage\u00013\u00011": {
+"pt": "O músico tocou passagens de uma obra conhecida",
+"nl": "De muzikant speelde passages uit een bekend werk"
+},
+"Passage\u00014\u00010": {
+"pt": "A passagem da escola primária para o liceu é difícil para muitas crianças",
+"nl": "De overgang van de lagere school naar het lyceum valt veel kinderen zwaar"
+},
+"Passage\u00015\u00010": {
+"pt": "Nesta rua há muito trânsito",
+"nl": "In deze straat is veel doorgaand verkeer"
+},
+"Passagéier\u00010\u00010": {
+"pt": "Os passageiros têm de fazer o check-in antes das oito horas",
+"nl": "De passagiers moeten voor acht uur inchecken"
+},
+"Passagéierschëff\u00010\u00010": {
+"pt": "A tripulação deste navio de passageiros muda de seis em seis meses",
+"nl": "De bemanning van dit passagiersschip wisselt om de zes maanden"
+},
+"Passagéierschëff\u00010\u00011": {
+"pt": "O comandante do navio de passageiros enviou um sinal de socorro quando este bateu num icebergue",
+"nl": "De kapitein van het passagiersschip zond een noodsignaal uit toen het tegen een ijsberg was gevaren"
+},
+"Passant\u00010\u00010": {
+"pt": "Alguns transeuntes tinham parado para espreitar",
+"nl": "Een aantal voorbijgangers was blijven staan om te gapen"
+},
+"Passantin\u00010\u00010": {
+"pt": "Uma transeunte tinha visto quando caí da bicicleta",
+"nl": "Een voorbijgangster had gemerkt dat ik van mijn fiets was gevallen"
+},
+"Passbüro\u00010\u00010": {
+"pt": "O gabinete de passaportes está também aberto à hora de almoço",
+"nl": "Het paspoortkantoor is ook over de middag open"
+},
+"Passbüro\u00010\u00011": {
+"pt": "O gabinete de passaportes emite também vistos?",
+"nl": "Geeft het paspoortkantoor ook visa af?"
+},
+"passéieren\u00010\u00010": {
+"pt": "O pelotão deve passar por volta das duas horas",
+"nl": "Het peloton zou rond twee uur passeren"
+},
+"passéieren\u00010\u00011": {
+"pt": "O carteiro já passou?",
+"nl": "Is de postbode al langsgekomen?"
+},
+"passéieren\u00011\u00010": {
+"pt": "Na feira passaram muitas pessoas pelo nosso stand",
+"nl": "Op de beurs zijn veel mensen langsgekomen op onze stand"
+},
+"passéieren\u00011\u00011": {
+"pt": "Antes de serem contratados, têm de passar pelo médico",
+"nl": "Voordat u wordt aangesteld, moet u langs de dokter"
+},
+"passéieren\u00011\u00012": {
+"pt": "O pintor vem depois de o estucador ter passado",
+"nl": "De schilder komt wanneer de stukadoor is langs geweest"
+},
+"passéieren\u00012\u00010": {
+"pt": "Então o que se passou aqui?",
+"nl": "Wat is hier dan gebeurd?"
+},
+"passéieren\u00013\u00010": {
+"pt": "Se aqui não acontecer depressa alguma coisa, a empresa vai à falência!",
+"nl": "Als hier niet snel iets gebeurt, gaat het bedrijf failliet!"
+},
+"passéieren\u00014\u00010": {
+"pt": "Porque é que aquele acidente tinha de me acontecer logo a mim?",
+"nl": "Waarom moest dat ongeluk uitgerekend mij overkomen?"
+},
+"passéieren\u00015\u00010": {
+"pt": "O molho teria ficado mais fino se o tivesses passado pelo passador",
+"nl": "De saus zou fijner zijn geweest als je haar had gezeefd"
+},
+"passéieren\u00016\u00010": {
+"pt": "O comboio acabava de passar o túnel quando descarrilou",
+"nl": "De trein had net de tunnel gepasseerd toen hij ontspoorde"
+},
+"passen\u00010\u00010": {
+"pt": "Estes sapatos não me servem, são um número pequeno demais",
+"nl": "Deze schoenen passen me niet, ze zijn een maatje te klein"
+},
+"passen\u00010\u00011": {
+"pt": "A chave que me deste não serve na porta",
+"nl": "De sleutel die je me hebt gegeven past niet op de deur"
+},
+"passen\u00010\u00012": {
+"pt": "Esta rolha serve na perfeição a esta garrafa!",
+"nl": "Die stop past perfect op deze fles!"
+},
+"passen\u00011\u00010": {
+"pt": "Os teus sapatos castanhos não combinam com o teu fato",
+"nl": "Je bruine schoenen passen niet bij je kostuum"
+},
+"passen\u00011\u00011": {
+"pt": "O edifício moderno não se integra no cenário do centro histórico",
+"nl": "Het moderne gebouw past niet in het kader van de oude stad"
+},
+"passen\u00011\u00012": {
+"pt": "Vocês os dois tolinhos combinam bem!",
+"nl": "Jullie twee onnozelen passen goed bij elkaar!"
+},
+"passen\u00012\u00010": {
+"pt": "Convém-vos vir jantar connosco no sábado?",
+"nl": "Past het u om zaterdag bij ons te komen eten?"
+},
+"passen\u00012\u00011": {
+"pt": "Isso é que te convinha!",
+"nl": "Dat zou je zo passen!"
+},
+"passen\u00013\u00010": {
+"pt": "Não tenho boas cartas, passo!",
+"nl": "Ik heb geen goede kaarten, ik pas!"
+},
+"passen\u00013\u00011": {
+"pt": "Desse prato passo, senão não aguento nenhuma sobremesa!",
+"nl": "Dat gerecht laat ik aan me voorbijgaan, anders krijg ik geen dessert meer binnen!"
+},
+"passen\u00014\u00010": {
+"pt": "Ele não faz ideia de como se deve comportar!",
+"nl": "Hij weet helemaal niet wat past!"
+},
+"passen\u00014\u00011": {
+"pt": "Isso não se faz!",
+"nl": "Dat past niet!"
+},
+"passen\u00015\u00010": {
+"pt": "O avançado passou a bola a um colega de equipa",
+"nl": "De spits speelde de bal door naar een ploegmaat"
+},
+"passend\u00010\u00010": {
+"pt": "Encontraste um casaco a condizer com as tuas calças novas?",
+"nl": "Heb je een passend jasje bij je nieuwe broek gevonden?"
+},
+"passend\u00010\u00011": {
+"pt": "Gosto do nosso novo papel de parede, mas não encontro cortinas a condizer!",
+"nl": "Ons nieuwe behang bevalt me, maar ik vind gewoon geen passende gordijnen!"
+},
+"passend\u00011\u00010": {
+"pt": "A minha irmã procura uma prenda adequada para o marido",
+"nl": "Mijn zus zoekt een passend cadeau voor haar man"
+},
+"passend\u00011\u00011": {
+"pt": "Não tenho roupa adequada para a festa",
+"nl": "Ik heb geen passende kleding voor het feest"
+},
+"passend\u00011\u00012": {
+"pt": "A médica encontrou as palavras certas para consolar a criança",
+"nl": "De dokter vond de passende woorden om het kind te troosten"
+},
+"passend\u00011\u00013": {
+"pt": "Ainda não encontrámos uma ocasião adequada para falar com o chefe",
+"nl": "We hebben nog geen passende gelegenheid gevonden om met de baas te praten"
+},
+"passend\u00011\u00014": {
+"pt": "Procuro a expressão certa para exprimir a minha ideia",
+"nl": "Ik zoek de passende uitdrukking om mijn idee te verwoorden"
+},
+"Passepartout\u00010\u00010": {
+"pt": "O porteiro abriu-nos a porta com a sua chave mestra",
+"nl": "De portier deed de deur voor ons open met zijn loper"
+},
+"Passepartout\u00011\u00010": {
+"pt": "Um passe-partout escuro fica melhor nesse quadro do que um claro",
+"nl": "Een donkere passe-partout past beter bij dat schilderij dan een lichte"
+},
+"Passerell\u00010\u00010": {
+"pt": "Os dois edifícios estão ligados por uma passagem pedonal",
+"nl": "De twee gebouwen zijn met een loopbrug verbonden"
+},
+"Passerell\u00010\u00010~2": {
+"pt": "A Passerelle liga o bairro da estação à cidade alta",
+"nl": "De Passerelle verbindt de stationswijk met de bovenstad"
+},
+"Passerell\u00010\u00011": {
+"pt": "Em 2019 abriu a nova ciclovia na Passerelle",
+"nl": "In 2019 werd het nieuwe fietspad op de Passerelle geopend"
+},
+"Passett\u00010\u00010": {
+"pt": "Passa o chá por um coador antes de o servires!",
+"nl": "Giet de thee voor het serveren door een zeef!"
+},
+"Passett\u00010\u00011": {
+"pt": "Uso sempre um escorredor para escorrer a massa",
+"nl": "Ik gebruik altijd een vergiet om de pasta af te gieten"
+},
+"Passeur\u00010\u00010": {
+"pt": "Durante a guerra, passadores conduziram resistentes através da fronteira",
+"nl": "In de oorlog brachten smokkelaars verzetsstrijders over de grens"
+},
+"Passeur\u00010\u00011": {
+"pt": "O passador fez entrar ilegalmente no país imigrantes por muito dinheiro",
+"nl": "De mensensmokkelaar smokkelde voor veel geld illegale immigranten het land binnen"
+},
+"Passeuse\u00010\u00010": {
+"pt": "Durante a guerra, a passadora conduziu resistentes através da fronteira",
+"nl": "In de oorlog bracht de smokkelaarster verzetsstrijders over de grens"
+},
+"Passe-vite\u00010\u00010": {
+"pt": "Com um passe-vite podes triturar legumes e sopas",
+"nl": "Met een passe-vite kun je groenten en soepen pureren"
+},
+"Passe-vite\u00010\u00011": {
+"pt": "No meu passe-vite avariou-se o cesto",
+"nl": "Bij mijn passe-vite is het mandje kapot"
+},
+"Passfoto\u00010\u00010": {
+"pt": "Para obter um passaporte novo, são precisas duas fotografias tipo passe",
+"nl": "Om een nieuw paspoort te krijgen heb je twee pasfoto's nodig"
+},
+"passionéiert\u00010\u00010": {
+"pt": "O nosso pároco é um jogador de bowling apaixonado",
+"nl": "Onze pastoor is een gepassioneerd kegelaar"
+},
+"Passioun\u00010\u00010": {
+"pt": "Esse tema foi discutido com muita paixão",
+"nl": "Dat thema werd met veel passie besproken"
+},
+"Passioun\u00011\u00010": {
+"pt": "O jardim é a nossa grande paixão",
+"nl": "De tuin is onze grote passie"
+},
+"Passioun\u00012\u00010": {
+"pt": "A grande paixão não durou muito",
+"nl": "De grote passie heeft niet lang geduurd"
+},
+"Passiounsfruucht\u00010\u00010": {
+"pt": "Adoro o sabor do maracujá",
+"nl": "Ik ben gek op de smaak van passievrucht"
+},
+"Passiounsfruucht\u00010\u00011": {
+"pt": "Comprei maracujás para fazer sorvete",
+"nl": "Ik heb passievruchten gekocht om er sorbet van te maken"
+},
+"passiv\u00010\u00010": {
+"pt": "Nesse caso, tivemos uma atitude demasiado passiva",
+"nl": "In die zaak hadden we een te passieve houding"
+},
+"passiv\u00010\u00011": {
+"pt": "A minha mãe doente deseja a morte assistida passiva, ou seja, que a deixem morrer quando chegar o momento",
+"nl": "Mijn zieke moeder wenst passieve euthanasie, dat wil zeggen dat men haar laat sterven wanneer het moment daar is"
 }
 }
